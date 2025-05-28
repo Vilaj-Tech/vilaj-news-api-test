@@ -34,4 +34,11 @@ jobs:
           git commit -m "🔁 Auto-update news.json [GitHub Action]" || echo "No changes"
           git push
 
-Add GitHub Action to auto-update news daily
+      - name: Commit updated news.json
+        run: |
+          git config user.name "vilaj-bot"
+          git config user.email "bot@vilaj.io"
+          git add public/news.json
+          git diff --cached --quiet || git commit -m "Auto-update news.json"
+          git push
+

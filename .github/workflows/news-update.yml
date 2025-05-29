@@ -1,0 +1,39 @@
+name: Update News Headlines
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # Every day at 8am ET
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run news script
+        run: node index.js
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+
+      - name: Commit updated news.json
+        run: |
+          git config --global user.name "vilaj-bot"
+          git config --global user.email "bot@vilaj.io"
+          git add public/news.json || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update news.json"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          fi

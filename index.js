@@ -1,5 +1,6 @@
 require('dotenv').config();
 const axios = require('axios');
+const fs = require('fs');
 
 const apiKey = process.env.NEWS_API_KEY;
 console.log("Loaded API Key:", apiKey);
@@ -20,6 +21,7 @@ axios.get('https://newsapi.org/v2/everything', {
 
   if (!articles || articles.length === 0) {
     console.log("No articles found.");
+    fs.writeFileSync('public/news.json', '[]', 'utf8'); // Ensure file is cleared
   } else {
     // Remove duplicates by title
     const seenTitles = new Set();
@@ -30,10 +32,14 @@ axios.get('https://newsapi.org/v2/everything', {
       return true;
     });
 
-    console.log(`\nTop ${Math.min(3, uniqueArticles.length)} Georgia Education Headlines:\n`);
-    uniqueArticles.slice(0, 3).forEach((article, index) => {
-      console.log(`${index + 1}. ${article.title} (${article.source.name})`);
-      console.log(`   ${article.url}\n`);
-    });
+    // Limit to top 10 articles
+    const topArticles = uniqueArticles.slice(0, 10);
+
+    // Write to file
+    fs.writeFileSync('public/news.json', JSON.stringify(topArticles, null, 2), 'utf8');
+    console.log("✅ news.json file updated with latest articles.");
   }
 })
+.catch(error => {
+  console.error("Error fetching news:", error);
+});

@@ -1,6 +1,58 @@
 [
   {
     "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Beatrice Nolan",
+    "title": "An over-employed engineer was caught secretly working for multiple Silicon Valley startups at once—picking up salary offers of up to $200K per job",
+    "description": "The saga began on Wednesday when the engineer started going viral on social media as startup founders discovered he had worked for multiple companies.",
+    "url": "https://fortune.com/2025/07/04/soham-parekh-engineer-multiple-jobs-suhail-doshi/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2214834060.jpg?resize=1200,600",
+    "publishedAt": "2025-07-04T11:55:32Z",
+    "content": "A single software engineer has become the most-hired person in Silicon Valley. The engineer, Soham Parekh, has admitted that he had been working across multiple up-and-coming Silicon Valley startups … [+7896 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ET Online",
+    "title": "Did ‘scammer’ techie Soham Parekh land another lucrative job offer? Startup founder says he’s looking for ‘greedy’ engineers",
+    "description": "Amidst online criticism for allegedly working multiple jobs, software engineer Soham Parekh received a job offer from HyperSpell's founder, Conor Brennan-Burke, who saw it as an opportunity for redemption. Parekh, acknowledging his actions, secured a position…",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/did-scammer-techie-soham-parekh-land-another-lucrative-job-offer-startup-founder-says-hes-looking-for-greedy-engineers/articleshow/122238506.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-122238537,width-1200,height-630,imgsize-18338,overlay-etpanache/articleshow.jpg",
+    "publishedAt": "2025-07-04T01:39:41Z",
+    "content": "In the midst of an online uproar targeting Indian software engineer Soham Parekh, who has been accused of clandestinely working for several U.S.-based startups at the same time, one entrepreneur has … [+3686 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WSB Atlanta"
+    },
+    "author": "Richard Elliot",
+    "title": "Educators react to Trump administration putting some funding on hold",
+    "description": "Nearly $100 million in federal aid to Georgia is now in jeopardy for afterschool programs, teacher professional development, student support and achievement, migratory children and English language programs.",
+    "url": "https://www.wsbtv.com/news/local/dekalb-county/educators-react-trump-administration-putting-some-funding-hold/BBCEXKVQURDQBJ53C2PZMQGZDA/",
+    "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FFFAHMZYVBRBC7M7T2PPXGHJOSM.jpeg?auth=30512598be30e21704ea8bf9cf1df20b7355ffaf6cef0fd1c8fd49d66c058856&width=1200&height=630&smart=true",
+    "publishedAt": "2025-07-04T00:08:48Z",
+    "content": "DEKALB COUNTY, Ga. — The Trump administration announced it would not send $6.8 billion in grant funding until it could make sure that they are spent in accordance with the presidents priorities.\r\nTha… [+1510 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Boston Herald"
+    },
+    "author": "Associated Press",
+    "title": "Confederacy group sues Georgia park for planning an exhibit on slavery and segregation",
+    "description": "Stone Mountain Memorial Association had plans for relocating Confederate flags and a “truth-telling” exhibit.",
+    "url": "https://www.bostonherald.com/2025/07/03/confederate-mountain-lawsuit/",
+    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/Confederate_Mountain_Lawsuit_57767.jpg?w=1024&h=740",
+    "publishedAt": "2025-07-03T23:28:11Z",
+    "content": "By CHARLOTTE KRAMON\r\nSTONE MOUNTAIN, Ga. (AP) The Georgia chapter of a Confederacy group filed lawsuits this week against a state park with the largest Confederate monument in the country, arguing of… [+3865 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Ms. Magazine"
     },
@@ -76,57 +128,5 @@
     "urlToImage": "https://img.huffingtonpost.com/asset/68646d051900003725248e54.jpeg?cache=Y0TB1vPFzb&ops=1200_630",
     "publishedAt": "2025-07-03T11:54:04Z",
     "content": "The essay I wrote for HuffPost a few months ago wasnt supposed to have a second act. It was a story about stumbling into a problem I didnt know existed. The problem was school lunch debt, and the par… [+11940 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Inside Higher Ed"
-    },
-    "author": "Elizabeth Redden",
-    "title": "A Re-Engagement Strategy for Administrators",
-    "description": "A Re-Engagement Strategy for Administrators\n\n \n\n\n \nElizabeth Redden\n\nThu, 07/03/2025 - 03:00 AM\n\nIvan Pulinkala describes a new model at Kennesaw State University, where all senior academic administrators make an annual commitment to teaching or research.\n \n …",
-    "url": "https://www.insidehighered.com/opinion/career-advice/advancing-administrator/2025/07/03/re-engagement-strategy-administrators",
-    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-07/GettyImages-2155834329.jpg?itok=2PeeKNZ2",
-    "publishedAt": "2025-07-03T07:00:00Z",
-    "content": "In American higher education, teaching is our business, research our currency and service our obligation. It has always perplexed me that the pursuit of higher education administration has traditiona… [+4947 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "KOCO Oklahoma City"
-    },
-    "author": "Sandee Lamotte",
-    "title": "Pulling Harvard funding could destroy 50 years of health samples",
-    "description": "The work has informed national dietary guidelines; led to therapies for breast cancer prevention and treatment; and contributed to research on how nutrients, inflammatory markers and heavy metals.",
-    "url": "https://www.koco.com/article/trump-harvard-destroying-50-years-womens-health-samples/65279730",
-    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbwnqatf4mjuwmdazm2i2azzscxi4ddz5-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nty2o2bhq1cdawogkynnfjndg1bzrjn2c-jpg-68656ab920db9.jpg?crop=1.00xw:0.752xh;0,0&resize=1200:*",
-    "publishedAt": "2025-07-02T17:59:28Z",
-    "content": "For decades, researchers have been collecting samples from hundreds of thousands of women and tracking their health. The work has deepened our basic understanding of human health, but now the entire … [+7212 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Atlantic"
-    },
-    "author": "David Frum",
-    "title": "Trump’s Betrayal of Ukraine",
-    "description": "Bridget Brink, the former ambassador to Ukraine, on that country’s war with Russia, America’s betrayal of Ukraine, and why she resigned",
-    "url": "https://www.theatlantic.com/podcasts/archive/2025/07/david-frum-show-trump-ukraine-russia-bridget-brink/683399/",
-    "urlToImage": "https://cdn.theatlantic.com/thumbor/L9GADvFJQSolKrY1EH652t6cxlE=/2x13:1279x678/1200x625/media/img/mt/2025/07/2025_7_1_The_David_Frum_Show_EP13_Promo_1280x720/original.jpg",
-    "publishedAt": "2025-07-02T17:00:00Z",
-    "content": "Subscribe here: Apple Podcasts | Spotify | YouTube | Overcast | Pocket CastsOn this episode of The David Frum Show, The Atlantic’s David Frum opens with a warning: The United States’ support for Ukra… [+41470 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Palmetto Publishing",
-    "title": "Count on Adventure While Learning to Count in New Children’s Book DR. TOAD COUNTS TO TWELVE",
-    "description": "Retired teacher introduces children to early math concepts in new counting book from Palmetto Publishing Retired teacher introduces children to early math concepts in new counting book from Palmetto Publishing",
-    "url": "https://www.globenewswire.com/news-release/2025/07/02/3109421/0/en/Count-on-Adventure-While-Learning-to-Count-in-New-Children-s-Book-DR-TOAD-COUNTS-TO-TWELVE.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/46f4cc72-7dee-4af4-8142-bd0eb8ae5b00",
-    "publishedAt": "2025-07-02T17:00:00Z",
-    "content": "Charleston, SC, July 02, 2025 (GLOBE NEWSWIRE) -- Newcomer to the world of childrens literature, Myra Wann fell in love with writing while in elementary school. But her story writing would take a bac… [+2056 chars]"
   }
 ]

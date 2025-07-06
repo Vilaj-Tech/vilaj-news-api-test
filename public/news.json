@@ -1,16 +1,94 @@
 [
   {
     "source": {
-      "id": "fortune",
-      "name": "Fortune"
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Nicholas McEntyre",
+    "title": "Georgia killer spits at prosecutors moments after he’s sentenced to life in prison for fatally shooting his child’s mother outside daycare center",
+    "description": "A Georgia murderer spat at the prosecution team who had successfully argued to get three life sentences against the man they found had fatally shot his baby mama while she held their daughter.",
+    "url": "https://nypost.com/2025/07/05/us-news/georgia-killer-taco-nash-spits-at-prosecutors-after-three-life-sentences-in-mickeya-montgomery-killing/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/newspress-collage-rciidmwak-1751705792501.jpg?quality=75&strip=all&1751691441&w=1024",
+    "publishedAt": "2025-07-05T09:05:21Z",
+    "content": "A Georgia murderer spat at the prosecution team who had successfully argued he receive three life sentences for fatally shooting his daughter’s mother while she held their child. \r\nTaco Nash was carr… [+3858 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": "Matt Gault",
+    "title": "'Intimidating but personable' O'Connell takes next coaching step",
+    "description": "After four years as Ireland forwards coach, Paul O'Connell prepares for his first game as interim head coach in Andy Farrell's absence.",
+    "url": "https://www.bbc.com/sport/rugby-union/articles/c8j1mw0wn10o",
+    "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ac45/live/b71cf4e0-58f7-11f0-852a-fb4f43c1b4cc.jpg",
+    "publishedAt": "2025-07-05T06:56:57Z",
+    "content": "Paul O'Connell has always been strikingly honest about his coaching career. \r\nAs a player, he was revered and feared, his iconic 'manic aggression' speech in the bowels of Croke Park ensured the latt… [+1330 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": null,
+    "title": "Transcript: Ken Burns on \"Face the Nation with Margaret Brennan,\" July 6, 2025",
+    "description": "The following is the transcript of an interview with documentary filmmaker Ken Burns and \"CBS Evening News\" co-anchor John Dickerson that will air on \"Face the Nation with Margaret Brennan\" on July 6, 2025.",
+    "url": "https://www.cbsnews.com/news/ken-burns-face-the-nation-transcript-july-6-2025/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/07/04/1ac54fe9-41fc-4969-9f0c-5e87127cfcf3/thumbnail/1200x630/6c31a0561b08bf3df5fb71b2fa9c7747/c0370-mp4-frame-18410.jpg",
+    "publishedAt": "2025-07-04T21:16:55Z",
+    "content": "The following is the transcript of an interview with documentary filmmaker Ken Burns and \"CBS Evening News\" co-anchor John Dickerson that will air on \"Face the Nation with Margaret Brennan\" on July 6… [+48736 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PR Newswire UK"
+    },
+    "author": null,
+    "title": "Nord Anglia Education's Class of 2025 Heading to the World's Top Universities",
+    "description": "LONDON, July 4, 2025 /PRNewswire/ -- Leading international schools group Nord Anglia Education today announced that its Class of 2025 has secured places at many of the world's most prestigious universities. With over 80 schools across 35 countries, Nord Angli…",
+    "url": "https://www.prnewswire.co.uk/news-releases/nord-anglia-educations-class-of-2025-heading-to-the-worlds-top-universities-302498286.html",
+    "urlToImage": "https://mma.prnewswire.com/media/1503193/5401060/Nord_Anglia_Education_Logo.jpg?p=facebook",
+    "publishedAt": "2025-07-04T14:23:00Z",
+    "content": "LONDON, July 4, 2025 /PRNewswire/ -- Leading international schools group Nord Anglia Education today announced that its Class of 2025 has secured places at many of the world's most prestigious univer… [+7757 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Daily Signal"
+    },
+    "author": "Sarah Holliday",
+    "title": "2 Polls Reveal Public Support Is Growing for Prayer, Chaplains in Schools",
+    "description": "As some states struggle to display the Ten Commandments in public school classrooms, recent surveys indicate that a majority of Americans support teachers leading students in prayer,... Read More\nThe post 2 Polls Reveal Public Support Is Growing for Prayer, C…",
+    "url": "https://www.dailysignal.com/2025/07/04/two-polls-reveal-public-support-is-growing-for-prayer-chaplains-in-schools/",
+    "urlToImage": "https://www.dailysignal.com/wp-content/uploads/2025/07/GettyImages-504328872.jpgJB_-scaled.jpg",
+    "publishedAt": "2025-07-04T14:00:00Z",
+    "content": "As some states struggle to display the Ten Commandments in public school classrooms, recent surveys indicate that a majority of Americans support teachers leading students in prayer, specifically ref… [+4903 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Jacqueline Howard",
+    "title": "‘Cool’ people tend to have these six things in common, study finds | CNN",
+    "description": "An international team of researchers may have just cracked the code for what makes someone “cool.”",
+    "url": "https://www.cnn.com/2025/07/04/health/cool-traits-study-wellness",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20250703-cool-split.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2025-07-04T12:58:29Z",
+    "content": "An international team of researchers may have just cracked the code for what makes someone cool.\r\nAnd no matter where you live, the personality traits that make someone cool appear to be consistent a… [+6378 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
     },
     "author": "Beatrice Nolan",
     "title": "An over-employed engineer was caught secretly working for multiple Silicon Valley startups at once—picking up salary offers of up to $200K per job",
     "description": "The saga began on Wednesday when the engineer started going viral on social media as startup founders discovered he had worked for multiple companies.",
-    "url": "https://fortune.com/2025/07/04/soham-parekh-engineer-multiple-jobs-suhail-doshi/",
-    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/07/GettyImages-2214834060.jpg?resize=1200,600",
+    "url": "https://tech.yahoo.com/business/articles/over-employed-engineer-caught-secretly-115532357.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4llUtQRSztIZvFLPKFRMvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/df934ae9e84089ae4131a035ef45c153",
     "publishedAt": "2025-07-04T11:55:32Z",
-    "content": "A single software engineer has become the most-hired person in Silicon Valley. The engineer, Soham Parekh, has admitted that he had been working across multiple up-and-coming Silicon Valley startups … [+7896 chars]"
+    "content": "<ul><li>A software engineer named Soham Parekh has admitted to secretly holding multiple jobs at once across Silicon Valley startups, earning offers of up to $200,000 before delivering minimal work. … [+8585 chars]"
   },
   {
     "source": {
@@ -50,83 +128,5 @@
     "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/Confederate_Mountain_Lawsuit_57767.jpg?w=1024&h=740",
     "publishedAt": "2025-07-03T23:28:11Z",
     "content": "By CHARLOTTE KRAMON\r\nSTONE MOUNTAIN, Ga. (AP) The Georgia chapter of a Confederacy group filed lawsuits this week against a state park with the largest Confederate monument in the country, arguing of… [+3865 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ms. Magazine"
-    },
-    "author": "Cynthia Richie Terrell",
-    "title": "Independence Day, Ranked-Choice Wins and Jacinda Ardern: This Week in Women’s Representation",
-    "description": "Weekend Reading for Women's Representation is a compilation of stories about women's representation in politics, sports and entertainment, judicial offices and the private sector—with a little gardening mixed in! \nThis week:\n—This Friday marks the 249th anniv…",
-    "url": "https://msmagazine.com/2025/07/03/independence-day-ranked-choice-voting-wins-jacinda-ardern-women-politics-representation/",
-    "urlToImage": "https://msmagazine.com/wp-content/uploads/2025/07/GettyImages-2222657583.jpg",
-    "publishedAt": "2025-07-03T19:14:16Z",
-    "content": "Weekend Reading on Women’s Representation is a compilation of stories about women’s representation in politics, on boards, in sports and entertainment, in judicial offices and in the private sector i… [+21564 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Poynter"
-    },
-    "author": "Sophie Endrud",
-    "title": "Chris Wallace, other veteran journalists talk fairness, trust and today’s media challenges at Poynter event in D.C.",
-    "description": "WASHINGTON, D.C. – They are some of the most basic – yet existential – questions in the journalism industry: How to tell the truth and how to get people to […]\nThe post Chris Wallace, other veteran journalists talk fairness, trust and today’s media challenges…",
-    "url": "https://www.poynter.org/reporting-editing/2025/chris-wallace-other-veteran-journalists-talk-fairness-trust-and-todays-media-challenges-at-poynter-event-in-d-c/",
-    "urlToImage": "https://www.poynter.org/wp-content/uploads/2025/07/DC-event-2.jpg",
-    "publishedAt": "2025-07-03T18:42:23Z",
-    "content": "WASHINGTON, D.C. They are some of the most basic yet existential questions in the journalism industry: How to tell the truth and how to get people to listen and trust you. Three accomplished journali… [+8971 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Richmond.com"
-    },
-    "author": "DAVE RESS and ANDREW CAIN Richmond Times-Dispatch",
-    "title": "Youngkin heads to the land where the tall corn grows - along with presidential bids",
-    "description": "Gov. Glenn Youngkin is heading to Iowa and South Carolina, two states that are early gatekeepers for the Republican presidential nomination.",
-    "url": "https://richmond.com/news/state-regional/government-politics/article_0275d8d5-531a-4287-844b-d9361e1fd0eb.html",
-    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/27/0275d8d5-531a-4287-844b-d9361e1fd0eb/6865918f351c8.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-    "publishedAt": "2025-07-03T16:37:00Z",
-    "content": "Many Virginians head for the beach or the Blue Ridge for a summer break, but Gov. Glenn Youngkin is bound for Iowa and South Carolina.\r\nAnd while Des Moines hosts the nations biggest skate park and C… [+10703 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Plos.org"
-    },
-    "author": "Girma Mamo Zegene, Seid Tiku Mereta, Seblework Mekonen",
-    "title": "Factors affecting microbial safety behavior of beef handlers working in major beef retailers in Mizan-Aman, Southwest Ethiopia",
-    "description": "Background Beef is a key component of human diet but also a favorable medium for microbial growth. However, research has largely overlooked major beef retailers and the specific roles of handlers, missing critical points for intervention. This study aims to a…",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326862",
-    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0326862.g007&size=inline",
-    "publishedAt": "2025-07-03T14:00:00Z",
-    "content": "Citation: Zegene GM, Mereta ST, Mekonen S (2025) Factors affecting microbial safety behavior of beef handlers working in major beef retailers in Mizan-Aman, Southwest Ethiopia. PLoS One 20(7):\r\n e032… [+24997 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "La Rosa Holdings Corp.",
-    "title": "La Rosa Holdings Corp. Announces Significant Milestone: Surpasses 3,000 Agents and Reports Preliminary Unaudited Revenue of $38.4 Million for the First Half of 2025, Achieving 19.4% Year-Over-Year Growth",
-    "description": "Celebration, FL, July 03, 2025 (GLOBE NEWSWIRE) -- La Rosa Holdings Corp. (NASDAQ: LRHC) (“La Rosa” or the “Company”), a real estate and PropTech company, today announced a major milestone in its growth trajectory, surpassing 3,000 real estate agents across i…",
-    "url": "https://www.globenewswire.com/news-release/2025/07/03/3109812/0/en/La-Rosa-Holdings-Corp-Announces-Significant-Milestone-Surpasses-3-000-Agents-and-Reports-Preliminary-Unaudited-Revenue-of-38-4-Million-for-the-First-Half-of-2025-Achieving-19-4-Yea.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/bcbfaf2c-8097-4a99-bc52-1080f7493aca",
-    "publishedAt": "2025-07-03T12:00:00Z",
-    "content": "Celebration, FL, July 03, 2025 (GLOBE NEWSWIRE) -- La Rosa Holdings Corp. (NASDAQ: LRHC) (La Rosa or the Company), a real estate and PropTech company, today announced a major milestone in its growth … [+5185 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "HuffPost"
-    },
-    "author": "DJ Bracken",
-    "title": "I Paid Off A School's Lunch Debt. Then Strangers On The Internet Did Something Truly Stunning.",
-    "description": "This is proof that strangers can decide, together, to make things better.",
-    "url": "https://www.huffpost.com/entry/school-lunch-debt-activism-payment_n_68646330e4b019cf5d533308",
-    "urlToImage": "https://img.huffingtonpost.com/asset/68646d051900003725248e54.jpeg?cache=Y0TB1vPFzb&ops=1200_630",
-    "publishedAt": "2025-07-03T11:54:04Z",
-    "content": "The essay I wrote for HuffPost a few months ago wasnt supposed to have a second act. It was a story about stumbling into a problem I didnt know existed. The problem was school lunch debt, and the par… [+11940 chars]"
   }
 ]

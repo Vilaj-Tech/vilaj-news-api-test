@@ -1,6 +1,71 @@
 [
   {
     "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": "Rachel del Guidice",
+    "title": "Jasmine Crockett claims most people vote the 'wrong way' due to a lack of education",
+    "description": "Texas Democratic Rep. Jasmine Crockett said in an interview published Thursday that voters don't vote the way she thinks they should because they are \"uneducated.\"",
+    "url": "https://www.foxnews.com/media/jasmine-crockett-claims-most-people-voted-wrong-way-because-were-uneducated",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/jasmine-crockett-says-she-was-hired-at-her-job-because-she-was-black.jpg",
+    "publishedAt": "2025-07-11T19:30:09Z",
+    "content": "Rep. Jasmine Crockett, D-Texas, suggested in a new interview that most people dont vote the way she thinks they should because they are not properly informed.\r\n\"Most people voted the wrong way becaus… [+2167 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Catholicnewsagency.com"
+    },
+    "author": "Madalaine Elhabbal",
+    "title": "Malawi getting ready for first-ever Eucharistic Congress",
+    "description": "Malawi is preparing for its first Eucharistic Congress. Other countries in Africa have hosted such congresses —Madagascar held its third National Eucharistic Congress Aug. 23-26, 2024, / Credit: EWTN\n\nWashington, D.C. Newsroom, Jul 11, 2025 / 14:23 pm (CNA).\n…",
+    "url": "https://www.catholicnewsagency.com/news/265311/malawi-getting-ready-for-first-ever-eucharistic-congress",
+    "urlToImage": "https://www.catholicnewsagency.com/images/photo-from-kristina-millare-6.jpg?jpg",
+    "publishedAt": "2025-07-11T18:23:00Z",
+    "content": "Washington, D.C. Newsroom, Jul 11, 2025 /\r\n 14:23 pm\r\nHeres a roundup of Catholic world news from the past week that you might have missed.\r\nMalawi getting ready for first-ever Eucharistic Congress \r… [+5180 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "mgoblog.com"
+    },
+    "author": "Seth",
+    "title": "2025 Recruiting: Avery Gach",
+    "description": "UM Hockey picks up LHD Zachary Nyman (2008 Birthyear) [name edited]\npmorgan\nAugust 1st, 2024 at 1:45 PM\n\n \n <ul><li>Log in or register to post comments</li></ul> \n\n August 1st, 2024 at 1:45 PM\n\n \n UM Hockey picks up Zach Nyman, a smooth skating left handed D …",
+    "url": "https://mgoblog.com/content/2025-recruiting-avery-gach",
+    "urlToImage": "https://mgoblog.com/sites/default/files/2025-07/www.downtownpublications.comsingle-postavery-gach.jpg",
+    "publishedAt": "2025-07-11T18:00:02Z",
+    "content": "Previously:2024's profiles, LS Trent Middleton (tr), P Luke Bauer (tr), QB Jake Garcia (tr), ATH Elijah Dotson, S Kainoa Winston, S Jordan Young, S TJ Metcalf (tr), Nk/CB Tevis Metcalf, CB Jayden San… [+31385 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Mother Jones"
+    },
+    "author": "Julia Lurie",
+    "title": "Watch: A Mother’s Journey Through a Devastating Adoption System",
+    "description": "In the fall of 2018, Tia Goins was a new mother in crisis, facing eviction, unable to find room in a shelter, and confronting the prospect of homelessness in a Detroit winter—with her three-month-old baby. “It was like, what do I do?” Goins said earlier this …",
+    "url": "https://www.motherjones.com/politics/2025/07/utah-brighter-adoptions-pbs-news-hour/",
+    "urlToImage": "https://www.motherjones.com/wp-content/uploads/2025/07/Tia-with-tear-cropped-copy.jpeg?w=1200&h=630&crop=1",
+    "publishedAt": "2025-07-11T17:30:34Z",
+    "content": "Tia GoinsCourtesy of PBS NewsHour\r\nGet your news from a source thats not owned and controlled by oligarchs. Sign up for the free Mother Jones Daily.\r\nIn the fall of 2018, Tia Goins was a new mother i… [+3773 chars]"
+  },
+  {
+    "source": {
+      "id": "newsweek",
+      "name": "Newsweek"
+    },
+    "author": "Hugh Cameron",
+    "title": "Map Showing Best and Worst States for Business",
+    "description": "CNBC scored states across 135 metrics to assess where businesses are likely to find favorable conditions for success.",
+    "url": "https://www.newsweek.com/map-showing-best-worst-states-business-2097772",
+    "urlToImage": "https://d.newsweek.com/en/full/2681281/states-business-conditions.png",
+    "publishedAt": "2025-07-11T14:16:57Z",
+    "content": "CNBC published its annual ranking of America's \"top states for business\" on Thursday, recognizing where companies are most—and least—likely to find favorable conditions for long-term success.\r\nWhy It… [+3528 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Lenscratch.com"
     },
@@ -63,70 +128,5 @@
     "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/Scopes_Trial_Religion_Public_School_30931-1.jpg?w=1024&h=682",
     "publishedAt": "2025-07-10T15:52:49Z",
     "content": "By HOLLY MEYER\r\nNASHVILLE, Tenn. (AP) One hundred years ago, a public high school teacher stood trial in Dayton, Tennessee, for teaching human evolution. His nation is still feeling the reverberation… [+8380 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ms. Magazine"
-    },
-    "author": "Carmen Rios",
-    "title": "‘We Need to Shift Who Has Power in This Country’: Cynthia Richie Terrell Knows How We Can Cultivate Gender Balance in Politics",
-    "description": "In the first episode of the Ms. Studios podcast Looking Back, Moving Forward, Richie Terrell talked to Ms. consulting editor Carmen Rios about the vision of democracy she’s inspired by, practical strategies for advancing gender balance in politics, and what s…",
-    "url": "https://msmagazine.com/2025/07/10/cynthia-richie-terrell-gender-balance-women-politics-ranked-choice-voting/",
-    "urlToImage": "https://msmagazine.com/wp-content/uploads/2025/07/Cynthia-headshot-January_2018.jpg",
-    "publishedAt": "2025-07-10T15:43:00Z",
-    "content": "“Theres an appetite to take on the dysfunction in our electoral system,” Richie Terrell told Ms.\r\nCynthia Richie Terrell has worked as a political campaign manager and field director for candidates a… [+27133 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Showbiz Cheat Sheet"
-    },
-    "author": "Media Take Out Staff",
-    "title": "Married To Medicine Dr Heavenly Is Running For Georgia Congress!",
-    "description": "The post Married To Medicine Dr Heavenly Is Running For Georgia Congress! appeared first on Media Take Out.",
-    "url": "https://www.cheatsheet.com/news/bravo-star-dr-heavenly-kimes-getting-into-politics.html/#article",
-    "urlToImage": "https://www.cheatsheet.com/wp-content/uploads/2025/07/Heavenly-Kimes-Married-to-Medicine.webp?w=1200",
-    "publishedAt": "2025-07-10T15:00:06Z",
-    "content": "Married to Medicines Dr. Heavenly Kimes is taking her career in a whole new direction. \r\nOn July 7, the Bravo star revealed that she was running for Georgia State Representative in District 93. Democ… [+2465 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Urology Care Foundation",
-    "title": "Urology Care Foundation Announces 2025 Health Equity Fellow",
-    "description": "BALTIMORE, July 10, 2025 (GLOBE NEWSWIRE) -- The Urology Care Foundation (UCF), the world's leading nonprofit urological health foundation and official foundation of the American Urological Association (AUA), today announced Ashanda R. Esdaille, MD, as the re…",
-    "url": "https://www.globenewswire.com/news-release/2025/07/10/3113470/0/en/Urology-Care-Foundation-Announces-2025-Health-Equity-Fellow.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/03bd080b-2ca8-4dd1-b757-a75737722092",
-    "publishedAt": "2025-07-10T14:05:00Z",
-    "content": "BALTIMORE, July 10, 2025 (GLOBE NEWSWIRE) -- The Urology Care Foundation (UCF), the world's leading nonprofit urological health foundation and official foundation of the American Urological Associati… [+3215 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Plos.org"
-    },
-    "author": "Nodjidoumde Mbaigoto, Kamal A. Alsharif, Shawn Landry, Tara F. Deubel",
-    "title": "The social aspect of water resources management in the Lake Chad Basin: A new construct for water resources management",
-    "description": "Effective water resource management in developing countries requires a nuanced understanding of the social factors that influence public engagement. This study investigates the relationship between socioeconomic and demographic variables and pro-environmental…",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327893",
-    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0327893.g002&size=inline",
-    "publishedAt": "2025-07-10T14:00:00Z",
-    "content": "Citation: Mbaigoto N, Alsharif KA, Landry S, Deubel TF (2025) The social aspect of water resources management in the Lake Chad Basin: A new construct for water resources management. PLoS One 20(7):\r\n… [+39974 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "W3.org"
-    },
-    "author": "Announce",
-    "title": "The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026): Third Call for Papers and Workshop & Tutorial Proposals",
-    "description": null,
-    "url": "https://lists.w3.org/Archives/Public/semantic-web/2025Jul/0018.html",
-    "urlToImage": null,
-    "publishedAt": "2025-07-10T12:35:12Z",
-    "content": "*** Third Call for Papers and Workshop &amp; Tutorial Proposals ***\r\nThe 33rd IEEE International Conference on Software Analysis, Evolution and\r\nReengineering (SANER 2026)\r\n17-20 March, 2026, 5* St. … [+12402 chars]"
   }
 ]

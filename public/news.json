@@ -1,6 +1,45 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "Livemint"
+    },
+    "author": "Dipali Banka",
+    "title": "Cisco chief Chuck Robbins believes affirmative action gives them better business",
+    "description": "For Chuck Robbins, the chairman of Cisco, supports building teams of people who look at problems differently so that he gets two creative solutions.",
+    "url": "https://www.livemint.com/companies/news/cisco-chief-chuck-robbins-diversity-inclusivity-donald-trump-dei-policies-us-tech-gaints-11752301546295.html",
+    "urlToImage": "https://www.livemint.com/lm-img/img/2025/07/13/1600x900/CEO-WORKFORCE-FORUM-45_1752389928312_1752389937287.jpg",
+    "publishedAt": "2025-07-13T07:51:09Z",
+    "content": "MUMBAI\r\n : \r\nChuck Robbins, the chairman and chief executive of Cisco Systems Inc., believes that having a diverse workforce improves business outcomes.\r\nRobbins, who was raised in Georgia, shared th… [+3420 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Kevinmd.com"
+    },
+    "author": "Ryan Nadelson, MD",
+    "title": "Why the heart of medicine is more than science",
+    "description": "Take a moment—not just to see where you are, but to remember how far you’ve come. Through obstacles that once felt impossible. Through stress that nearly broke you. Through moments when the weight of it all made you question everything. But still—you kept goi…",
+    "url": "https://kevinmd.com/2025/07/why-the-heart-of-medicine-is-more-than-science.html",
+    "urlToImage": "https://kevinmd.com/wp-content/uploads/image-5-1.jpg",
+    "publishedAt": "2025-07-12T23:00:40Z",
+    "content": "Take a momentnot just to see where you are, but to remember how far you’ve come.\r\nThrough obstacles that once felt impossible.\r\nThrough stress that nearly broke you.\r\nThrough moments when the weight … [+3428 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New Zealand Herald"
+    },
+    "author": "Ben Leahy",
+    "title": "On The Up: Harvard and Georgia Tech: Auckland’s Shen brothers win prized scholarships after acing NCEA studies",
+    "description": "The brainy brothers dream of creating the next world-changing start-up.",
+    "url": "https://www.nzherald.co.nz/nz/harvard-and-georgia-tech-aucklands-shen-brothers-win-prized-scholarships-after-acing-ncea-studies/3V3PRDLUSRCKXOBVUCAS2YMPS4/",
+    "urlToImage": "https://www.nzherald.co.nz/resizer/v2/CCC2JPUWWFGOVCZ5AROL25HNG4.jpg?auth=fa197f1e71a8ea6a5bc1a6727ac99121fe37d785a3ce8913d73bbcc91170f296&width=1200&height=675&quality=70&smart=true",
+    "publishedAt": "2025-07-12T17:00:00Z",
+    "content": "He raced through advanced math studies two years ahead of most students his age, won the national schoolboys long jump title, dashed to third in the athletic carnivals 200m sprint and co-captained NZ… [+4259 chars]"
+  },
+  {
+    "source": {
       "id": "fox-news",
       "name": "Fox News"
     },
@@ -89,44 +128,5 @@
     "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-07/Florida_Accreditation_partnership.jpg?itok=SZw5kdjD",
     "publishedAt": "2025-07-11T07:00:00Z",
     "content": "The governing board of the State University System of Florida is set to vote Friday on whether to form a new accrediting agency focused on public universities, known as the Commission for Public High… [+5777 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Richmond.com"
-    },
-    "author": "ERIC KOLENICH and MICHAEL MARTZ Richmond Times-Dispatch",
-    "title": "Trump administration investigating GMU over report of discrimination",
-    "description": "A group of professors at George Mason University in Fairfax County filed a report, saying university leadership illegally use race as a factor in hiring and promotions.",
-    "url": "https://richmond.com/news/local/education/higher-education/article_1579fbad-dd71-43a8-b01b-83ea8f3b6df9.html",
-    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/1/57/1579fbad-dd71-43a8-b01b-83ea8f3b6df9/686fde5878440.preview.jpg?crop=920%2C483%2C0%2C11",
-    "publishedAt": "2025-07-10T16:20:00Z",
-    "content": "The U.S. Department of Education is investigating George Mason University for possible racial discrimination, the latest move by President Donald Trump's administration to eradicate DEI from American… [+11458 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Artsatl.org"
-    },
-    "author": "ArtsATL",
-    "title": "Training A New Generation Of Dancers For A Different Kind Of Career",
-    "description": "The Windmill Arts Center's black box was nearly dark. One or two dim stationary spotlights barely and imperfectly illuminated fragments of the stage. Into the murky silence, a performer called, \"Where are we going?\" Another cried out, \"Hello, is anybody there…",
-    "url": "https://www.artsatl.org/immerseatl-mentors-next-generation-of-contemporary-dancers-in-atlanta/",
-    "urlToImage": "https://www.artsatl.org/wp-content/uploads/Raianna-Brown-2-photo-by-Synapse-Photography_13.jpg",
-    "publishedAt": "2025-07-10T16:15:00Z",
-    "content": "The Windmill Arts Center’s black box was nearly dark. One or two dim stationary spotlights barely and imperfectly illuminated fragments of the stage. Into the murky silence, a performer called, “Wher… [+8861 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Boston Herald"
-    },
-    "author": "Associated Press",
-    "title": "A century after a man was convicted of teaching evolution, the debate on religion in schools rages",
-    "description": "Experts see parallels between the Scopes trial and current disputes.",
-    "url": "https://www.bostonherald.com/2025/07/10/scopes-trial-religion-in-schools/",
-    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/07/Scopes_Trial_Religion_Public_School_30931-1.jpg?w=1024&h=682",
-    "publishedAt": "2025-07-10T15:52:49Z",
-    "content": "By HOLLY MEYER\r\nNASHVILLE, Tenn. (AP) One hundred years ago, a public high school teacher stood trial in Dayton, Tennessee, for teaching human evolution. His nation is still feeling the reverberation… [+8380 chars]"
   }
 ]

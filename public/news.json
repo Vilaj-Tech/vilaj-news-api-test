@@ -2,6 +2,32 @@
   {
     "source": {
       "id": null,
+      "name": "WDIV ClickOnDetroit"
+    },
+    "author": "Bianca Vázquez Toness",
+    "title": "Boys and Girls Club programs threatened by Trump grant freeze serve thousands of families",
+    "description": "More than 20 states have sued President Donald Trump’s administration over billions of dollars in frozen funding for after-school care, summer programs and more.",
+    "url": "https://www.clickondetroit.com/business/2025/07/14/boys-and-girls-club-programs-threatened-by-trump-grant-freeze-serve-thousands-of-families/",
+    "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/EXGLNSMBF5AHJKVHQ4S3SULATM.jpg?_a=DATAg1eAZAA0",
+    "publishedAt": "2025-07-14T10:44:50Z",
+    "content": "EAST PROVIDENCE, R.I. More than 20 states sued President Donald Trump's administration on Monday over billions of dollars in frozen education funding for after-school care, summer programs and more.\r… [+8127 chars]"
+  },
+  {
+    "source": {
+      "id": "financial-post",
+      "name": "Financial Post"
+    },
+    "author": "The Associated Press",
+    "title": "Boys & Girls Club programs threatened by Trump grant freeze serve thousands of families",
+    "description": "EAST PROVIDENCE, R.I. (AP) — After driving through a downpour to take her son to day camp, Darleen Reyes told camp administrators the rain would have kept her away but her son insisted on going. As she marked her son’s name present on a clipboard at the Boys …",
+    "url": "https://financialpost.com/pmn/boys-and-girls-club-programs-threatened-by-trump-grant-freeze-serve-thousands-of-families",
+    "urlToImage": null,
+    "publishedAt": "2025-07-14T10:38:46Z",
+    "content": "Republican officials have been among the educators criticizing the grant freeze.\r\nI deeply believe in fiscal responsibility, which means evaluating the use of funds and seeking out efficiencies, but … [+3748 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "Livemint"
     },
     "author": "Dipali Banka",
@@ -102,31 +128,5 @@
     "urlToImage": "https://d.newsweek.com/en/full/2681281/states-business-conditions.png",
     "publishedAt": "2025-07-11T14:16:57Z",
     "content": "CNBC published its annual ranking of America's \"top states for business\" on Thursday, recognizing where companies are most—and least—likely to find favorable conditions for long-term success.\r\nWhy It… [+3528 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lenscratch.com"
-    },
-    "author": "Elizabeth Stone",
-    "title": "Photography Educator: Rebecca Nolan",
-    "description": "Photography Educator is a monthly series on Lenscratch. Once a month, we celebrate a dedicated photography teacher by sharing their insights, strategies and excellence in inspiring students of all ages. These educators play a transformative role in student de…",
-    "url": "http://lenscratch.com/2025/07/photography-educator-rebecca-nolan/",
-    "urlToImage": "http://lenscratch.com/wp-content/uploads/2025/06/8_US80_CowInAir_Nolan.jpg",
-    "publishedAt": "2025-07-11T09:08:12Z",
-    "content": "©Rebecca Nolan, U.S. Highway 80 and Rainbows End Place, Douglas, Arizona 2013\r\nPhotography Educator is a monthly series on Lenscratch. Once a month, we celebrate a dedicated photography teacher by sh… [+15609 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Inside Higher Ed"
-    },
-    "author": "Sara Weissman",
-    "title": "Florida Board of Governors to Vote on New Accreditor",
-    "description": "Florida Board of Governors to Vote on New Accreditor\n\n \n\n\n \nSara Weissman\n\nFri, 07/11/2025 - 03:00 AM\n\nThe State University System of Florida’s governing board will decide Friday whether to form a new accrediting agency with other state systems. The move woul…",
-    "url": "https://www.insidehighered.com/news/institutions/regional-public-universities/2025/07/11/fla-board-governors-vote-creating-new",
-    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-07/Florida_Accreditation_partnership.jpg?itok=SZw5kdjD",
-    "publishedAt": "2025-07-11T07:00:00Z",
-    "content": "The governing board of the State University System of Florida is set to vote Friday on whether to form a new accrediting agency focused on public universities, known as the Commission for Public High… [+5777 chars]"
   }
 ]

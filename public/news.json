@@ -1,132 +1,132 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "WDIV ClickOnDetroit"
+      "id": "cnn",
+      "name": "CNN"
     },
-    "author": "Bianca Vázquez Toness",
-    "title": "Boys and Girls Club programs threatened by Trump grant freeze serve thousands of families",
-    "description": "More than 20 states have sued President Donald Trump’s administration over billions of dollars in frozen funding for after-school care, summer programs and more.",
-    "url": "https://www.clickondetroit.com/business/2025/07/14/boys-and-girls-club-programs-threatened-by-trump-grant-freeze-serve-thousands-of-families/",
-    "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/EXGLNSMBF5AHJKVHQ4S3SULATM.jpg?_a=DATAg1eAZAA0",
-    "publishedAt": "2025-07-14T10:44:50Z",
-    "content": "EAST PROVIDENCE, R.I. More than 20 states sued President Donald Trump's administration on Monday over billions of dollars in frozen education funding for after-school care, summer programs and more.\r… [+8127 chars]"
-  },
-  {
-    "source": {
-      "id": "financial-post",
-      "name": "Financial Post"
-    },
-    "author": "The Associated Press",
-    "title": "Boys & Girls Club programs threatened by Trump grant freeze serve thousands of families",
-    "description": "EAST PROVIDENCE, R.I. (AP) — After driving through a downpour to take her son to day camp, Darleen Reyes told camp administrators the rain would have kept her away but her son insisted on going. As she marked her son’s name present on a clipboard at the Boys …",
-    "url": "https://financialpost.com/pmn/boys-and-girls-club-programs-threatened-by-trump-grant-freeze-serve-thousands-of-families",
-    "urlToImage": null,
-    "publishedAt": "2025-07-14T10:38:46Z",
-    "content": "Republican officials have been among the educators criticizing the grant freeze.\r\nI deeply believe in fiscal responsibility, which means evaluating the use of funds and seeking out efficiencies, but … [+3748 chars]"
+    "author": "cnn",
+    "title": "President flails as Epstein storm rages around his govt...",
+    "description": "Donald Trump very rarely loses control of his own story. But the Jeffrey Epstein saga is beyond his powers to quell.",
+    "url": "https://www.cnn.com/2025/07/15/politics/epstein-conspiracy-bondi-trump-analysis",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2224983066.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2025-07-15T12:00:03Z",
+    "content": "Donald Trump very rarely loses control of his own story. But the Jeffrey Epstein saga is beyond his powers to quell.\r\nIts a new twist for the president, being at odds with the loudest and most conspi… [+9223 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Livemint"
+      "name": "Forbes"
     },
-    "author": "Dipali Banka",
-    "title": "Cisco chief Chuck Robbins believes affirmative action gives them better business",
-    "description": "For Chuck Robbins, the chairman of Cisco, supports building teams of people who look at problems differently so that he gets two creative solutions.",
-    "url": "https://www.livemint.com/companies/news/cisco-chief-chuck-robbins-diversity-inclusivity-donald-trump-dei-policies-us-tech-gaints-11752301546295.html",
-    "urlToImage": "https://www.livemint.com/lm-img/img/2025/07/13/1600x900/CEO-WORKFORCE-FORUM-45_1752389928312_1752389937287.jpg",
-    "publishedAt": "2025-07-13T07:51:09Z",
-    "content": "MUMBAI\r\n : \r\nChuck Robbins, the chairman and chief executive of Cisco Systems Inc., believes that having a diverse workforce improves business outcomes.\r\nRobbins, who was raised in Georgia, shared th… [+3420 chars]"
+    "author": "Victoria Feng, Contributor, \n Victoria Feng, Contributor\n https://www.forbes.com/sites/victoriafeng/",
+    "title": "Doctors Think AI Shows Promise—But Worry It Will Mislead Patients",
+    "description": "A recent survey finds doctors and nurses optimistic about AI’s future, but many only use it in limited ways and are concerned about it spreading medical misinformation.",
+    "url": "https://www.forbes.com/sites/victoriafeng/2025/07/15/doctors-think-ai-shows-promise-but-worry-it-will-mislead-patients/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68758d56c1eadb3682ecf128/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2025-07-15T10:00:00Z",
+    "content": "getty\r\nFor over a decade now, healthcare workers have had to deal with Doctor Googlewhen patients turn to Google for medical advice instead of a professional. Its a practice that organizations includ… [+5454 chars]"
+  },
+  {
+    "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Bianca Vázquez Toness, The Associated Press",
+    "title": "Single mother says she will likely ask her 14-year-old to drop sports and work to watch his little brother because of Trump after-school education cuts",
+    "description": "Over 20 states are suing the Trump administration for freezing billions in after-school and summer funding.",
+    "url": "https://fortune.com/2025/07/15/20-states-suing-trump-freezing-billions-after-school-summer-funding/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/07/AP25192784639780-e1752572168713.jpg?resize=1200,600",
+    "publishedAt": "2025-07-15T09:45:39Z",
+    "content": "More than 20 states sued President Donald Trumps administration on Monday over billions of dollars in frozen education funding for after-school care, summer programs and more.Some of the withheld mon… [+7346 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Kevinmd.com"
+      "name": "Deseret News"
     },
-    "author": "Ryan Nadelson, MD",
-    "title": "Why the heart of medicine is more than science",
-    "description": "Take a moment—not just to see where you are, but to remember how far you’ve come. Through obstacles that once felt impossible. Through stress that nearly broke you. Through moments when the weight of it all made you question everything. But still—you kept goi…",
-    "url": "https://kevinmd.com/2025/07/why-the-heart-of-medicine-is-more-than-science.html",
-    "urlToImage": "https://kevinmd.com/wp-content/uploads/image-5-1.jpg",
-    "publishedAt": "2025-07-12T23:00:40Z",
-    "content": "Take a momentnot just to see where you are, but to remember how far you’ve come.\r\nThrough obstacles that once felt impossible.\r\nThrough stress that nearly broke you.\r\nThrough moments when the weight … [+3428 chars]"
+    "author": "Jason Swensen",
+    "title": "Legions of Utah kids in afterschool/summer programs could be impacted by federal budget cuts",
+    "description": "Elimination of 21st Century Community Learning Center grants could leave several Utah youth programs scrambling for funding.",
+    "url": "https://www.deseret.com/utah/2025/07/14/afterschool-programs-cuts/",
+    "urlToImage": "https://media.zenfs.com/en/deseret_news_992/dc9e8d5e2fc096e30eae17a005a7335c",
+    "publishedAt": "2025-07-15T02:00:00Z",
+    "content": "Edward Lopez doesnt need to consult his notes when asked about the consequences of federal funding being cut from South Salt Lakes childrens summer and afterschool programs.\r\nIt will impact our commu… [+9220 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "New Zealand Herald"
+      "name": "GlobeNewswire"
     },
-    "author": "Ben Leahy",
-    "title": "On The Up: Harvard and Georgia Tech: Auckland’s Shen brothers win prized scholarships after acing NCEA studies",
-    "description": "The brainy brothers dream of creating the next world-changing start-up.",
-    "url": "https://www.nzherald.co.nz/nz/harvard-and-georgia-tech-aucklands-shen-brothers-win-prized-scholarships-after-acing-ncea-studies/3V3PRDLUSRCKXOBVUCAS2YMPS4/",
-    "urlToImage": "https://www.nzherald.co.nz/resizer/v2/CCC2JPUWWFGOVCZ5AROL25HNG4.jpg?auth=fa197f1e71a8ea6a5bc1a6727ac99121fe37d785a3ce8913d73bbcc91170f296&width=1200&height=675&quality=70&smart=true",
-    "publishedAt": "2025-07-12T17:00:00Z",
-    "content": "He raced through advanced math studies two years ahead of most students his age, won the national schoolboys long jump title, dashed to third in the athletic carnivals 200m sprint and co-captained NZ… [+4259 chars]"
+    "author": "Heart Paydays",
+    "title": "Heart Paydays Reports Surge in U.S. Demand for Personal Loans With Low Interest Rates – July 2025 Update",
+    "description": "Heart Paydays Examines U.S. Lending Trends, Borrower Behavior, and State-Level Loan Regulations in July 2025 Heart Paydays Examines U.S. Lending Trends, Borrower Behavior, and State-Level Loan Regulations in July 2025",
+    "url": "https://www.globenewswire.com/news-release/2025/07/15/3115293/0/en/Heart-Paydays-Reports-Surge-in-U-S-Demand-for-Personal-Loans-With-Low-Interest-Rates-July-2025-Update.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/8e117281-27d4-4175-811a-3318207798c7",
+    "publishedAt": "2025-07-15T01:46:00Z",
+    "content": "Chicago, July 14, 2025 (GLOBE NEWSWIRE) -- \r\nThe demand for affordable personal loans in the United States has increased dramatically in mid-2025. As inflation pressures households and more consumers… [+10785 chars]"
   },
   {
     "source": {
       "id": "fox-news",
       "name": "Fox News"
     },
-    "author": "Rachel del Guidice",
-    "title": "Jasmine Crockett claims most people vote the 'wrong way' due to a lack of education",
-    "description": "Texas Democratic Rep. Jasmine Crockett said in an interview published Thursday that voters don't vote the way she thinks they should because they are \"uneducated.\"",
-    "url": "https://www.foxnews.com/media/jasmine-crockett-claims-most-people-voted-wrong-way-because-were-uneducated",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/jasmine-crockett-says-she-was-hired-at-her-job-because-she-was-black.jpg",
-    "publishedAt": "2025-07-11T19:30:09Z",
-    "content": "Rep. Jasmine Crockett, D-Texas, suggested in a new interview that most people dont vote the way she thinks they should because they are not properly informed.\r\n\"Most people voted the wrong way becaus… [+2167 chars]"
+    "author": "Joshua Nelson",
+    "title": "DeSantis wins against 'woke' accreditation in push to overhaul higher education",
+    "description": "Florida's university system moved forward on adopting a new accreditation model challenging what Gov. Ron DeSantis called an \"accreditation cartel.\"",
+    "url": "https://www.foxnews.com/media/desantis-wins-against-woke-accreditation-push-overhaul-higher-education",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/college-students-walking.jpg",
+    "publishedAt": "2025-07-15T00:00:58Z",
+    "content": "Florida Gov. Ron DeSantis\r\n, R., scored a victory on Friday when the state of Florida's university system approved a new accreditor to overhaul higher education.\r\nFlorida, Texas, Georgia, North Carol… [+2988 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Catholicnewsagency.com"
+      "name": "Newser"
     },
-    "author": "Madalaine Elhabbal",
-    "title": "Malawi getting ready for first-ever Eucharistic Congress",
-    "description": "Malawi is preparing for its first Eucharistic Congress. Other countries in Africa have hosted such congresses —Madagascar held its third National Eucharistic Congress Aug. 23-26, 2024, / Credit: EWTN\n\nWashington, D.C. Newsroom, Jul 11, 2025 / 14:23 pm (CNA).\n…",
-    "url": "https://www.catholicnewsagency.com/news/265311/malawi-getting-ready-for-first-ever-eucharistic-congress",
-    "urlToImage": "https://www.catholicnewsagency.com/images/photo-from-kristina-millare-6.jpg?jpg",
-    "publishedAt": "2025-07-11T18:23:00Z",
-    "content": "Washington, D.C. Newsroom, Jul 11, 2025 /\r\n 14:23 pm\r\nHeres a roundup of Catholic world news from the past week that you might have missed.\r\nMalawi getting ready for first-ever Eucharistic Congress \r… [+5180 chars]"
+    "author": "Bob Cronin",
+    "title": "State Suit Seeks Funding for School Programs Trump Froze",
+    "description": "More than 20 states sued President Trump's administration on Monday over billions of dollars in frozen education funding for after-school care, summer programs, and more. Some of the withheld money funds the programming at Boys & Girls Clubs, the YMCA, or pub…",
+    "url": "https://www.newser.com/story/371853/state-suit-seeks-funding-for-school-programs-trump-froze.html",
+    "urlToImage": "https://img2-azrcdn.newser.com/image/1622229-12-20250714174402.jpeg",
+    "publishedAt": "2025-07-14T22:44:00Z",
+    "content": "More than 20 states sued President Trump's administration on Monday over billions of dollars in frozen education funding for after-school care, summer programs, and more. Some of the withheld money f… [+1571 chars]"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "States sue Trump over more than $6bn in education funds",
+    "description": "Officials from California, New York, Kentucky and 20 other states allege US administration acted unconstitutionally.",
+    "url": "https://www.aljazeera.com/news/2025/7/14/states-sue-trump-over-more-than-6bn-in-education-funds",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-05-29T100239Z_451142376_RC2B8EAAQ55U_RTRMADP_3_USA-TRUMP-MIGRATION-AFGHANS-1752530864.jpg?resize=1920%2C1440",
+    "publishedAt": "2025-07-14T22:24:58Z",
+    "content": "Two dozen states have sued the administration of United States President Donald Trump after the federal government froze $6.8bn in education funding.\r\nOn Monday, a group of 23 attorneys general and t… [+2332 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "mgoblog.com"
+      "name": "Yahoo Entertainment"
     },
-    "author": "Seth",
-    "title": "2025 Recruiting: Avery Gach",
-    "description": "UM Hockey picks up LHD Zachary Nyman (2008 Birthyear) [name edited]\npmorgan\nAugust 1st, 2024 at 1:45 PM\n\n \n <ul><li>Log in or register to post comments</li></ul> \n\n August 1st, 2024 at 1:45 PM\n\n \n UM Hockey picks up Zach Nyman, a smooth skating left handed D …",
-    "url": "https://mgoblog.com/content/2025-recruiting-avery-gach",
-    "urlToImage": "https://mgoblog.com/sites/default/files/2025-07/www.downtownpublications.comsingle-postavery-gach.jpg",
-    "publishedAt": "2025-07-11T18:00:02Z",
-    "content": "Previously:2024's profiles, LS Trent Middleton (tr), P Luke Bauer (tr), QB Jake Garcia (tr), ATH Elijah Dotson, S Kainoa Winston, S Jordan Young, S TJ Metcalf (tr), Nk/CB Tevis Metcalf, CB Jayden San… [+31385 chars]"
+    "author": "Linda Jacobson",
+    "title": "Democratic-Led States Sue Trump Over $7 Billion Federal Funding Freeze",
+    "description": "Democratic-led states sued the Trump administration Monday over its freeze of nearly $7 billion in education funds, saying the delay has already “irreparably...",
+    "url": "https://www.yahoo.com/news/democratic-led-states-sue-trump-215049392.html",
+    "urlToImage": "https://media.zenfs.com/en/the_74_articles_792/d08a07a90f7fbf25343ea20f6c23689f",
+    "publishedAt": "2025-07-14T21:50:49Z",
+    "content": "Democratic-led states sued the Trump administration Monday over its freeze of nearly $7 billion in education funds, saying the delay has already irreparably harmed critical academic and extracurricul… [+8583 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Mother Jones"
+      "name": "Japan Today"
     },
-    "author": "Julia Lurie",
-    "title": "Watch: A Mother’s Journey Through a Devastating Adoption System",
-    "description": "In the fall of 2018, Tia Goins was a new mother in crisis, facing eviction, unable to find room in a shelter, and confronting the prospect of homelessness in a Detroit winter—with her three-month-old baby. “It was like, what do I do?” Goins said earlier this …",
-    "url": "https://www.motherjones.com/politics/2025/07/utah-brighter-adoptions-pbs-news-hour/",
-    "urlToImage": "https://www.motherjones.com/wp-content/uploads/2025/07/Tia-with-tear-cropped-copy.jpeg?w=1200&h=630&crop=1",
-    "publishedAt": "2025-07-11T17:30:34Z",
-    "content": "Tia GoinsCourtesy of PBS NewsHour\r\nGet your news from a source thats not owned and controlled by oligarchs. Sign up for the free Mother Jones Daily.\r\nIn the fall of 2018, Tia Goins was a new mother i… [+3773 chars]"
-  },
-  {
-    "source": {
-      "id": "newsweek",
-      "name": "Newsweek"
-    },
-    "author": "Hugh Cameron",
-    "title": "Map Showing Best and Worst States for Business",
-    "description": "CNBC scored states across 135 metrics to assess where businesses are likely to find favorable conditions for success.",
-    "url": "https://www.newsweek.com/map-showing-best-worst-states-business-2097772",
-    "urlToImage": "https://d.newsweek.com/en/full/2681281/states-business-conditions.png",
-    "publishedAt": "2025-07-11T14:16:57Z",
-    "content": "CNBC published its annual ranking of America's \"top states for business\" on Thursday, recognizing where companies are most—and least—likely to find favorable conditions for long-term success.\r\nWhy It… [+3528 chars]"
+    "author": null,
+    "title": "More than 20 states sue Trump administration over frozen after-school and summer funding",
+    "description": "More than 20 states sued President Donald Trump's administration on Monday over billions of dollars in frozen education funding for after-school care, summer programs and more. Some of the withheld money funds after-school and summer programming at Boys &amp;…",
+    "url": "https://japantoday.com/category/world/boys-and-girls-club-programs-threatened-by-trump-grant-freeze-serve-thousands-of-families",
+    "urlToImage": null,
+    "publishedAt": "2025-07-14T21:27:46Z",
+    "content": "More than 20 states sued President Donald Trump's administration on Monday over billions of dollars in frozen education funding for after-school care, summer programs and more.\r\nSome of the withheld … [+7714 chars]"
   }
 ]

@@ -2,6 +2,32 @@
   {
     "source": {
       "id": null,
+      "name": "WSB Atlanta"
+    },
+    "author": "Tom Regan",
+    "title": "Sheriff emphasizes safety amid rash of inmate deaths at Athens-Clarke County Jail",
+    "description": "Sheriff emphasizes safety amid rash of inmate deaths at Athens-Clarke County Jailwsbtv.com",
+    "url": "https://www.wsbtv.com/news/local/clarke-county/sheriff-emphasizes-safety-amid-rash-inmate-deaths-athens-clarke-county-jail/KRKHOPCOMRBB7PKCSZEDNF3QWI/",
+    "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQFS4ISIP65CG3MVLX465AWTPHY.jpeg?auth=38c5ce1a3616c485b7fe4cf59660368ba652e06ea184b44a7e29791debea39e4&width=1200&height=630&smart=true",
+    "publishedAt": "2025-07-22T22:56:24Z",
+    "content": "CLARKE COUNTY, Ga. — The sheriff of Clarke County and administrators of the Athens-Clarke County Jail are vowing to take more measures to improve safety following the deaths of four inmates since Apr… [+3174 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Techtarget.com"
+    },
+    "author": "Makenzie Holland",
+    "title": "Federal research funding cuts could slow tech innovation",
+    "description": "With massive funding cuts proposed at both federal research agencies and U.S. universities, U.S. R&D investment is poised to fall behind China and the EU.",
+    "url": "https://www.techtarget.com/searchcio/news/366628017/Federal-research-funding-cuts-could-slow-tech-innovation",
+    "urlToImage": "https://www.techtarget.com/rms/onlineimages/money_g1021600178.jpg",
+    "publishedAt": "2025-07-22T18:00:00Z",
+    "content": "Universities and federal scientific research agencies such as the National Science Foundation and National Institutes of Health are facing significant federal funding cuts that may affect U.S. R&amp;… [+4740 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "Forbes"
     },
     "author": "Michael B. Horn, Senior Contributor, \n Michael B. Horn, Senior Contributor\n https://www.forbes.com/sites/michaelhorn/",
@@ -102,31 +128,5 @@
     "urlToImage": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
     "publishedAt": "2025-07-21T14:41:00Z",
     "content": "Ottawa, July 21, 2025 (GLOBE NEWSWIRE) -- The global animation industry is undergoing a transformation driven by explosive growth in digital streaming, immersive gaming, and e-learning adoption. In t… [+29332 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Forbes"
-    },
-    "author": "Lee Sharrock, Contributor, \n Lee Sharrock, Contributor\n https://www.forbes.com/sites/leesharrock/",
-    "title": "Summer Reading Guide: Must-Read Books On Art, Music, Comics, Photography & Literature",
-    "description": "This summer’s standout art and culture books include ‘Disobedient’, Liz Fremantle’s novel on Renaissance rebel Artemisia Gentileschi, Bruce Weber’s latest photography collection, and a deluxe Folio Society edition of Stan Lee’s Fantastic Four, released ahead …",
-    "url": "https://www.forbes.com/sites/leesharrock/2025/07/21/summer-reading-guide-must-read-books-on-art-music-comics-photography--literature/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687e109cc4cde630f0528a56/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2025-07-21T10:41:00Z",
-    "content": "Bruce Weber 'My Education' / TASCHEN\r\nTASCHEN\r\nLooking for the perfect artsy book to dive into this summer? Whether you're lounging on the beach or relaxing at home, there's no shortage of inspiring … [+8572 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Wattsupwiththat.com"
-    },
-    "author": "Guest Blogger",
-    "title": "Weekly Climate and Energy News Roundup #650",
-    "description": "Quote of the Week: “\"It would be illegitimate and would rob our calculation of its basis if unsuccessful results were not all brought into the account.” ― Ronald Fisher (1890-1962) UK mathematician, statistician, biologist, and geneticist, called the founder …",
-    "url": "https://wattsupwiththat.com/2025/07/21/weekly-climate-and-energy-news-roundup-650/",
-    "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/07/charlesrotter_a_beautiful_scenic_of_mount_whitney_-midjourney8c_3.webp?fit=1024%2C512&ssl=1",
-    "publishedAt": "2025-07-21T09:00:00Z",
-    "content": "Quote of the Week: ”It would be illegitimate and would rob our calculation of its basis if unsuccessful results were not all brought into the account. \r\n Ronald Fisher (1890-1962) UK mathematician, s… [+78633 chars]"
   }
 ]

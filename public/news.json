@@ -1,6 +1,110 @@
 [
   {
     "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ET Online",
+    "title": "Divya Deshmukh: How a Nagpur girl became India's brand new Chess queen",
+    "description": "In 2025, Divya Deshmukh secured a historic win at the FIDE Women’s World Cup in Batumi. The 19-year-old defeated Koneru Humpy in a tense final. This victory made her the first Indian woman to win the title. She also earned the Grandmaster title. Divya's journ…",
+    "url": "https://economictimes.indiatimes.com/news/sports/divya-deshmukh-how-a-nagpur-girl-became-indias-brand-new-chess-queen/articleshow/122971470.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-122971902,width-1200,height-630,imgsize-36222,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2025-07-29T08:59:56Z",
+    "content": "In Batumi, Georgia, the board was set, the clocks were ticking, and two Indian womengenerations apartsat facing each other in the final of the FIDE Women’s World Cup 2025. On one side was Koneru Hump… [+3050 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "The Conversation",
+    "title": "PBS and NPR are generally unbiased, independent of government propaganda and provide key benefits to US democracy (delusion alert)",
+    "description": "Champions of the almost entirely party-line vote in the U.S. Senate to erase US$1.1 billion in already approved funds for the Corporation for Public Broadcasting called their action a refusal to subsidize liberal media. “Public broadcasting has long been over…",
+    "url": "https://freerepublic.com/focus/f-news/4331355/posts",
+    "urlToImage": null,
+    "publishedAt": "2025-07-29T03:27:37Z",
+    "content": "Skip to comments.\r\nPBS and NPR are generally unbiased, independent of government propaganda and provide key benefits to US democracy (delusion alert)The Conversation ^\r\n | July 21, 2025\r\n | Stephanie… [+9667 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Atozsports.com"
+    },
+    "author": "AtoZ Sports",
+    "title": "‘Maybe I can add or be the next dude to join their class’ - Key Notre Dame target isn’t shy about his interest in the Fighting Irish program",
+    "description": "Notre Dame, the team to beat for another dynamic 2027 playmaker?",
+    "url": "https://atozsports.com/college-football/notre-dame-fighting-irish-news/notre-dame-football-recruiting-teddy-jarrard-2027-class-amir-brown/",
+    "urlToImage": "https://media.zenfs.com/en/atoz_sports_articles_485/8e9a7ba313a9cb71f69d711cba3d95be",
+    "publishedAt": "2025-07-28T22:39:41Z",
+    "content": "Maybe I can add or be the next dude to join their class - Key Notre Dame target isnt shy about his interest in the Fighting Irish program originally appeared on A to Z Sports.\r\nIf you are a Notre Dam… [+2636 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Uark.edu"
+    },
+    "author": "Todd Price",
+    "title": "Robot hand could harvest blackberries better than humans",
+    "description": "The soft robotic gripper developed at the U of A received a U.S. patent.",
+    "url": "https://news.uark.edu/articles/79750",
+    "urlToImage": "https://campusdata.uark.edu/resources/images/articles/2025-07-21_10-12-01-AM_79750.jpg",
+    "publishedAt": "2025-07-28T20:06:03Z",
+    "content": "Photo by Chieko HaraMechanical engineer Anthony Gunderman holds a prototype of the robotic gripper for picking blackberries.\r\nFresh, frozen and processed berries are a multi-billion-dollar business i… [+4371 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Futurity: Research News"
+    },
+    "author": "Sydney Barrilleaux - U. Georgia",
+    "title": "Early childhood teachers don’t have enough time to get work done",
+    "description": "In a new study, only about 1 in 10 early childhood teachers said they had enough time to complete all their work.",
+    "url": "https://www.futurity.org/early-childhood-teachers-planning-time-3288292/",
+    "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2025/07/teachers-stress-suspensions_1600-1.jpg",
+    "publishedAt": "2025-07-28T18:16:29Z",
+    "content": "Early childhood teachers face high rates of stress and job turnover. A new study found that a lack of planning time may only make things worse.\r\nPlanning periods are times when teachers are away from… [+3267 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Fiona Riley, Contributor, \n Fiona Riley, Contributor\n https://www.forbes.com/sites/fionariley/",
+    "title": "One More Worry For College Students: Medicaid Work Requirements",
+    "description": "While families struggle to understand the student loan cuts in Trump’s big budget overhaul, there’s another, less-noticed impact on millions of college students.",
+    "url": "https://www.forbes.com/sites/fionariley/2025/07/28/one-more-worry-for-college-students-medicaid-work-requirements/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6887a5dbb7097568e262f37e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2025-07-28T18:04:15Z",
+    "content": "Millions of undergraduate and graduate students are on Medicaid.\r\ngetty\r\nThe uncertainty is really scary, says Garth Bittner, a 28-year-old studying aerospace engineering at College of the Canyons, a… [+12089 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Ieee.org"
+    },
+    "author": "Carrie Loh",
+    "title": "IEEE President-Elect Candidates On Their No. 1 Strategic Goal",
+    "description": "The annual IEEE election process begins in August, so be sure to check your mailbox for your ballot. To help you choose the 2026 IEEE president-elect, The Institute is publishing the candidates’ official biographies as well as a statement describing which IEE…",
+    "url": "https://spectrum.ieee.org/2026-president-elect-candidates",
+    "urlToImage": "https://spectrum.ieee.org/media-library/professional-portraits-of-jill-gostin-and-david-alan-koehler-side-by-side.jpg?id=61330324&width=1200&height=600&coordinates=0%2C358%2C0%2C359",
+    "publishedAt": "2025-07-28T18:00:03Z",
+    "content": "The annual IEEE election process begins in August, so be sure to check your mailbox for your ballot. To help you choose the 2026 IEEE president-elect, The Institute is publishing the candidates offic… [+6817 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Roanoke Times"
+    },
+    "author": "Lee National Newsroom, The Associated Press",
+    "title": "US, EU reach deal on tariffs; Ichiro enters Hall of Fame | Hot off the Wire podcast",
+    "description": " Get the latest national, international, sports and entertainment news on our daily podcast.",
+    "url": "https://roanoke.com/news/nation-world/article_c77eb6a0-76ed-5aef-a389-dc3cc5a075e9.html",
+    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/c/77/c77eb6a0-76ed-5aef-a389-dc3cc5a075e9/68877f8397fab.preview.jpg?crop=1727%2C907%2C10%2C144&resize=1200%2C630&order=crop%2Cresize",
+    "publishedAt": "2025-07-28T14:30:00Z",
+    "content": "<ul><li>On today's episode: Cambodian and Thai leaders hold ceasefire talks in Malaysia; Police search for suspect in deaths of couple at Arkansas park; a Republican has announced his intention to ru… [+3177 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Prtimes.jp"
     },
@@ -24,109 +128,5 @@
     "urlToImage": "https://media.newyorker.com/photos/68840a2183944cb3b3a4dc49/16:9/w_1280,c_limit/r47145.png",
     "publishedAt": "2025-07-27T10:00:00Z",
     "content": "In February, 1983, lawyers for the American Civil Liberties Union in Georgia faced a dilemma. After years of looking, they believed that they had found the ideal plaintiff to challenge a state law ag… [+6516 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "ETF Daily News"
-    },
-    "author": "MarketBeat News",
-    "title": "United Community Banks (UCB) versus Its Rivals Critical Analysis",
-    "description": "United Community Banks (NYSE:UCB – Get Free Report) is one of 87 publicly-traded companies in the “BANKS – SOUTHEAST” industry, but how does it contrast to its competitors? We will compare United Community Banks to similar businesses based on the strength of …",
-    "url": "https://www.etfdailynews.com/2025/07/27/united-community-banks-ucb-versus-its-rivals-critical-analysis/",
-    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/united-community-banks-inc-logo-1200x675.png?v=20250707123406&w=240&h=240&zc=2",
-    "publishedAt": "2025-07-27T07:20:49Z",
-    "content": "United Community Banks (NYSE:UCB – Get Free Report) is one of 87 publicly-traded companies in the “BANKS – SOUTHEAST” industry, but how does it contrast to its competitors? We will compare United Com… [+5321 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Kevinmd.com"
-    },
-    "author": "Osmund Agbo, MD",
-    "title": "How truth depends on where you stand and what you see",
-    "description": "As yet another tragic chapter unfolded in the intractable and ever-escalating Iran-Israel conflict, I found myself in the midst of conversations, intense, impassioned, and sometimes uncomfortably raw. The participants weren’t diplomats or scholars. They were …",
-    "url": "https://kevinmd.com/2025/07/how-truth-depends-on-where-you-stand-and-what-you-see.html",
-    "urlToImage": "https://kevinmd.com/wp-content/uploads/unnamed-23.png",
-    "publishedAt": "2025-07-26T11:00:04Z",
-    "content": "As yet another tragic chapter unfolded in the intractable and ever-escalating Iran-Israel conflict, I found myself in the midst of conversations, intense, impassioned, and sometimes uncomfortably raw… [+9820 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Mother Jones"
-    },
-    "author": "Frances Mack",
-    "title": "Science Moms’ Bipartisan Mission: Educate Other Mothers About Climate Change",
-    "description": "This story was originally published by the Bulletin of the Atomic Scientists and is reproduced here as part of the Climate Desk collaboration. The devastating flood that swept through Camp Mystic in Texas this month is every parent’s worst nightmare. Hours or…",
-    "url": "https://www.motherjones.com/politics/2025/07/science-moms-bipartisan-mission-education-mothers-climate-change/",
-    "urlToImage": "https://www.motherjones.com/wp-content/uploads/2025/07/ScienceMoms.webp?w=1200&h=630&crop=1",
-    "publishedAt": "2025-07-26T10:00:00Z",
-    "content": "Members of Science Moms grab a selfie at the annual meeting of the American Geophysical Union in December 2024. From left: Joellen Russell, Erica Smithwick, Claudia Benetiz-Nelson, and Emily Fischer.… [+9232 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "ETF Daily News"
-    },
-    "author": "MarketBeat News",
-    "title": "United Community Banks (NASDAQ:UCB) versus Origin Bancorp (NASDAQ:OBK) Head to Head Analysis",
-    "description": "United Community Banks (NASDAQ:UCB – Get Free Report) and Origin Bancorp (NASDAQ:OBK – Get Free Report) are both finance companies, but which is the better stock? We will contrast the two businesses based on the strength of their profitability, institutional …",
-    "url": "https://www.etfdailynews.com/2025/07/26/united-community-banks-nasdaqucb-versus-origin-bancorp-nasdaqobk-head-to-head-analysis/",
-    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/origin-bancorp-inc-logo-1200x675.jpg?v=20230524060457&w=240&h=240&zc=2",
-    "publishedAt": "2025-07-26T05:28:49Z",
-    "content": "United Community Banks (NASDAQ:UCB – Get Free Report) and Origin Bancorp (NASDAQ:OBK – Get Free Report) are both finance companies, but which is the better stock? We will contrast the two businesses … [+6635 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "ETF Daily News"
-    },
-    "author": "MarketBeat News",
-    "title": "Head-To-Head Contrast: NCR Voyix (NYSE:VYX) and CSP (NASDAQ:CSPI)",
-    "description": "CSP (NASDAQ:CSPI – Get Free Report) and NCR Voyix (NYSE:VYX – Get Free Report) are both small-cap computer and technology companies, but which is the better investment? We will contrast the two companies based on the strength of their valuation, earnings, ris…",
-    "url": "https://www.etfdailynews.com/2025/07/26/head-to-head-contrast-ncr-voyix-nysevyx-and-csp-nasdaqcspi/",
-    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/ncr-voyix-corporation-logo-1200x675.jpg?v=20231019063148&w=240&h=240&zc=2",
-    "publishedAt": "2025-07-26T05:16:47Z",
-    "content": "CSP (NASDAQ:CSPI – Get Free Report) and NCR Voyix (NYSE:VYX – Get Free Report) are both small-cap computer and technology companies, but which is the better investment? We will contrast the two compa… [+6829 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Richmond.com"
-    },
-    "author": "MICHAEL MARTZ Richmond Times-Dispatch",
-    "title": "Battle over university boards rages in Fairfax courtroom",
-    "description": "A judge will decide whether Senate Democrats can block eight of Gov. Glenn Youngkin's appointees, including four on the George Mason University board, which is scrutinizing President Gregory Washington.",
-    "url": "https://richmond.com/news/state-regional/government-politics/article_feefbfe0-682a-4332-9a4f-a76b14338b4a.html",
-    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/f/ee/feefbfe0-682a-4332-9a4f-a76b14338b4a/688405dd11594.preview.jpg?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize",
-    "publishedAt": "2025-07-25T22:33:00Z",
-    "content": "A Fairfax County judge will decide next week whether a Virginia Senate committee can block eight of Gov. Glenn Youngkin's appointees from serving on the governing boards of three embattled institutio… [+11136 chars]"
-  },
-  {
-    "source": {
-      "id": "abc-news-au",
-      "name": "ABC News (AU)"
-    },
-    "author": "Brianna Morris-Grant",
-    "title": "Hulk Hogan's path from wrestling icon to right-wing mouthpiece",
-    "description": "Hulk Hogan's life of signature wrestling moves gave way to racist rants, lawsuits bankrolled by venture capitalists and shirt-tearing displays on the Republican campaign stage.",
-    "url": "https://www.abc.net.au/news/2025-07-26/hulk-hogan-timeline-legacy/105572182",
-    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ce010b350ca0c03b6878802681a06236?impolicy=wcms_watermark_news&cropH=1752&cropW=3114&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "publishedAt": "2025-07-25T20:24:58Z",
-    "content": "At the height of his career, Hulk Hogan was the bleach-blonde, suntanned, moustachioed face of professional wrestling.\r\nHogan, real name Terry Bollea, donned his all-American persona to turn the spec… [+11509 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Bossip"
-    },
-    "author": "Danielle Canada",
-    "title": "Symphonic Snowman Jeezy Hosting Free Community Day, Donating School Supplies To 500 Students",
-    "description": "Jeezy the (symphonic) Snowman is putting philanthropy behind the platinum as he marks the 20th anniversary of Let’s Get It: Thug Motivation 101 with a meaningful move for the people. The Grammy-nominated rapper and cultural changemaker is teaming up with the …",
-    "url": "https://bossip.com/3609793/jeezy-free-community-day-atlanta/",
-    "urlToImage": "https://bossip.com/wp-content/uploads/sites/28/2025/07/17534676737326.jpg?quality=80&strip=all&w=1024&crop=0,0,100,683px",
-    "publishedAt": "2025-07-25T18:33:40Z",
-    "content": "Jeezy the (symphonic) Snowman is putting philanthropy behind the platinum as he marks the 20th anniversary of Lets Get It: Thug Motivation 101 with a meaningful move for the people. The Grammy-nomina… [+2516 chars]"
   }
 ]

@@ -2,54 +2,80 @@
   {
     "source": {
       "id": null,
-      "name": "Techtarget.com"
+      "name": "GlobeNewswire"
     },
-    "author": "Rahul Awati, Tayla Holman",
-    "title": "What is HIMSS (Healthcare Information and Management Systems Society)?",
-    "description": "The Healthcare Information and Management Systems Society (HIMSS) is a nonprofit organization focused on promoting the best use of IT and management systems to advance the healthcare industry.",
-    "url": "https://www.techtarget.com/searchhealthit/definition/HIMSS-Healthcare-Information-and-Management-Systems-Society",
-    "urlToImage": "https://www.techtarget.com/ITKE/images/logos/TTlogo-379x201.png",
-    "publishedAt": "2025-08-13T12:23:11Z",
-    "content": "The Healthcare Information and Management Systems Society (HIMSS) is a nonprofit organization focused on promoting the best use of IT and management systems to advance the healthcare industry. The or… [+12538 chars]"
+    "author": "Reborn Coffee, Inc.",
+    "title": "Reborn Coffee Signs $1 Million Licensing Agreement to Expand into South Korea",
+    "description": "Reborn Coffee Signs $1 Million Licensing Agreement to Expand into South Korea......",
+    "url": "https://www.globenewswire.com/news-release/2025/08/14/3133485/0/en/Reborn-Coffee-Signs-1-Million-Licensing-Agreement-to-Expand-into-South-Korea.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/e31690f2-8d46-4007-b5c9-1f9cd9ebe3a6",
+    "publishedAt": "2025-08-14T12:31:00Z",
+    "content": "BREA, Calif., Aug. 14, 2025 (GLOBE NEWSWIRE) -- Reborn Coffee Inc. (Nasdaq: REBN), a leader in the specialty coffee market, today announced the signing of a $1 million exclusive licensing agreement w… [+5587 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Nathaniel Meyersohn",
+    "title": "Giving homeless people stable housing was federal policy for decades. Trump is ending it | CNN Business",
+    "description": "Trump is dismantling Housing First programs to reduce homelessness. But advocates say that could have dire consequences for people who are struggling and unhoused.",
+    "url": "https://www.cnn.com/2025/08/14/business/trump-homelessness-housing-first",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2228973534.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2025-08-14T11:00:42Z",
+    "content": "Rachelle Ellison spent 17 years sleeping on the streets of Washington, DC, cycling in and out of jails and hospitals.\r\nShe finally moved into an apartment in 2008, thanks to a rental voucher with men… [+8044 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "TOI Education",
+    "title": "I do not think I lost the Indian in me, but I gained the world: An Indian student’s story of chasing dreams abroad",
+    "description": "Maahir Gupta’s journey from India to Georgia Tech reveals how studying abroad fosters cultural adaptability, collaborative learning, and personal growth. From navigating housing choices to balancing costs, he offers insights on selecting the right university,…",
+    "url": "https://timesofindia.indiatimes.com/education/study-abroad/i-do-not-think-i-lost-the-indian-in-me-but-i-gained-the-world-an-indian-students-story-of-chasing-dreams-abroad/articleshow/123300507.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-123301626,width-1070,height-580,imgsize-127524,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2025-08-14T10:08:03Z",
+    "content": "10 creatures that can live inside volcanic zones"
   },
   {
     "source": {
       "id": null,
-      "name": "CNET"
+      "name": "WSB Atlanta"
     },
-    "author": "Corin Cesaric",
-    "title": "AI Data Centers Are Massive, Energy-Hungry and Headed Your Way",
-    "description": "Behind your ChatGPT and Gemini queries, there's a land grab happening to keep up the fevered pace of gen AI's growth. The consequences are significant.",
-    "url": "https://www.cnet.com/tech/services-and-software/features/ai-data-centers-are-massive-energy-hungry-and-headed-your-way/",
-    "urlToImage": "https://www.cnet.com/a/img/resize/b6d3839ef3c68d0f08eceeff2211b5236d8d35e9/hub/2025/08/12/0e3fd2e5-586c-47a9-85ef-e3424dc0a588/data-center-hero-still.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "publishedAt": "2025-08-13T12:00:18Z",
-    "content": "From the outside, this nondescript building in Piscataway, New Jersey, looks like a standard corporate office surrounded by lookalike buildings. Even when I walk through the second set of double door… [+25088 chars]"
+    "author": "Lori Wilson",
+    "title": "Do you remember how to write cursive? New state standards require 3rd to 5th graders to learn",
+    "description": "The new state standards took effect last month, so look for handwritten notes from your kids coming soon.",
+    "url": "https://www.wsbtv.com/news/local/atlanta/do-you-remember-how-write-cursive-new-state-standards-require-3rd-5th-graders-learn/HC3Z6OHX5BHSTBNFYMOP6MQEKM/",
+    "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F4IAKEAMQLVHEXDCCRL2KBZYMT4.jpeg?auth=8d07e632bc95923cc7bd3698241a7214676e6efd07d85cbbdd95f0307fcf7269&width=1200&height=630&smart=true",
+    "publishedAt": "2025-08-14T09:15:20Z",
+    "content": "ATLANTA — In this digital age, who needs to know how to read and write cursive? The State of Georgia says all third through fifth graders will learn again how to do just that. \r\nChannel 2s Lori Wilso… [+1139 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Forbes"
+      "name": "Globalsecurity.org"
     },
-    "author": "Kyle Khan-Mullins, Forbes Staff, \n Kyle Khan-Mullins, Forbes Staff\n https://www.forbes.com/sites/kylemullins/",
-    "title": "Inside The Richest Presidential Cabinet Ever",
-    "description": "The net worth of Trump’s Cabinet—made up of Wall Street financiers, former CEOs, TV hosts and one career politician—is the highest ever, even before counting POTUS.",
-    "url": "https://www.forbes.com/sites/kylemullins/2025/08/13/inside-the-richest-presidential-cabinet-ever/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/689bd31da5a3f24654e4b9db/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2025-08-13T10:30:00Z",
-    "content": "The Cabinet members are shown above in order of succession to the presidency.\r\nThe collective net worth of Trumps Cabinetmade up of two Wall Street financiers, several former CEOs and TV hosts and ju… [+15060 chars]"
+    "author": "John Pike",
+    "title": "Government earmarks SEK 100 million to civil society in Ukraine and its neighbourhood",
+    "description": "The Government is strengthening its support to civil society organisations in Ukraine and its neighbourhood by earmarking SEK 100 million within the Strategy for Sweden's Development Cooperation with Civil Society in 2025-2029.",
+    "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2025/08/ukraine-250813-govse01.htm",
+    "urlToImage": null,
+    "publishedAt": "2025-08-14T07:47:24Z",
+    "content": "Government Offices of Sweden\r\nPress release from Ministry of Education and Research, Ministry for Foreign Affairs\r\nPublished 13 August 2025\r\nThe Government is strengthening its support to civil socie… [+1958 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Mother Jones"
+      "name": "Inside Higher Ed"
     },
-    "author": "Ames Alexander",
-    "title": "Desperate Towns, Empty Promises: The EV Startup That Left Three Communities Hanging",
-    "description": "This story was reported by Floodlight, a nonprofit newsroom that investigates the powerful interests stalling climate action.  They came with promises of transformation: thousands of jobs, surging salaries, and a foothold in the booming electric vehicle marke…",
-    "url": "https://www.motherjones.com/politics/2025/08/desperate-towns-empty-promises-the-ev-startup-that-left-three-communities-hanging/",
-    "urlToImage": "https://www.motherjones.com/wp-content/uploads/2025/08/Community_Theatre_Pine_Bluff.jpg?w=1200&h=630&crop=1",
-    "publishedAt": "2025-08-13T10:00:00Z",
-    "content": "This 2022 photo shows an abandoned theater in Pine Bluff, Ark., one of the towns where local officials were told last year that Imola Automotive USA would be building an electric vehicle plant. Kenne… [+12192 chars]"
+    "author": "Elizabeth Redden",
+    "title": "The Family Business: An Open Letter to America’s Universities From Your New Boss",
+    "description": "The Family Business: An Open Letter to America’s Universities From Your New Boss\n\n \n\n\n \nElizabeth Redden\n\nThu, 08/14/2025 - 03:00 AM\n\nThings have changed, Jennifer Lundquist writes (satirically).\n \n Byline(s)\r\n\n \n Jennifer Lundquist",
+    "url": "https://www.insidehighered.com/opinion/views/2025/08/14/family-business-open-letter-satireopinion",
+    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-08/GettyImages-1300890895.jpg?itok=6rklTgSz",
+    "publishedAt": "2025-08-14T07:00:00Z",
+    "content": "Dear Presidents, Chancellors and OTHER Temporary Custodians of My Properties:\r\nGreetings from the FamilyI mean, the Administration. Youve been running a nice little operation there: world-class labs,… [+6103 chars]"
   },
   {
     "source": {
@@ -57,25 +83,25 @@
       "name": "ETF Daily News"
     },
     "author": "MarketBeat News",
-    "title": "Albina Community Bancorp (OTCMKTS:ACBCQ) & United Community Banks (NASDAQ:UCB) Critical Comparison",
-    "description": "Albina Community Bancorp (OTCMKTS:ACBCQ – Get Free Report) and United Community Banks (NASDAQ:UCB – Get Free Report) are both finance companies, but which is the better stock? We will compare the two businesses based on the strength of their risk, valuation, …",
-    "url": "https://www.etfdailynews.com/2025/08/13/albina-community-bancorp-otcmktsacbcq-united-community-banks-nasdaqucb-critical-comparison/",
-    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/united-community-banks-inc-logo-1200x675.png?v=20240923134018&w=240&h=240&zc=2",
-    "publishedAt": "2025-08-13T07:56:56Z",
-    "content": "Albina Community Bancorp (OTCMKTS:ACBCQ – Get Free Report) and United Community Banks (NASDAQ:UCB – Get Free Report) are both finance companies, but which is the better stock? We will compare the two… [+5498 chars]"
+    "title": "Contrasting Sprinklr (NYSE:CXM) and Boxlight (NASDAQ:BOXL)",
+    "description": "Sprinklr (NYSE:CXM – Get Free Report) and Boxlight (NASDAQ:BOXL – Get Free Report) are both business services companies, but which is the better investment? We will compare the two companies based on the strength of their institutional ownership, earnings, va…",
+    "url": "https://www.etfdailynews.com/2025/08/14/contrasting-sprinklr-nysecxm-and-boxlight-nasdaqboxl/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/boxlight-corp-logo-1200x675.jpg&w=240&h=240&zc=2",
+    "publishedAt": "2025-08-14T06:41:09Z",
+    "content": "Sprinklr (NYSE:CXM – Get Free Report) and Boxlight (NASDAQ:BOXL – Get Free Report) are both business services companies, but which is the better investment? We will compare the two companies based on… [+6296 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Denver Post"
+      "name": "WJXT News4JAX"
     },
-    "author": "Georgia Nicols",
-    "title": "Daily Horoscope for August 13, 2025",
-    "description": "Get your daily horoscope for August 13, 2025 from astrologer Georgia Nicols.",
-    "url": "https://www.denverpost.com/2025/08/13/daily-horoscope-for-august-13-2025/",
-    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2019/08/Learn_how_to_take_photos_of_the_Milky_Way_with_the_help_of_a_Colorado_conservancy_1.jpg?w=1024&h=683",
-    "publishedAt": "2025-08-13T07:00:00Z",
-    "content": "Moon Alert: Avoid shopping (except for food and gas) or major decisions after 6:30 p.m. EDT today (3:30 p.m. EDT). The Moon is in ARIES.\r\nHappy Birthday for Wednesday, Aug. 13, 2025:\r\nYou are innovat… [+4372 chars]"
+    "author": "Jeff Martin",
+    "title": "CDC shooting marks latest in a string of hostility directed at health workers. Many aren't surprised",
+    "description": "Gunfire aimed at the U.S. Centers for Disease Control and Prevention by a man authorities say was angry over COVID-19 vaccines is the latest in a string of violence and harassment directed at health care workers amid hostility lingering from the pandemic.",
+    "url": "https://www.news4jax.com/news/national/2025/08/13/cdc-shooting-marks-latest-in-a-string-of-hostility-directed-at-health-workers-many-arent-surprised/",
+    "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/G4G4UZAP3JC45IEQDXMMJ75AEE.jpg?_a=DATAg1eAZAA0",
+    "publishedAt": "2025-08-13T23:00:36Z",
+    "content": "ATLANTA A barrage of bullets launched at the headquarters of the U.S. Centers for Disease Control and Prevention last week by a man authorities say was angry over COVID-19 vaccinations is the latest … [+5322 chars]"
   },
   {
     "source": {
@@ -83,50 +109,24 @@
       "name": "Balloon-juice.com"
     },
     "author": "Adam L Silverman",
-    "title": "War for Ukraine Day 1,265: The Next Part of Russia’s Maskirovka",
-    "description": "It has been a very long, very unpleasant day, so I’m just going to run through the basics tonight. Russia has telegraphed the next portion of the maskirovka line of effort in their influence campaign. Russia announces its next war crime [image or embed] — Kat…",
-    "url": "https://balloon-juice.com/2025/08/12/war-for-ukraine-day-1265-the-next-part-of-russias-maskirovka/",
+    "title": "War for Ukraine Day 1,266: The Baltics Issue a Warning from Experience",
+    "description": "Ukraine has already defined its main strategic interests that it plans to defend in any negotiations with Russia. In 2022, Putin vowed to “liberate Donbas.” The US now floats Kyiv ceding part of Donbas to stop Russia’s southern offensive. www.politico.eu/arti…",
+    "url": "https://balloon-juice.com/2025/08/13/war-for-ukraine-day-1266-the-baltics-issue-a-warning-from-experience/",
     "urlToImage": "https://balloon-juice.com/wp-content/uploads/2020/01/Silverman_On_Security.jpg",
-    "publishedAt": "2025-08-13T00:38:00Z",
-    "content": "It has been a very long, very unpleasant day, so I’m just going to run through the basics tonight.\r\nRussia has telegraphed the next portion of the maskirovka line of effort in their influence campaig… [+16592 chars]"
-  },
-  {
-    "source": {
-      "id": "nbc-news",
-      "name": "NBC News"
-    },
-    "author": "Berkeley Lovelace Jr.",
-    "title": "CDC director tells staff ‘misinformation can be dangerous’ in agency meeting",
-    "description": "The Centers for Disease Control and Prevention Director Susan Monarez warned staffers about the dangers of misinformation during an agencywide meeting, the first since last week’s shooting at CDC’s headquarters in Atlanta that left one police officer dead, ac…",
-    "url": "https://www.nbcnews.com/health/health-news/cdc-director-tells-staff-misinformation-can-dangerous-agency-meeting-rcna224556",
-    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250812-cdc-vl-132p-97e540.jpg",
-    "publishedAt": "2025-08-12T21:16:33Z",
-    "content": "The Centers for Disease Control and Prevention Director Susan Monarez warned staffers about the dangers of misinformation during an agencywide meeting, the first since last weeks shooting at CDCs hea… [+5322 chars]"
-  },
-  {
-    "source": {
-      "id": "abc-news-au",
-      "name": "ABC News (AU)"
-    },
-    "author": "Meg Whitfield",
-    "title": "Greyhound racing a 'scapegoat' in political power tussle, trainer says",
-    "description": "The announcement of funding being ended for Tasmania's greyhound racing industry has left the people who work in it \"filthy, angry\", a trainer says — with special mention made of the Liberal state premier.",
-    "url": "https://www.abc.net.au/news/2025-08-13/tasmanian-greyhound-industry-fuming-over-funding-end/105641482",
-    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/6b31b9a8345a7548acc655cb95911948?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=389&width=862&height=485&imformat=generic",
-    "publishedAt": "2025-08-12T19:35:48Z",
-    "content": "A decision to ban greyhound racing in Tasmania within five years has left industry participants \"devastated\", and prompted one trainer to claim the sport is a \"scapegoat\" in a minority government's c… [+5512 chars]"
+    "publishedAt": "2025-08-13T22:44:15Z",
+    "content": "Ukraine has already defined its main strategic interests that it plans to defend in any negotiations with Russia.\r\nIn 2022, Putin vowed to liberate Donbas. The US now floats Kyiv ceding part of Donba… [+23430 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Thefranklinnewspost.com"
+      "name": "The Denver Post"
     },
-    "author": "The Franklin News-Post",
-    "title": "Back to school: SMLCA opens satellite campus in Roanoke County",
-    "description": "Smith Mountain Lake Christian Academy’s Roanoke Campus will welcome its first students Wednesday, Aug. 20, as it kicks off the 2025-26 school year.",
-    "url": "https://thefranklinnewspost.com/news/local/education/article_f1397c11-1ecf-4769-ab70-a013a15816da.html",
-    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/7/f0/7f01ad0f-de57-5ae8-9eaa-a38e7ec2ea1f/689b91c01d6e9.preview.jpg?crop=1163%2C611%2C0%2C199",
-    "publishedAt": "2025-08-12T19:15:00Z",
-    "content": "Smith Mountain Lake Christian Academys Roanoke Campus will welcome its first students Aug. 20, as it kicks off the 2025-26 school year.\r\nThe campus,  at 3230 King St. N.E. in Roanoke County, is a sat… [+3193 chars]"
+    "author": "The Associated Press",
+    "title": "CDC shooting marks latest in a string of hostility directed at health workers. Many aren’t surprised",
+    "description": "Distrust and anger are being amplified by misinformation about the safety of immunizations.",
+    "url": "https://www.denverpost.com/2025/08/13/cdc-campus-shooting-latest-violence/",
+    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/08/CORRECTION_CDC_Campus_Shooting_64295-1.jpg?w=1024&h=682",
+    "publishedAt": "2025-08-13T22:37:53Z",
+    "content": "By JEFF MARTIN, HEATHER HOLLINGSWORTH and JOHN SEEWER\r\nATLANTA (AP) A barrage of bullets launched at the headquarters of the U.S. Centers for Disease Control and Prevention last week by a man authori… [+5693 chars]"
   }
 ]

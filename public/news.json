@@ -2,6 +2,84 @@
   {
     "source": {
       "id": null,
+      "name": "Forbes"
+    },
+    "author": "Liz Doe Stone, Contributor, \n Liz Doe Stone, Contributor\n https://www.forbes.com/sites/lizdoestone/",
+    "title": "What Teens Lose When AI Writes The College Essay",
+    "description": "More students are using ChatGPT to draft college essays, but at what cost? Experts warn it hinders critical thinking and leaves them unprepared for college writing.",
+    "url": "https://www.forbes.com/sites/lizdoestone/2025/08/18/what-teens-lose-when-ai-writes-the-college-essay/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6893a9e3de41dd2fda48cdfd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2025-08-18T11:47:48Z",
+    "content": "More students are using AI to draft college essays, but doing so may limit the opportunity to build essential writing and thinking skills for college.\r\ngetty\r\nEach fall, high school seniors are told … [+5885 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Financial Survey: Bitcoin Depot (NASDAQ:BTM) versus MidCap Financial Investment (NASDAQ:MFIC)",
+    "description": "Bitcoin Depot (NASDAQ:BTM – Get Free Report) and MidCap Financial Investment (NASDAQ:MFIC – Get Free Report) are both small-cap finance companies, but which is the superior investment? We will contrast the two businesses based on the strength of their analyst…",
+    "url": "https://www.etfdailynews.com/2025/08/18/financial-survey-bitcoin-depot-nasdaqbtm-versus-midcap-financial-investment-nasdaqmfic/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/midcap-financial-investment-co-logo-1200x675.jpg?v=20220818193427&w=240&h=240&zc=2",
+    "publishedAt": "2025-08-18T05:24:48Z",
+    "content": "Bitcoin Depot (NASDAQ:BTM – Get Free Report) and MidCap Financial Investment (NASDAQ:MFIC – Get Free Report) are both small-cap finance companies, but which is the superior investment? We will contra… [+6387 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Juancole.com"
+    },
+    "author": "H. Scott Prosterman",
+    "title": "California Strikes Back: Trump Poked the Golden Bear",
+    "description": "Oakland, Ca. (Special to Informed Comment; Feature) - California Governor Gavin Newsom assumed the mantle of national leadership when he announced California’s “Election Rigging Response Act.” This is in direct response to convicted felon Donald Trump, who ca…",
+    "url": "https://www.juancole.com/2025/08/california-strikes-golden.html",
+    "urlToImage": "https://media.juancole.com/images/2025/08/clement-proust-l1-8DyUwhbQ-unsplash.jpg",
+    "publishedAt": "2025-08-18T04:15:15Z",
+    "content": "Oakland, Ca. (Special to Informed Comment; Feature) – California Governor Gavin Newsom assumed the mantle of national leadership when he announced California’s “Election Rigging Response Act.” This i… [+8226 chars]"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Nick Duffy, Josh Feldman, Amina Kilpatrick",
+    "title": "Here's the biggest news you missed this weekend",
+    "description": "Ukraine and its allies are scrambling to respond to President Donald Trump’s apparent shift toward Vladimir Putin’s hard-line position after their summit in Alaska",
+    "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-august-17-rcna225033",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250718-zelenskyy-mb-0950-fcf1e6.jpg",
+    "publishedAt": "2025-08-17T22:00:00Z",
+    "content": "Ukraine and its allies are scrambling to respond to President Donald Trumps apparent shift toward Vladimir Putins hard-line position after their summit in Alaska.\r\nA cohort of European leaders announ… [+7675 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Sorority ties run deep for Molly Sims, Carrie Underwood and other Southern stars as rush season begins",
+    "description": "Celebrities including Megan Moroney and Carrie Underwood were all members of different sororities at their Southern universities.",
+    "url": "https://www.foxnews.com/entertainment/sorority-ties-run-deep-molly-sims-carrie-underwood-other-southern-stars-rush-season-begins",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/molly-sims-carrie-underwood-split.jpg",
+    "publishedAt": "2025-08-17T14:00:21Z",
+    "content": "With colleges about to begin the school year, sorority rush season is also right around the corner. \r\nPrior to finding fame, many of Hollywood's biggest stars were members of various sororities durin… [+4623 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Boston Herald"
+    },
+    "author": "Tribune News Service",
+    "title": "Microschools are growing in popularity, but state regulations haven’t caught up",
+    "description": "Microschools and homeschooling have emerged as increasingly popular alternatives to traditional public and private models.",
+    "url": "https://www.bostonherald.com/2025/08/17/microschools-grow-popularity/",
+    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/08/202508140515MCT_____PHOTO____US-NEWS-MICROSCHOOLS-REGULATIONS-PT.jpg?w=1024&h=682",
+    "publishedAt": "2025-08-17T13:20:37Z",
+    "content": "By Robbie Sequeira, Stateline.org\r\nWhen Siri Fiske founded the Mysa Microschool in Washington, D.C., in 2016, there wasnt a widely accepted term for her small, one-room schoolhouse model.\r\nNow, the s… [+9397 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "CNET"
     },
     "author": "Corin Cesaric",
@@ -50,83 +128,5 @@
     "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/b/3f/b3f29bd3-5338-5593-910d-5774196ba01a/689e0bc7de769.preview.jpg?crop=1657%2C870%2C43%2C256&resize=1200%2C630&order=crop%2Cresize",
     "publishedAt": "2025-08-16T15:30:00Z",
     "content": "ATLANTA A barrage of bullets launched at the headquarters of the U.S. Centers for Disease Control and Prevention by a man authorities say was angry over COVID-19 vaccinations is the latest attack dir… [+5982 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PR Newswire UK"
-    },
-    "author": null,
-    "title": "Mohamed bin Zayed University of Artificial Intelligence begins new academic year with largest-ever cohort of 400+ students",
-    "description": "ABU DHABI,UAE, Aug. 16, 2025 /PRNewswire/ -- Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has welcomed its largest cohort for its Fall 2025 intake, enrolling 403 new students. This includes its inaugural undergraduate class, new graduate c…",
-    "url": "https://www.prnewswire.co.uk/news-releases/mohamed-bin-zayed-university-of-artificial-intelligence-begins-new-academic-year-with-largest-ever-cohort-of-400-students-302531592.html",
-    "urlToImage": "https://mma.prnewswire.com/media/2751860/IMG_1.jpg?p=facebook",
-    "publishedAt": "2025-08-16T14:07:00Z",
-    "content": "ABU DHABI,UAE, Aug. 16, 2025 /PRNewswire/ -- Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has welcomed its largest cohort for its Fall 2025 intake, enrolling 403 new students. Thi… [+4129 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Variety"
-    },
-    "author": "Marta Balaga",
-    "title": "Sho Miyake’s ‘Two Seasons, Two Strangers’ Wins at Locarno",
-    "description": "Sho Miyake’s “Two Seasons, Two Strangers” has won Locarno’s top award, its Golden Leopard for titles playing in the Swiss festival’s main International Competition. As noticed by Variety, the film was warmly received at the festival, charming the critics with…",
-    "url": "https://variety.com/2025/film/global/locarno-awards-two-seasons-two-strangers-white-snail-1236491018/",
-    "urlToImage": "https://variety.com/wp-content/uploads/2025/08/MixCollage-16-Aug-2025-10-21-AM-473.jpg?w=1000&h=563&crop=1",
-    "publishedAt": "2025-08-16T13:49:34Z",
-    "content": "Sho Miyake’s “Two Seasons, Two Strangers” has won Locarno’s top award, its Golden Leopard for titles playing in the Swiss festival’s main International Competition.\r\nAs noticed by Variety, the film w… [+8606 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Deadline"
-    },
-    "author": "Zac Ntim",
-    "title": "Locarno: ‘Two Seasons, Two Strangers’ & ‘Hair, Paper, Water…’ Take Top Prizes",
-    "description": "Tabi to Hibi, the latest feature from Japanese filmmaker Sho Miyake, has won the Pardo d’Oro, the Locarno Film Festival’s main competition award.  Miyake is the fourth Japanese winner of the top prize in the festival’s history after Masahiro Kobayashi’s The R…",
-    "url": "http://deadline.com/2025/08/locarno-two-seasons-two-strangers-hair-paper-water-1236490067/",
-    "urlToImage": "https://deadline.com/wp-content/uploads/2025/07/Toc-giay-va-nuoc._3.jpg?w=1024",
-    "publishedAt": "2025-08-16T13:45:00Z",
-    "content": "Tabi to Hibi, the latest feature from Japanese filmmaker Sho Miyake, has won the Pardo d’Oro, the Locarno Film Festival’s main competition award. \r\nMiyake is the fourth Japanese winner of the top pri… [+5585 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Daily Wire"
-    },
-    "author": "Philip Bunn",
-    "title": "Reviving The Presidential Fitness Test Will Help Shape Better Citizens",
-    "description": "Late last month, President Donald Trump signed an executive order re-establishing a program that some people remember fondly, others not so fondly: the Presidential Fitness Test.According to the White House, the order directs the President’s Council on Sports…",
-    "url": "https://www.dailywire.com/news/reviving-the-presidential-fitness-test-will-help-shape-better-citizens",
-    "urlToImage": "https://dw-wp-production.imgix.net/2025/08/GettyImages-1991965911.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.10.0",
-    "publishedAt": "2025-08-16T11:14:16Z",
-    "content": "Late last month, President Donald Trump signed an executive order re-establishing a program that some people remember fondly, others not so fondly: the Presidential Fitness Test.\r\nAccording to the Wh… [+8941 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Deseret News"
-    },
-    "author": "Deseret News",
-    "title": "Will BYU football’s unique culture hinder or help in brave new world of college sports?",
-    "description": "Can a love-thy-neighbor program thrive in this era of college football? The answer from national experts may surprise you.",
-    "url": "https://www.deseret.com/sports/2025/08/15/byu-culture-athletics-sports-sitake-reese-santiago-nil-transfer-portal-landscape/",
-    "urlToImage": "https://media.zenfs.com/en/deseret_news_992/7501c7a74dce9cd2867eb29047cc07d1",
-    "publishedAt": "2025-08-16T03:00:01Z",
-    "content": "Brigham Young University has always been something of a curiosity in college football.\r\nOutside observers look at the faith-based school and see it conducting a grand experiment.\r\nThe school supporte… [+25259 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Electronicintifada.net"
-    },
-    "author": "Edward E. Curtis IV",
-    "title": "JoAnne Lingle: Battling injustice from Hebron to Washington",
-    "description": "Christian Peacemaker Team activist brought a courageous voice and presence to West Bank efforts.",
-    "url": "https://electronicintifada.net/content/joanne-lingle-battling-injustice-hebron-washington/50866",
-    "urlToImage": "https://electronicintifada.net/sites/default/files/styles/original_800w/public/2025-08/250812_-_joanne.png?itok=CSqmAR1J",
-    "publishedAt": "2025-08-15T19:42:49Z",
-    "content": "Edward E. Curtis IVThe Electronic Intifada15 August 2025\r\nJoAnne Lingle in the Israeli-occupied West Bank (photo courtesy of Dianne Roe).\r\nI lost track how many times JoAnne Lingle got in trouble wit… [+4555 chars]"
   }
 ]

@@ -2,6 +2,97 @@
   {
     "source": {
       "id": null,
+      "name": "Salon"
+    },
+    "author": "Avi Asher-Schapiro, Christopher Bing",
+    "title": "Getting “DOGED”: DOGE targeted him on social media. Then the Taliban took his family",
+    "description": "DOGE put his family’s lives at risk by exposing his sensitive work for a U.S.-funded nonprofit.",
+    "url": "https://www.salon.com/2025/08/24/getting-doged-doge-targeted-him-on-social-media-then-the-taliban-took-his-family/",
+    "urlToImage": "https://www.salon.com/app/uploads/2025/02/elon_musk_2200919825.jpg",
+    "publishedAt": "2025-08-24T10:00:28Z",
+    "content": "ProPublica is a Pulitzer Prize-winning investigative newsroom. Sign up for The Big Story newsletter to receive stories like this one in your inbox.Reporting Highlights\r\n<ul><li>Errors: DOGE staffers … [+27766 chars]"
+  },
+  {
+    "source": {
+      "id": "newsweek",
+      "name": "Newsweek"
+    },
+    "author": "Mandy Taheri",
+    "title": "Map Shows States Pushing to Mandate Ten Commandments in Schools",
+    "description": "Several state legislatures have introduced bills requiring the Ten Commandments to be displayed in public schools.",
+    "url": "https://www.newsweek.com/map-shows-states-pushing-mandate-ten-commandments-schools-2118089",
+    "urlToImage": "https://d.newsweek.com/en/full/2708404/map-ten-commandments.png",
+    "publishedAt": "2025-08-24T09:00:02Z",
+    "content": "A federal judge earlier this week temporarily blocked nearly a dozen school districts in Texas from implementing a law that would require public schools to feature the Ten Commandments in every class… [+4067 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Orlando Sentinel"
+    },
+    "author": "Skyler Swisher, Orlando Sentinel",
+    "title": "3 Florida manta rays captured for SeaWorld Abu Dhabi, 1 died, records show",
+    "description": "ORLANDO, Fla. — Two years before its controversial videotaped capture of a giant manta ray last month, a Florida company seized two more of the rare...",
+    "url": "https://www.orlandosentinel.com/2025/08/23/three-florida-manta-rays-captured-for-seaworld-abu-dhabi-one-died-records-show/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/K7HKUVxMpHcl2GfHhIxAUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/orlando_sentinel_national_858/43c36c45c09b194ce95c4ac27e9c2c54",
+    "publishedAt": "2025-08-23T21:50:00Z",
+    "content": "ORLANDO, Fla. Two years before its controversial videotaped capture of a giant manta ray last month, a Florida company seized two more of the rare creatures for SeaWorld Abu Dhabi, one of which died … [+4843 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Wnd.com"
+    },
+    "author": "James Varney. Real Clear Wire",
+    "title": "Hunger games: AI’s demand for resources poses promise and peril for rural America",
+    "description": "Whether it's 'amoral killer of the human race' or betters the lives of billions, 'there is no disputing that data centers are insatiable in their power demands'",
+    "url": "https://www.wnd.com/2025/08/hunger-games-ais-demand-resources-poses-promise-peril/",
+    "urlToImage": "https://www.wnd.com/wp-content/uploads/2024/08/ai-artificial-intelligence-tesla-cortex-jpg.jpg",
+    "publishedAt": "2025-08-23T18:50:43Z",
+    "content": "HOLLY RIDGE, La. More than three millennia ago, indigenous people built a massive ceremonial mound a few miles from here, an engineering marvel called Poverty Point and one of the oldest known buildi… [+15627 chars]"
+  },
+  {
+    "source": {
+      "id": "the-irish-times",
+      "name": "The Irish Times"
+    },
+    "author": "Sarah Slater",
+    "title": "‘We love Ireland and want to be here’: International Fest celebrates community life",
+    "description": "Discreet garda presence at Dublin festival for first time in its history following attacks on Indian community",
+    "url": "https://www.irishtimes.com/ireland/2025/08/23/we-love-ireland-and-want-to-be-here-international-fest-celebrates-community-life/",
+    "urlToImage": "https://www.irishtimes.com/resizer/v2/73LYMX2ESRAKTPTISTIJBHVCTU.jpg?smart=true&auth=9090d6480b82129f799b78c5efb79dc6d113540e698ed2cab81dab59f8951a4d&width=1200&height=630",
+    "publishedAt": "2025-08-23T16:48:55Z",
+    "content": "Weve never had any trouble, we really love Ireland and we want to be here, an Indian nurse manager said at the annual International Fest in Cabinteely, Dublin.\r\nRich heritage, tradition, diversity an… [+3932 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Steve Weisman, Contributor, \n Steve Weisman, Contributor\n https://www.forbes.com/sites/steveweisman/",
+    "title": "Higher Education Has A Lot To Learn About Data Breaches",
+    "description": "Columbia University data breach affecting 800,000 people highlights the vulnerability of colleges to data breaches and their lack of essential security.",
+    "url": "https://www.forbes.com/sites/steveweisman/2025/08/23/higher-education-has-a-lot-to-learn-about-data-breaches/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6898bbaf92ff1e9ef91c2423/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2025-08-23T15:31:00Z",
+    "content": "Data breaches present a major problem for colleges and universities\r\ngetty\r\nColumbia University recently disclosed that it had suffered a data breach in May that was discovered in June, but not offic… [+4384 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": null,
+    "title": "The 10 public colleges with the best ROI in the U.S.",
+    "description": "If you're borrowing money to get a college education, it's smart to pick a school that helps you pay it back. These schools offer the best value.",
+    "url": "https://www.cnbc.com/2025/08/23/public-colleges-with-the-best-roi-in-the-us.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/104598653-GettyImages-94605936.jpg?v=1755808581&w=1920&h=1080",
+    "publishedAt": "2025-08-23T13:00:01Z",
+    "content": "When the cost of a college degree can exceed $500,000, it's smart to consider schools with reputations for providing students with the education and experience necessary to thrive after graduation.\r\n… [+2951 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "ETF Daily News"
     },
     "author": "MarketBeat News",
@@ -37,96 +128,5 @@
     "urlToImage": "https://media.juancole.com/images/2025/08/joe-shields-dLij9K4ObYY-unsplash.jpg",
     "publishedAt": "2025-08-23T04:06:03Z",
     "content": "By Avi Asher-Schapiro and Christopher Bing | – \r\nDOGE staffers exposed a sensitive U.S.-funded Afghanistan program and falsely suggested a contractor was involved in an off-books mission.\r\n( ProPubli… [+27547 chars]"
-  },
-  {
-    "source": {
-      "id": "nbc-news",
-      "name": "NBC News"
-    },
-    "author": "Julia Ainsley, Laura Strickler, Didi Martinez",
-    "title": "ICE director says agents won't be at D.C. schools on the first day — but may be going forward",
-    "description": "Acting Immigration and Customs Enforcement Director Todd Lyons said parents in Washington, D.C. should not expect to see ICE officers visiting schools when kids go back to school in the nation’s capital on Monday.",
-    "url": "https://www.nbcnews.com/politics/immigration/ice-schools-first-day-washington-dc-immigration-agents-todd-lyons-rcna226516",
-    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250822-ice-federal-agents-washington-dc-ew-419p-69a896.jpg",
-    "publishedAt": "2025-08-22T23:01:00Z",
-    "content": "BRUNSWICK, Georgia Acting Immigration and Customs Enforcement Director Todd Lyons said parents in Washington, D.C., should not expect to see ICE officers visiting schools when kids go back to school … [+4734 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ms. Magazine"
-    },
-    "author": "Kendall Verhovek",
-    "title": "The 19th Amendment, Explained",
-    "description": "It took more than a century of fighting by generations of activists to achieve suffrage for all American women.\nThe 19th Amendment to the U.S. Constitution reads, “The right of citizens of the United States to vote shall not be denied or abridged by the Unite…",
-    "url": "https://msmagazine.com/2025/08/22/what-is-19th-amendment-explained/",
-    "urlToImage": "https://msmagazine.com/wp-content/uploads/2025/08/GettyImages-1134387564.jpg",
-    "publishedAt": "2025-08-22T18:06:06Z",
-    "content": "Two images of a suffrage-era, mechanical trade card, with a young girl watching a hat box, with a lid that opens to reveal a ‘Votes for Women’ pennant, published for the American market, circa 1900. … [+54365 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Live Science"
-    },
-    "author": "Stephanie Pappas",
-    "title": "'We know what to do; we just have to implement it.': Pregnancy is deadlier in the US than in other wealthy countries. But we could fix that.",
-    "description": "Cuts to Medicaid and legal confusion around patient care post-Roe v. Wade may prevent improvements in the maternal mortality rate.",
-    "url": "https://www.livescience.com/health/fertility-pregnancy-birth/more-women-die-in-childbirth-in-the-us-than-in-other-wealthy-nations-but-we-know-what-to-do-to-save-them",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/NJ6nzUAz5ty38jXJ8PkoJR.jpg",
-    "publishedAt": "2025-08-22T16:00:00Z",
-    "content": "Jordyn Albright's pregnancy-and-delivery journey was difficult from the start. Her pregnancy was high risk, due to both in vitro fertilization (IVF) and high blood pressure during pregnancy. She was … [+14848 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Overdriveonline.com"
-    },
-    "author": "Todd Dills",
-    "title": "Toughest 10 states for brake inspections as inspection blitz kicks off",
-    "description": "Analysis of nationwide violation data shows the states where truckers might expect CVSA's Brake Safety Week to feature the most intense scrutiny on the truck and trailer's stopping power.",
-    "url": "https://www.overdriveonline.com/csas-data-trail/article/15753592/10-toughest-states-for-truck-brake-inspections-as-blitz-arrives",
-    "urlToImage": "https://img.overdriveonline.com/mindful/rr/workspaces/default/uploads/2025/08/mixcollage-22-aug-2025-09-12-am-4519.V5Fh0XBmsH.jpg?auto=format%2Ccompress&fit=max&q=70&w=1200",
-    "publishedAt": "2025-08-22T15:37:41Z",
-    "content": "Sunday, May 24, the Commercial Vehicle Safety Alliance's annual Brake Safety Week inspection blitz and outreach/education event kicks off with an increased emphasis on that oh-so-crucial component in… [+5227 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Defense One"
-    },
-    "author": "Ben Watson and Bradley Peniston",
-    "title": "The D Brief: DOD’s drone-warfare plans; ODNI to shrink further; ICE seeks volunteers; Black Hawk upgrades; And a bit more.",
-    "description": "",
-    "url": "https://www.defenseone.com/threats/2025/08/the-d-brief-august-22-2025/407632/",
-    "urlToImage": "https://cdn.defenseone.com/media/img/cd/2025/08/22/DB_lander/open-graph.png",
-    "publishedAt": "2025-08-22T15:21:55Z",
-    "content": "Inside the Pentagon plan to Americanize drone warfare. Years of talk about rapidly scaling up drone forces have produced interesting prototypes and lively experiments with relatively small numbers of… [+10942 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Raw Story"
-    },
-    "author": "Christopher Bing, ProPublica",
-    "title": "DOGE targeted him on social media.Then the Taliban took his family",
-    "description": "It was early morning on April 1 when Mohammad Halimi, a 53-year-old exiled Afghan scholar, got a panicked message from his son. Halimi’s name had just appeared in a viral post on X, shared by none other than the site’s owner and the world’s richest man, Elon …",
-    "url": "https://www.rawstory.com/doge-targeted-him-on-social-media-then-the-taliban-took-his-family/",
-    "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=61502901&width=1200&height=600&coordinates=0%2C794%2C0%2C795",
-    "publishedAt": "2025-08-22T11:47:36Z",
-    "content": "It was early morning on April 1 when Mohammad Halimi, a 53-year-old exiled Afghan scholar, got a panicked message from his son. Halimis name had just appeared in a viral post on X, shared by none oth… [+27115 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The New Republic"
-    },
-    "author": "The Daily Blast With Greg Sargent",
-    "title": "Transcript: Vance Scamming of MAGA Voters Takes Ugly Turn in Vile Rant",
-    "description": "The following is a lightly edited transcript of the August 22 episode of theDaily Blast podcast. Listen to it here.Greg Sargent: This is The Daily Blast from The New Republic, produced and presented by the DSR network. I’m your host, Greg Sargent.JD Vance jus…",
-    "url": "https://newrepublic.com/article/199444/transcript-vance-scamming-maga-voters-takes-ugly-turn-vile-rant",
-    "urlToImage": "https://images.newrepublic.com/54280fee5a2d9c9d69b2d3d43ed8797fb0198599.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-    "publishedAt": "2025-08-22T11:35:11Z",
-    "content": "Sargent: Lets talk about the distributive consequences because I think thats what youre getting at there. The benefits such as they are that will go to working people will be in the form of pretty mi… [+1850 chars]"
   }
 ]

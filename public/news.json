@@ -1,81 +1,55 @@
 [
   {
     "source": {
-      "id": "newsweek",
-      "name": "Newsweek"
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
     },
-    "author": "Jordan King",
-    "title": "Susan Monarez Firing as CDC Director Sparks Outrage: 'Grave Danger'",
-    "description": "A former CDC director wrote that the CDC's role as a \"beacon of health protection\" is \"in grave danger of being extinguished.\"",
-    "url": "https://www.newsweek.com/susan-monarez-cdc-director-outrage-grave-danger-2120718",
-    "urlToImage": "https://d.newsweek.com/en/full/2711102/dr-susan-monarez.jpg",
-    "publishedAt": "2025-08-28T12:25:40Z",
-    "content": "The White House's decision to remove Dr. Susan Monarez as director of the Centers for Disease Control and Prevention has triggered backlash from health officials and lawmakers, and a former CDC leade… [+5907 chars]"
+    "author": "Al Jazeera Staff",
+    "title": "How Trump’s newfound love for Chinese students is drawing MAGA backlash",
+    "description": "Trump said he would allow Chinese students into US universities, months after administration announced visa revocations.",
+    "url": "https://www.aljazeera.com/news/2025/8/29/how-trumps-newfound-love-for-chinese-students-is-drawing-maga-backlash",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/08/reuters_68b1893a-1756465466.jpg?resize=1920%2C1440",
+    "publishedAt": "2025-08-29T12:18:01Z",
+    "content": "United States President Donald Trump has announced that he will allow 600,000 Chinese students into US universities.\r\nHis announcement on Monday, which marks a sharp departure from the Trump administ… [+6760 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Rolling Stone"
+      "name": "Activistpost.com"
     },
-    "author": "Lisa Tozzi",
-    "title": "The Butthole Surfers Were ‘The Hardest-Working Redneck Weirdo Band in Show Business’",
-    "description": "No other Lone Star punk band had been so ambitious or relentless, Pat Blashill writes in this excerpt of Someday All The Adults Will Die! The Birth of Texas Punk",
-    "url": "http://www.rollingstone.com/music/music-features/butthole-surfers-texas-punk-someday-adults-die-book-1235413499/",
-    "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/08/Texas-punk-lead.jpg?crop=0px%2C185px%2C1798px%2C1014px&resize=1600%2C900",
-    "publishedAt": "2025-08-28T12:00:00Z",
-    "content": "All bets were off in the Texas punk of the early 1980s. In Austin, the Dicks played drunk punk blues, and were led by Gary Floyd, a fiery queer man and vitriolic Communist. Meanwhile, San Antonio‘s o… [+39443 chars]"
+    "author": "Editor",
+    "title": "Same Excess Death Patterns in Multiple Data Sets after mRNA Vaccine Rollouts",
+    "description": "This article is based on the painstaking and meticulous work of intrepid researcher and Substack writer csofand. I will refer to him as “the researcher,” as he prefers to remain anonymous. I am also grateful for the assistance of citizen researcher/journalist…",
+    "url": "https://www.activistpost.com/same-excess-death-patterns-in-multiple-data-sets-after-mrna-vaccine-rollouts/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-29T12:00:00Z",
+    "content": "This article is based on the painstaking and meticulous work of intrepid researcher and Substack writer csofand. I will refer to him as the researcher, as he prefers to remain anonymous.\r\nI am also g… [+20049 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Grist"
+      "name": "The Intercept"
     },
-    "author": "Austyn Gaffney",
-    "title": "How a Koch-funded campaign is trying to reverse climate action in Vermont",
-    "description": "In one of the bluest U.S. states, Americans for Prosperity is making inroads against climate action.",
-    "url": "https://grist.org/politics/how-a-koch-funded-campaign-is-trying-to-reverse-climate-action-in-vermont/",
-    "urlToImage": "https://grist.org/wp-content/uploads/2025/08/americans-prosperity-6-20250812-e1756312856472.jpg?quality=75&strip=all",
-    "publishedAt": "2025-08-28T08:45:00Z",
-    "content": "This story is a partnership between VTDigger and Grist.\r\nFor about two decades, Americans for Prosperity, the conservative political network, has poured hundreds of millions of dollars into stalling … [+22568 chars]"
+    "author": "The Intercept Briefing",
+    "title": "The Housing Hunger Games",
+    "description": "“How extremely profitable all of this precarity has become.” Author Brian Goldstone on working and homelessness in today’s America.\nThe post The Housing Hunger Games appeared first on The Intercept.",
+    "url": "https://theintercept.com/2025/08/29/briefing-podcast-housing-working-homeless/",
+    "urlToImage": "https://theintercept.com/wp-content/uploads/2025/08/Working-and-Homeless.jpg?fit=2000%2C1000&w=1200&h=800",
+    "publishedAt": "2025-08-29T10:00:00Z",
+    "content": "Homeless sweeps have become the go-to, bipartisan performance of doing something about the U.S. housing crisis a spectacle embraced by Democrats and Republicans, city halls, and the White House alike… [+41355 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "KOKI FOX 23"
+      "name": "Naturalnews.com"
     },
-    "author": "Solstock Ltd",
-    "title": "Department of Health Services says 40 states to remove \"gender ideology\" from curriculum, including OK",
-    "description": "The U.S. Department of Health Services, through the Administration for Children and Families, announced 46 states and territories will need to \"remove all references to gender ideology\" from any federally-funded Personal Responsibility Education Program (PREP…",
-    "url": "https://www.fox23.com/news/department-of-health-services-says-40-states-to-remove-gender-ideology-from-curriculum-including-ok/article_9013ab7c-cc4b-4654-be0d-36d50f56dc71.html",
-    "urlToImage": "https://bloximages.chicago2.vip.townnews.com/fox23.com/content/tncms/assets/v3/editorial/1/70/170bfc2c-a0f8-5d93-a40d-92a3410ec59e/63e6df68c89c9.image.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize",
-    "publishedAt": "2025-08-28T06:02:46Z",
-    "content": "The U.S. Department of Health Services, through the Administration for Children and Families, announced 46 states and territories will need to \"remove all references to gender ideology\" from any fede… [+2296 chars]"
-  },
-  {
-    "source": {
-      "id": "fortune",
-      "name": "Fortune"
-    },
-    "author": "Mike Stobbe, The Associated Press",
-    "title": "Trump fires CDC head after one month on the job. Her lawyers say she ‘refused to rubber-stamp unscientific, reckless directives’",
-    "description": "Susan Monarez's departure coincided with the resignations this week of at least four top CDC officials.",
-    "url": "https://fortune.com/2025/08/27/trump-fires-cdc-head-susan-monarez-vaccines/",
-    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/08/AP25210741634057-e1756352160795.jpg?resize=1200,600",
-    "publishedAt": "2025-08-28T03:37:25Z",
-    "content": "The director of the nations top public health agency has been fired after less than one month in the job, and several top agency leaders have resigned.Susan Monarez isnt aligned with President Donald… [+6252 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Yahoo Entertainment"
-    },
-    "author": "Kristy Bleizeffer",
-    "title": "New Ranking: Wharton Tops Niche’s 2026 Best Colleges For Business",
-    "description": "The Wharton School’s Huntsman Hall at the University of Pennsylvania. Courtesy photo The Wharton School of the University of Pennsylvania once again sits at ...",
-    "url": "https://finance.yahoo.com/news/ranking-wharton-tops-niche-2026-023615452.html",
-    "urlToImage": "https://media.zenfs.com/en/poets_quants_171/d442ad15db077a675afda07c504589a6",
-    "publishedAt": "2025-08-28T02:36:15Z",
-    "content": "Wharton Launches New AI for Business MBA Major + Undergrad Concentration\r\nThe Wharton Schools Huntsman Hall at the University of Pennsylvania. Courtesy photo\r\nThe Wharton School of the University of … [+19666 chars]"
+    "author": "Olivia Cook",
+    "title": "FDA recalls ice cream in 16 states over undeclared nuts after a packaging mix-up",
+    "description": "Blue Bell is recalling half-gallon cartons of Moo-llennium Crunch Ice Cream mistakenly packaged in Chocolate Chip Cookie Dough cartons. The affected products, marked with lid code 061027524, contain undeclared almonds, pecans and walnuts. For people with nut …",
+    "url": "https://www.naturalnews.com/2025-08-29-fda-recalls-ice-cream-in-16-states.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2025/08/Cute-Toddler-Girl-Eating-Ice-Cream.jpg",
+    "publishedAt": "2025-08-29T06:00:00Z",
+    "content": "<ul><li>Blue Bell is recalling half-gallon cartons of Moo-llennium Crunch Ice Cream mistakenly packaged in Chocolate Chip Cookie Dough cartons. The affected products, marked with lid code 061027524, … [+6615 chars]"
   },
   {
     "source": {
@@ -83,50 +57,76 @@
       "name": "Balloon-juice.com"
     },
     "author": "Adam L Silverman",
-    "title": "War for Ukraine Day 1,280: Russian MiG-31Ks Are Up & All of Ukraine Is Under Air Raid Alert",
-    "description": "(Image by NEIVANMADE) It’s 4:05 AM local time in Ukraine/9:05 PM EDT and the air raid alert maps are showing Russian MiG-31Ks up over northwestern Russia and southwestern Russia/the Black Sea approaching Ukraine. Air raid alerts are up for all of Ukraine for …",
-    "url": "https://balloon-juice.com/2025/08/27/war-for-ukraine-day-1280-russian-mig-31ks-are-up-all-of-ukraine-is-under-air-raid-alert/",
+    "title": "War for Ukraine Day 1,281: The Cost",
+    "description": "(Image by NEIVANMADE) The cost: Russia murdered a 17 years old Maryna Hryshko in Kyiv today. [image or embed] — Kate from Kharkiv (@kateinkharkiv.bsky.social) August 28, 2025 at 1:15 PM Death toll in Kyiv has risen to 21. Twenty-one. Russia killed 21 people. …",
+    "url": "https://balloon-juice.com/2025/08/28/war-for-ukraine-day-1281-the-cost/",
     "urlToImage": "https://balloon-juice.com/wp-content/uploads/2020/01/Silverman_On_Security.jpg",
-    "publishedAt": "2025-08-28T01:52:36Z",
-    "content": "(Image by NEIVANMADE)\r\nIt’s 4:05 AM local time in Ukraine/9:05 PM EDT and the air raid alert maps are showing Russian MiG-31Ks up over northwestern Russia and southwestern Russia/the Black Sea approa… [+18730 chars]"
+    "publishedAt": "2025-08-29T01:57:28Z",
+    "content": "(Image by NEIVANMADE)\r\nThe cost:\r\nRussia murdered a 17 years old Maryna Hryshko in Kyiv today.\r\n[image or embed]\r\n Kate from Kharkiv (@kateinkharkiv.bsky.social) August 28, 2025 at 1:15 PM\r\nDeath tol… [+21990 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "WPLG Local 10"
+      "name": "On3.com"
     },
-    "author": null,
-    "title": "CDC director Susan Monarez is out after less than a month on the job, federal officials say",
-    "description": "CDC director Susan Monarez is out after less than a month on the job, federal officials saylocal10.com",
-    "url": "https://www.local10.com//health/2025/08/27/cdc-director-susan-monarez-is-out-after-less-than-a-month-on-the-job-federal-officials-say/",
-    "urlToImage": "https://www.local10.com/resizer/v2/QLDHRCFT5XOYSGXZYK7XPZSUPA.jpg?auth=bd5f6d7c61e7678ded992b0c30d655d98e61134565ec4566d723b8692714b561&width=700",
-    "publishedAt": "2025-08-27T22:08:12Z",
-    "content": "NEW YORK (AP) The director of the nation's top public health agency is out after less than one month in the job, U.S. officials announced Wednesday.\r\nSusan Monarez is no longer director of the Center… [+2525 chars]"
+    "author": "Griffin Goodwyn",
+    "title": "South Carolina women’s soccer battles Clemson to scoreless stalemate in rivalry matchup",
+    "description": "Neither team's net was disturbed on Thursday night, as South Carolina's and Clemson's women's soccer teams fought to a 0-0 tie.",
+    "url": "https://www.on3.com/teams/south-carolina-gamecocks/news/south-carolina-olympic-sports-womens-soccer-scoreless-stalemate-clemson/",
+    "urlToImage": "https://on3static.com/uploads/dev/assets/cms/2025/08/28183858/Gracie-Falla.jpg",
+    "publishedAt": "2025-08-29T01:17:53Z",
+    "content": "South Carolina has been among the most consistent programs in collegiate womens soccer. The Gamecocks have missed the NCAA Tournament just once since 2007, winning three SEC Tournament championships … [+4154 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "TwinCities.com-Pioneer Press"
+      "name": "Soldiersystems.net"
     },
-    "author": "Associated Press",
-    "title": "CDC dramatically scales back program that tracks food poisoning infections",
-    "description": "The Foodborne Diseases Active Surveillance Network cut required monitoring to two pathogens, down from eight.",
-    "url": "https://www.twincities.com/2025/08/27/med-cdc-foodnet/",
-    "urlToImage": "https://www.twincities.com/wp-content/uploads/2025/08/CDC_Layoffs_48587_908514.jpg?w=1024&h=682",
-    "publishedAt": "2025-08-27T21:54:12Z",
-    "content": "By JONEL ALECCIA\r\nFederal health officials have dramatically scaled back a program that has tracked food poisoning infections in the U.S. for three decades.\r\nThe Foodborne Diseases Active Surveillanc… [+3023 chars]"
+    "author": "Eric G",
+    "title": "Army’s New Cyber Advisor Sets Tone for Priorities",
+    "description": "WASHINGTON — Bringing innovative technologies to Soldiers and incorporating next generation software and capabilities will be among the priorities of the Army’s new top cyber strategist. Brandon Pugh outlined his duties as the Principal Cyber Advisor to the S…",
+    "url": "https://soldiersystems.net/2025/08/29/armys-new-cyber-advisor-sets-tone-for-priorities/",
+    "urlToImage": "https://soldiersystems.net/wp-content/uploads/2025/08/image-12-15.jpg",
+    "publishedAt": "2025-08-29T00:00:00Z",
+    "content": "WASHINGTON Bringing innovative technologies to Soldiers and incorporating next generation software and capabilities will be among the priorities of the Armys new top cyber strategist.\r\nBrandon Pugh o… [+3977 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "New York Post"
+      "name": "Techdirt"
     },
-    "author": "Reuters",
-    "title": "CDC director Susan Monarez departs agency less than a month after being sworn in",
-    "description": "U.S. Centers for Disease Control and Prevention Director Susan Monarez has left the agency less than a month after being sworn in, a Trump administration official told Reuters on Wednesday.",
-    "url": "https://nypost.com/2025/08/27/us-news/cdc-director-susan-monarez-departs-agency-less-than-a-month-after-being-sworn-in/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/08/newspress-collage-3b4wcwbv7-1756330674175.jpg?quality=75&strip=all&1756316303&w=1024",
-    "publishedAt": "2025-08-27T21:38:57Z",
-    "content": "US Centers for Disease Control and Prevention Director Susan Monarez has left the agency less than a month after being sworn in, a Trump administration official told Reuters on Wednesday.\r\nThe Washin… [+2127 chars]"
+    "author": "Avi Asher-Schapiro and Christopher Bing",
+    "title": "DOGE Falsely Targeted Him On Social Media. Then The Taliban Took His Family",
+    "description": "This story was originally published by ProPublica. Republished under a CC BY-NC-ND 3.0 license. It was early morning on April 1 when Mohammad Halimi, a 53-year-old exiled Afghan scholar, got a panicked message from his son. Halimi’s name had just appeared in …",
+    "url": "https://www.techdirt.com/2025/08/28/doge-falsely-targeted-him-on-social-media-then-the-taliban-took-his-family/",
+    "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+    "publishedAt": "2025-08-28T22:37:18Z",
+    "content": "from the shameful dept\r\nThis story was originally published by ProPublica. Republished under a CC BY-NC-ND 3.0 license.\r\nIt was early morning on April 1 when Mohammad Halimi, a 53-year-old exiled Afg… [+28982 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WSB Atlanta"
+    },
+    "author": "Lori Wilson",
+    "title": "Decades after Hurricane Katrina, Georgia Tech professor helps to improve how levees are built",
+    "description": "Twenty years after Hurricane Katrina devastated New Orleans, a researcher at Georgia Tech has developed a simulator to understand the failures of the levees that led to widespread flooding.",
+    "url": "https://www.wsbtv.com/news/local/atlanta/decades-after-hurricane-katrina-georgia-tech-professor-help-improve-how-levees-are-built/A5REBQIXURA45HMDFDBTIEBRBE/",
+    "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fd1hfln2sfez66z.cloudfront.net%2F08-28-2025%2Ft_2b5915c40d784526888ce159eab18af1_name_5PP_KATRINA_LEVEE_GATECH_PKG_frame_2580.jpeg?auth=283d860bc84838177aed5aa9e5ae0d248565c32f99ec91ba8bec511c21fe18f1&width=1200&height=630&smart=true",
+    "publishedAt": "2025-08-28T22:26:28Z",
+    "content": "ATLANTA — Twenty years after Hurricane Katrina devastated New Orleans, a researcher at Georgia Tech has developed a simulator to understand the failures of the levees that led to widespread flooding.… [+1632 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Core77.com"
+    },
+    "author": "Jonathan Feakins",
+    "title": "The Tactile Media Alliance: Rescuing Touch in a World of Screens",
+    "description": "When Lindsay Yazzolino was young, she made an origami Christmas tree out of a one-dollar bill. Impressed with how sharp she'd made the topmost point, she urged her mother to examine it for herself. Although her mother assured her that she could see the paper,…",
+    "url": "https://www.core77.com/posts/138386/The-Tactile-Media-Alliance-Rescuing-Touch-in-a-World-of-Screens",
+    "urlToImage": "https://s3files.core77.com/blog/images/lead_n_spotlight/1752185_lead_400_138386_.png",
+    "publishedAt": "2025-08-28T21:27:00Z",
+    "content": "When Lindsay Yazzolino was young, she made an origami Christmas tree out of a one-dollar bill. Impressed with how sharp she'd made the topmost point, she urged her mother to examine it for herself. A… [+9188 chars]"
   }
 ]

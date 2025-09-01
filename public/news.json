@@ -1,6 +1,84 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "Slate Magazine"
+    },
+    "author": "Daniel Varghese",
+    "title": "The Next Hot Outdoors Town Could Pop Up in a State Where You’d Least Expect It",
+    "description": "If only it can get past this one obstacle.",
+    "url": "https://slate.com/business/2025/08/bike-trails-alabama-trump-hidden-outdoor-recreation-destination.html",
+    "urlToImage": "https://compote.slate.com/images/edb9e821-0dc5-4f16-84ce-8b2b66729489.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+    "publishedAt": "2025-08-31T09:45:00Z",
+    "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nThis April, I found myself biking alongside Tommy Battle, the mayor of Hu… [+12695 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "United Community Banks (NASDAQ:UCB) vs. Ameris Bancorp (NASDAQ:ABCB) Head to Head Analysis",
+    "description": "United Community Banks (NASDAQ:UCB – Get Free Report) and Ameris Bancorp (NASDAQ:ABCB – Get Free Report) are both mid-cap finance companies, but which is the superior business? We will compare the two businesses based on the strength of their earnings, valuat…",
+    "url": "https://www.etfdailynews.com/2025/08/31/united-community-banks-nasdaqucb-vs-ameris-bancorp-nasdaqabcb-head-to-head-analysis/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/ameris-bancorp-logo-1200x675.png?v=20221117154336&w=240&h=240&zc=2",
+    "publishedAt": "2025-08-31T07:54:53Z",
+    "content": "United Community Banks (NASDAQ:UCB – Get Free Report) and Ameris Bancorp (NASDAQ:ABCB – Get Free Report) are both mid-cap finance companies, but which is the superior business? We will compare the tw… [+6616 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Denver Post"
+    },
+    "author": "Georgia Nicols",
+    "title": "Daily Horoscope for August 31, 2025",
+    "description": "Get your daily horoscope for August 31, 2025 from astrologer Georgia Nicols.",
+    "url": "https://www.denverpost.com/2025/08/31/daily-horoscope-for-august-31-2025/",
+    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2019/08/Learn_how_to_take_photos_of_the_Milky_Way_with_the_help_of_a_Colorado_conservancy_1.jpg?w=1024&h=683",
+    "publishedAt": "2025-08-31T07:00:00Z",
+    "content": "Moon Alert: There are no restrictions to shopping or important decisions today. The Moon is in SAGITTARIUS.\r\nHappy Birthday for Sunday, Aug. 31, 2025:\r\nYou are charismatic, strongly motivated, and yo… [+3737 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Star Online"
+    },
+    "author": "The Star Online",
+    "title": "A nation at the crossroads",
+    "description": "LETTER FROM PROF MUSHTAK AL-ATABI Provost and chief executive officer Heriot-Watt University Malaysia; and Chairman Vice Chancellors' Council for Private Universities Read full story",
+    "url": "https://www.thestar.com.my/news/education/2025/08/31/a-nation-at-the-crossroads",
+    "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+    "publishedAt": "2025-08-30T23:00:00Z",
+    "content": "In a 1993 study titled Ripe for Rivalry: Prospects for Peace in a Multipolar Asia, published in the journal International Security, American political scientist Aaron L. Friedberg argued that Asia ap… [+3500 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Daily Signal"
+    },
+    "author": "Victor Davis Hanson",
+    "title": "Europe In the Balance?",
+    "description": "Almost weekly in the United Kingdom, the Netherlands, France, and Germany, a sensational assault committed by an illegal migrant—often enjoying some sort of state support... Read More\nThe post Europe In the Balance? appeared first on The Daily Signal.",
+    "url": "https://www.dailysignal.com/2025/08/30/europe-in-balance/",
+    "urlToImage": "https://www.dailysignal.com/wp-content/uploads/2025/08/20250829Merkel-Germany.jpg",
+    "publishedAt": "2025-08-30T19:00:00Z",
+    "content": "Almost weekly in the United Kingdom, the Netherlands, France, and Germany, a sensational assault committed by an illegal migrantoften enjoying some sort of state support or with prior arrests for the… [+5316 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": null,
+    "title": "The 10 private colleges with the best ROI in the U.S.",
+    "description": "Five of the 10 private colleges delivering the best return on investment are Ivy League schools — including No. 1.",
+    "url": "https://www.cnbc.com/2025/08/30/us-private-colleges-best-roi.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/104312981-1571936775338princ.jpg?v=1756307204&w=1920&h=1080",
+    "publishedAt": "2025-08-30T13:00:01Z",
+    "content": "Private colleges tend to be more expensive than public schools in the U.S., but they can also deliver a significant return on investment. \r\nPrinceton University delivers the best ROI among private co… [+4727 chars]"
+  },
+  {
+    "source": {
       "id": "the-irish-times",
       "name": "The Irish Times"
     },
@@ -50,83 +128,5 @@
     "urlToImage": "https://cdn.abcotvs.com/dip/images/17687596_082925-wls-radioactive-shrimp-recall-5pvo-vid.jpg?w=1600",
     "publishedAt": "2025-08-29T19:40:29Z",
     "content": "CHICAGO -- More companies are recalling tens of thousands of packages of imported shrimp sold at Mariano's, Kroger and other U.S. stores, including in Illinois and Indiana, because they may contain r… [+3891 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Daily Caller"
-    },
-    "author": "Victor Davis Hanson",
-    "title": "VICTOR DAVIS HANSON: Europe in the balance?",
-    "description": "Almost weekly in the United Kingdom, the Netherlands, France, and Germany, a sensational assault committed by an illegal migrant surfaces.",
-    "url": "https://dailycaller.com/2025/08/29/europe-united-kingdom-migrant-crime-protest-victor-davis-hanson/",
-    "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/08/GettyImages-2228349852-1-scaled-e1756493870273.jpg",
-    "publishedAt": "2025-08-29T19:07:46Z",
-    "content": "Almost weekly in the United Kingdom, the Netherlands, France, and Germany, a sensational assault committed by an illegal migrant — often enjoying some sort of state support or with prior arrests for … [+5674 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Casinoreports.com"
-    },
-    "author": "Eric Raskin",
-    "title": "Spin Cycle: Maverick SCOTUS Oppo Briefs, Greyhound Racing Ban Bill Highlight Week In Gambling",
-    "description": "Welcome to “Spin Cycle,” Casino Reports’ Friday roundup of all things impactful, intriguing, impressive, or idiotic in the gambling industry.",
-    "url": "https://www.casinoreports.com/spin-cycle-8-29-25/",
-    "urlToImage": "https://www.casinoreports.com/wp-content/uploads/2024/04/Depositphotos_84710332_L-e1712261173362.jpg",
-    "publishedAt": "2025-08-29T18:09:17Z",
-    "content": "Welcome to Spin Cycle, Casino Reports weekly Friday roundup of all things impactful, intriguing, impressive, or idiotic in the gambling industry. Pull up a chair, grab a stack of chips and a glass of… [+9197 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "WFTV Orlando"
-    },
-    "author": "Jonel Aleccia",
-    "title": "More companies pull thousands of packages of shrimp for potential radioactive contamination",
-    "description": "More companies are recalling tens of thousands of packages of imported shrimp that may contain radioactive contamination",
-    "url": "https://www.wftv.com/news/more-companies-pull/Z2URMF6VIFFPJES4MWG36VUWCI/",
-    "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FE3RXZUQ4IQBHF6UAIEM5AVOWA4.jpg?auth=6fb29517760cfc652f33e4bf2e3268da8df7e289bc6f544af703776837e2834f&width=1200&height=630&smart=true",
-    "publishedAt": "2025-08-29T17:53:46Z",
-    "content": "More companies are recalling tens of thousands of packages of imported shrimp sold at Walmart, Kroger and other U.S. stores because they may contain radioactive contamination, according to federal no… [+3635 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Equinechronicle.com"
-    },
-    "author": "Delores Kuhlwein",
-    "title": "9 Youth receive 2025 academic scholarships from APHF",
-    "description": "By Jessica Hein, PHJ News: Nine AjPHA members are getting a leg up for college, thanks to 2025 academic scholarships awarded by the American Paint Horse Foundation. Congratulations to these deserving AjPHA members. Education is one of the three pillars that d…",
-    "url": "http://www.equinechronicle.com/9-youth-receive-2025-academic-scholarships-from-aphf/",
-    "urlToImage": null,
-    "publishedAt": "2025-08-29T15:36:39Z",
-    "content": "Image courtesy of APHA.\r\nBy Jessica Hein, PHJ News:\r\nNine AjPHA members are getting a leg up for college, thanks to 2025 academic scholarships awarded by the American Paint Horse Foundation. Congratu… [+2883 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Boston Herald"
-    },
-    "author": "Kff Health News",
-    "title": "Native Americans want to avoid past Medicaid enrollment snafus as work requirements loom",
-    "description": "The lessons of unwinding suggest “deep trouble” lies ahead for Native Americans who rely on Medicaid.",
-    "url": "https://www.bostonherald.com/2025/08/29/native-americans-want-to-avoid-past-medicaid-enrollment-snafus-as-work-requirements-loom/",
-    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/08/202508270415MCT_____PHOTO____US-NEWS-HEALTH-NATIVE-AMERICANS-MEDICAID-1-KHN.jpg?w=1024&h=681",
-    "publishedAt": "2025-08-29T14:10:27Z",
-    "content": "By Jazmin Orozco Rodriguez, KFF Health News\r\nJonnell Wieder earned too much money at her job to keep her Medicaid coverage when the COVID-19 public health emergency ended in 2023 and states resumed c… [+13979 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Forbes"
-    },
-    "author": "Nick LoMaglio, \n Nick LoMaglio\n https://www.forbes.com/sites/forbes-shook/people/nicklomaglio/",
-    "title": "Lawyers, Guns, And Money: The Wild West Of NIL",
-    "description": "Like all new frontiers, the college athletics landscape brings massive opportunity. Still, the lack of precedent and enforcement procedures can make it feel like The Wild West.",
-    "url": "https://www.forbes.com/sites/forbes-shook/2025/08/29/lawyers-guns-and-money-the-wild-west-of-nil/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b05c001b6b57a09b9c4701/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2025-08-29T14:00:48Z",
-    "content": "Warren Zevon once famously sang send Lawyers, Guns, and Money, a term that came to represent the merging of political, legal, and financial interests that are brought into a situation to exert influe… [+16239 chars]"
   }
 ]

@@ -1,132 +1,132 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "The Conversation Africa"
+      "id": "fox-news",
+      "name": "Fox News"
     },
-    "author": "Divya Mahajan, Assistant Professor of Computer Engineering, Georgia Institute of Technology",
-    "title": "AI’s ballooning energy consumption puts spotlight on data center efficiency",
-    "description": "AI’s burgeoning energy appetite is driving efforts to make more efficient computer chips. But chips are only part of the data center equation.",
-    "url": "https://theconversation.com/ais-ballooning-energy-consumption-puts-spotlight-on-data-center-efficiency-254192",
-    "urlToImage": "https://images.theconversation.com/files/688782/original/file-20250902-56-fgh9og.jpg?ixlib=rb-4.1.0&rect=0%2C100%2C3348%2C1674&q=45&auto=format&w=1356&h=668&fit=crop",
-    "publishedAt": "2025-09-03T12:29:29Z",
-    "content": "These 'chillers' on the roof of a data center in Germany, seen from above, work to cool the equipment inside the building. AP Photo/Michael Probst\r\nArtificial intelligence is growing fast, and so are… [+4441 chars]"
+    "author": null,
+    "title": "Georgia's largest private university ends DEI initiatives after Trump mandates",
+    "description": "Emory University’s interim president Leah Ward Sears sent out a letter on Wednesday confirming the end of the school’s diversity, equity and inclusion programs.",
+    "url": "https://www.foxnews.com/media/georgias-largest-private-university-ends-dei-initiatives-after-trump-mandates",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/emory-university-sign.jpg",
+    "publishedAt": "2025-09-04T11:03:03Z",
+    "content": "Georgias largest private university is the latest to discontinue its diversity, equity and inclusion (DEI) programs in compliance with directives from the Trump administration, according to a letter … [+2985 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Jacob Zinkula",
+    "title": "How this Gen Z couple with $30K in student debt afforded a $435K home in Georgia",
+    "description": "A Gen Z couple bought a $435K home in Georgia with help from a VA loan, family support, and a basement tenant.",
+    "url": "https://www.businessinsider.com/gen-z-couple-buys-home-georgia-despite-student-debt-2025-9",
+    "urlToImage": "https://i.insider.com/68b86f8aa17a8c5b4053ef63?width=1200&format=jpeg",
+    "publishedAt": "2025-09-04T08:08:02Z",
+    "content": "Hannah SieczkowskiMike Moon Studio/Mike Moon Studio\r\n<ul><li>Hannah Sieczkowski and her husband, Kyle, bought a $435k home in Georgia in November 2023.</li><li>Dual incomes, a mortgage refinance, and… [+7302 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Deadline"
+      "name": "FOX 5 Atlanta"
     },
-    "author": "Baz Bamigboye",
-    "title": "Breaking Baz: ‘Lord Of The Rings’ Star Robert Aramayo Curses His Way Through Upcoming TIFF Movie ‘I Swear’ With Aplomb",
-    "description": "EXCLUSIVE: Robert Aramayo, the Lord of the Rings: The Rings of Power star, curses for a cause that’s close to his heart in filmmaker Kirk Jones’ movie I Swear. The movie is based on the life of John Davidson, a Scot who was diagnosed with the neurological dis…",
-    "url": "http://deadline.com/2025/09/robert-aramayo-tourette-movie-i-swear-interview-1236504569/",
-    "urlToImage": "https://deadline.com/wp-content/uploads/2025/09/I-Swear-Breaking-Baz.jpg?w=1024",
-    "publishedAt": "2025-09-03T08:00:00Z",
-    "content": "EXCLUSIVE: Robert Aramayo, the Lord of the Rings: The Rings of Power star, curses for a cause that’s close to his heart in filmmaker Kirk Jones’ movie I Swear.\r\nThe movie is based on the life of John… [+13314 chars]"
+    "author": "Sam Daniel",
+    "title": "Emory Univeristy closing DEI offices, stopping programs",
+    "description": "Emory University announced it is ending its DEI programs and closing DEI offices.",
+    "url": "https://www.fox5atlanta.com/news/emory-univeristy-closing-dei-offices-stopping-programs",
+    "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2021/08/1280/720/emory-university-generic.jpg?ve=1&tl=1",
+    "publishedAt": "2025-09-04T01:11:46Z",
+    "content": "ATLANTA - Emory University said it will close its Diversity, Equity and Inclusion offices, as well as discontinue DEI programs at the university.\r\nWhat we know:\r\nThe University's new interim presiden… [+3621 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Forbes"
+      "name": "Elastic.co"
     },
-    "author": "Kelly Phillips Erb, Forbes Staff, \n Kelly Phillips Erb, Forbes Staff\n https://www.forbes.com/sites/kellyphillipserb/",
-    "title": "Getting To Know You Tuesday: Jason Wiggam",
-    "description": "When tax authorities come calling, taxpayers often seek out professional help. Jason Wiggam is a founding partner of Wiggam Law where he focuses on tax resolution.",
-    "url": "https://www.forbes.com/sites/kellyphillipserb/2025/09/02/getting-to-know-you-tuesday-jason-wiggam/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b793c7c5f778931bb264e9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2025-09-03T00:57:44Z",
-    "content": "Most taxpayers hope to interact with tax authorities as little as possiblea call to ask a quick question, a click on the IRS website, or a scrawled note on a tax bill popped in the mail. Thats why, w… [+9020 chars]"
+    "author": "Marianna Jonsdottir",
+    "title": "Transform your public sector organization with embedded GenAI from Elastic on AWS",
+    "description": "Featured in the AWS Generative AI Content Hub for public sector, Elastic is transforming mission outcomes with embedded GenAI to bring AI-powered search, retrieval augmented generation, and automated ...",
+    "url": "https://www.elastic.co/blog/elastic-aws-generative-ai-hub-public-sector",
+    "urlToImage": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blte16259857da6a820/68b9f589f6520e5f6424d56b/blog-aws-pubsec-hub.jpg",
+    "publishedAt": "2025-09-04T00:00:00Z",
+    "content": "Elastic featured in AWS Generative AI Hub for public sector \r\nElastic is proud to be featured in the new AWS Generative AI Content Hub for public sector a destination showcasing the most impactful wa… [+4495 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Freerepublic.com"
     },
-    "author": "Euronews",
-    "title": "Far-Right Polish MP Announces Relationship With Intersex Woman and Quits Party",
-    "description": "Former MP Dawid Szóstak and model Michalina Manios confirmed they were dating and said they want to \"focus on what's important.\" A politician with Poland’s far-right Konfederacja (Confederation) has said he has left the party after announcing he is in a relat…",
-    "url": "https://freerepublic.com/focus/f-chat/4338239/posts",
+    "author": "ABC News",
+    "title": "More than 1,000 current, former HHS employees sign letter calling on RFK Jr. to resign",
+    "description": "More than 1,000 current and former employees across the Department of Health and Human Services (HHS) signed a letter on Wednesday morning calling for Health Secretary Robert F. Kennedy Jr.'s resignation.Addressed to Kennedy and members of Congress, the signa…",
+    "url": "https://freerepublic.com/focus/f-news/4338462/posts",
     "urlToImage": null,
-    "publishedAt": "2025-09-02T19:23:18Z",
-    "content": "Skip to comments.\r\nFar-Right Polish MP Announces Relationship With Intersex Woman and Quits PartyEuronews ^\r\n | 09/02\r\nPosted on 09/02/2025 12:23:18 PM PDT by nickcarraway\r\nFormer MP Dawid Szóstak an… [+4891 chars]"
+    "publishedAt": "2025-09-03T20:47:06Z",
+    "content": "Skip to comments.\r\nMore than 1,000 current, former HHS employees sign letter calling on RFK Jr. to resignABC News ^\r\n | September 3, 2025, 9:46 AM\r\n | Mary Kekatos\r\nPosted on 09/03/2025 1:47:06 PM PD… [+4631 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Boston Herald"
+      "name": "Us Weekly"
     },
-    "author": "Tribune News Service",
-    "title": "Chagas disease, long considered only a threat abroad, is established in the Southern US",
-    "description": "It's one of the most insidious diseases you've never heard of.",
-    "url": "https://www.bostonherald.com/2025/09/02/chagas-disease-long-considered-only-a-threat-abroad-is-established-in-california-and-the-southern-us/",
-    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/09/US-NEWS-MED-CHAGAS-D-16x9-1.jpg?w=1024&h=575",
-    "publishedAt": "2025-09-02T18:22:52Z",
-    "content": "By Susanne Rust, Los Angeles Times\r\nLOS ANGELES Its one of the most insidious diseases youve never heard of, but Chagas is here in 30 states across the U.S.\r\nIt kills more people in Latin America tha… [+6120 chars]"
+    "author": "Justin Harp",
+    "title": "Everything to Know About the 19-Year Legal Battle Over James Brown’s Estate",
+    "description": "A 19-year-long legal battle over James Brown’s estate led to a myriad of accusations of financial mismanagement, paternity challenges and questions over the future of a planned charitable foundation. Brown died at age 73 on Christmas Day 2006 due to complicat…",
+    "url": "https://www.usmagazine.com/celebrity-news/news/james-brown-estate-legal-battle-19-year-saga-explained/#article",
+    "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2025/09/GettyImages-1276887350-Everything-to-Know-About-the-19-Year-Legal-Battle-over-James-Browns-Estate-e1756929408445.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
+    "publishedAt": "2025-09-03T20:45:13Z",
+    "content": "A 19-year-long legal battle over James Brown’s estate led to a myriad of accusations of financial mismanagement, paternity challenges and questions over the future of a planned charitable foundation.… [+8260 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Priyanka Rajput,Kristine Villarroel",
+    "title": "The top 10 party schools in the US, ranked",
+    "description": "The University of California — Santa Barbara was crowned the top party school for 2026. Find out which other schools made the list.",
+    "url": "https://www.businessinsider.com/top-party-schools-universities-in-the-us-ranked",
+    "urlToImage": "https://i.insider.com/68b8a56df9db348adc0ac6ed?width=1200&format=jpeg",
+    "publishedAt": "2025-09-03T20:35:04Z",
+    "content": "Syracuse University was ranked as the seventh top party school in the US.Khairil Azhar Junos/Shutterstock\r\n<ul><li>Niche ranked the best party colleges in the US using student data about party cultur… [+11012 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Democrats have let Chicago crime ruin everything. Trump can help save lives",
+    "description": "My brother was murdered in Chicago and I know why Trump should send aid to address the city's crime crisis over local Democratic officials' objections.",
+    "url": "https://www.foxnews.com/opinion/democrats-have-let-chicago-crime-ruin-everything-trump-can-help-save-lives",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/chicago-labor-day-shootings-trump-guard-fox-news-001.jpg",
+    "publishedAt": "2025-09-03T20:00:38Z",
+    "content": "During the American Civil War, generals were known to ask for the daily \"butchers bill,\" a euphemism for the number of casualties incurred from that days battle. \r\nThis past Labor Day weekend in Chic… [+6246 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Ms. Magazine"
+      "name": "GlobeNewswire"
     },
-    "author": "Bonnie Fuller",
-    "title": "How Texas Abortion Restrictions Are Driving Doctors Away: ‘By Following the Law, I Was Doing the Wrong Thing Medically’",
-    "description": "Texas’ abortion bans have driven hundreds of physicians to leave the state, retire early, or avoid practicing and training there altogether. Dr. Lou Rubino is one of many doctors forced out, unable to provide not only abortion care but also life-saving emerge…",
-    "url": "https://msmagazine.com/2025/09/02/how-texas-abortion-restrictions-are-driving-doctors-away-by-following-the-law-i-was-doing-the-wrong-thing-medically/",
-    "urlToImage": "https://msmagazine.com/wp-content/uploads/2025/08/GettyImages-1242531360.jpg",
-    "publishedAt": "2025-09-02T17:20:02Z",
-    "content": "Abortion activist Cassidy Levin, 17, crochets during an International Women’s Day abortion rights demonstration at the Texas Capitol on March 8, 2023, in Austin. “Bodily autonomy is one of the most f… [+6811 chars]"
+    "author": "American Botanical Council",
+    "title": "American Botanical Council Debuts Saw Palmetto Educational Video on HerbTV",
+    "description": "Video emphasizes that saw palmetto products effective for prostate health should meet specific quality characteristics – a key requirement in a market containing adulterated saw palmetto ingredients Video emphasizes that saw palmetto products effective for pr…",
+    "url": "https://www.globenewswire.com/news-release/2025/09/03/3144009/0/en/American-Botanical-Council-Debuts-Saw-Palmetto-Educational-Video-on-HerbTV.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/855d5958-8fc7-4f4a-996e-e3530d0de1aa",
+    "publishedAt": "2025-09-03T19:33:00Z",
+    "content": "Austin, Texas, Sept. 03, 2025 (GLOBE NEWSWIRE) -- The nonprofit American Botanical Council (ABC) announces the premiere of its new educational video, Saw Palmetto: Safe and Effective Herb for Prostat… [+7980 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "BroBible"
+      "name": "Lostartpress.com"
     },
-    "author": "Grayson Weir",
-    "title": "Dabo Swinney’s Nepotistic Scholarship Decision Makes Him Look Selfish Compared To Fran Brown",
-    "description": "Dabo Swinney and Fran Brown are on two opposite ends of the spectrum when it comes to college football roster management. They each have a son on their respective teams but only one is on scholarship. I cannot wrap my head around the logic here. There is a co…",
-    "url": "https://brobible.com/sports/article/dabo-swinney-son-scholarship-clay-swinney-holder-clemson/",
-    "urlToImage": "https://brobible.com/wp-content/uploads/2025/09/dabo-swinney-son-scholarship-clemson-holder-clay-swinney-fran-brown.jpg",
-    "publishedAt": "2025-09-02T16:11:03Z",
-    "content": "© Ken Ruinard / USA Today Network South Carolina / USA TODAY NETWORK via Imagn Images -- © Brett Davis / Imagn Images\r\nAudio By Carbonatix\r\nDabo Swinney and Fran Brown are on two opposite ends of the… [+1985 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Johnnyjet.com"
-    },
-    "author": "Natalie DiScala",
-    "title": "September is Passport Awareness Month: Here’s What Travelers Need to Know",
-    "description": "Every September, the U.S. Department of State shines a spotlight on one of the most important travel documents: the passport. Known as Passport Awareness Month, this initiative is designed to...\nThe post September is Passport Awareness Month: Here’s What Trav…",
-    "url": "https://johnnyjet.com/september-is-passport-awareness-month-heres-what-travelers-need-to-know/",
-    "urlToImage": "https://johnnyjet.com/wp-content/uploads/2025/09/passport-awareness-month.jpg",
-    "publishedAt": "2025-09-02T13:06:27Z",
-    "content": "Every September, the U.S. Department of State shines a spotlight on one of the most important travel documents: the passport. Known as Passport Awareness Month, this initiative is designed to help tr… [+4552 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lawyersgunsmoneyblog.com"
-    },
-    "author": "Erik Loomis",
-    "title": "Erik Visits an American Grave, Part 1,956",
-    "description": "This is the grave of John Wesley Dobbs. Born in 1882 in Atlanta, Dobbs grew up in the rural areas outside of that city, around modern Marietta. Like much of that class, he was a relatively light-skinned man, as slaveowner rape of his ancestors was common on b…",
-    "url": "https://www.lawyersgunsmoneyblog.com/2025/09/erik-visits-an-american-grave-part-1955",
-    "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2025/08/IMG_4635-scaled.jpeg",
-    "publishedAt": "2025-09-02T11:00:00Z",
-    "content": "This is the grave of John Wesley Dobbs. \r\nBorn in 1882 in Atlanta, Dobbs grew up in the rural areas outside of that city, around modern Marietta. Like much of that class, he was a relatively light-sk… [+7019 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Yahoo Entertainment"
-    },
-    "author": "Kevin Baxter",
-    "title": "Why Cindy Parlow Cone's 1999 World Cup legacy shapes U.S. Soccer today",
-    "description": "Cindy Parlow Cone, president of U.S. Soccer, will do something that has never been done before when she becomes the first female national federation head to preside over a World Cup.",
-    "url": "https://sports.yahoo.com/article/why-cindy-parlow-cones-1999-110000065.html",
-    "urlToImage": "https://media.zenfs.com/en/la_times_articles_853/1f67dc936d4a639cd006ceb9586dd28f",
-    "publishedAt": "2025-09-02T11:00:00Z",
-    "content": "Cindy Parlow Cone has a soft spot in her heart for World Cups, having played in two and won one. Fewer than a couple of hundred people in history can make that claim.\r\nBut next June, Cone, president … [+5956 chars]"
+    "author": "fitz",
+    "title": "Applications Open for Appalachian Traditional Artists Program",
+    "description": "South Arts, a nonprofit regional arts organization that supports artists and organizations, is now accepting applications for its FY26 Emerging Traditional Artists Program (ETAP). “This program recognizes and supports a new generation of traditional artists t…",
+    "url": "https://blog.lostartpress.com/2025/09/03/applications-open-for-appalachian-traditional-artists-program/",
+    "urlToImage": "https://blog.lostartpress.com/wp-content/uploads/2025/09/Screenshot-2025-09-03-at-2.56.51-PM-1500x501.png",
+    "publishedAt": "2025-09-03T19:13:03Z",
+    "content": "South Arts, a nonprofit regional arts organization that supports artists and organizations, is now accepting applications for its FY26 Emerging Traditional Artists Program (ETAP). \r\nThis program reco… [+1148 chars]"
   }
 ]

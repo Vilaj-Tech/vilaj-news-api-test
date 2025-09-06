@@ -1,132 +1,132 @@
 [
   {
     "source": {
-      "id": "fox-news",
-      "name": "Fox News"
+      "id": null,
+      "name": "Democracy Now!"
     },
-    "author": null,
-    "title": "Georgia's largest private university ends DEI initiatives after Trump mandates",
-    "description": "Emory University’s interim president Leah Ward Sears sent out a letter on Wednesday confirming the end of the school’s diversity, equity and inclusion programs.",
-    "url": "https://www.foxnews.com/media/georgias-largest-private-university-ends-dei-initiatives-after-trump-mandates",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/emory-university-sign.jpg",
-    "publishedAt": "2025-09-04T11:03:03Z",
-    "content": "Georgias largest private university is the latest to discontinue its diversity, equity and inclusion (DEI) programs in compliance with directives from the Trump administration, according to a letter … [+2985 chars]"
+    "author": "webdev@democracynow.org (Democracy Now!)",
+    "title": "\"How Can You Be So Ignorant?\": GOP & Dem. Senators Slam RFK Jr. for Attacks on Vaccines & Science",
+    "description": "Both Democratic and Republican senators grilled Health and Human Services Secretary Robert F. Kennedy Jr. on Thursday in a contentious hearing on his policies and anti-vaccine misinformation. RFK fired the head of the Centers for Disease Control and Preventio…",
+    "url": "https://www.democracynow.org/2025/9/5/vaccines",
+    "urlToImage": "https://www.democracynow.org/images/story/17/78817/full_hd/SEG1-DrOffit-RFK.jpg",
+    "publishedAt": "2025-09-05T12:15:27Z",
+    "content": "AMYGOODMAN: In Washington, Democratic and Republican senators, two of them doctors, grilled Health and Human Services Secretary Robert F. Kennedy Jr. about his attacks on vaccines and ongoing turmoil… [+24893 chars]"
   },
   {
     "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
+      "id": null,
+      "name": "Legalinsurrection.com"
     },
-    "author": "Jacob Zinkula",
-    "title": "How this Gen Z couple with $30K in student debt afforded a $435K home in Georgia",
-    "description": "A Gen Z couple bought a $435K home in Georgia with help from a VA loan, family support, and a basement tenant.",
-    "url": "https://www.businessinsider.com/gen-z-couple-buys-home-georgia-despite-student-debt-2025-9",
-    "urlToImage": "https://i.insider.com/68b86f8aa17a8c5b4053ef63?width=1200&format=jpeg",
-    "publishedAt": "2025-09-04T08:08:02Z",
-    "content": "Hannah SieczkowskiMike Moon Studio/Mike Moon Studio\r\n<ul><li>Hannah Sieczkowski and her husband, Kyle, bought a $435k home in Georgia in November 2023.</li><li>Dual incomes, a mortgage refinance, and… [+7302 chars]"
+    "author": "Mike LaChance",
+    "title": "Emory U. Shutting Down DEI Office and Programs",
+    "description": "\"Federal laws and mandates have been implemented that require higher education institutions to alter fundamentally or even close offices and programs focused on DEI\"\nThe post Emory U. Shutting Down DEI Office and Programs first appeared on Le·gal In·sur·rec·t…",
+    "url": "https://legalinsurrection.com/2025/09/emory-u-shutting-down-dei-office-and-programs/",
+    "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2016/09/Diversity-Studies.jpg",
+    "publishedAt": "2025-09-05T12:00:10Z",
+    "content": "This should be happening everywhere. These programs are toxic.Georgia’s largest private university ends DEI initiatives after Trump mandates\r\nGeorgias largest private university is the latest to disc… [+1676 chars]"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Christian Orozco",
+    "title": "A bipartisan grilling for RFK Jr. and a weather delay crashes the spit-filled NFL season opener: Morning Rundown",
+    "description": "A rare display of bipartisan consensus at Robert F. Kennedy Jr’s Senate hearing.",
+    "url": "https://www.nbcnews.com/news/us-news/bipartisan-grilling-rfk-jr-weather-delay-crashes-spit-filled-nfl-seaso-rcna229268",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250904-cassidy-kennedy-se-428p-a069cc.jpg",
+    "publishedAt": "2025-09-05T11:05:26Z",
+    "content": "A rare display of bipartisan consensus at Robert F. Kennedy Jrs Senate hearing. The latest jobs report is expected to show a slowdown in the workforce. And the NFL returns with a shocking ejection be… [+8521 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Michael T. Nietzel, Senior Contributor, \n Michael T. Nietzel, Senior Contributor\n https://www.forbes.com/sites/michaeltnietzel/",
+    "title": "29 New Obama Foundation Scholars Named At Columbia, University Of Chicago",
+    "description": "The Obama Foundation Scholars for 2025-26 have been named. They include 18 students at the University of Chicago, in addition to 11 scholars at Columbia University.",
+    "url": "https://www.forbes.com/sites/michaeltnietzel/2025/09/05/29-new-obama-foundation-scholars-named-at-columbia-university-of-chicago/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68b9d3dd808bdeeba3a19bf2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2025-09-05T10:00:00Z",
+    "content": "Former President Barack Obama's Foundation has named a new cohort of Obama Fellows. They will be in residence at the University of Chicago and Columbia University. (Photo by Adrian DENNIS / AFP) (Pho… [+7075 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WFTV Orlando"
+    },
+    "author": "Matt Brown And Mike Stobbe",
+    "title": "Kennedy tries to defend COVID-19 vaccine stance in raucous Senate hearing",
+    "description": "Kennedy tries to defend COVID-19 vaccine stance in raucous Senate hearingwftv.com",
+    "url": "https://www.wftv.com/news/health/kennedy-tries-defend/EK4HA64DD5C3ZLKU33T6LFRI4Q/",
+    "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FXKANXYFP2LTQGQBYOVY6ID5QZQ.jpg?auth=a205fafcc6d67ac8a837d5a0ebd6c0ea671f364c0f6f7029031797b68fbb7963&width=1200&height=630&smart=true",
+    "publishedAt": "2025-09-05T00:29:10Z",
+    "content": "WASHINGTON — (AP) U.S. Health Secretary Robert F. Kennedy Jr., facing pointed bipartisan questioning at a rancorous three-hour Senate committee hearing on Thursday, tried to defend his efforts to pul… [+8333 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Skyler  Henry",
+    "title": "Georgia school district seeing positive results from student cellphone ban",
+    "description": "More than half of the states in the U.S. now have laws that either ban or regulate cellphone use in schools.",
+    "url": "https://www.cbsnews.com/news/georgia-school-district-positive-results-student-cellphone-ban-dekalb-county/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/04/28949381-91ed-462d-9478-3c0f7f3e06d3/thumbnail/1200x630/6fac721e54531fa97a820bd589c988ac/1757030064772.png",
+    "publishedAt": "2025-09-04T23:59:57Z",
+    "content": "Atlanta — Most school mornings in the Wilson home in Atlanta, Georgia, start the same way for siblings Angus and Sam: they're woken up by an alarm, then a quick breakfast and a last-minute homework c… [+2144 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Boston Herald"
+    },
+    "author": "Associated Press",
+    "title": "Takeaways from RFK Jr.’s contentious hearing before Senate lawmakers",
+    "description": "Both Democrats and Republicans came out swinging.",
+    "url": "https://www.bostonherald.com/2025/09/04/takeaways-rfk-jr-hearing/",
+    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/09/Congress_Kennedy_20963-1.jpg?w=1024&h=683",
+    "publishedAt": "2025-09-04T21:02:54Z",
+    "content": "By MATTHEW PERRONE and ALI SWENSON, Associated Press\r\nWASHINGTON (AP) A contentious three-hour hearing between U.S. senators and Robert Kennedy Jr. devolved into multiple screaming matches on Thursda… [+7439 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "HuffPost"
+    },
+    "author": "ProPublica",
+    "title": "Trump Is Accusing Foes With Multiple Mortgages of Fraud. Records Show 3 of His Cabinet Members Have Them.",
+    "description": "The White House has targeted opponents, including a Fed governor, for having more than one primary residence on their loan papers.",
+    "url": "https://www.huffpost.com/entry/trump-accusing-foes-multiple-mortgages-fraud-records-show-3-cabinet-members-have-them_n_68b9f194e4b041ed82bdf326",
+    "urlToImage": "https://img.huffingtonpost.com/asset/68b9f59c1800004ff78c71eb.jpg?cache=cbI3DkoExs&ops=1200_630",
+    "publishedAt": "2025-09-04T20:34:08Z",
+    "content": "ProPublica Illustration: Collage by Alex Bandoni/ProPublica. Source images: 4zevar and Alex Wong/Getty Images.\r\nProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receiv… [+16258 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "FOX 5 Atlanta"
     },
-    "author": "Sam Daniel",
-    "title": "Emory Univeristy closing DEI offices, stopping programs",
-    "description": "Emory University announced it is ending its DEI programs and closing DEI offices.",
-    "url": "https://www.fox5atlanta.com/news/emory-univeristy-closing-dei-offices-stopping-programs",
-    "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2021/08/1280/720/emory-university-generic.jpg?ve=1&tl=1",
-    "publishedAt": "2025-09-04T01:11:46Z",
-    "content": "ATLANTA - Emory University said it will close its Diversity, Equity and Inclusion offices, as well as discontinue DEI programs at the university.\r\nWhat we know:\r\nThe University's new interim presiden… [+3621 chars]"
+    "author": "Joyce Lupiani",
+    "title": "RFK Jr. mentions DeKalb Officer David Rose, criticizes CDC during testimony",
+    "description": "HHS Secretary Robert F. Kennedy Jr. defended his “Make America Healthy Again\" agenda, calling it a shift toward preventing chronic disease.",
+    "url": "https://www.fox5atlanta.com/news/rfk-jr-mentions-dekalb-officer-david-rose-criticizes-cdc-during-testimony",
+    "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2025/09/1280/720/snapshot-2025-09-04t131436.027.jpg?ve=1&tl=1",
+    "publishedAt": "2025-09-04T17:50:52Z",
+    "content": "WASHINTON, D.C. - Health and Human Services Secretary Robert F. Kennedy Jr. sharply criticized the Atlanta-based Centers for Disease Control and Prevention during testimony before the Senate on Thurs… [+9068 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Elastic.co"
+      "name": "Ncspin.com"
     },
-    "author": "Marianna Jonsdottir",
-    "title": "Transform your public sector organization with embedded GenAI from Elastic on AWS",
-    "description": "Featured in the AWS Generative AI Content Hub for public sector, Elastic is transforming mission outcomes with embedded GenAI to bring AI-powered search, retrieval augmented generation, and automated ...",
-    "url": "https://www.elastic.co/blog/elastic-aws-generative-ai-hub-public-sector",
-    "urlToImage": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blte16259857da6a820/68b9f589f6520e5f6424d56b/blog-aws-pubsec-hub.jpg",
-    "publishedAt": "2025-09-04T00:00:00Z",
-    "content": "Elastic featured in AWS Generative AI Hub for public sector \r\nElastic is proud to be featured in the new AWS Generative AI Content Hub for public sector a destination showcasing the most impactful wa… [+4495 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": "ABC News",
-    "title": "More than 1,000 current, former HHS employees sign letter calling on RFK Jr. to resign",
-    "description": "More than 1,000 current and former employees across the Department of Health and Human Services (HHS) signed a letter on Wednesday morning calling for Health Secretary Robert F. Kennedy Jr.'s resignation.Addressed to Kennedy and members of Congress, the signa…",
-    "url": "https://freerepublic.com/focus/f-news/4338462/posts",
-    "urlToImage": null,
-    "publishedAt": "2025-09-03T20:47:06Z",
-    "content": "Skip to comments.\r\nMore than 1,000 current, former HHS employees sign letter calling on RFK Jr. to resignABC News ^\r\n | September 3, 2025, 9:46 AM\r\n | Mary Kekatos\r\nPosted on 09/03/2025 1:47:06 PM PD… [+4631 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Us Weekly"
-    },
-    "author": "Justin Harp",
-    "title": "Everything to Know About the 19-Year Legal Battle Over James Brown’s Estate",
-    "description": "A 19-year-long legal battle over James Brown’s estate led to a myriad of accusations of financial mismanagement, paternity challenges and questions over the future of a planned charitable foundation. Brown died at age 73 on Christmas Day 2006 due to complicat…",
-    "url": "https://www.usmagazine.com/celebrity-news/news/james-brown-estate-legal-battle-19-year-saga-explained/#article",
-    "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2025/09/GettyImages-1276887350-Everything-to-Know-About-the-19-Year-Legal-Battle-over-James-Browns-Estate-e1756929408445.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
-    "publishedAt": "2025-09-03T20:45:13Z",
-    "content": "A 19-year-long legal battle over James Brown’s estate led to a myriad of accusations of financial mismanagement, paternity challenges and questions over the future of a planned charitable foundation.… [+8260 chars]"
-  },
-  {
-    "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
-    },
-    "author": "Priyanka Rajput,Kristine Villarroel",
-    "title": "The top 10 party schools in the US, ranked",
-    "description": "The University of California — Santa Barbara was crowned the top party school for 2026. Find out which other schools made the list.",
-    "url": "https://www.businessinsider.com/top-party-schools-universities-in-the-us-ranked",
-    "urlToImage": "https://i.insider.com/68b8a56df9db348adc0ac6ed?width=1200&format=jpeg",
-    "publishedAt": "2025-09-03T20:35:04Z",
-    "content": "Syracuse University was ranked as the seventh top party school in the US.Khairil Azhar Junos/Shutterstock\r\n<ul><li>Niche ranked the best party colleges in the US using student data about party cultur… [+11012 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Democrats have let Chicago crime ruin everything. Trump can help save lives",
-    "description": "My brother was murdered in Chicago and I know why Trump should send aid to address the city's crime crisis over local Democratic officials' objections.",
-    "url": "https://www.foxnews.com/opinion/democrats-have-let-chicago-crime-ruin-everything-trump-can-help-save-lives",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/chicago-labor-day-shootings-trump-guard-fox-news-001.jpg",
-    "publishedAt": "2025-09-03T20:00:38Z",
-    "content": "During the American Civil War, generals were known to ask for the daily \"butchers bill,\" a euphemism for the number of casualties incurred from that days battle. \r\nThis past Labor Day weekend in Chic… [+6246 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "American Botanical Council",
-    "title": "American Botanical Council Debuts Saw Palmetto Educational Video on HerbTV",
-    "description": "Video emphasizes that saw palmetto products effective for prostate health should meet specific quality characteristics – a key requirement in a market containing adulterated saw palmetto ingredients Video emphasizes that saw palmetto products effective for pr…",
-    "url": "https://www.globenewswire.com/news-release/2025/09/03/3144009/0/en/American-Botanical-Council-Debuts-Saw-Palmetto-Educational-Video-on-HerbTV.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/855d5958-8fc7-4f4a-996e-e3530d0de1aa",
-    "publishedAt": "2025-09-03T19:33:00Z",
-    "content": "Austin, Texas, Sept. 03, 2025 (GLOBE NEWSWIRE) -- The nonprofit American Botanical Council (ABC) announces the premiere of its new educational video, Saw Palmetto: Safe and Effective Herb for Prostat… [+7980 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lostartpress.com"
-    },
-    "author": "fitz",
-    "title": "Applications Open for Appalachian Traditional Artists Program",
-    "description": "South Arts, a nonprofit regional arts organization that supports artists and organizations, is now accepting applications for its FY26 Emerging Traditional Artists Program (ETAP). “This program recognizes and supports a new generation of traditional artists t…",
-    "url": "https://blog.lostartpress.com/2025/09/03/applications-open-for-appalachian-traditional-artists-program/",
-    "urlToImage": "https://blog.lostartpress.com/wp-content/uploads/2025/09/Screenshot-2025-09-03-at-2.56.51-PM-1500x501.png",
-    "publishedAt": "2025-09-03T19:13:03Z",
-    "content": "South Arts, a nonprofit regional arts organization that supports artists and organizations, is now accepting applications for its FY26 Emerging Traditional Artists Program (ETAP). \r\nThis program reco… [+1148 chars]"
+    "author": "by Cash Michaels",
+    "title": "Why are we allowing this to happen?",
+    "description": "It’s easy to swim with the big fish until the hook catches you or someone you love, isn’t it?",
+    "url": "https://www.ncspin.com/why-are-we-allowing-this-to-happen",
+    "urlToImage": "https://www.ncspin.com/content/images/1200x628/5cb8b0f11decb.jpg",
+    "publishedAt": "2025-09-04T17:39:45Z",
+    "content": "If there is anyone who is grateful to Almighty GOD, and eternally thankful to modern medicine for the gift of life, and the precious ability to remain amongst the living, it’s me. And if this piece r… [+17443 chars]"
   }
 ]

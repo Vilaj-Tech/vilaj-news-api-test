@@ -1,16 +1,29 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "GlobeNewswire"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": "Research and Markets",
-    "title": "US Cystic Fibrosis Therapeutics Market Forecast and Company Analysis Report 2025-2033 Featuring Vertex, Abbvie, Novartis, Gilead Sciences, Viatris, Pfizer, AstraZeneca, and F. Hoffmann-La Roche",
-    "description": "The United States Cystic Fibrosis Therapeutics Market is set to grow from an estimated US$ 2.32 billion in 2024 to US$ 4.72 billion by 2033, with an 8.22% CAGR from 2025 to 2033. This growth is driven by advancements in gene therapy, increased access to CFTR …",
-    "url": "https://www.globenewswire.com/news-release/2025/09/10/3147601/28124/en/US-Cystic-Fibrosis-Therapeutics-Market-Forecast-and-Company-Analysis-Report-2025-2033-Featuring-Vertex-Abbvie-Novartis-Gilead-Sciences-Viatris-Pfizer-AstraZeneca-and-F-Hoffmann-La-.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "publishedAt": "2025-09-10T10:34:00Z",
-    "content": "Dublin, Sept. 10, 2025 (GLOBE NEWSWIRE) -- The \"United States Cystic Fibrosis Therapeutics Market to See Strong Growth Through 2033 - Driven by Gene Therapy and CFTR Innovation\" report has been added… [+7992 chars]"
+    "author": "TOI Education",
+    "title": "US kids are learning math in the metaverse: Here's how new education trend is unfolding",
+    "description": "Educators across the U.S. are embracing metaverse environments, particularly VR, to revolutionise math education. Students in Georgia are grasping core math concepts faster through interactive 3D experiences, while platforms like Kai XR offer immersive field …",
+    "url": "https://timesofindia.indiatimes.com/education/news/us-kids-are-learning-math-in-the-metaverse-heres-how-new-education-trend-is-unfolding/articleshow/123784584.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-123830465,width-1070,height-580,imgsize-120262,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2025-09-11T11:39:40Z",
+    "content": "Lavanya Tripathi's majestic outfits to try"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Christian Orozco",
+    "title": "Manhunt for Charlie Kirk assassin and the 9/11 health program delays: Morning Rundown",
+    "description": "A manhunt for Charlie Kirk's assassin enters second day.",
+    "url": "https://www.nbcnews.com/news/us-news/manhunt-charlie-kirk-assassin-911-health-program-delays-morning-rundow-rcna230532",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250909-one-time-use-charlie-kirk-obit-cs-1892f4.jpg",
+    "publishedAt": "2025-09-11T11:28:32Z",
+    "content": "A manhunt for Charlie Kirk's assassin enters second day. Democrats demand answers from RFK Jr. on the delayed 9/11 health program. And a group fights for the preservation of historic Latino landmarks… [+9059 chars]"
   },
   {
     "source": {
@@ -18,115 +31,102 @@
       "name": "Knoxville News Sentinel"
     },
     "author": "Knox News | The Knoxville News-Sentinel",
-    "title": "100 simulations predict a dog-eat-hound outcome for Tennessee football vs. Georgia",
-    "description": "We're back to see how EA Sports College Football 26 predicts the Vols will perform vs. Georgia at Neyland Stadium this Saturday.",
-    "url": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/football/2025/09/10/tennessee-vs-georgia-game-prediction-with-ea-sports-college-football-26-simulations/86046551007/",
-    "urlToImage": "https://media.zenfs.com/en/knox-news-the-knoxville-news-sentinel/6bbb929785899bb3d17d798262d0456f",
-    "publishedAt": "2025-09-10T09:07:02Z",
-    "content": "The Tennessee Volunteers dominated the East Tennessee State University Buccaneers in Week 2  just as we predicted using EA Sports College Football 26  and now we're back to see how No. 15 Tennessee w… [+3326 chars]"
+    "title": "Score! EA Sports College Football 26 bringing Tennessee-themed 'showdown' to campus",
+    "description": "EA Sports is taking over the area outside McClung Tower leading up to kickoff for Tennessee football's SEC opener against Georgia in Knoxville.",
+    "url": "https://www.knoxnews.com/story/sports/college/university-of-tennessee/football/2025/09/11/ea-sports-college-football-26-campus-pregame-comes-to-university-tennessee-for-georgia-game/86065161007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TpQ_bV3ouBVPWYDHPBCNeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/knox-news-the-knoxville-news-sentinel/da7f4adb801f2a9a9938a00215630579",
+    "publishedAt": "2025-09-11T09:06:37Z",
+    "content": "We've been running simulations of Tennessee football matchups on EA Sports College Football 26 and recently reported on how East Tennessee athletes can download their own high school teams.\r\nNow, the… [+2084 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Kffhealthnews.org"
+      "name": "Tallahassee Democrat"
     },
-    "author": "Blake Farmer, Nashville Public Radio",
-    "title": "Lice Pose No Health Threat, Yet Some Parents Push Back on Rules To Allow Affected Kids in Class",
-    "description": "Public health officials see lice as a nuisance, not a health threat, and the Centers for Disease Control and Prevention has recommended for years that students with live lice be allowed to remain in class. But as “no-nit” policies have been dropped in favor o…",
-    "url": "https://kffhealthnews.org/news/article/lice-school-policy-inclusion-rules-parent-pushback/",
-    "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/09/Thompson.jpg",
-    "publishedAt": "2025-09-10T09:00:00Z",
-    "content": "Blake Farmer, Nashville Public RadioAny evidence of lice was once a reason for immediate dismissal from school, not to return until the student’s head was lice-free. But what are known as “no-nit” po… [+4677 chars]"
+    "author": "Tallahassee Democrat",
+    "title": "FAMU football legendary QB Quinn Gray to face Rattlers as Albany State Golden Rams coach",
+    "description": "Former FAMU football star quarterback Quinn Gray will lead his Albany State Golden Rams team against the Rattlers in Week 3 at Bragg Memorial Stadium.",
+    "url": "https://www.tallahassee.com/story/sports/college/famu/2025/09/11/quinn-gray-famu-rattlers-football-albany-state-coach/85962176007/",
+    "urlToImage": "https://media.zenfs.com/en/tallahassee-democrat/b6ab40dfaec904d42ff3ec6b5c9238bf",
+    "publishedAt": "2025-09-11T09:04:22Z",
+    "content": "Welcome back, Quinn Gray.\r\nOn Saturday, Sept. 13, the former Florida A&amp;M football star quarterback will contend against his alma mater as the head coach of Albany State.\r\nAlbany State football he… [+3695 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Thenation.com"
+      "name": "Nakedcapitalism.com"
     },
-    "author": "Aviva Stahl",
-    "title": "Community Land Trusts Are Standing Up to New York City’s Worst Landlords",
-    "description": "Aviva Stahl\n\n\n\nNew legislation could accelerate a growing movement of tenants who refuse to be at the mercy of developers and want to take ownership of their communities resources.\r\n\n\r\n\n\nThe post Community Land Trusts Are Standing Up to New York City’s Worst …",
-    "url": "https://www.thenation.com/?post_type=article&p=570144",
-    "urlToImage": "https://www.thenation.com/wp-content/uploads/2025/09/housing-rally-enyclt.jpg",
-    "publishedAt": "2025-09-10T09:00:00Z",
-    "content": "Activism / September 10, 2025\r\nNew legislation could accelerate a growing movement of tenants who refuse to be at the mercy of developers and want to take ownership of their communities resources.\r\nA… [+15907 chars]"
+    "author": "Yves Smith",
+    "title": "Michael Hudson: Trump’s Economic War Against Europe, Korea and Japan",
+    "description": "On the impact of Trump overplaying his hand with trade partners who aren't all that dependent on the US.",
+    "url": "https://www.nakedcapitalism.com/2025/09/michael-hudson-trumps-economic-war-against-europe-korea-and-japan.html",
+    "urlToImage": null,
+    "publishedAt": "2025-09-11T08:00:55Z",
+    "content": "Yves here. Michael Hudson provides a thoughtful discussion of the status of various Trump efforts to assert dominance are going with Europe, Korea, and Japan. However, I have to engage in my regular … [+10828 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "ETF Daily News"
+      "name": "WSB Atlanta"
     },
-    "author": "MarketBeat News",
-    "title": "Head to Head Analysis: United Community Banks (NASDAQ:UCB) vs. Equity Bancshares (NASDAQ:EQBK)",
-    "description": "United Community Banks (NASDAQ:UCB – Get Free Report) and Equity Bancshares (NASDAQ:EQBK – Get Free Report) are both finance companies, but which is the better stock? We will compare the two companies based on the strength of their valuation, earnings, analys…",
-    "url": "https://www.etfdailynews.com/2025/09/10/head-to-head-analysis-united-community-banks-nasdaqucb-vs-equity-bancshares-nasdaqeqbk/",
-    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/equity-bancshares-inc-logo-1200x675.jpg&w=240&h=240&zc=2",
-    "publishedAt": "2025-09-10T06:40:55Z",
-    "content": "United Community Banks (NASDAQ:UCB – Get Free Report) and Equity Bancshares (NASDAQ:EQBK – Get Free Report) are both finance companies, but which is the better stock? We will compare the two companie… [+7306 chars]"
+    "author": "Associated Press",
+    "title": "Who is Charlie Kirk, political activist killed in shooting at Utah college?",
+    "description": "Kirk died doing what made him a potent political force — rallying the right on a college campus.",
+    "url": "https://www.wsbtv.com/news/local/atlanta/who-is-charlie-kirk-political-activist-killed-shooting-utah-college/FSTBB22FWZHFNKGK5VQ7BNVQ2I/",
+    "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FRTP3UUCFR6TF5DSNNQLZTVHDBE.jpg?auth=b94c02008f4839ab07e03c6969c60505be43ac963187e7455c045a605586a855&width=1200&height=630&smart=true",
+    "publishedAt": "2025-09-11T00:53:32Z",
+    "content": "ATLANTA — News of Charlie Kirks shooting death at a Utah college on Wednesday sent shockwaves through Conservative circles. \r\nKirk, a top podcaster, culture warrior and ally of President Donald Trump… [+7058 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Forbes"
+      "name": "Roanoke Times"
     },
-    "author": "Maria Gracia Santillana Linares, Forbes Staff, \n Maria Gracia Santillana Linares, Forbes Staff\n https://www.forbes.com/sites/mariagraciasantillanalinares/",
-    "title": "The Fast Food Origin Stories Of The World’s Billionaires",
-    "description": "Plus, the great Gen Z lock-in, who's eligible for no taxes on tips and more jobs revisions on this week's Careers newsletter.",
-    "url": "https://www.forbes.com/sites/mariagraciasantillanalinares/2025/09/09/the-fast-food-origin-stories-of-the-worlds-billionaires/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68c06c800ac4f53d0c230aff/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2025-09-09T18:14:23Z",
-    "content": "This is a published version of Forbes Careers Newsletter. Click here\r\n to subscribe and get it in your inbox every Tuesday. \r\nPeter Cancro started making sandwiches at Mike's Submarines in Point Plea… [+4158 chars]"
+    "author": "NICHOLAS RICCARDI and ALI SWENSON Associated Press",
+    "title": "Charlie Kirk, who helped build support for Trump among young people, dies",
+    "description": "He personified the pugnacious, populist conservatism that took over the Republican Party in the age of Trump.",
+    "url": "https://roanoke.com/news/nation-world/obituaries/article_0217ea7a-293f-5fc7-963d-3ad503702c44.html",
+    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/0/21/0217ea7a-293f-5fc7-963d-3ad503702c44/68c1f89a89166.preview.jpg?crop=1524%2C800%2C61%2C70&resize=1200%2C630&order=crop%2Cresize",
+    "publishedAt": "2025-09-10T22:48:00Z",
+    "content": "Charlie Kirk, who rose from a teenage conservative campus activist to a top podcaster, culture warrior and ally of President Donald Trump, was shot and killed Wednesday during a public appearance at … [+9167 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Foreign Policy"
+      "name": "New Zealand Herald"
     },
-    "author": "Howard W. French",
-    "title": "Trump Has a Cluster-Bomb Approach to Policy",
-    "description": "The collateral damage from the ICE raid on a Hyundai plant is yet another example of Trump’s counterproductive strategy.",
-    "url": "http://foreignpolicy.com/2025/09/09/trump-immigration-raid-hyundai-battery-south-korea-china/",
-    "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2025/09/south-korea-immigration-raid-AP25252129404918.jpg?w=1000",
-    "publishedAt": "2025-09-09T16:51:02Z",
-    "content": "The U.S. governments raid on a Hyundai battery plant for electric cars in Ellabell, Georgia, last week was the economic policy equivalent of a cluster bomb, one of the dumbest types of military munit… [+7758 chars]"
+    "author": "Adam Pearse",
+    "title": "Pacific Islands Forum: Fate of New Zealand’s funding for Kiribati remains up in the air",
+    "description": "New Zealand launched a review into its funding for Kiribati in January.",
+    "url": "https://www.nzherald.co.nz/nz/politics/pacific-islands-forum-fate-of-new-zealands-funding-for-kiribati-remains-up-in-the-air/ZPWN3HKA2ZD25CTSFGGXI5LKAQ/",
+    "urlToImage": "https://www.nzherald.co.nz/resizer/v2/SIZ27YAHHFAYZLCRPIKLZ3GJXY.jpg?auth=182b7787d2aaee2dcd27457cec149ad542d99bdbaf6a70920cd9b7643e7a6842&width=1200&height=675&quality=70&smart=true",
+    "publishedAt": "2025-09-10T22:33:40Z",
+    "content": "In March, Newsroom reported the Ministry of Foreign Affairs review had found the funding should not be cut but its exact findings remain unknown.\r\nMedia were able to capture an image of Luxon and Maa… [+3401 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "GlobeNewswire"
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
     },
-    "author": "Smart Electric Power Alliance",
-    "title": "SEPA Appoints Angela Strickland as Chief Experience Officer and Monica Trauzzi as Chief Communications Officer",
-    "description": "Strickland and Trauzzi will drive key initiatives to expand SEPA’s positioning across the energy ecosystem Strickland and Trauzzi will drive key initiatives to expand SEPA’s positioning across the energy ecosystem",
-    "url": "https://www.globenewswire.com/news-release/2025/09/09/3147148/0/en/SEPA-Appoints-Angela-Strickland-as-Chief-Experience-Officer-and-Monica-Trauzzi-as-Chief-Communications-Officer.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/07d6a046-5705-4e4b-ae5e-f8ce07e68b0b",
-    "publishedAt": "2025-09-09T15:07:00Z",
-    "content": "WASHINGTON, D.C., Sept. 09, 2025 (GLOBE NEWSWIRE) -- The Smart Electric Power Alliance (SEPA) today announced the appointment of two new senior leaders who will play pivotal roles in driving the orga… [+4960 chars]"
+    "author": "ABC News",
+    "title": "University shooting victim Charlie Kirk a driving force in youth support for Trump",
+    "description": "Charlie Kirk rose from a teenage conservative campus activist to a top podcaster, culture warrior and ally of US President Donald Trump.",
+    "url": "https://www.abc.net.au/news/2025-09-11/charlie-kirk-who-helped-build-support-for-donald-trump-dies/105760300",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5b8e8960c2bb07140278731e4e1cd75b?impolicy=wcms_watermark_news&cropH=1365&cropW=2426&xPos=0&yPos=51&width=862&height=485&imformat=generic",
+    "publishedAt": "2025-09-10T21:47:56Z",
+    "content": "Charlie Kirk, who rose from a teenage conservative campus activist to a top podcaster, culture warrior and ally of US President Donald Trump, has been shot and killed during one of his trademark publ… [+5516 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Activistpost.com"
+      "id": "nbc-news",
+      "name": "NBC News"
     },
-    "author": "Editor",
-    "title": "Europe in the Balance?",
-    "description": "Europe faces a breaking point as illegal migration, welfare strain, energy crises, and defense demands collide with shrinking populations and stagnant economies. Almost weekly in the United Kingdom, the Netherlands, France, and Germany, a sensational assault …",
-    "url": "https://www.activistpost.com/europe-in-the-balance/",
-    "urlToImage": "https://www.activistpost.com/wp-content/uploads/2025/08/GettyImages-2227434904.jpg",
-    "publishedAt": "2025-09-09T14:00:00Z",
-    "content": "Europe faces a breaking point as illegal migration, welfare strain, energy crises, and defense demands collide with shrinking populations and stagnant economies.\r\nAlmost weekly in the United Kingdom,… [+5282 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Plos.org"
-    },
-    "author": "Richard Gyan Aboagye, Bright Opoku Ahinkorah, Irene Esi Donkoh, Joshua Okyere, Sanni Yaya",
-    "title": "A nonlinear decomposition analysis of the rural-urban disparities in tobacco use among women in sub-Saharan Africa",
-    "description": "Background Tobacco use remains a major public health challenge in sub-Saharan Africa, with significant gendered dimensions. Place of residence is an important determinant, as rural and urban contexts shape exposure, access, and consumption patterns. This stud…",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0331738",
-    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0331738.g001&size=inline",
-    "publishedAt": "2025-09-09T14:00:00Z",
-    "content": "Citation: Aboagye RG, Ahinkorah BO, Donkoh IE, Okyere J, Yaya S (2025) A nonlinear decomposition analysis of the rural-urban disparities in tobacco use among women in sub-Saharan Africa. PLoS One 20(… [+32221 chars]"
+    "author": "Curtis Bunn",
+    "title": "At Emory University, the disbanding of DEI contradicts the school’s progressive reputation",
+    "description": "Emory University alumni say they are concerned the move is regressive and out of step with Atlanta’s legacy of civil rights.",
+    "url": "https://www.nbcnews.com/news/nbcblk/emory-university-disbanding-dei-betrays-schools-progressive-reputation-rcna230260",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250910-Emory-University-rs-21cce1.jpg",
+    "publishedAt": "2025-09-10T21:00:41Z",
+    "content": "ATLANTA As the Georgia NAACP weighs a protest at Emory University over its presidents announcement that it would dismantle diversity, equity and inclusion programs, a group of Black alums has banded … [+8017 chars]"
   }
 ]

@@ -1,6 +1,97 @@
 [
   {
     "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "bgriffiths@insider.com (Brent D. Griffiths)",
+    "title": "Who is Lisa Cook? Meet the Fed governor Trump said he fired but is refusing to leave",
+    "description": "Federal Reserve Gov. Lisa Cook has spent a lifetime blazing trails. Now, she's fighting with Donald Trump over her future at the Fed.",
+    "url": "https://www.businessinsider.com/who-is-lisa-cook-federal-reserve-governor",
+    "urlToImage": "https://i.insider.com/68c47e2057d362d375e81ba1?width=1200&format=jpeg",
+    "publishedAt": "2025-09-14T11:07:02Z",
+    "content": "Federal Reserve Gov. Lisa Cook's fight over her future is getting even more heated.\r\nAfter a federal judge blocked Trump's attempt to fire her, Trump asked an appeals court to let his ouster of Cook … [+6898 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Ayelet Sheffey",
+    "title": "More parents want their kids to learn at home",
+    "description": "Declining birth rates and the growth of school vouchers are hurting public school enrollment. Homeschooling, though, is on the rise.",
+    "url": "https://www.businessinsider.com/is-homeschooling-on-the-rise-vouchers-public-school-education-2025-9",
+    "urlToImage": "https://i.insider.com/68c2c4a632af4d666ef7af3a?width=1200&format=jpeg",
+    "publishedAt": "2025-09-14T08:02:01Z",
+    "content": "Homeschooling is on the rise across the country.Maskot/Getty Images\r\n<ul><li>More parents are choosing to homeschool their kids.</li><li>Seventeen states have so far reported increases in homeschooli… [+5324 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "Gateway Pundit",
+    "title": "TikTok User Calls For Charlie Kirk’s Widow and Children, Elected Officials, CEOs to be Murdered Next – “His Wife and Kids Need to Go Too… Get Rid of the Whole Family” (VIDEO)",
+    "description": "Many are now calling for an investigation into a black woman after she called for a “revolution” and the murder of Charlie Kirk’s entire family at a time of heightened political division and potential for violence following Charlie Kirk’s assassination. “I’m …",
+    "url": "https://freerepublic.com/focus/f-news/4340335/posts",
+    "urlToImage": null,
+    "publishedAt": "2025-09-14T03:52:43Z",
+    "content": "Skip to comments.\r\nTikTok User Calls For Charlie Kirks Widow and Children, Elected Officials, CEOs to be Murdered Next His Wife and Kids Need to Go Too Get Rid of the Whole Family (VIDEO)Gateway Pund… [+5134 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "House of Prayer church leaders indicted for alleged $22M fraud scheme targeting military vets",
+    "description": "Georgia-based House of Prayer Christian Churches of America leaders face federal charges for alleged decades-long fraud targeting U.S. military veterans and service members.",
+    "url": "https://www.foxnews.com/us/house-prayer-church-leaders-indicted-alleged-fraud-scheme-targeting-military-vets",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/hopcc-split.png",
+    "publishedAt": "2025-09-14T02:34:45Z",
+    "content": "Federal prosecutors have indicted the founder and several leaders of the House of Prayer Christian Churches of America, accusing the Georgia-based ministry of running a decades-long, $22 million frau… [+4275 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "Andrew McGowan",
+    "title": "‘White Lotus’ Star Jason Isaacs Warns ‘Hate Is Being Weaponized’ While Accepting Creative Coalition Humanitarian Award",
+    "description": "Jason Isaacs, one of the Emmy-nominated stars of “The White Lotus” Season 3, gave a rousing acceptance speech at the Creative Coalition’s Humanitarian Awards Luncheon on Sept. 13, during which he warned that “hate is being weaponized everywhere in the world.”…",
+    "url": "https://variety.com/2025/tv/news/white-lotus-jason-isaacs-warns-hate-weaponized-1236517667/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2025/09/GettyImages-2230635344.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2025-09-14T01:16:21Z",
+    "content": "Jason Isaacs, one of the Emmy-nominated stars of “The White Lotus” Season 3, gave a rousing acceptance speech at the Creative Coalition‘s Humanitarian Awards Luncheon on Sept. 13, during which he war… [+5539 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "denver7",
+    "title": "'This shouldn’t even be a debate': Colorado students march against gun violence",
+    "description": "'This shouldn’t even be a debate': Colorado students march against gun violence Denver7 was there when Jefferson County students walked out of class to demand more be done to stop gun violence in the wake of the Evergreen High School shooting By: Richard Butl…",
+    "url": "https://freerepublic.com/focus/f-news/4340300/posts",
+    "urlToImage": null,
+    "publishedAt": "2025-09-14T01:02:04Z",
+    "content": "Skip to comments.\r\n'This shouldnt even be a debate': Colorado students march against gun violencedenver7 ^\r\n | Sep 12, 2025\r\n | Richard Butler\r\nPosted on 09/13/2025 6:02:04 PM PDT by real saxophonist… [+8284 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "South China Morning Post",
+    "title": "Dozens of US-China education programmes 'must end', says House Republican report",
+    "description": "Republicans in the US House of Representatives are escalating their targeting of US-China joint institutes and degree programmes, identifying dozens of such ...",
+    "url": "https://www.yahoo.com/news/articles/dozens-us-china-education-programmes-093000116.html",
+    "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+    "publishedAt": "2025-09-13T09:30:00Z",
+    "content": "Republicans in the US House of Representatives are escalating their targeting of US-China joint institutes and degree programmes, identifying dozens of such partnerships as \"high-risk\" for the first … [+4232 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "NPR"
     },
@@ -37,96 +128,5 @@
     "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/marine-products-corp-logo-1200x675.jpg&w=240&h=240&zc=2",
     "publishedAt": "2025-09-13T07:48:46Z",
     "content": "Institutional &amp; Insider Ownership\r\n0.5% of Newton Golf shares are held by institutional investors. Comparatively, 13.9% of Marine Products shares are held by institutional investors. 8.4% of Newt… [+5402 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lesswrong.com"
-    },
-    "author": "Screwtape",
-    "title": "Meetups Everywhere 2025: Times and Places",
-    "description": "Published on September 13, 2025 12:00 AM GMTMany cities have regular Astral Codex Ten meetup groups. Twice a year, I try to advertise their upcoming meetups and make a bigger deal of it than usual so that irregular attendees can attend and new readers can hea…",
-    "url": "https://www.lesswrong.com/posts/6umEbXvotXicRPvGs/meetups-everywhere-2025-times-and-places",
-    "urlToImage": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
-    "publishedAt": "2025-09-13T00:00:32Z",
-    "content": "Many cities have regular Astral Codex Ten meetup groups. Twice a year, I try to advertise their upcoming meetups and make a bigger deal of it than usual so that irregular attendees can attend and new… [+81260 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Balloon-juice.com"
-    },
-    "author": "Adam L Silverman",
-    "title": "War for Ukraine Day 1,296: Drones Over Kharkiv",
-    "description": "(Image by NEIVANMADE) Kharkiv is again under drone attack as of 1:50 AM local time/6:50 PM EDT: Explosion in Kharkiv ‼️ the city is under russian drone attack right now ‼️ — Kate from Kharkiv (@kateinkharkiv.bsky.social) September 12, 2025 at 6:49 PM Presiden…",
-    "url": "https://balloon-juice.com/2025/09/12/war-for-ukraine-day-1296-drones-over-kharkiv/",
-    "urlToImage": "https://balloon-juice.com/wp-content/uploads/2020/01/Silverman_On_Security.jpg",
-    "publishedAt": "2025-09-12T23:37:00Z",
-    "content": "(Image by NEIVANMADE)\r\nKharkiv is again under drone attack as of 1:50 AM local time/6:50 PM EDT:\r\nExplosion in Kharkiv the city is under russian drone attack right now \r\n Kate from Kharkiv (@kateinkh… [+33686 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "WCVB Boston"
-    },
-    "author": "Mike Schneider",
-    "title": "Income inequality in the United States dipped last year, with median household income rising slightly",
-    "description": "Income inequality in the United States dipped last year, with median household income rising slightlywcvb.com",
-    "url": "https://www.wcvb.com/article/us-census-american-community-survey/66045919",
-    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap268c498c7e4b32.jpg?crop=1.00xw:0.852xh;0,0.0944xh&resize=1200:*",
-    "publishedAt": "2025-09-12T22:26:08Z",
-    "content": "Income inequality dipped, more people had college degrees, fewer people moved to a different home and the share of Asian and Hispanic residents increased in the United States last year, according to … [+3610 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Inside Higher Ed"
-    },
-    "author": "jessica.blake@insidehighered.com",
-    "title": "Trump Administration Withholds $660M for College Access Programs",
-    "description": "Trump Administration Withholds $660M for College Access Programs \n\n \n\n\n \njessica.blake@…\n\nFri, 09/12/2025 - 04:48 PM\n\nNonprofits that advocate for first-gen students say that without the federally funded programs, college could become unattainable for hundred…",
-    "url": "https://www.insidehighered.com/news/government/student-aid-policy/2025/09/12/trump-administration-withholds-millions-trio-programs",
-    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-09/TRIO_funds_stopped.jpg?itok=NpVhjRnP",
-    "publishedAt": "2025-09-12T20:48:29Z",
-    "content": "Normally, back-to-school season means that the staff who lead federally funded programs for low-income and first-generation college students are kicking into high gear. But this month, the Trump admi… [+8279 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Online Athens"
-    },
-    "author": "Vanessa Countryman, Athens Banner-Herald",
-    "title": "Gov. Brian Kemp swears in daughter, Lucy Kemp of Athens, as Georgia State Trooper",
-    "description": "Georgia Gov. Brian Kemp’s daughter Lucy joins the State Patrol after graduating top of her class. Here's what we know.",
-    "url": "https://www.onlineathens.com/story/news/2025/09/12/gov-brian-kemp-swears-in-daughter-lucy-kemp-as-georgia-state-trooper/86109539007/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bZfJuLwwA5AvCDfkCJNfvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/athens-banner-herald/076b8a6854acbc0f954c3568812c2b08",
-    "publishedAt": "2025-09-12T14:20:09Z",
-    "content": "Lucy Kemp, the middle daughter of Georgia Governor Brian Kemp, is now officially a Georgia State Trooper.\r\nShe was one of 30 cadets who graduated and joined the ranks of the Georgia State Patrol last… [+1868 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ingame.com"
-    },
-    "author": "Jill R. Dorson",
-    "title": "Why ADHD And Sports Betting Are A Tough Combination",
-    "description": "Gambling addiction doesn't happen in a vacuum. ADHD is one of a long list of co-morbidities that also include substance abuse and depression.",
-    "url": "https://www.ingame.com/adhd-gambling-addiction-overlap/",
-    "urlToImage": "https://www.ingame.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-3-2025-09_55_51-AM-1024x683.png",
-    "publishedAt": "2025-09-12T12:00:00Z",
-    "content": "Megan Poliquin has been treating people with gambling disorder since 2018. But her understanding of how it affects some people changed dramatically last year. She was diagnosed with Attention Deficit… [+8072 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "W3.org"
-    },
-    "author": "Announce",
-    "title": "The 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026): First Combo Call for Workshop Papers",
-    "description": null,
-    "url": "https://lists.w3.org/Archives/Public/semantic-web/2025Sep/0006.html",
-    "urlToImage": null,
-    "publishedAt": "2025-09-12T11:29:42Z",
-    "content": "*** First Combo Call for Workshop Papers ***\n\nThe 33rd IEEE International Conference on Software Analysis, Evolution\nand Reengineering (SANER 2026)\n\n17 March, 2026, 5* St. Raphael Resort and Marina, … [+1603 chars]"
   }
 ]

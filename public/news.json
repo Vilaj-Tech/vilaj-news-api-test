@@ -1,6 +1,84 @@
 [
   {
     "source": {
+      "id": "new-york-magazine",
+      "name": "New York Magazine"
+    },
+    "author": "Ben Terris",
+    "title": "Who Really Runs DHS?",
+    "description": "With the help of her righthand man Corey Lewandowski, Kristi Noem has turned DHS into Trump’s most devastating weapon against the right’s enemies.",
+    "url": "http://nymag.com/intelligencer/article/kristi-noem-corey-lewandowski-dhs-fema-trump-enforcers.html",
+    "urlToImage": "https://pyxis.nymag.com/v1/imgs/806/b85/ef6126e61aad90aa1c2950ba8378dd4511-Noem-lede-for-web.1x.rsocial.w1200.jpg",
+    "publishedAt": "2025-09-22T09:00:37Z",
+    "content": "On the morning of May 7, before making his way to Capitol Hill to testify in front of Congress, Cameron Hamilton, then the acting administrator of the Federal Emergency Management Agency, packed up h… [+41124 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Wattsupwiththat.com"
+    },
+    "author": "Guest Blogger",
+    "title": "Weekly Climate and Energy News Roundup #658",
+    "description": "Quote of the Week: “The Theory of Relativity confers an absolute meaning on a magnitude which in classical theory has only a relative significance: the velocity of light. The velocity of light is to the Theory of Relativity as the elementary quantum of action…",
+    "url": "https://wattsupwiththat.com/2025/09/22/weekly-climate-and-energy-news-roundup-658/",
+    "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/09/charlesrotter_beautiful_scenic_photograph_of_mount_denali_07a47midjourney.webp?fit=1024%2C512&quality=75&ssl=1",
+    "publishedAt": "2025-09-22T09:00:00Z",
+    "content": "Quote of the Week: The Theory of Relativity confers an absolute meaning on a magnitude which in classical theory has only a relative significance: the velocity of light. The velocity of light is to t… [+64204 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "Financial Analysis: United Community Banks (NASDAQ:UCB) vs. Signature Bank (NASDAQ:SBNY)",
+    "description": "Signature Bank (NASDAQ:SBNY – Get Free Report) and United Community Banks (NASDAQ:UCB – Get Free Report) are both finance companies, but which is the better business? We will compare the two businesses based on the strength of their dividends, earnings, profi…",
+    "url": "https://www.etfdailynews.com/2025/09/22/financial-analysis-united-community-banks-nasdaqucb-vs-signature-bank-nasdaqsbny/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/united-community-banks-inc-logo-1200x675.png?v=20240923134018&w=240&h=240&zc=2",
+    "publishedAt": "2025-09-22T07:36:50Z",
+    "content": "Signature Bank (NASDAQ:SBNY – Get Free Report) and United Community Banks (NASDAQ:UCB – Get Free Report) are both finance companies, but which is the better business? We will compare the two business… [+5339 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ETF Daily News"
+    },
+    "author": "MarketBeat News",
+    "title": "SiteOne Landscape Supply (NYSE:SITE) versus Horiba (OTCMKTS:HRIBF) Critical Analysis",
+    "description": "SiteOne Landscape Supply (NYSE:SITE – Get Free Report) and Horiba (OTCMKTS:HRIBF – Get Free Report) are both mid-cap industrials companies, but which is the better stock? We will compare the two companies based on the strength of their analyst recommendations…",
+    "url": "https://www.etfdailynews.com/2025/09/22/siteone-landscape-supply-nysesite-versus-horiba-otcmktshribf-critical-analysis/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/horiba-ltd-logo-1200x675.jpg&w=240&h=240&zc=2",
+    "publishedAt": "2025-09-22T07:26:57Z",
+    "content": "SiteOne Landscape Supply (NYSE:SITE – Get Free Report) and Horiba (OTCMKTS:HRIBF – Get Free Report) are both mid-cap industrials companies, but which is the better stock? We will compare the two comp… [+6397 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Thisisgoingtobebig.com"
+    },
+    "author": "Charlie O'Donnell",
+    "title": "Our Venture Unfriendly Immigration Policy",
+    "description": "Imagine doing the due diligence in a company whose tech team is in Eastern \nEurope—Belarus to be specific. It’s a small country with a strong STEM \neducation system that you honestly don’t know that much about. As you do \nyour work, what you hear makes you ne…",
+    "url": "https://www.thisisgoingtobebig.com/blog/2025/9/21/our-venture-unfriendly-immigration-policy",
+    "urlToImage": "http://static1.squarespace.com/static/54f4b48fe4b01c0a849f7194/550c5ae3e4b08e9b9d3d37f7/68d010bf6b2ff34d94f7eb91/1758516130044/ChatGPT+Image+Sep+22%2C+2025%2C+12_29_11+AM.png?format=1500w",
+    "publishedAt": "2025-09-22T04:33:18Z",
+    "content": "Imagine doing the due diligence in a company whose tech team is in Eastern EuropeBelarus to be specific. Its a small country with a strong STEM education system that you honestly dont know that much … [+4937 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Futilitycloset.com"
+    },
+    "author": "Greg Ross",
+    "title": "Mix and Match",
+    "description": "In Strictly Speaking (1974), Edwin Newman points out that the names of American college presidents are strangely interchangeable: Columbia’s Nicholas Murray Butler would have projected the same impressive dignity if he’d been Nicholas Butler Murray or Butler …",
+    "url": "https://www.futilitycloset.com/2025/09/21/mix-and-match-2/",
+    "urlToImage": null,
+    "publishedAt": "2025-09-21T18:38:03Z",
+    "content": "In Strictly Speaking (1974), Edwin Newman points out that the names of American college presidents are strangely interchangeable: Columbia’s Nicholas Murray Butler would have projected the same impre… [+1377 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Richmond.com"
     },
@@ -50,83 +128,5 @@
     "urlToImage": "https://2app.kicksonfire.com/kofapp/upload/events_master_images/ipad_nike-air-max-95-spelman-college.png",
     "publishedAt": "2025-09-21T02:03:04Z",
     "content": "The Nike Air Max 95 Spelman College edition is a unique and vibrant tribute to the renowned historically Black women's college based in Atlanta, Georgia. Drawing inspiration from Spelman's official s… [+1026 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Blogger.com"
-    },
-    "author": "Randy Seaver",
-    "title": "ABC Biography of #6 Lyle Lawrence Carringer (1891-1976) of San Diego, California",
-    "description": null,
-    "url": "https://www.blogger.com/comment/fullpage/post/26204193/1350803574217485251",
-    "urlToImage": null,
-    "publishedAt": "2025-09-20T15:35:00Z",
-    "content": "Using the ABC method described in Using Artificial Intelligence In the Ancestor Biography Creation (ABC) Process, here is another ancestor biography using the Anthropic Claude Sonnet 4 AI tool.1) I w… [+22428 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Improbable.com"
-    },
-    "author": null,
-    "title": "IG Nobel Prize Winners 2025",
-    "description": "Ig® Nobel Prize Winners For achievements that first make people LAUGH then make them THINK Winners by year: 2025 : 2024 : 2023 : 2022 : 2021 2020 : 2019 : 2018 : 2017 : 2016 2015 : 2014 : 2013 : 20…",
-    "url": "https://improbable.com/ig/winners/",
-    "urlToImage": "https://improbable.com/wp-content/uploads/2009/11/Ketterle-Bodnar-Pamuk-Krugman-400pix_250w.jpg",
-    "publishedAt": "2025-09-20T11:00:27Z",
-    "content": "ECOLOGY PRIZE [SPAIN. IRAN]:Leila Satari, Alba Guillén, Àngela Vidal-Verdú, and Manuel Porcar, for using genetic analysis to identify the different species of bacteria that reside in wads of discarde… [+148093 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "NPR"
-    },
-    "author": "Vincent Ni",
-    "title": "Lawyers vs. engineers: Dan Wang sees U.S.-China dynamics in a new paradigm",
-    "description": "In a new book, analyst Dan Wang uses \"engineering state\" vs. \"lawyerly society\" to explain how China got ahead and America stagnated.",
-    "url": "https://www.npr.org/2025/09/20/g-s1-89568/china-us-lawyers-vs-engineers-dan-wang-book",
-    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1320x743+0+673/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb7%2F7b%2F439e5c6847bc82928d34b7e2e6e8%2Fwang-breakneck-cover.jpg",
-    "publishedAt": "2025-09-20T11:00:00Z",
-    "content": "During the three years of \"zero-COVID\" lockdowns, analyst Dan Wang emerged as one of the most astute observers of China's rapidly shifting domestic dynamics. Wang witnessed how the stringent COVID me… [+6030 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "New York Post"
-    },
-    "author": "Dear Abby",
-    "title": "Dear Abby: How do I tell my 40-year-old son he needs to get a job and move out?",
-    "description": "Dear Abby advises parents who are living with their 40 year old son on how to confront him with getting a job and moving out of their house.",
-    "url": "https://nypost.com/2025/09/20/lifestyle/dear-abby-how-do-i-tell-my-40-year-old-son-he-needs-to-get-a-job-and-move-out/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/09/poverty-absence-money-sad-african-19742356.jpg?quality=75&strip=all&w=1024",
-    "publishedAt": "2025-09-20T07:00:00Z",
-    "content": "DEAR ABBY: My son has trouble telling the truth. He was getting up late, dressing for work, leaving and coming back early. When my husband and I asked him about having a job, he said he had one. When… [+2886 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Denver Post"
-    },
-    "author": "Georgia Nicols",
-    "title": "Daily Horoscope for Sept 20, 2025",
-    "description": "Get your daily horoscope for Sept 20, 2025 from astrologer Georgia Nicols.",
-    "url": "https://www.denverpost.com/2025/09/20/daily-horoscope-for-sept-20-2025/",
-    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2019/08/Learn_how_to_take_photos_of_the_Milky_Way_with_the_help_of_a_Colorado_conservancy_1.jpg?w=1024&h=683",
-    "publishedAt": "2025-09-20T07:00:00Z",
-    "content": "Moon Alert: There are no restrictions to shopping or important decisions today. The Moon is in VIRGO.\r\nHappy Birthday for Saturday, Sept. 20, 2025:\r\nYou are outgoing and friendly. You also like to ta… [+4323 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Boston Herald"
-    },
-    "author": "Abigail Van Buren",
-    "title": "Dear Abby: Freeloading son lies about having a job",
-    "description": "When we asked him to show us his paycheck, he fumbled around on his phone, then he confessed that he had no job. He said he has been at the library looking for work.",
-    "url": "https://www.bostonherald.com/2025/09/20/dear-abby-freeloading-son-lies-about-having-a-job/",
-    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2021/08/abby-01.jpg?w=1024&h=1280",
-    "publishedAt": "2025-09-20T04:01:28Z",
-    "content": "Dear Abby: My son has trouble telling the truth. He was getting up late, dressing for work, leaving and coming back early. When my husband and I asked him about having a job, he said he had one. When… [+2885 chars]"
   }
 ]

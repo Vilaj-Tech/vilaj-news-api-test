@@ -1,29 +1,55 @@
 [
   {
     "source": {
-      "id": "new-york-magazine",
-      "name": "New York Magazine"
+      "id": null,
+      "name": "Viconsortium.com"
     },
-    "author": "Ben Terris",
-    "title": "Who Really Runs DHS?",
-    "description": "With the help of her righthand man Corey Lewandowski, Kristi Noem has turned DHS into Trump’s most devastating weapon against the right’s enemies.",
-    "url": "http://nymag.com/intelligencer/article/kristi-noem-corey-lewandowski-dhs-fema-trump-enforcers.html",
-    "urlToImage": "https://pyxis.nymag.com/v1/imgs/806/b85/ef6126e61aad90aa1c2950ba8378dd4511-Noem-lede-for-web.1x.rsocial.w1200.jpg",
-    "publishedAt": "2025-09-22T09:00:37Z",
-    "content": "On the morning of May 7, before making his way to Capitol Hill to testify in front of Congress, Cameron Hamilton, then the acting administrator of the Federal Emergency Management Agency, packed up h… [+41124 chars]"
+    "author": null,
+    "title": "Dr. Paul-Constantin Transforms Personal Journey Into Global Mission Through Beautiful Dreamers and Culturally Grounded Mental Health Advocacy",
+    "description": "Dr. Paul-Constantin Transforms Personal Journey Into Global Mission Through Beautiful Dreamers and Culturally Grounded Mental Health Advocacyviconsortium.com",
+    "url": "https://viconsortium.com/vi-human_interest/virgin-islands-dr--paul-constantin-transforms-personal-journey-into-global-mission-through-beautiful-dreamers-and-culturally-grounded-mental-health-advocacy",
+    "urlToImage": "https://viconsortium.nyc3.cdn.digitaloceanspaces.com/uploads/Vincentia-Paul-Constantin.jpg",
+    "publishedAt": "2025-09-23T11:46:46Z",
+    "content": "Although she had known since 2001 that she wanted to create some profound change in her community, it wasn't until 10 years later when her own daughter was born, premature and tiny, that Vincentia Pa… [+2963 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Wattsupwiththat.com"
+      "name": "GlobeNewswire"
     },
-    "author": "Guest Blogger",
-    "title": "Weekly Climate and Energy News Roundup #658",
-    "description": "Quote of the Week: “The Theory of Relativity confers an absolute meaning on a magnitude which in classical theory has only a relative significance: the velocity of light. The velocity of light is to the Theory of Relativity as the elementary quantum of action…",
-    "url": "https://wattsupwiththat.com/2025/09/22/weekly-climate-and-energy-news-roundup-658/",
-    "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2025/09/charlesrotter_beautiful_scenic_photograph_of_mount_denali_07a47midjourney.webp?fit=1024%2C512&quality=75&ssl=1",
-    "publishedAt": "2025-09-22T09:00:00Z",
-    "content": "Quote of the Week: The Theory of Relativity confers an absolute meaning on a magnitude which in classical theory has only a relative significance: the velocity of light. The velocity of light is to t… [+64204 chars]"
+    "author": "Research and Markets",
+    "title": "US Higher Education Faculty Use of AI Prompt Libraries, 2025 Analysis Report - Allied Health Faculty Were the Most Likely to Have Ever Purchased an AI Prompt",
+    "description": "The study highlights market opportunities in AI prompt libraries for higher education faculty, focusing on user demographics and preferences. Key areas include targeting allied health and conservative faculty, enhancing departmental prompt libraries, and expl…",
+    "url": "https://www.globenewswire.com/news-release/2025/09/23/3154436/28124/en/US-Higher-Education-Faculty-Use-of-AI-Prompt-Libraries-2025-Analysis-Report-Allied-Health-Faculty-Were-the-Most-Likely-to-Have-Ever-Purchased-an-AI-Prompt.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "publishedAt": "2025-09-23T08:01:00Z",
+    "content": "Dublin, Sept. 23, 2025 (GLOBE NEWSWIRE) -- The \"US Higher Education Faculty 2025, Use of AI Prompt Libraries\" report has been added to ResearchAndMarkets.com's offering.\r\nThis study looks at how high… [+14805 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Edsurge.com"
+    },
+    "author": "Lauren Coffey",
+    "title": "The ‘Silver Bullet’ to Fix Child Care’s Staffing Problem",
+    "description": "The early childhood sector is having a staffing crisis. With men remaining a largely untouched population, new efforts could draw them in.",
+    "url": "https://www.edsurge.com/news/2025-09-23-the-silver-bullet-to-fix-child-care-s-staffing-problem",
+    "urlToImage": "https://edsurge.imgix.net/uploads/post/image/16448/shutterstock_447175231-1758313076.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
+    "publishedAt": "2025-09-23T08:01:00Z",
+    "content": "Industries like nursing, manufacturing and electrical work have largely seen the benefits of apprenticeships rise over the last few years, touting high-wage jobs with an easy entry point of earning a… [+8654 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Thechronicle.com.gh"
+    },
+    "author": "NANA KWESI COOMSON",
+    "title": "Playwright and Theatre scholar Dr. Mohammed Ben Abdallah dies at age 81",
+    "description": "Celebrated Ghanaian playwright and theatre scholar, Dr. Mohammed Ben Abdallah, has died at age 81. The news of his passing was announced by his daughter, Akosua Abdallah, in a Facebook post on Friday, September 19, 2025. She revealed that Dr. Mohammed Ben Abd…",
+    "url": "https://thechronicle.com.gh/playwright-and-theatre-scholar-dr-mohammed-ben-abdallah-dies-at-age-81/",
+    "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2025/09/Dr-Mohammed-Ben-Abdallah.jpg",
+    "publishedAt": "2025-09-23T07:53:32Z",
+    "content": "Celebrated Ghanaian playwright and theatre scholar, Dr. Mohammed Ben Abdallah, has died at age 81.\r\nThe news of his passing was announced by his daughter, Akosua Abdallah, in a Facebook post on Frida… [+2141 chars]"
   },
   {
     "source": {
@@ -31,102 +57,76 @@
       "name": "ETF Daily News"
     },
     "author": "MarketBeat News",
-    "title": "Financial Analysis: United Community Banks (NASDAQ:UCB) vs. Signature Bank (NASDAQ:SBNY)",
-    "description": "Signature Bank (NASDAQ:SBNY – Get Free Report) and United Community Banks (NASDAQ:UCB – Get Free Report) are both finance companies, but which is the better business? We will compare the two businesses based on the strength of their dividends, earnings, profi…",
-    "url": "https://www.etfdailynews.com/2025/09/22/financial-analysis-united-community-banks-nasdaqucb-vs-signature-bank-nasdaqsbny/",
-    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/united-community-banks-inc-logo-1200x675.png?v=20240923134018&w=240&h=240&zc=2",
-    "publishedAt": "2025-09-22T07:36:50Z",
-    "content": "Signature Bank (NASDAQ:SBNY – Get Free Report) and United Community Banks (NASDAQ:UCB – Get Free Report) are both finance companies, but which is the better business? We will compare the two business… [+5339 chars]"
+    "title": "United Community Banks (NYSE:UCB) vs. Affinity Bancshares (NASDAQ:AFBI) Financial Review",
+    "description": "Affinity Bancshares (NASDAQ:AFBI – Get Free Report) and United Community Banks (NYSE:UCB – Get Free Report) are both finance companies, but which is the superior investment? We will contrast the two companies based on the strength of their valuation, earnings…",
+    "url": "https://www.etfdailynews.com/2025/09/23/united-community-banks-nyseucb-vs-affinity-bancshares-nasdaqafbi-financial-review/",
+    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/united-community-banks-inc-logo-1200x675.png?v=20250707123406&w=240&h=240&zc=2",
+    "publishedAt": "2025-09-23T05:01:13Z",
+    "content": "Affinity Bancshares (NASDAQ:AFBI – Get Free Report) and United Community Banks (NYSE:UCB – Get Free Report) are both finance companies, but which is the superior investment? We will contrast the two … [+5957 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "Peta Doherty",
+    "title": "Flinders University jobs under threat as news of proposed restructure spreads",
+    "description": "Six internationally recognised marine scientists who are researching South Australia's toxic algal bloom are set to lose their jobs at Flinders University, the ABC understands.",
+    "url": "https://www.abc.net.au/news/2025-09-23/sa-flinders-uni-jobs-restructure/105795002",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/dbd5f4bbe7356a838bb692aa70b07fc1?impolicy=wcms_watermark_news&cropH=1125&cropW=2000&xPos=0&yPos=29&width=862&height=485&imformat=generic",
+    "publishedAt": "2025-09-22T20:18:01Z",
+    "content": "Six internationally recognised marine scientists who are researching South Australia's toxic algal bloom are set to lose their jobs at Flinders University, the ABC understands.\r\nSome of the team have… [+6729 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "ETF Daily News"
+      "name": "Yahoo Entertainment"
     },
-    "author": "MarketBeat News",
-    "title": "SiteOne Landscape Supply (NYSE:SITE) versus Horiba (OTCMKTS:HRIBF) Critical Analysis",
-    "description": "SiteOne Landscape Supply (NYSE:SITE – Get Free Report) and Horiba (OTCMKTS:HRIBF – Get Free Report) are both mid-cap industrials companies, but which is the better stock? We will compare the two companies based on the strength of their analyst recommendations…",
-    "url": "https://www.etfdailynews.com/2025/09/22/siteone-landscape-supply-nysesite-versus-horiba-otcmktshribf-critical-analysis/",
-    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/horiba-ltd-logo-1200x675.jpg&w=240&h=240&zc=2",
-    "publishedAt": "2025-09-22T07:26:57Z",
-    "content": "SiteOne Landscape Supply (NYSE:SITE – Get Free Report) and Horiba (OTCMKTS:HRIBF – Get Free Report) are both mid-cap industrials companies, but which is the better stock? We will compare the two comp… [+6397 chars]"
+    "author": "Katie Dupere",
+    "title": "Beachgoer captures stunning video of unexpected creature making its way across sand: 'Once in [a] lifetime encounter'",
+    "description": "\"Neither of these animals [is] typically found by the beach.\"",
+    "url": "https://www.yahoo.com/news/articles/beachgoer-captures-stunning-video-unexpected-201500581.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Vwht_KHg3J1.3QcxBA2SeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/99e55872d44e4d6db7009b12bd524025",
+    "publishedAt": "2025-09-22T20:15:00Z",
+    "content": "A routine beach visit in Florida recently turned into a rare bobcat encounter for one photographer. But the striking footage is more than just an extraordinary moment it's a glimpse into the struggle… [+3786 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Thisisgoingtobebig.com"
+      "name": "Elite Daily"
     },
-    "author": "Charlie O'Donnell",
-    "title": "Our Venture Unfriendly Immigration Policy",
-    "description": "Imagine doing the due diligence in a company whose tech team is in Eastern \nEurope—Belarus to be specific. It’s a small country with a strong STEM \neducation system that you honestly don’t know that much about. As you do \nyour work, what you hear makes you ne…",
-    "url": "https://www.thisisgoingtobebig.com/blog/2025/9/21/our-venture-unfriendly-immigration-policy",
-    "urlToImage": "http://static1.squarespace.com/static/54f4b48fe4b01c0a849f7194/550c5ae3e4b08e9b9d3d37f7/68d010bf6b2ff34d94f7eb91/1758516130044/ChatGPT+Image+Sep+22%2C+2025%2C+12_29_11+AM.png?format=1500w",
-    "publishedAt": "2025-09-22T04:33:18Z",
-    "content": "Imagine doing the due diligence in a company whose tech team is in Eastern EuropeBelarus to be specific. Its a small country with a strong STEM education system that you honestly dont know that much … [+4937 chars]"
+    "author": "Rachel Chapman",
+    "title": "5 'Hunger Games: Catching Fire' Filming Locations To Visit In Hawaii",
+    "description": "A roundup of the filming locations used for 'The Hunger Games: Catching Fire' in Oahu, Hawaii that set-jetting fans should see before 'Sunrise on the Reaping.'",
+    "url": "https://www.elitedaily.com/lifestyle/hunger-games-filming-locations-hawaii-itinerary",
+    "urlToImage": "https://imgix.bustle.com/uploads/image/2025/9/19/a681129c/id-d02-00598-r2.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4381&fp-y=0.3333",
+    "publishedAt": "2025-09-22T20:07:35Z",
+    "content": "As a set-jetter, I always love to look up what TV shows or movies were filmed in the destination Im traveling to next. So, when I was planning my August trip to Hawaii, you can just imagine my utter … [+3279 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Futilitycloset.com"
+      "name": "Smartasset.com"
     },
-    "author": "Greg Ross",
-    "title": "Mix and Match",
-    "description": "In Strictly Speaking (1974), Edwin Newman points out that the names of American college presidents are strangely interchangeable: Columbia’s Nicholas Murray Butler would have projected the same impressive dignity if he’d been Nicholas Butler Murray or Butler …",
-    "url": "https://www.futilitycloset.com/2025/09/21/mix-and-match-2/",
-    "urlToImage": null,
-    "publishedAt": "2025-09-21T18:38:03Z",
-    "content": "In Strictly Speaking (1974), Edwin Newman points out that the names of American college presidents are strangely interchangeable: Columbia’s Nicholas Murray Butler would have projected the same impre… [+1377 chars]"
+    "author": "Jaclyn DeJohn, CFP for SmartAsset",
+    "title": "Best community colleges in 2025",
+    "description": "SmartAsset reports Beaufort County Community College tops the 2025 best community colleges list, highlighting tuition, retention, and faculty ratios.",
+    "url": "https://smartasset.com/data-studies/best-community-colleges-2025",
+    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/e/1b/e1b8e404-63da-56c3-9293-bb6e55935ac9/68d1aacbf2e01.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+    "publishedAt": "2025-09-22T19:00:07Z",
+    "content": "Jaclyn DeJohn, CFP for SmartAsset\r\nBest community colleges in 2025\r\nCommunity college can be the pathway to creating more lifelong income, with associates degree holders earning 14% more or $6,496 mo… [+68721 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Richmond.com"
+      "name": "Boston Herald"
     },
-    "author": "COLLIN BINKLEY Associated Press",
-    "title": "Colleges face high stakes in responses to Republican outcry over staff comments on Kirk",
-    "description": "Colleges around the country are under intense pressure to police insensitive comments about the assassination of Charlie Kirk, which leaves them with no easy choices.",
-    "url": "https://richmond.com/news/nation-world/education/article_a00c5393-dd4e-58f4-b3c4-dfe683050de4.html",
-    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/a/00/a00c5393-dd4e-58f4-b3c4-dfe683050de4/68cd7e79ed013.preview.jpg?crop=1724%2C905%2C24%2C82&resize=1200%2C630&order=crop%2Cresize",
-    "publishedAt": "2025-09-21T11:30:00Z",
-    "content": "At first, Clemson University took a stand for free speech. It condemned employees' remarks that made light of Charlie Kirk's death on social media, but the school said it was committed to protecting … [+6774 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Denver Post"
-    },
-    "author": "Georgia Nicols",
-    "title": "Daily Horoscope for Sept 21, 2025",
-    "description": "Get your daily horoscope for Sept 21, 2025 from astrologer Georgia Nicols.",
-    "url": "https://www.denverpost.com/2025/09/21/daily-horoscope-for-sept-21-2025/",
-    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2019/08/Learn_how_to_take_photos_of_the_Milky_Way_with_the_help_of_a_Colorado_conservancy_1.jpg?w=1024&h=683",
-    "publishedAt": "2025-09-21T07:00:00Z",
-    "content": "Moon Alert: Avoid shopping (except for food and gas) or important decisions from 3:15 p.m. to 6 p.m. EDT today (12:15 p.m. to 3 p.m. PDT). Note: The New Moon in VIRGO occurs 3:54 p.m. EDT (12:54 p.m.… [+3768 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Forbes"
-    },
-    "author": "Doug Melville, Contributor, \n Doug Melville, Contributor\n https://www.forbes.com/sites/dougmelville/",
-    "title": "Want To Be American? For $1 Million, The ‘Trump Gold Card’ Visa Will Now Allow Entry",
-    "description": "How much will it cost to become a “lawful permanent resident” of the United States? $1 Million to $5 Million depending on the 'Trump Gold Card' suits you best.",
-    "url": "https://www.forbes.com/sites/dougmelville/2025/09/20/want-to-be-american-for-1-million-the-trump-gold-card-visa-will-now-allow-entry/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68cf3da25946b7e38330b476/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2025-09-21T02:15:30Z",
-    "content": "WASHINGTON, DC - SEPTEMBER 19: A poster of the Trump Gold Card is seen as President Donald Trump delivers remarks in the Oval Office at the White House on September 19, 2025 in Washington, DC. The Tr… [+7062 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "KicksOnFire.com"
-    },
-    "author": "Kicksonfire",
-    "title": "Nike Air Max 95 Spelman College",
-    "description": "The Nike Air Max 95 Spelman College edition is a unique and vibrant tribute to the renowned historically Black women's college based in Atlanta, Georgia. Drawing inspiration from Spelman's official school colors, the sneaker features a prominent palette of wh…",
-    "url": "https://www.kicksonfire.com/nike-air-max-95-spelman-college",
-    "urlToImage": "https://2app.kicksonfire.com/kofapp/upload/events_master_images/ipad_nike-air-max-95-spelman-college.png",
-    "publishedAt": "2025-09-21T02:03:04Z",
-    "content": "The Nike Air Max 95 Spelman College edition is a unique and vibrant tribute to the renowned historically Black women's college based in Atlanta, Georgia. Drawing inspiration from Spelman's official s… [+1026 chars]"
+    "author": "Tribune News Service",
+    "title": "Researchers shift tactics to tackle extremism as public health threat",
+    "description": "Researchers say state governments and local communities are recognizing they’re on their own.",
+    "url": "https://www.bostonherald.com/2025/09/22/extremism-public-health-threat/",
+    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/09/US-NEWS-HEALTH-RESEA-16x9-1.jpg?w=1024&h=575",
+    "publishedAt": "2025-09-22T14:20:35Z",
+    "content": "By Taylor Sisk, KFF Health News\r\nRebecca Kasen has seen and heard things in recent years in and around Michigans capital city that she never would have expected.\r\nIts a very weird time in our lives, … [+8832 chars]"
   }
 ]

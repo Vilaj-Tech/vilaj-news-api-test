@@ -1,29 +1,94 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "Forbes"
+      "id": "financial-post",
+      "name": "Financial Post"
     },
-    "author": "Christopher Helman, Forbes Staff, \n Christopher Helman, Forbes Staff\n https://www.forbes.com/sites/christopherhelman/",
-    "title": "This Billionaire Built A $50 Million Golf Course So His Wife Had A Place To ‘Swing Like An Idiot’",
-    "description": "Forget the fancy Ferraris and precious Picassos. Instead, new Forbes 400 member David D. Halbert chose the ultimate flex: convincing Tom Fazio to build him a “no-budget” 18-hole golf course in Texas.",
-    "url": "https://www.forbes.com/sites/christopherhelman/2025/10/04/this-billionaire-built-a-50-million-golf-course-so-his-wife-had-a-place-to-swing-like-an-idiot/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68dfe69ec6a1c8785d90dad3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2025-10-04T10:30:00Z",
-    "content": "If you dont have a hole named after you then youre not a member, laughs David D. Halbert, as he pulls the cart up to the first tee at his personal golf course. This one is called the Jake hole becaus… [+10266 chars]"
+    "author": "Business Wire",
+    "title": "Global Payments Launches Genius™ Solution for Higher Education Institutions",
+    "description": "Genius solves for wide array of on-campus POS and commerce enablement needs ATLANTA — Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, today announced a Genius offering for higher education instituti…",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/global-payments-launches-genius-solution-for-higher-education-institutions",
+    "urlToImage": null,
+    "publishedAt": "2025-10-06T12:35:47Z",
+    "content": "Genius solves for wide array of on-campus POS and commerce enablement needs\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul>… [+6051 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Denver Post"
+      "name": "The Conversation Africa"
     },
-    "author": "Georgia Nicols",
-    "title": "Daily Horoscope for October 4, 2025",
-    "description": "Get your daily horoscope for October 4, 2025 from astrologer Georgia Nicols.",
-    "url": "https://www.denverpost.com/2025/10/04/daily-horoscope-for-october-4-2025/",
-    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2019/08/Learn_how_to_take_photos_of_the_Milky_Way_with_the_help_of_a_Colorado_conservancy_1.jpg?w=1024&h=683",
-    "publishedAt": "2025-10-04T07:00:00Z",
-    "content": "Moon Alert: There are no restrictions to shopping or important decisions today. The Moon is in PISCES.\r\nHappy Birthday for Saturday, Oct. 4, 2025:\r\nYou are levelheaded, relaxed, ambitious and sociabl… [+4242 chars]"
+    "author": "Vanessa Delgado, Professor of Sociology, Washington State University",
+    "title": "A fragmented legal system and threat of deportation are pushing higher education out of reach for many undocumented students",
+    "description": "While some students living in the US without legal authorization can apply for private scholarships or state-based financial aid, a growing number of states are changing the rules.",
+    "url": "https://theconversation.com/a-fragmented-legal-system-and-threat-of-deportation-are-pushing-higher-education-out-of-reach-for-many-undocumented-students-266324",
+    "urlToImage": "https://images.theconversation.com/files/693973/original/file-20251001-56-5a1xrj.jpg?ixlib=rb-4.1.0&rect=0%2C771%2C5556%2C2778&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2025-10-06T12:20:09Z",
+    "content": "Students protest at Arizona State University in January 2025 against a Republican student group encouraging students to report their peers to Immigration and Customs Enforcement for deportation. Ross… [+7367 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Hopebridge",
+    "title": "Hopebridge Brings Five New Autism Therapy Centers to North Carolina with Speech and Occupational Therapy Offerings",
+    "description": "North Carolina families now have access to applied behavior analysis (ABA), speech, occupational therapy and diagnostics in one place. North Carolina families now have access to applied behavior analysis (ABA), speech, occupational therapy and diagnostics in …",
+    "url": "https://www.globenewswire.com/news-release/2025/10/06/3161640/0/en/Hopebridge-Brings-Five-New-Autism-Therapy-Centers-to-North-Carolina-with-Speech-and-Occupational-Therapy-Offerings.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/ae6730a1-ac0e-40f9-aab7-d00ca734af4c",
+    "publishedAt": "2025-10-06T12:00:00Z",
+    "content": "Charlotte, N.C., Oct. 06, 2025 (GLOBE NEWSWIRE) -- As autism spectrum disorder diagnoses continue to rise, the need for early identification and therapeutic intervention is greater than ever. Hopebri… [+4512 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The-independent.com"
+    },
+    "author": "Jasmine Norden",
+    "title": "Actress Kellie Bright reveals ‘battle’ to get her autistic son support",
+    "description": "Kellie Bright appears in a new Panorama documentary about Send provisions for children",
+    "url": "https://www.the-independent.com/life-style/autism-send-panorama-kellie-bright-bbc-b2840085.html",
+    "urlToImage": "https://static.the-independent.com/2025/10/06/10/1b953dfba3307a3ddd78afe88c7a9d8eY29udGVudHNlYXJjaGFwaSwxNzU5ODI2NTQ3-2.79510386.jpg?width=1200&height=800&crop=1200:800",
+    "publishedAt": "2025-10-06T11:14:28Z",
+    "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+5112 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Sspnet.org"
+    },
+    "author": "John W. Warren",
+    "title": "Guest Post — Manifesto Time: Do You Need a Publishing Manifesto?",
+    "description": "Does your publishing organization need a manifesto? Writing a manifesto for your organization can be a great exercise for team building and planning, and a way to ignite action.\nThe post Guest Post — Manifesto Time: Do You Need a Publishing Manifesto? appeare…",
+    "url": "https://scholarlykitchen.sspnet.org/2025/10/06/guest-post-manifesto-time-do-you-need-a-publishing-manifesto/",
+    "urlToImage": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2023/05/iStock-1313400362.jpg",
+    "publishedAt": "2025-10-06T09:30:11Z",
+    "content": "Editors Note: Todays post is by John W. Warren. John is Professor and Director of the Graduate Program in Publishing, College of Professional Studies, George Washington University; founder and publis… [+14037 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Savannah Morning News"
+    },
+    "author": "Joseph Schwartzburt, Savannah Morning News",
+    "title": "A Savannah time capsule buried in 1966 will be a window into the past, in 2066",
+    "description": "White Bluff Elementary School students buried a time capsule in 1966, after its marker had been displaced the plan remains to open it in 2066.",
+    "url": "https://www.savannahnow.com/story/news/education/2025/10/06/savannah-schools-1966-time-capsule-awaits-opening-in-2066/86505298007/",
+    "urlToImage": "https://media.zenfs.com/en/savannah-morning-news/1132110c9c6a962d6596f928e00e6b48",
+    "publishedAt": "2025-10-06T09:09:23Z",
+    "content": "\"This is Mrs. Sadler speaking to you from the year 1966,\" reads the first line of a letter that Magaret Sadler, former sixth grade teacher of White Bluff Elementary School, wrote to the \"boys and gir… [+5733 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Faruqi & Faruqi LLP",
+    "title": "CYTK INVESTOR NOTICE: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Cytokinetics",
+    "description": "Faruqi & Faruqi, LLP Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losses In Cytokinetics To Contact Him Directly To Discuss Their Options",
+    "url": "https://www.globenewswire.com/news-release/2025/10/06/3161373/683/en/CYTK-INVESTOR-NOTICE-Faruqi-Faruqi-LLP-Investigates-Claims-on-Behalf-of-Investors-of-Cytokinetics.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/8628babf-2ea4-4b8a-a60b-260db109bfa2",
+    "publishedAt": "2025-10-06T03:34:00Z",
+    "content": "Faruqi &amp; Faruqi, LLP Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losses In Cytokinetics To Contact Him Directly To Discuss Their Options\r\nIf you purchased … [+3601 chars]"
   },
   {
     "source": {
@@ -31,90 +96,12 @@
       "name": "Balloon-juice.com"
     },
     "author": "Adam L Silverman",
-    "title": "War for Ukraine Day 1,317: Out of Sight, Out of Mind",
-    "description": "Shot: I genuinely wonder how much longer Europe intends to tolerate this and what further aggression it’s willing to let Russia get away with. You can be sure Russia is going to check this. [image or embed] — Kate from Kharkiv (@kateinkharkiv.bsky.social) Oct…",
-    "url": "https://balloon-juice.com/2025/10/03/war-for-ukraine-day-1317-out-of-sight-out-of-mind/",
+    "title": "War for Ukraine Day 1,319: The Cost",
+    "description": "(Image by NEIVANMADE) The cost: Lviv Oblast. A home lies in ruins, destroyed to the ground. Inside, a family of four lost their lives — among them, a 15-year-old girl. This is what russia brings to Ukraine. [image or embed] — Iryna Voichuk (@irynavoichuk.bsky…",
+    "url": "https://balloon-juice.com/2025/10/05/war-for-ukraine-day-1319-the-cost/",
     "urlToImage": "https://balloon-juice.com/wp-content/uploads/2020/01/Silverman_On_Security.jpg",
-    "publishedAt": "2025-10-04T00:18:51Z",
-    "content": "Shot:\r\nI genuinely wonder how much longer Europe intends to tolerate this and what further aggression its willing to let Russia get away with. You can be sure Russia is going to check this.\r\n[image o… [+22841 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Snopes.com"
-    },
-    "author": "Megan Loe",
-    "title": "Government shutdown: What's open, what's closed and who's affected",
-    "description": "What happens to Social Security and Medicare? Will post offices, airports and DMVs stay open? We answer top questions.",
-    "url": "https://www.snopes.com//news/2025/10/03/government-shutdown-2025-guide/",
-    "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2025/10/government_shutdown.png",
-    "publishedAt": "2025-10-03T19:21:00Z",
-    "content": "As a result of the U.S. government shutting down on Oct. 1, 2025, certain federal employees will work without pay, while others will be temporarily furloughed. \r\nIn the past, these workers have typic… [+9905 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Plos.org"
-    },
-    "author": "Yvonne Tan, Imaan Bayoumi, Bruce Knox, Michele Cole, Logan Jackson, Autumn Watson, Colleen M. Davison, Susan A. Bartels, Eva Purkey",
-    "title": "Understanding social inclusion: A directed content analysis",
-    "description": "Background Social inclusion can be defined as a process that enhances opportunities for social participation, strengthens social bonds, and ensures equitable access to opportunities and decision-making. It emphasizes the interconnectedness of society and the …",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0333666",
-    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0333666.t001&size=inline",
-    "publishedAt": "2025-10-03T14:00:00Z",
-    "content": "Citation: Tan Y, Bayoumi I, Knox B, Cole M, Jackson L, Watson A, et al. (2025) Understanding social inclusion: A directed content analysis. PLoS One 20(10):\r\n e0333666.\r\nhttps://doi.org/10.1371/journ… [+48058 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Stacker.com"
-    },
-    "author": "Meagan Drillinger",
-    "title": "50 colleges with the best ROI",
-    "description": "Stacker compiled a list of the colleges with the best ROI using data from a 2025 Georgetown University study.",
-    "url": "https://stacker.com/stories/education/50-colleges-best-roi",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cs78InM_oSR_LdWTO9uvwg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/aol_stacker_articles_387/4697667e54aa9c0cec3c017049f965e0",
-    "publishedAt": "2025-10-03T13:26:53Z",
-    "content": "50 colleges with the best ROI\r\nThey say the college years are the best of your life. They shape how you see the world, the passions you wish to pursue, and the person you hope to be. College is a sig… [+26562 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Providence Journal"
-    },
-    "author": "The Providence Journal",
-    "title": "No excuses. Colorado needed to stand up against fans' hateful cheers at BYU football game",
-    "description": "This is on the Buffaloes and not the Big 12. It may not end future forms of hate at Colorado but it would send a message.",
-    "url": "https://www.providencejournal.com/story/sports/college/2025/10/03/colorado-needed-to-stand-up-against-fans-hate-at-byu-football-game/86483613007/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/oVaPos4jmmxtiw8DRoZ6FA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/the-providence-journal/df08b9b4d761d471060ab46601cb877f",
-    "publishedAt": "2025-10-03T09:15:50Z",
-    "content": "The most competitive conference in the country is again the Big 12 with every team on upset alert each week. Coach Primes Colorado Buffs lost to BYU, 24-21, and are now 2-3, with wins over nobodies D… [+6430 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Deseret News"
-    },
-    "author": "Lois M. Collins",
-    "title": "Herbal supplement kratom known as gas station heroin. Here’s why",
-    "description": "What is kratom? Is kratom a natural supplement? Is kratom addictive? Is kratom legal in Utah? Where can you buy kratom? What is gas station heroin?",
-    "url": "https://www.deseret.com/lifestyle/2025/10/02/kratom-addiction-gas-station-heroin-convenience-store-suboxone-fda-utah/",
-    "urlToImage": "https://www.deseret.com/resizer/v2/S7HD6W5UI5EWVPI3NC6H2PTJPQ.JPG?focal=0%2C0&auth=bf416572326c313c86125cd24f04dea98e22e1cf5591f66f25356ded900e884e&width=1200&height=630",
-    "publishedAt": "2025-10-03T07:36:18Z",
-    "content": "<ul><li>Kratom can induce opioid-like dependence, sometimes leading to addiction.</li><li>Withdrawal symptoms from kratom are comparable to those from heroin addiction.</li><li>Mental health experts … [+17195 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "ETF Daily News"
-    },
-    "author": "MarketBeat News",
-    "title": "Contrasting Brand Engagement Network (NASDAQ:BNAI) and Boxlight (NASDAQ:BOXL)",
-    "description": "Brand Engagement Network (NASDAQ:BNAI – Get Free Report) and Boxlight (NASDAQ:BOXL – Get Free Report) are both small-cap business services companies, but which is the better investment? We will compare the two companies based on the strength of their institut…",
-    "url": "https://www.etfdailynews.com/2025/10/03/contrasting-brand-engagement-network-nasdaqbnai-and-boxlight-nasdaqboxl/",
-    "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/boxlight-corp-logo-1200x675.jpg&w=240&h=240&zc=2",
-    "publishedAt": "2025-10-03T06:51:08Z",
-    "content": "Brand Engagement Network (NASDAQ:BNAI – Get Free Report) and Boxlight (NASDAQ:BOXL – Get Free Report) are both small-cap business services companies, but which is the better investment? We will compa… [+5982 chars]"
+    "publishedAt": "2025-10-06T00:46:13Z",
+    "content": "(Image by NEIVANMADE)\r\nThe cost:\r\nLviv Oblast. A home lies in ruins, destroyed to the ground. Inside, a family of four lost their lives among them, a 15-year-old girl. This is what russia brings to U… [+25846 chars]"
   },
   {
     "source": {
@@ -122,11 +109,24 @@
       "name": "BBC News"
     },
     "author": null,
-    "title": "Reform Send system now or face billions in extra costs, ministers warned",
-    "description": "The Institute for Fiscal Studies says more than 200,000 extra children will need Send support by 2029.",
-    "url": "https://www.bbc.com/news/articles/czjv2rk9yjvo",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ba9d/live/3620ae20-9f8a-11f0-a934-075243299099.jpg",
-    "publishedAt": "2025-10-03T00:39:14Z",
-    "content": "Kate McGoughEducation reporter\r\nSupporting children with special educational needs and disabilities (Send) in England will cost the government an extra £3bn a year by 2029 if the system is not reform… [+5058 chars]"
+    "title": "Eastenders' Kellie Bright on the challenges of being a Send parent",
+    "description": "The soap actor meets families fighting for their children’s education for BBC Panorama.",
+    "url": "https://www.bbc.com/news/articles/c0jqy8pn275o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f006/live/37372320-a07a-11f0-b741-177e3e2c2fc7.jpg",
+    "publishedAt": "2025-10-06T00:35:51Z",
+    "content": "Kellie BrightPresenter, BBC Panorama and\r\nI've been desperate to make a documentary about special educational needs and disabilities (Send) for ages.\r\nYou might know me as EastEnders' Linda Carter bu… [+7792 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-sports",
+      "name": "Fox Sports"
+    },
+    "author": null,
+    "title": "Best College Football Betting Sites & Sportsbook Promos 2025",
+    "description": "Discover the best college football betting sites in 2025. Compare top sportsbooks, welcome bonuses, live betting options, and futures odds for NCAA football.",
+    "url": "https://www.foxsports.com/stories/betting/best-college-football-betting-sites-sportsbook-promos-2025",
+    "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/09/1408/814/carson-99.jpg?ve=1&tl=1",
+    "publishedAt": "2025-10-05T18:58:17Z",
+    "content": "This page may contain affiliate links to legal sports betting partners. If you sign up or place a wager, FOX Sports may be compensated. Read more about Sports Betting on FOX Sports\r\n.\r\nBest College F… [+33555 chars]"
   }
 ]

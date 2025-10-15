@@ -2,6 +2,97 @@
   {
     "source": {
       "id": null,
+      "name": "Forbes"
+    },
+    "author": "Shelley E. Kohan, Senior Contributor, \n Shelley E. Kohan, Senior Contributor\n https://www.forbes.com/sites/shelleykohan/",
+    "title": "Helen Mirren Speaks Out For L’Oréal Paris Women Of Worth",
+    "description": "L’Oréal Paris announces its 2025 Women of Worth honorees. The program is celebrating its 20th year since inception.",
+    "url": "https://www.forbes.com/sites/shelleykohan/2025/10/14/helen-mirren-speaks-out-for-loral-paris-women-of-worth/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68ed6afe9195c8fa21d1d7b4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2025-10-14T12:00:00Z",
+    "content": "L'Oréal Paris announces the ten Women Of Worth honorees; Yasmine Arrington Brooks, Mizpah Brown-Rich, Keely Cat-Wells, Amy Bowers Cordalis, Sloane Davidson, Lynne B Hughes, Dr. Anita Ravi, Cristina R… [+7762 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TODAY"
+    },
+    "author": "Liz Calvario",
+    "title": "EXCLUSIVE: Eva Longoria, Helen Mirren and Aja Naomi King on the Meaning of 'Worth' and Honoring Women",
+    "description": "Eva Longoria, Helen Mirren and Aja Naomi King spoke with TODAY.com about the 2025 honorees for L’Oréal Paris' Women of Worth program.",
+    "url": "https://www.today.com/popculture/news/helen-mirren-aja-naomi-king-eva-longoria-women-of-worth-20-anniversary-rcna236067",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-10/aja-helen-eva-women-of-worth-lc-251012-e7f15a.png",
+    "publishedAt": "2025-10-14T11:00:00Z",
+    "content": "For years, Eva Longoria, Helen Mirren and Aja Naomi King have made an effort to uplift and empower everyday women. \r\nBoth on screen and off-screen, they have supported female entrepreneurs, champione… [+7130 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hospitality Net"
+    },
+    "author": "Michelin Guide",
+    "title": "125 Years After Its Creation, The MICHELIN Guide Sets a New Global Standard for Hotel Excellence with the MICHELIN Key Distinction",
+    "description": "The MICHELIN Guide is pleased to present its inaugural Global MICHELIN Keys Selection. Following the launch of MICHELIN Key distinctions in 15 top travel destinations1 last year, The MICHELIN Guide Inspectors have scoured the world and chosen among the more t…",
+    "url": "https://www.hospitalitynet.org/news/4129328.html",
+    "urlToImage": "https://www.hospitalitynet.org/picture/social_153189712.jpg?t=1760424129",
+    "publishedAt": "2025-10-14T08:46:10Z",
+    "content": "The MICHELIN Guide is pleased to present its inaugural Global MICHELIN Keys Selection. Following the launch of MICHELIN Key distinctions in 15 top travel destinations1 last year, The MICHELIN Guide I… [+18131 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Inside Higher Ed"
+    },
+    "author": "Ryan Quinn",
+    "title": "Already Battered by Cuts, Researchers and Colleges Face Federal Shutdown Impacts",
+    "description": "Already Battered by Cuts, Researchers and Colleges Face Federal Shutdown Impacts\n\n \n\n\n \nRyan Quinn\n\nTue, 10/14/2025 - 03:00 AM\n\nTwo weeks into the government shutdown with no resolution in sight, higher ed associations and researchers say the inability of sci…",
+    "url": "https://www.insidehighered.com/news/faculty-issues/research/2025/10/14/researchers-colleges-face-federal-shutdown-impacts",
+    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-10/US_Capitol_GettyImages-1239199806_edit.jpg?itok=Ojp_GBpc",
+    "publishedAt": "2025-10-14T07:00:00Z",
+    "content": "The U.S. government has been without a spending plan for two weeks now. Senate Democrats arent backing down on their demands that Republicans extend health insurance subsidies and reverse Medicaid fu… [+7284 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "IndieWire"
+    },
+    "author": "Dana Harris",
+    "title": "The Camera He Wasn’t Allowed to Touch: First-Person Storytelling from a Grand Slam Winner of The Moth",
+    "description": "From sneaking his father’s camcorder to opening the email that gave him a career-changing break, David Kalema’s story is about persistence, risk, and finally claiming the creative life he always wanted.",
+    "url": "https://www.indiewire.com/features/commentary/how-to-break-into-filmmaking-grand-slam-winner-of-the-moth-1235155578/",
+    "urlToImage": "https://www.indiewire.com/wp-content/uploads/2025/10/058dfbd3-6c42-4b5a-a010-6002281bb41f.jpg?w=650",
+    "publishedAt": "2025-10-13T20:58:00Z",
+    "content": "David Kalema has a great story to tell — several, in fact. You can read all about his big break 31 years in the making here, but for the rest of it we’re publishing his cinematic journey in full. He … [+18877 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Boston Herald"
+    },
+    "author": "Associated Press",
+    "title": "Arthur M. Blank Family Foundation donating $50 million to historically Black Atlanta colleges",
+    "description": "The money will support nearly 10,000 students with “gap scholarships.\"",
+    "url": "https://www.bostonherald.com/2025/10/13/blank-foundation-atlanta-hbcus/",
+    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/10/Blank_Foundation_Atlanta_HBCUs_33178.jpg?w=1024&h=682",
+    "publishedAt": "2025-10-13T16:35:12Z",
+    "content": "By MICHAEL WARREN\r\nATLANTA (AP) The Arthur M. Blank Family Foundation announced a $50 million donation to Atlantas historically Black colleges and universities on Monday, aiming to close financial ai… [+2624 chars]"
+  },
+  {
+    "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Michael Warren, The Associated Press",
+    "title": "Home Depot founder Arthur Blank donates $50 million to Atlanta’s historically Black colleges and universities via foundation",
+    "description": "The billionaire has committed to giving at least half his wealth away via the Giving Pledge and his family foundation has donated over $1.5 billion to date.",
+    "url": "https://fortune.com/2025/10/13/home-depot-founder-arthur-blank-foundation-donates-50-million-to-atlanta-hbcus/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/AP25281761833178-e1760366483503.jpg?resize=1200,600",
+    "publishedAt": "2025-10-13T14:45:32Z",
+    "content": "The Arthur M. Blank Family Foundation announced a $50 million donation to Atlantas historically Black colleges and universities on Monday, aiming to close financial aid gaps that might otherwise prev… [+2534 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "Observer"
     },
     "author": "Daniel Grant, Daniel Grant",
@@ -28,19 +119,6 @@
   {
     "source": {
       "id": null,
-      "name": "Yahoo Entertainment"
-    },
-    "author": "MICHAEL WARREN",
-    "title": "Arthur M. Blank Family Foundation donating $50 million to historically Black Atlanta colleges",
-    "description": "The Arthur M. Blank Family Foundation announced a $50 million donation to Atlanta’s historically Black colleges and universities on Monday, aiming to close...",
-    "url": "https://www.yahoo.com/news/articles/arthur-m-blank-family-foundation-091526186.html",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/n2hMwirjDyi7q4CoQa3TTQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/2ec549f1e9d89862170ba6138ff59f8b",
-    "publishedAt": "2025-10-13T09:15:26Z",
-    "content": "ATLANTA (AP) The Arthur M. Blank Family Foundation announced a $50 million donation to Atlantas historically Black colleges and universities on Monday, aiming to close financial aid gaps that might o… [+2550 chars]"
-  },
-  {
-    "source": {
-      "id": null,
       "name": "The Denver Post"
     },
     "author": "Georgia Nicols",
@@ -50,83 +128,5 @@
     "urlToImage": "https://www.denverpost.com/wp-content/uploads/2019/08/Learn_how_to_take_photos_of_the_Milky_Way_with_the_help_of_a_Colorado_conservancy_1.jpg?w=1024&h=683",
     "publishedAt": "2025-10-13T07:00:00Z",
     "content": "Moon Alert: Avoid shopping (except for food and gas) or major decisions after 9:45 p.m. EDT today. The Moon is in CANCER.\r\nHappy Birthday for Monday, Oct. 13, 2025:\r\nYou are focused, brave and resour… [+4277 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Inside Higher Ed"
-    },
-    "author": "kathryn.palmer@insidehighered.com",
-    "title": "Grief Fuels Growth of Turning Point’s Campus Footprint",
-    "description": "Grief Fuels Growth of Turning Point’s Campus Footprint \n\n \n\n\n \nkathryn.palmer…\n\nMon, 10/13/2025 - 03:00 AM\n\nCharlie Kirk’s murder is pushing more conservative college students to start Turning Point USA chapters in the name of advancing civil discourse. But c…",
-    "url": "https://www.insidehighered.com/news/students/free-speech/2025/10/13/grief-fuels-expansion-turning-points-campus-footprint",
-    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-10/Turning_point_course_01.jpg?itok=fN3_fzGX",
-    "publishedAt": "2025-10-13T07:00:00Z",
-    "content": "In the hours after Charlie Kirks assassination last month, RaeAnna Morales was overcome with disbelief, anger and sadness. \r\nI saw a video of him being shot and I was absolutely horrified. Thats not … [+11865 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "AP",
-    "title": "JD Vance warns 'deeper' cuts ahead for federal workers as shutdown enters 12th day",
-    "description": "Vice President JD Vance warned of deeper federal workforce cuts as the government shutdown entered its 12th day, impacting hundreds of thousands of furloughed employees. The Trump administration stated military personnel would be paid and some low-income serv…",
-    "url": "https://economictimes.indiatimes.com/news/international/global-trends/jd-vance-warns-deeper-cuts-ahead-for-federal-workers-as-shutdown-enters-12th-day/articleshow/124515168.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-124515176,width-1200,height-630,imgsize-88388,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2025-10-13T01:38:49Z",
-    "content": "Vice President JD Vance on Sunday said there will be deeper cuts to the federal workforce the longer the government shutdown goes on, adding to the uncertainty facing hundreds of thousands who are al… [+4484 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PBS"
-    },
-    "author": "Steve Peoples, Associated Press",
-    "title": "On 12th day of shutdown, Vance warns new ‘painful’ cuts ahead",
-    "description": "Hundreds of thousands of workers have been furloughed in recent days. In a court filing on Friday, the White House said well over 4,000 employees would soon be fired.",
-    "url": "https://www.pbs.org/newshour/politics/on-12th-day-of-shutdown-vance-warns-new-painful-cuts-ahead",
-    "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/10/2025-08-28T190147Z_976354626_RC2IGGAIUME7_RTRMADP_3_USA-VANCE-WISCONSIN-1024x683.jpg",
-    "publishedAt": "2025-10-12T21:50:32Z",
-    "content": "Vice President JD Vance on Sunday said there will be deeper cuts to the federal workforce the longer the government shutdown goes on, adding to the uncertainty facing hundreds of thousands who are al… [+4521 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Japan Today"
-    },
-    "author": null,
-    "title": "Vance warns 'deeper' job cuts ahead for federal workers as shutdown enters 12th day",
-    "description": "U.S. Vice President JD Vance on Sunday said there will be deeper cuts to the federal workforce the longer the government shutdown goes on, adding to the uncertainty facing hundreds of thousands who are already furloughed without pay amid the stubborn stalemat…",
-    "url": "https://japantoday.com/category/world/vance-warns-%27deeper%27-cuts-ahead-for-federal-workers-as-shutdown-enters-12th-day",
-    "urlToImage": null,
-    "publishedAt": "2025-10-12T20:55:26Z",
-    "content": "U.S. Vice President JD Vance on Sunday said there will be deeper cuts to the federal workforce the longer the government shutdown goes on, adding to the uncertainty facing hundreds of thousands who a… [+4341 chars]"
-  },
-  {
-    "source": {
-      "id": "fortune",
-      "name": "Fortune"
-    },
-    "author": "Steve Peoples, The Associated Press",
-    "title": "Vance warns the longer the shutdown goes on, ‘the deeper the cuts are going to be’ as White House prepares to fire over 4,000 workers",
-    "description": "“To be clear, some of these cuts are going to be painful. This is not a situation that we relish.\"",
-    "url": "https://fortune.com/2025/10/12/jd-vance-federal-government-shutdown-white-house-4000-layoffs/",
-    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/AP25274636535230-e1760299445300.jpg?resize=1200,600",
-    "publishedAt": "2025-10-12T20:16:11Z",
-    "content": "Vice President JD Vance on Sunday said there will be deeper cuts to the federal workforce the longer the government shutdown goes on, adding to the uncertainty facing hundreds of thousands who are al… [+4174 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Yahoo Entertainment"
-    },
-    "author": "STEVE PEOPLES",
-    "title": "Vance warns 'deeper' cuts ahead for federal workers as shutdown enters 12th day",
-    "description": "Vice President JD Vance on Sunday said there will be deeper cuts to the federal workforce the longer the government shutdown goes on, adding to the...",
-    "url": "https://www.yahoo.com/news/articles/vance-warns-deeper-cuts-ahead-172017793.html",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VsNvMF0YzqD0NTUwV4nCzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE7Y2Y9d2VicA--/https://media.zenfs.com/en/ap_finance_articles_694/b8b3811981993c28ad3b30eb22155a94",
-    "publishedAt": "2025-10-12T17:20:17Z",
-    "content": "Vice President JD Vance on Sunday said there will be deeper cuts to the federal workforce the longer the government shutdown goes on, adding to the uncertainty facing hundreds of thousands who are al… [+4181 chars]"
   }
 ]

@@ -1,16 +1,120 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "seattlepi.com"
+      "id": "espn",
+      "name": "ESPN"
     },
-    "author": "By JESSICA HILL, Associated Press",
-    "title": "The next major film studios could be in Nevada if some unions have their way",
+    "author": "ESPN",
+    "title": "Power Rankings: Alabama climbs into the top 5; four new teams join the list",
+    "description": "What are the biggest lessons learned for each Top 25 team through Week 8?",
+    "url": "https://www.espn.com/college-football/story/_/id/46650222/2025-college-football-week-8-power-rankings-top-25",
+    "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F1019%2Fr1562660_1296x729_16%2D9.jpg",
+    "publishedAt": "2025-10-20T11:53:45Z",
+    "content": "Oct 20, 2025, 07:30 AM ET\r\nTrailing Ole Miss after halftime, Georgia quarterback Gunner Stockton delivered in a big moment once again in the Bulldogs' come-from-behind win over the fifth-ranked Rebel… [+22964 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Autostraddle.com"
+    },
+    "author": "Stef Rubino",
+    "title": "What You Should Know About the Upcoming Supreme Court Hearing on Trans Athletes",
+    "description": "This month, the Supreme Court will hear Becky Pepper-Jackson's case.\nThe post What You Should Know About the Upcoming Supreme Court Hearing on Trans Athletes appeared first on Autostraddle.",
+    "url": "http://www.autostraddle.com/supreme-court-trans-athletes-decision/",
+    "urlToImage": "https://www.autostraddle.com/wp-content/uploads/2025/10/sci-fi-5-18.png?resize=1200,675",
+    "publishedAt": "2025-10-20T11:34:43Z",
+    "content": "Youll notice a theme running through most of the news were reporting here this week: People everywhere, from places you might not ever expect, are stepping out against the far-rights anti-trans agend… [+11962 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "OLIVIA DIAZ and BILL BARROW",
+    "title": "Republican Winsome Earle-Sears and Democrat Abigail Spanberger spar over abortion in Virginia",
+    "description": "Rae Pickett stepped onto Richell Hines' front stoop wearing a pink T-shirt that foretold the case she hoped to make to Virginia voters as she knocked on...",
+    "url": "https://www.yahoo.com/news/articles/republican-winsome-earle-sears-democrat-105513714.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dXHFxG4K5KWearDm4.y3ww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/2eb1758985652866546a7282bdcd0edb",
+    "publishedAt": "2025-10-20T10:55:13Z",
+    "content": "PETERSBURG, Va. (AP) Rae Pickett stepped onto Richell Hines' front stoop wearing a pink T-shirt that foretold the case she hoped to make to Virginia voters as she knocked on doors on a sunny Saturday… [+7977 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Theeconomiccollapseblog.com"
+    },
+    "author": "Michael",
+    "title": "Dramatically Reduced Christmas Spending, Soaring Defaults And Empty Shelves: 14 Signs That The Condition Of The U.S. Economy Is Worse Than You Think",
+    "description": "It feels like someone has pulled a plug, because the U.S. economy is suddenly caught in an extremely alarming downward spiral.  As I discussed at the end of last week, investors are flocking to gold and silver because they can see that a storm is coming.  We …",
+    "url": "http://theeconomiccollapseblog.com/dramatically-reduced-christmas-spending-soaring-defaults-and-empty-shelves-14-signs-that-the-condition-of-the-u-s-economy-is-worse-than-you-think/",
+    "urlToImage": "http://theeconomiccollapseblog.com/wp-content/uploads/2025/10/ai-generated-8962105_1280.jpg",
+    "publishedAt": "2025-10-19T20:58:40Z",
+    "content": "It feels like someone has pulled a plug, because the U.S. economy is suddenly caught in an extremely alarming downward spiral.  As I discussed at the end of last week, investors are flocking to gold … [+12264 chars]"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "Jessica Hill",
+    "title": "Unions back Nevada film studio tax incentive proposal",
     "description": "Trade unions in Nevada want the state to offer tax incentives to major film studios to bring more movie making to the Vegas area. They are pushing for lawmakers to pass a $95 million tax credit proposal as part of a planned special session. Major studios like…",
-    "url": "https://www.seattlepi.com/entertainment/article/the-next-major-film-studios-could-be-in-nevada-if-21108487.php",
-    "urlToImage": "https://s.hdnux.com/photos/01/54/67/73/28540611/3/rawImage.jpg",
-    "publishedAt": "2025-10-19T12:21:45Z",
-    "content": "FILE - Runners stop to to have photos taken by official photographers at the Welcome to Las Vegas sign during the Rock 'n' Roll Las Vegas Marathon, Sunday, Nov. 12, 2017, in Las Vegas.\r\nJohn Locher/A… [+5819 chars]"
+    "url": "https://apnews.com/article/nevada-film-tax-credit-sony-warner-bros-93980099467ef43f784e5ec41b92118a",
+    "urlToImage": "https://dims.apnews.com/dims4/default/800dd10/2147483647/strip/true/crop/5394x3034+0+241/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcd%2Fd1%2F005e7a7cbda7f555364ba312435e%2Fd1ccb9b4d7f046c6b8636b4d28f3f4a0",
+    "publishedAt": "2025-10-19T20:03:03Z",
+    "content": "LAS VEGAS (AP) Movies like The Hangover and Oceans Eleven piqued interest in the Las Vegas Strip long ago. But now Nevada labor unions hoping to boost jobs and tourism are pushing state officials to … [+5330 chars]"
+  },
+  {
+    "source": {
+      "id": "breitbart-news",
+      "name": "Breitbart News"
+    },
+    "author": "Breitbart News, Breitbart News",
+    "title": "Nevada Labor Unions Capitalize on Hollywood Production Decline with Push for Las Vegas Studios",
+    "description": "LAS VEGAS (AP) — Movies like “The Hangover” and “Ocean’s Eleven” piqued interest in the Las Vegas Strip long ago. But now Nevada labor unions hoping to boost jobs and tourism are pushing state officials to offer tax credits aimed at bringing more Hollywood fi…",
+    "url": "https://www.breitbart.com/entertainment/2025/10/19/nevada-labor-unions-capitalize-on-hollywood-production-decline-with-push-for-las-vegas-studios/",
+    "urlToImage": "https://media.breitbart.com/media/2025/10/hangover-640x335.jpg",
+    "publishedAt": "2025-10-19T16:06:09Z",
+    "content": "LAS VEGAS (AP) Movies like The Hangover and Oceans Eleven piqued interest in the Las Vegas Strip long ago. But now Nevada labor unions hoping to boost jobs and tourism are pushing state officials to … [+5324 chars]"
+  },
+  {
+    "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Jessica Hill, The Associated Press",
+    "title": "Las Vegas looks to join Atlanta as the next film production hotspot while California tries to combat Hollywood’s slump",
+    "description": "The proposal comes as Las Vegas continues to see a decline in tourism.",
+    "url": "https://fortune.com/2025/10/19/las-vegas-atlanta-film-production-tax-incentives-sony-warner-bros-hollywood/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/AP25290612204588-e1760886957912.jpg?resize=1200,600",
+    "publishedAt": "2025-10-19T15:28:35Z",
+    "content": "Movies like The Hangover and Oceans Eleven piqued interest in the Las Vegas Strip long ago. But now Nevada labor unions hoping to boost jobs and tourism are pushing state officials to offer tax credi… [+5224 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "JESSICA HILL Associated Press",
+    "title": "The next major film studios could be in Nevada if some unions have their way",
+    "description": "Trade unions in Nevada want the state to offer tax incentives to major film studios to bring more movie making to the Vegas area",
+    "url": "https://abcnews.go.com/Business/wireStory/major-film-studios-nevada-unions-126658019",
+    "urlToImage": "https://i.abcnewsfe.com/a/a5cb005b-e341-429d-acbb-4774f709384b/wirestory_93980099467ef43f784e5ec41b92118a_16x9.jpg?w=1600",
+    "publishedAt": "2025-10-19T13:01:40Z",
+    "content": "LAS VEGAS -- LAS VEGAS (AP) Movies like The Hangover and Ocean's Eleven piqued interest in the Las Vegas Strip long ago. But now Nevada labor unions hoping to boost jobs and tourism are pushing state… [+5265 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Conversation Africa"
+    },
+    "author": "Shelley Inglis, Senior Visiting Scholar with the Center for the Study of Genocide and Human Rights, Rutgers University",
+    "title": "10 effective things citizens can do to make change in addition to attending a protest",
+    "description": "Once a democracy starts to erode, it can be difficult to reverse the trend. What does it take for democracies to bounce back from periods of autocratic rule?",
+    "url": "https://theconversation.com/10-effective-things-citizens-can-do-to-make-change-in-addition-to-attending-a-protest-266432",
+    "urlToImage": "https://images.theconversation.com/files/697050/original/file-20251019-56-m8gxen.jpg?ixlib=rb-4.1.0&rect=0%2C186%2C4500%2C2250&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2025-10-19T13:01:21Z",
+    "content": "A crowd gathered for a \"No Kings\" protest on October 18, 2025 in Anchorage, Alaska. Hasan Akbas/Anadolu via Getty Images\r\nWhat happens now?\n\nThat may well be the question being asked by “No Kings” pr… [+8816 chars]"
   },
   {
     "source": {
@@ -24,109 +128,5 @@
     "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/5dc4e69a7a957f3eabc55317b258b64d",
     "publishedAt": "2025-10-19T12:00:00Z",
     "content": "In August, President Trump claimed that crime in the District of Columbia was out of control, saying the mayhem endangers public servants, citizens and tourists, disrupts safe and secure transportati… [+5290 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Globalsecurity.org"
-    },
-    "author": "John Pike",
-    "title": "The UK is committed to supporting its Overseas Territories to deliver their priorities: UK Statement at the UN Fourth Committee",
-    "description": "Statement by Simon Thomas, UK Ambassador to the General Assembly, at the UN's Special Political and Decolonisation Fourth Committee.",
-    "url": "https://www.globalsecurity.org/military/library/news/2025/10/mil-251016-ukfcdo01.htm",
-    "urlToImage": null,
-    "publishedAt": "2025-10-19T07:30:09Z",
-    "content": "Speech\r\nStatement by Simon Thomas, UK Ambassador to the General Assembly, at the UN's Special Political and Decolonisation Fourth Committee.\r\nFrom: Foreign, Commonwealth &amp; Development Office and … [+4547 chars]"
-  },
-  {
-    "source": {
-      "id": "rte",
-      "name": "RTE"
-    },
-    "author": "Sean Whelan",
-    "title": "Thousands challenge Trump policies in 'No Kings' rallies",
-    "description": "More than two-and-a-half thousand demonstrations are taking place across the United States, to express opposition to the policies of US President Donald Trump.",
-    "url": "https://www.rte.ie/news/us/2025/1019/1539326-no-kings-protests/",
-    "urlToImage": "https://www.rte.ie/images/002356f8-1600.jpg",
-    "publishedAt": "2025-10-19T01:32:20Z",
-    "content": "More than two-and-a-half thousand demonstrations are taking place across the United States, to express opposition to the policies of US President Donald Trump.\r\nDemonstrators are challenging his crac… [+3203 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Scientists reveal how your favorite soda could quietly mess with your mood",
-    "description": "Women who regularly consume soft drinks face a 16% higher risk of major depression, according to new research examining gut bacteria and mental health connections.",
-    "url": "https://www.foxnews.com/food-drink/scientists-reveal-how-your-favorite-soda-could-quietly-mess-your-mood",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/woman-drinking-soda-depression-study.jpg",
-    "publishedAt": "2025-10-18T21:16:36Z",
-    "content": "Even one or two sodas a day could be disrupting your gut health enough to affect your mood, a new study has found.\r\nResearchers in Germany examined more than 900 adults about half with clinical depre… [+4851 chars]"
-  },
-  {
-    "source": {
-      "id": "abc-news-au",
-      "name": "ABC News (AU)"
-    },
-    "author": "ABC News",
-    "title": "Deathwalkers like Zenith want to help you die well",
-    "description": "For many, voluntary assisted dying has come to symbolise control over how life ends. Yet dying well isn't just about those final hours. That's where a deathwalker like Zenith can help.",
-    "url": "https://www.abc.net.au/news/2025-10-19/death-funeral-deathwalker-dying-well-vad-palliative-care/105831418",
-    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/736398f460f57dc23c4d5c889122ccd4?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=226&width=862&height=485&imformat=generic",
-    "publishedAt": "2025-10-18T18:00:00Z",
-    "content": "For many, voluntary assisted dying has come to symbolise control over how life ends. Yet dying well isn't just about those final hours. That's where a deathwalker like Zenith can help.\r\nA few days be… [+22364 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Yahoo Entertainment"
-    },
-    "author": "By Jan Wolfe",
-    "title": "Voting Rights Act faces a near-death experience at US Supreme Court",
-    "description": "By Jan Wolfe WASHINGTON (Reuters) -The Voting Rights Act, a landmark law barring discrimination in voting, was a product of the U.S. civil rights era, sought...",
-    "url": "https://www.yahoo.com/news/articles/voting-rights-act-faces-near-100400978.html",
-    "urlToImage": "https://media.zenfs.com/en/reuters.com/c75f5cbc328e0a1bf1b7246f29e1d317",
-    "publishedAt": "2025-10-18T10:04:00Z",
-    "content": "By Jan Wolfe\r\nWASHINGTON (Reuters) -The Voting Rights Act, a landmark law barring discrimination in voting, was a product of the U.S. civil rights era, sought by Nobel Peace Prize recipient Martin Lu… [+8198 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Teen Vogue"
-    },
-    "author": "Lex McMenamin",
-    "title": "\"No Kings\" Protests Set for Over 2,600 Events Nationwide, Organizers Say",
-    "description": "Teen Vogue spoke to No Kings co-organizer Leah Greenberg about how to leverage change beyond Saturday's protests.",
-    "url": "https://www.teenvogue.com/story/story/no-kings-protest-q-a",
-    "urlToImage": "https://assets.teenvogue.com/photos/68f1c76d922bb657f165ced1/16:9/w_1280,c_limit/2220959086",
-    "publishedAt": "2025-10-17T17:11:37Z",
-    "content": "In Chicago, IL and Portland, OR, federal agents have utilized physical power against civilians, protesters, and journalists during demonstrations over the administrations immigration crackdown. The f… [+1981 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Denver Post"
-    },
-    "author": "Luca Evans",
-    "title": "As Demaryius Thomas’ Broncos Ring of Fame induction arrives, many still grapple with his death",
-    "description": "As Demaryius Thomas' Ring of Fame weekend arrives, friends and family are still coping with his death at age 33.",
-    "url": "https://www.denverpost.com/2025/10/17/demaryius-thomas-broncos-ring-of-fame-death/",
-    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/10/TDP-L-DemaryiusThomas-02.jpg?w=1024&h=683",
-    "publishedAt": "2025-10-17T11:45:44Z",
-    "content": "Three weeks ago, as nurses at the Mayo Clinic in Jacksonville, Florida, prepared to remove the cancer from Paul Williams’ colon, they wheeled him into room No. 88 for pre-op. None of them could’ve kn… [+21756 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Intercept"
-    },
-    "author": "The Intercept Briefing",
-    "title": "Trump’s Gaza Ceasefire Deal Is Already Failing Palestinians",
-    "description": "James Zogby and Jonah Valdez on what it will take for this ceasefire to succeed, and Palestinian writer Taqwa Ahmed Al-Wawi shares her hopes and fears.\nThe post Trump’s Gaza Ceasefire Deal Is Already Failing Palestinians appeared first on The Intercept.",
-    "url": "https://theintercept.com/2025/10/17/briefing-podcast-gaza-ceasefire-deal/",
-    "urlToImage": "https://theintercept.com/wp-content/uploads/2025/10/October-ceasefire.jpg?fit=2000%2C1000&w=1200&h=800",
-    "publishedAt": "2025-10-17T10:00:00Z",
-    "content": "The first phase of the U.S.-brokered Gaza ceasefire deal began to move forward this week as Israeli and Palestinian hostages have been released and aid trickles in. \r\nThe crossings were partially reo… [+41975 chars]"
   }
 ]

@@ -2,6 +2,84 @@
   {
     "source": {
       "id": null,
+      "name": "Rolling Out"
+    },
+    "author": "Vera Emoghene",
+    "title": "Christopher A. Daniel receives CNP journalism honor",
+    "description": "At 9 years old, Christopher A. Daniel knew exactly what he wanted to do with his life. Watching Ed Bradley interview celebrities on 60 Minutes, seeing “this brother with salt and pepper hair, and a suit, and an earring,” Daniel decided he would become a cultu…",
+    "url": "https://rollingout.com/2025/10/24/christopher-daniel-cnp-journalism-award/",
+    "urlToImage": "https://rollingout.com/wp-content/uploads/2025/10/Chris-Daniel-scaled.jpg",
+    "publishedAt": "2025-10-24T20:19:00Z",
+    "content": "At 9 years old, Christopher A. Daniel knew exactly what he wanted to do with his life. Watching Ed Bradley interview celebrities on 60 Minutes, seeing “this brother with salt and pepper hair, and a s… [+8816 chars]"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "David K. Li, Daniella Silva",
+    "title": "New York City’s Canal Street slowly rebounds after ICE raid",
+    "description": "Tourists and locals alike know they can emerge from the dingy subway stations along roughly five blocks of New York City’s Canal Street to be greeted with rows of sparkling, polished designer knockoff bags, watches, jewelry — and their hawkers",
+    "url": "https://www.nbcnews.com/news/us-news/new-york-citys-canal-street-slowly-rebounds-ice-raid-rcna239161",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251024-canal-street-raid-mn-1100-185dea.jpg",
+    "publishedAt": "2025-10-24T19:28:13Z",
+    "content": "Tourists, too, noticed the change. Abby Ivers, a college student from Georgia visiting with her sister, said shopping for knockoffs was a part of their New York ritual.\r\nWe were worried that they wer… [+1258 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Melina Khan, USA TODAY",
+    "title": "WIC funding could run out if shutdown continues into November. What to know.",
+    "description": "The National WIC Association is warning that millions of families could lose access to their WIC benefits as early as Nov. 1.",
+    "url": "https://www.usatoday.com/story/news/politics/2025/10/24/wic-program-november-government-shutdown/86877670007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/T9Dh7fsnHMlLMZ4fi.539A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MjQ7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_news_641/4b0f48f67f9547c454e28f3746a55ba5",
+    "publishedAt": "2025-10-24T18:02:35Z",
+    "content": "The Special Supplemental Nutrition Program for Women, Infants and Children (WIC) is at risk of running out of funding if the ongoing government shutdown continues into November.\r\nWIC is a federal nut… [+4097 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NPR"
+    },
+    "author": "The NPR Network",
+    "title": "The federal government is still shut down. Here's what that means across the country",
+    "description": "The federal government shutdown continues. Republicans and Democrats appear no closer to an agreement to end it. Many federal workers are missing full paychecks and don't know when they will resume.",
+    "url": "https://www.npr.org/2025/10/24/g-s1-94806/government-shutdown",
+    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2F90%2F777011fe4c4db31d1e66547927f8%2F251001-national-parks-shutdown-md-04-qed.jpg",
+    "publishedAt": "2025-10-24T17:30:48Z",
+    "content": "The federal government shutdown continues and Republicans and Democrats appear no closer to an agreement to end it. \r\nThe Senate failed to advance a pair of competing measures to pay at least some fe… [+27628 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Dems lagging in make or break outreach campaign that could decide New Jersey election, DNC leader warns",
+    "description": "DNC co-chair Shasti Conrad warns Democrats risk losing New Jersey's gubernatorial election due to insufficient outreach to Asian American voters.",
+    "url": "https://www.foxnews.com/politics/dems-lagging-make-break-outreach-campaign-could-decide-new-jersey-election-dnc-leader-warns",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mikie-sherrill-jack-ciattarelli.png",
+    "publishedAt": "2025-10-24T13:02:42Z",
+    "content": "The Democrat Party is not doing enough outreach with Asian American and Pacific Islander (AAPI) voters and could risk the party's gubernatorial election in the deep blue state of New Jersey home to o… [+8813 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Dems lagging behind GOP on Asian American outreach could make or break blue state election, DNC leader warns",
+    "description": "DNC co-chair Shasti Conrad warns Democrats risk losing New Jersey's gubernatorial election due to insufficient outreach to Asian American voters.",
+    "url": "https://www.foxnews.com/politics/dems-lagging-behind-gop-asian-american-outreach-could-make-break-blue-state-election-dnc-leader-warns",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mikie-sherrill-jack-ciattarelli.png",
+    "publishedAt": "2025-10-24T13:02:42Z",
+    "content": "The Democrat Party is not doing enough outreach with Asian American and Pacific Islander (AAPI) voters and could risk the party's gubernatorial election in the deep blue state of New Jersey home to o… [+8815 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "GlobeNewswire"
     },
     "author": "Research and Markets",
@@ -50,83 +128,5 @@
     "urlToImage": "https://i.insider.com/68fa8eaa0be9845f2dc50070?width=1200&format=jpeg",
     "publishedAt": "2025-10-23T21:40:18Z",
     "content": "A new Miss USA will be crowned on October 24.Courtesy of Miss USA\r\n<ul><li>Miss USA 2025 will take place at the Grand Sierra Resort in Reno on Friday.</li><li>The live competition will be streamed on… [+24142 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Datavault AI Inc.",
-    "title": "Datavault AI Announces Headquarters Relocation to Philadelphia, Expansion of AI and Quantum Centers, and Advisory Board Growth to Fuel Rapid Innovation",
-    "description": "Company to Renew Focus on Expanding Annual Recurring Revenue Generation Company to Renew Focus on Expanding Annual Recurring Revenue Generation",
-    "url": "https://www.globenewswire.com/news-release/2025/10/23/3172212/0/en/Datavault-AI-Announces-Headquarters-Relocation-to-Philadelphia-Expansion-of-AI-and-Quantum-Centers-and-Advisory-Board-Growth-to-Fuel-Rapid-Innovation.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/12e53b1e-96b6-498a-bd26-0cd0cc0c1d4c",
-    "publishedAt": "2025-10-23T14:36:00Z",
-    "content": "BEAVERTON, Ore., Oct. 23, 2025 (GLOBE NEWSWIRE) -- Datavault AI Inc. (NASDAQ: DVLT), a leader in AI-driven data valuation, monetization, and Web 3.0 asset tokenization, today announced strategic expa… [+11572 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dissentmagazine.org"
-    },
-    "author": "Manuel Pastor",
-    "title": "¿Por Qué MAGA?",
-    "description": "Progressives will only make lasting progress with Latino voters if they examine not just why Trump was appealing, but also why the left was not.",
-    "url": "https://www.dissentmagazine.org/article/por-que-maga/",
-    "urlToImage": "https://www.dissentmagazine.org/wp-content/uploads/pastor-f25-fb.webp",
-    "publishedAt": "2025-10-23T14:20:10Z",
-    "content": "Progressives will only make lasting progress with Latino voters if they examine not just why Trump was appealing, but also why the left was not.\r\nManuel Pastor &amp;squarf; Fall 2025\r\nSupporters of D… [+23736 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Plos.org"
-    },
-    "author": "Yuan Zhang, Zewen Wang",
-    "title": "The relationship of syntactic complexity and rhetorical move-steps in research article discussions: A comparative analysis of Chinese and native English writers",
-    "description": "This study seeks to identify the differences in syntactic complexity (SC) across rhetorical move-steps in the discussion section of research articles (RAs) written by Chinese and native English writers. The corpus consisted of 200 RA discussion sections from …",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334860",
-    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0334860.g001&size=inline",
-    "publishedAt": "2025-10-23T14:00:00Z",
-    "content": "Abstract\r\nThis study seeks to identify the differences in syntactic complexity (SC) across rhetorical move-steps in the discussion section of research articles (RAs) written by Chinese and native Eng… [+63793 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "AOL"
-    },
-    "author": "Moneywise",
-    "title": "Warren Buffett once told a group of students that they won't measure success by how much money they have",
-    "description": "This is how the Oracle of Omaha tracks success.",
-    "url": "https://www.aol.com/finance/warren-buffett-once-told-group-133700762.html",
-    "urlToImage": "https://media.zenfs.com/en/aol_moneywise_ecomm_824/8aa048bfb1acd30cb0c9dd98326d3eee",
-    "publishedAt": "2025-10-23T13:37:00Z",
-    "content": "This article adheres to strict editorial standards. Some or all links may be monetized.\r\nWeve all heard it before: money doesnt buy happiness and investing legend Warren Buffett took that sentiment o… [+8938 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "24/7 Wall St."
-    },
-    "author": "Lee Jackson",
-    "title": "5 Monthly Pay Dividend Stocks Offer Boomers and Retirees Income for Life",
-    "description": "Five safe high-yield monthly pay stocks are among the best investment ideas for those looking to generate secure and reliable passive income for retirement.",
-    "url": "https://247wallst.com/investing/2025/10/23/5-monthly-pay-dividend-stocks-offer-boomers-and-retirees-income-for-life/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lPapu6xp9LnNOGsyRlLPVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/930a2d7896cad1fc71fb8f32e52cf046",
-    "publishedAt": "2025-10-23T13:13:15Z",
-    "content": "PeopleImages.com - Yuri A / Shutterstock.com\r\nWhile reaching retirement age can be both a blessing and a curse, relying on the U.S. government to provide for your needs is not the best idea. The full… [+8173 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Research and Markets",
-    "title": "United States Alzheimer Drugs Research Report 2025: Market to Reach $4.47 Billion by 2033 - 7.78% CAGR Fueled by Drug Innovation and Early Diagnosis",
-    "description": "Growth fueled by the increasing incidence of Alzheimer's disease, growing aging population, and continued development in therapeutic research. With recent approvals from the FDA of disease-modifying therapies and significant investment from private and public…",
-    "url": "https://www.globenewswire.com/news-release/2025/10/23/3171764/28124/en/United-States-Alzheimer-Drugs-Research-Report-2025-Market-to-Reach-4-47-Billion-by-2033-7-78-CAGR-Fueled-by-Drug-Innovation-and-Early-Diagnosis.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "publishedAt": "2025-10-23T08:42:00Z",
-    "content": "Dublin, Oct. 23, 2025 (GLOBE NEWSWIRE) -- The \"United States Alzheimer Drugs Market to Reach US$ 4.47 Billion by 2033 - 7.78% CAGR Fueled by Drug Innovation and Early Diagnosis\" report has been added… [+13732 chars]"
   }
 ]

@@ -1,6 +1,110 @@
 [
   {
     "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Sarah Ferris, Manu Raju",
+    "title": "GOP grows uneasy over voters’ health care premiums amid shutdown standoff | CNN Politics",
+    "description": "Anxiety is rising among congressional Republicans that their party has no plan to address a critical health deadline this fall that will result in spiking costs for millions of Americans – the issue at the heart of the deepening government shutdown crisis.",
+    "url": "https://www.cnn.com/2025/10/26/politics/health-care-premiums-obamacare-republicans-shutdown",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2238443659.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2025-10-26T12:38:25Z",
+    "content": "Anxiety is rising among congressional Republicans that their party has no plan to address a critical health care deadline this fall that will result in spiking costs for millions of Americans the iss… [+7904 chars]"
+  },
+  {
+    "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Nino Paoli",
+    "title": "Meet all 37 White House ballroom donors funding the $300 million build, including Silicon Valley tech giants, crypto bros and the Lutnicks",
+    "description": "The list, reviewed by Fortune, did not mention specific dollar amounts offered by each contributor.",
+    "url": "https://fortune.com/2025/10/26/37-white-house-ballroom-donors-funding-300-million-build-tech-ceos-trump/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2242848550-e1761409580506.jpg?resize=1200,600",
+    "publishedAt": "2025-10-26T09:03:00Z",
+    "content": "The White House has released a list of donors for the Trump administrations new ballroom construction project, following a historic East Wing demolition that began this week.The estimated cost of the… [+7803 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Boredpanda.com"
+    },
+    "author": "Renan Duarte",
+    "title": "‘Teacher Of The Year’ Finalist Who Lost Career Over Charlie Kirk Remarks Is Out For Revenge",
+    "description": "“I didn’t respect him at all, and he’s part of the hatred and vitriolic language we hear so much now.\"",
+    "url": "https://www.boredpanda.com/teacher-of-the-year-finalist-lost-everything-for-charlie-kirk-comments-revenge/",
+    "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2025/10/fb_image_68fd477eea767.png",
+    "publishedAt": "2025-10-25T22:44:35Z",
+    "content": "A 55-year-old veteran high school teacher who weighed in on the September 10 assassination of rightwing blowhard, Charlie Kirk, is suing her employer for placing her on indefinite leave.\r\nMichelle Mi… [+9648 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Usvetjobs.com"
+    },
+    "author": null,
+    "title": "Communications Manager, Harvard Innovation Labs - Harvard University - Boston, MA",
+    "description": "A new Communications Manager, Harvard Innovation Labs job is available in Boston, Massachusetts. Check it out on PR News Online.",
+    "url": "https://jobs.usvetjobs.com/job/communications-manager-harvard-innovation-labs/80840430/",
+    "urlToImage": "https://d3ogvqw9m2inp7.cloudfront.net/assets/dynamic/headers/cc/responsive/partner_lib/1691/img/logo-1691.png",
+    "publishedAt": "2025-10-25T19:15:25Z",
+    "content": "Description\r\n001636SRSchool/Unit Harvard Business SchoolDepartment Harvard Innovation LabsJob Function CommunicationsLocation BostonJob Type Full-timeSalary Grade 056FLSA Status Non-exemptUnion 55 - … [+7990 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "David Spector",
+    "title": "Georgia teacher sues school district after being removed from classroom over Charlie Kirk Facebook post: ‘Fascist full of hate’",
+    "description": "A Teacher of the Year finalist who was placed on indefinite leave after she said \"the world is a bit safer without him\" after Charlie Kirk was savagely gunned down is suing her school district.",
+    "url": "https://nypost.com/2025/10/25/us-news/michelle-mickens-sues-georgia-school-district-over-charlie-kirk-fallout/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/10/www-facebook-com-mrsmmickens-photos-114162860.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2025-10-25T19:13:41Z",
+    "content": "A Georgia Teacher of the Year finalist who was suspended from her job after describing assassinated conservative pundit Charlie Kirk as “a horrible person” and a “fascist full of hate” says her remar… [+2375 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "19thnews.org"
+    },
+    "author": "Shefali Luthra",
+    "title": "ICE Keeps Detaining Pregnant Immigrants — But We Don’t Know How Many",
+    "description": "Quantifying the exact number of pregnant, postpartum, or nursing immigrants in ICE custody has become impossible.",
+    "url": "https://19thnews.org/2025/10/ice-detaining-pregnant-nursing-immigrants/",
+    "urlToImage": "https://truthout.org/app/uploads/2025/10/GettyImages-2242164303-scaled.jpg",
+    "publishedAt": "2025-10-25T18:14:45Z",
+    "content": "Honest, paywall-free news is rare. Please support our boldly independent journalism with a donation of any size.\r\nThis story was originally published by The 19th.\r\nCary López Alvarado, of Hawthorne, … [+14305 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pockettactics.com"
+    },
+    "author": "Quinn Collins",
+    "title": "Your free Netflix mobile games are in trouble as the company closes this Squid Game developer",
+    "description": "The title of Netflix’s recent top series ‘Nobody Wants This’ describes how I feel about recent changes to its mobile games catalogue.",
+    "url": "https://www.pockettactics.com/netflix/boss-fight-entertainment-closure",
+    "urlToImage": "https://www.pockettactics.com/wp-content/sites/pockettactics/2025/10/netflix-boss-fight-entertainment-closure.jpg",
+    "publishedAt": "2025-10-25T15:53:56Z",
+    "content": "Netflix has a pretty extensive library of mobile games to download on your phone or to play on your TV. It's kind of strange, but the marriage works when considering that their hit titles like Squid … [+2964 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Free meal is motivating nearly 1 in 3 singles to say 'yes' to date, new report finds",
+    "description": "Economic concerns are driving 51% of Americans to date less, with Generation Z hit hardest as money becomes the 'third wheel' in modern relationships and dating decisions.",
+    "url": "https://www.foxnews.com/food-drink/free-meal-motivating-nearly-1-3-singles-say-yes-date-new-report-finds",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/gen-z-dating-free-meal.jpg",
+    "publishedAt": "2025-10-25T15:00:45Z",
+    "content": "For members of Generation Z, romance can come with a price tag and a budget, according to a new report.\r\nNearly one in three singles (31%) born between 1997 and 2012 admit they've gone on a date just… [+5038 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Rolling Out"
     },
@@ -24,109 +128,5 @@
     "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251024-canal-street-raid-mn-1100-185dea.jpg",
     "publishedAt": "2025-10-24T19:28:13Z",
     "content": "Tourists, too, noticed the change. Abby Ivers, a college student from Georgia visiting with her sister, said shopping for knockoffs was a part of their New York ritual.\r\nWe were worried that they wer… [+1258 chars]"
-  },
-  {
-    "source": {
-      "id": "usa-today",
-      "name": "USA Today"
-    },
-    "author": "Melina Khan, USA TODAY",
-    "title": "WIC funding could run out if shutdown continues into November. What to know.",
-    "description": "The National WIC Association is warning that millions of families could lose access to their WIC benefits as early as Nov. 1.",
-    "url": "https://www.usatoday.com/story/news/politics/2025/10/24/wic-program-november-government-shutdown/86877670007/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/T9Dh7fsnHMlLMZ4fi.539A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MjQ7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_news_641/4b0f48f67f9547c454e28f3746a55ba5",
-    "publishedAt": "2025-10-24T18:02:35Z",
-    "content": "The Special Supplemental Nutrition Program for Women, Infants and Children (WIC) is at risk of running out of funding if the ongoing government shutdown continues into November.\r\nWIC is a federal nut… [+4097 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "NPR"
-    },
-    "author": "The NPR Network",
-    "title": "The federal government is still shut down. Here's what that means across the country",
-    "description": "The federal government shutdown continues. Republicans and Democrats appear no closer to an agreement to end it. Many federal workers are missing full paychecks and don't know when they will resume.",
-    "url": "https://www.npr.org/2025/10/24/g-s1-94806/government-shutdown",
-    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2F90%2F777011fe4c4db31d1e66547927f8%2F251001-national-parks-shutdown-md-04-qed.jpg",
-    "publishedAt": "2025-10-24T17:30:48Z",
-    "content": "The federal government shutdown continues and Republicans and Democrats appear no closer to an agreement to end it. \r\nThe Senate failed to advance a pair of competing measures to pay at least some fe… [+27628 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Dems lagging in make or break outreach campaign that could decide New Jersey election, DNC leader warns",
-    "description": "DNC co-chair Shasti Conrad warns Democrats risk losing New Jersey's gubernatorial election due to insufficient outreach to Asian American voters.",
-    "url": "https://www.foxnews.com/politics/dems-lagging-make-break-outreach-campaign-could-decide-new-jersey-election-dnc-leader-warns",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mikie-sherrill-jack-ciattarelli.png",
-    "publishedAt": "2025-10-24T13:02:42Z",
-    "content": "The Democrat Party is not doing enough outreach with Asian American and Pacific Islander (AAPI) voters and could risk the party's gubernatorial election in the deep blue state of New Jersey home to o… [+8813 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Dems lagging behind GOP on Asian American outreach could make or break blue state election, DNC leader warns",
-    "description": "DNC co-chair Shasti Conrad warns Democrats risk losing New Jersey's gubernatorial election due to insufficient outreach to Asian American voters.",
-    "url": "https://www.foxnews.com/politics/dems-lagging-behind-gop-asian-american-outreach-could-make-break-blue-state-election-dnc-leader-warns",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/mikie-sherrill-jack-ciattarelli.png",
-    "publishedAt": "2025-10-24T13:02:42Z",
-    "content": "The Democrat Party is not doing enough outreach with Asian American and Pacific Islander (AAPI) voters and could risk the party's gubernatorial election in the deep blue state of New Jersey home to o… [+8815 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Research and Markets",
-    "title": "United States Diabetic Food Market Trends and Company Analysis Report 2025-2033 Featuring Nestle, Unilever, Kellogg Co, Conagra Brands, Tyson Foods, The Hershey Co, and Hain Celestial",
-    "description": "The United States diabetic food market is projected to reach US$ 7.35 billion by 2033, growing from US$ 4.4 billion in 2024 at a CAGR of 5.85%. This growth is fueled by rising health consciousness, increased diabetes prevalence, and demand for low-calorie, lo…",
-    "url": "https://www.globenewswire.com/news-release/2025/10/24/3172727/28124/en/United-States-Diabetic-Food-Market-Trends-and-Company-Analysis-Report-2025-2033-Featuring-Nestle-Unilever-Kellogg-Co-Conagra-Brands-Tyson-Foods-The-Hershey-Co-and-Hain-Celestial.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "publishedAt": "2025-10-24T11:11:00Z",
-    "content": "Dublin, Oct. 24, 2025 (GLOBE NEWSWIRE) -- The \"United States Diabetic Food Market Report by Products, Distribution Channel, States and Company Analysis, 2025-2033\" report has been added to ResearchAn… [+9219 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Research and Markets",
-    "title": "United States Precision Irrigation Market Forecast and Company Analysis Report 2025-2033 Featuring Jain Irrigation Systems, Lindsay, The Toro Co, and Valmont",
-    "description": "The United States Precision Irrigation Market is set to grow significantly from $2.15 billion in 2024 to $4.72 billion by 2033, driven by a 9.11% CAGR. Factors fueling this growth include the increasing need for water-efficient agriculture and advancements in…",
-    "url": "https://www.globenewswire.com/news-release/2025/10/24/3172691/28124/en/United-States-Precision-Irrigation-Market-Forecast-and-Company-Analysis-Report-2025-2033-Featuring-Jain-Irrigation-Systems-Lindsay-The-Toro-Co-and-Valmont.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "publishedAt": "2025-10-24T10:43:00Z",
-    "content": "Dublin, Oct. 24, 2025 (GLOBE NEWSWIRE) -- The \"United States Precision Irrigation Market Report by Type, Crop Type, Application, States and Company Analysis, 2025-2033\" report has been added to Resea… [+7526 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "ET Online",
-    "title": "The robot takeover is closer than you think. What happens to human jobs?",
-    "description": "In a world where technology is advancing at breakneck speed, the workplace is undergoing a seismic shift. Amazon is stepping up its game, aiming to integrate automation into over half a million positions within the next ten years. With giants like Walmart and…",
-    "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/the-robot-takeover-is-closer-than-you-think-what-happens-to-human-jobs/articleshow/124783070.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-124783070,width-1200,height-630,imgsize-1619336,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2025-10-24T10:29:26Z",
-    "content": "When Amazon first introduced robots into its warehouses more than a decade ago, they looked harmless squat, orange pucks gliding across the floor, ferrying shelves of goods to human workers. Today, t… [+7319 chars]"
-  },
-  {
-    "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
-    },
-    "author": "Samantha Grindell Pettyjohn,Anneta Konstantinides,Amanda Krause",
-    "title": "Meet the 51 women competing to be Miss USA 2025",
-    "description": "The Miss USA 2025 pageant will be held in Reno on Friday. This year's contestants include an \"American Ninja Warrior\" competitor and a lawyer.",
-    "url": "https://www.businessinsider.com/miss-usa-pageant-contestants-photos-2025-10",
-    "urlToImage": "https://i.insider.com/68fa8eaa0be9845f2dc50070?width=1200&format=jpeg",
-    "publishedAt": "2025-10-23T21:40:18Z",
-    "content": "A new Miss USA will be crowned on October 24.Courtesy of Miss USA\r\n<ul><li>Miss USA 2025 will take place at the Grand Sierra Resort in Reno on Friday.</li><li>The live competition will be streamed on… [+24142 chars]"
   }
 ]

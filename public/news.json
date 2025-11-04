@@ -1,6 +1,97 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "WJXT News4JAX"
+    },
+    "author": "Moriah Balingit",
+    "title": "Some Head Start preschools shutter as government shutdown continues",
+    "description": "The government shutdown is triggering a wave of closures of Head Start centers, leaving many working parents scrambling for child care and shutting some of the nation’s neediest children out of preschool.",
+    "url": "https://www.news4jax.com/news/politics/2025/11/03/some-head-start-preschools-shutter-as-government-shutdown-continues/",
+    "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/3F6RPDXGFJF6PJD3UNSLEPWSUE.jpg?_a=DATAg1eAZAA0",
+    "publishedAt": "2025-11-03T12:27:33Z",
+    "content": "The government shutdown is triggering a wave of closures of Head Start centers, leaving working parents scrambling for child care and shutting some of the nation's neediest children out of preschool.… [+5712 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Kffhealthnews.org"
+    },
+    "author": "Phil Galewitz, KFF Health News",
+    "title": "Trump’s HHS Orders State Medicaid Programs To Help Find Undocumented Immigrants",
+    "description": "Federal health authorities have taken the \"unprecedented\" step of instructing states to investigate certain individuals on Medicaid to determine whether they are ineligible because of their immigration status, with five states reporting they’ve received more …",
+    "url": "https://kffhealthnews.org/news/article/trump-hhs-medicaid-eligibility-reviews-states-cms-immigrants/",
+    "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2025/11/GettyImages-2218040351-resized.jpg",
+    "publishedAt": "2025-11-03T10:00:00Z",
+    "content": "Phil Galewitz, KFF Health NewsThe Trump administration has ordered states to investigate certain individuals enrolled in Medicaid to determine whether they are ineligible because of their immigration… [+9140 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Research and Markets",
+    "title": "Industrial Robot Floor Cleaner Market Research Report-2025-2030 Featring Key Vendors - Alfred Karcher, Amano, Tennant Co, and NILFISK GROUP",
+    "description": "As companies adopt AI-powered automation, innovations in mapping, obstacle detection, and cloud-based management enhance cleaning precision and reduce costs. Key market drivers include integrated AI capabilities, all-in-one cleaning solutions, advanced naviga…",
+    "url": "https://www.globenewswire.com/news-release/2025/11/03/3178930/28124/en/Industrial-Robot-Floor-Cleaner-Market-Research-Report-2025-2030-Featring-Key-Vendors-Alfred-Karcher-Amano-Tennant-Co-and-NILFISK-GROUP.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "publishedAt": "2025-11-03T09:01:00Z",
+    "content": "Dublin, Nov. 03, 2025 (GLOBE NEWSWIRE) -- The \"Industrial Robot Floor Cleaner Market Research Report-2025-2030\" report has been added to ResearchAndMarkets.com's offering.\r\nThe global industrial robo… [+12222 chars]"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "Moriah Balingit",
+    "title": "Head Start centers face closure during government shutdown",
+    "description": "The government shutdown is triggering a wave of closures of Head Start centers, leaving many working parents scrambling for child care and shutting some of the nation’s neediest children out of preschool. Dozens of centers are missing out on federal grant pay…",
+    "url": "https://apnews.com/article/head-start-closed-snap-government-shutdown-64504360d4d668d268b6eb314e6cb47a",
+    "urlToImage": "https://dims.apnews.com/dims4/default/c920046/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F52%2Fc7%2Fb1e732c85ff06fc97fc930879290%2Fc8df795f39ed46b297c70b86c10799cd",
+    "publishedAt": "2025-11-03T05:33:22Z",
+    "content": "The government shutdown is triggering a wave of closures of Head Start centers, leaving working parents scrambling for child care and shutting some of the nations neediest children out of preschool.\r… [+5553 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Balloon-juice.com"
+    },
+    "author": "Adam L Silverman",
+    "title": "War for Ukraine Day 1,347: Schrödinger’s German Patriots",
+    "description": "A quick housekeeping note: It’s been a while since I updated you all regarding Rosie. It has now been one year since her final chemo treatment. She still has her monthly check ins with the vet where her lymph nodes are checked and she gets a monoclonal antibo…",
+    "url": "https://balloon-juice.com/2025/11/02/war-for-ukraine-day-1347-schrodingers-german-patriots/",
+    "urlToImage": "https://balloon-juice.com/wp-content/uploads/2020/01/Silverman_On_Security.jpg",
+    "publishedAt": "2025-11-03T01:52:15Z",
+    "content": "A quick housekeeping note: It’s been a while since I updated you all regarding Rosie. It has now been one year since her final chemo treatment. She still has her monthly check ins with the vet where … [+17397 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Washington Monthly"
+    },
+    "author": "Suzanne Mettler and Trevor E. Brown",
+    "title": "Rural Revival",
+    "description": "With the onset of the Great Depression, the United States appeared on the verge of political revolt in rural areas. For half a century, rural people had felt increasingly marginalized by changes in American society and the economy and ignored by political lea…",
+    "url": "http://washingtonmonthly.com/2025/11/02/rural-divide-democrats-fdr-trump/",
+    "urlToImage": "https://washingtonmonthly.com/wp-content/uploads/2025/10/Nov-25-FDR-Mettler.jpg",
+    "publishedAt": "2025-11-02T23:27:50Z",
+    "content": "With the onset of the Great Depression, the United States appeared on the verge of political revolt in rural areas. For half a century, rural people had felt increasingly marginalized by changes in A… [+26234 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Capitalbnews.org"
+    },
+    "author": "Adam Mahoney",
+    "title": "Black Communities Across the US Refuse to Be Sacrifice Zones for Data Centers",
+    "description": "From Texas to Virginia and everywhere in between, Black residents are confronting these projects in different ways.",
+    "url": "https://capitalbnews.org/data-centers-black-communities-south/",
+    "urlToImage": "https://truthout.org/app/uploads/2025/10/GettyImages-2235570549.jpg",
+    "publishedAt": "2025-11-02T20:50:55Z",
+    "content": "Did you know that Truthout is a nonprofit and independently funded by readers like you? If you value what we do, please support our work with a donation.\r\nOriginally published by Capital B.\r\nWhen wor… [+10984 chars]"
+  },
+  {
+    "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
@@ -37,96 +128,5 @@
     "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ea8b/live/83e2b750-b41d-11f0-b2a1-6f537f66f9aa.jpg",
     "publishedAt": "2025-11-02T05:43:30Z",
     "content": "Rayhan Demytriein Georgia, South Caucasus\r\nBella Culley, pictured at a previous hearing at Tbilisi City Court, is facing two years in jail\r\nA British teenager - eight months pregnant and charged with… [+6741 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Forbes"
-    },
-    "author": "Kyle Khan-Mullins, Forbes Staff, \n Kyle Khan-Mullins, Forbes Staff\n https://www.forbes.com/sites/kylemullins/",
-    "title": "Here Are The Two Billionaires Supporting Zohran Mamdani",
-    "description": "At least 26 billionaires spent millions trying to stop Mamdani from becoming New York’s next mayor. More surprising are the two billionaires who backed him.",
-    "url": "https://www.forbes.com/sites/kylemullins/2025/11/01/here-are-the-two-billionaires-liz-simons-preston-werner-supporting-zohran-mamdani/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69051ffc786e4d50803f7677/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2025-11-01T10:30:00Z",
-    "content": "Last week, Forbes combed through campaign finance records to find the billionaires spending to stop Zohran Mamdani, a self-described democratic socialist who says billionaires should not exist, from … [+5461 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Indian Express"
-    },
-    "author": "Malavika Jayadeep",
-    "title": "Daily Briefing: Do faith and sports go hand-in-hand?",
-    "description": "Also in today's edition: India-US defence pact; NDA's Bihar manifesto; projected GDP; 'Bugonia','Taj Story' movie review; and more.",
-    "url": "https://indianexpress.com/article/live-news/daily-briefing-top-news-november-1-cricket-india-us-10339396/",
-    "urlToImage": "https://images.indianexpress.com/2025/10/Newsletter-morning-expresso-Final-1600x900-4.jpg",
-    "publishedAt": "2025-11-01T03:53:14Z",
-    "content": "God as the 12th man Jemimah Rodrigues played her life-changing inning in the World Cup semi-final. Post the match, she says, I thank Jesus he carried me through this. Faith can move mountains but it … [+5245 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": "Stanford Daily",
-    "title": "No, Trump Won’t Be America’s Hitler. The Reality Is Much More Concerning",
-    "description": "As the saying goes, the truth is always somewhere in the middle. Last week, The Daily’s news section published a piece titled, “Hoover-affiliated historian calls fascism fears a ‘category error’ amid No Kings protests.” As someone who attended the lecture tit…",
-    "url": "https://freerepublic.com/focus/f-news/4349921/posts",
-    "urlToImage": null,
-    "publishedAt": "2025-11-01T00:06:22Z",
-    "content": "Skip to comments.\r\nNo, Trump Wont Be Americas Hitler. The Reality Is Much More ConcerningStanford Daily ^\r\n | Oct. 28, 2025\r\n | Robert Liu\r\nPosted on 10/31/2025 5:06:22 PM PDT by nickcarraway\r\nAs the… [+7886 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Indian Express"
-    },
-    "author": "Abhinaya Harigovind",
-    "title": "As Russia-Ukraine war grinds on, Georgia becomes new hub for Indian medical students, shows RBI data",
-    "description": "Indian remittances for education in Georgia jump 5 times since 2018-19",
-    "url": "https://indianexpress.com/article/education/as-ukraine-war-grinds-on-georgia-new-hub-for-indian-medical-students-10339087/",
-    "urlToImage": "https://images.indianexpress.com/2025/11/Stethoscope.jpeg",
-    "publishedAt": "2025-10-31T23:10:22Z",
-    "content": "With the war in Ukraine continuing in its fourth year and international students switching to safer alternatives, Georgia is fast emerging as a new and fast-growing destination for Indian medical asp… [+3365 chars]"
-  },
-  {
-    "source": {
-      "id": "cbs-news",
-      "name": "CBS News"
-    },
-    "author": "Aimee Picchi",
-    "title": "Low-income families face financial cliff as shutdown threatens aid",
-    "description": "\"I'm wondering how I'm going to be able to afford everything\" if federal food aid is halted, one single mom said.",
-    "url": "https://www.cbsnews.com/news/government-shutdown-snap-wic-head-start-liheap-funding-halt/?ftag=YHF4eb9d17",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Pctc0k7TouMWfSos5zqp2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/cbs_news_897/92e39a9ed8ba4f96b27aa4c35cf9d7cd",
-    "publishedAt": "2025-10-31T20:09:50Z",
-    "content": "Millions of Americans are sliding toward a financial cliff as the government shutdown stretches into a second month, with four federal assistance programs for low-income families set to run out of fu… [+6850 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Boston Herald"
-    },
-    "author": "Associated Press",
-    "title": "Wisconsin becomes the 36th state to limit cellphones in schools",
-    "description": "It requires districts to prohibit phone use during class time.",
-    "url": "https://www.bostonherald.com/2025/10/31/wisconsin-school-cell-phone-ban/",
-    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/10/Wisconsin_Prisons_90649_6e9171.jpg?w=1024&h=682",
-    "publishedAt": "2025-10-31T19:59:26Z",
-    "content": "By SCOTT BAUER\r\nMADISON, Wis. (AP) Wisconsin became the 36th state to limit cellphones and other electronic devices in school Friday, when its Democratic governor signed a bill requiring districts to… [+2392 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "WSB Atlanta"
-    },
-    "author": "Cox Media Group National Content Desk",
-    "title": "Gary Seacrest, Ryan Seacrest’s father, dies",
-    "description": "Ryan Seacrest is mourning the death of his father Gary, who died earlier this week at the age of 81.",
-    "url": "https://www.wsbtv.com/news/trending/gary-seacrest-ryan-seacrests-father-dies/PJO5GVDMOFCOJGDLTV2XN3XPBY/",
-    "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FGL4RJA6H7FAZ5ANOHJMJ4RAH7I.jpg?auth=b5f6126467fe921584ff277d05ddeb025c8954046910f01f43cb0dfd4bc1fed9&width=1200&height=630&smart=true",
-    "publishedAt": "2025-10-31T18:53:08Z",
-    "content": "Ryan Seacrest is mourning the death of his father Gary, who died earlier this week at the age of 81.\r\nThe television personality announced his fathers death on social media, \"It is with a heavy heart… [+2319 chars]"
   }
 ]

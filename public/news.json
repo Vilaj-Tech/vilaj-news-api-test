@@ -1,16 +1,94 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "WJXT News4JAX"
+      "id": "the-irish-times",
+      "name": "The Irish Times"
     },
-    "author": "Moriah Balingit",
+    "author": "Ellen Coyne",
+    "title": "Alarm at alleged electricians’ exam cheating",
+    "description": "Fianna Fáil is in its Maud Gonne era, that is to say, absolutely tormented by a man called Yates",
+    "url": "https://www.irishtimes.com/politics/2025/11/04/alarm-at-alleged-electricians-exam-cheating/",
+    "urlToImage": "https://www.irishtimes.com/resizer/v2/Q46DUKO3HFA2TITP6FICX6DOXM.jpg?smart=true&auth=5c25563d95e8e6f3f87ad21c2be7c11eae0c78029586fd79207371126e9d51c0&width=1200&height=630",
+    "publishedAt": "2025-11-04T07:13:14Z",
+    "content": "Good morning. \r\nOur lead story this morning is a curious and worrying tale about allegations of cheating within the electrical craft apprenticeship programme, which prompted serious concerns of alleg… [+8513 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "Epoch Times",
+    "title": "More Americans Are Asking If College Is Really Worth It",
+    "description": "Jessica Iannacchino landed on Madison Avenue in New York City, but a career in her chosen field just wasn’t in the cards.The 21-year-old from Poughkeepsie, New York, attended public colleges in South Carolina, Georgia, and Florida, to complete a bachelor’s in…",
+    "url": "https://freerepublic.com/focus/f-chat/4350542/posts",
+    "urlToImage": null,
+    "publishedAt": "2025-11-04T04:48:30Z",
+    "content": "Skip to comments.\r\nMore Americans Are Asking If College Is Really Worth ItEpoch Times ^\r\n | 11/03/2025\r\n | Aaron Gifford\r\nPosted on 11/03/2025 8:48:30 PM PST by SeekAndFind\r\nJessica Iannacchino lande… [+8887 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Covenant House",
+    "title": "Covenant House Calls for Urgent Action During Youth Homelessness Awareness Month",
+    "description": "Covenant House urges the global community to take action this November to help shift the conversation and rally critical support for millions of homeless youth. Covenant House urges the global community to take action this November to help shift the conversat…",
+    "url": "https://www.globenewswire.com/news-release/2025/11/03/3179683/0/en/Covenant-House-Calls-for-Urgent-Action-During-Youth-Homelessness-Awareness-Month.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/ed3ef5f5-274c-4165-bf8b-a9deb94c011b",
+    "publishedAt": "2025-11-03T18:48:00Z",
+    "content": "New York, NY, Nov. 03, 2025 (GLOBE NEWSWIRE) -- NOVEMBER 3, 2025 - FOR IMMEDIATE RELEASE - NEW YORK, NY\r\nWhat: Covenant House, the largest nonprofit in the Americas in 34 cities across five countries… [+7458 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Nakedcapitalism.com"
+    },
+    "author": "Yves Smith",
+    "title": "Mission Impossible: Why the US Cannot Reverse Its Manufacturing Decline",
+    "description": "Debunking magical thinking about the US regaining its manufacturing mojo at scale.",
+    "url": "https://www.nakedcapitalism.com/2025/11/mission-impossible-why-the-us-cannot-reverse-its-manufacturing-decline.html",
+    "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/11/Screenshot-2025-11-03-at-6.48.24 PM.png",
+    "publishedAt": "2025-11-03T14:55:53Z",
+    "content": "Steve Keen highlighted a YouTube video on why the US manufacturing goose is cooked and will stay cooked. The points it makes are broader than the observation we have repeatedly made, that for the US … [+13319 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Boston Herald"
+    },
+    "author": "Associated Press",
     "title": "Some Head Start preschools shutter as government shutdown continues",
-    "description": "The government shutdown is triggering a wave of closures of Head Start centers, leaving many working parents scrambling for child care and shutting some of the nation’s neediest children out of preschool.",
-    "url": "https://www.news4jax.com/news/politics/2025/11/03/some-head-start-preschools-shutter-as-government-shutdown-continues/",
-    "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/3F6RPDXGFJF6PJD3UNSLEPWSUE.jpg?_a=DATAg1eAZAA0",
-    "publishedAt": "2025-11-03T12:27:33Z",
-    "content": "The government shutdown is triggering a wave of closures of Head Start centers, leaving working parents scrambling for child care and shutting some of the nation's neediest children out of preschool.… [+5712 chars]"
+    "description": "The government shutdown is triggering a wave of closures of Head Start centers.",
+    "url": "https://www.bostonherald.com/2025/11/03/government-shutdown-head-start-preschools/",
+    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/11/Education-Government_Shutdown-Head_Start_83123-1.jpg?w=1024&h=682",
+    "publishedAt": "2025-11-03T14:15:20Z",
+    "content": "By MORIAH BALINGIT, MAKIYA SEMINERA and HEATHER HOLLINGSWORTH, Associated Press\r\nThe government shutdown is triggering a wave of closures of Head Start centers, leaving working parents scrambling for… [+5622 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailycoffeenews.com"
+    },
+    "author": "Howard Bryman",
+    "title": "Washed Up Coffee Makes a Multiroaster Splash in Detroit",
+    "description": "A fresh cafe called Washed Up Coffee is now open in Detroit’s West Village neighborhood, offering scratch-made drinks and a constantly updated selection of roasters and coffees. Industry veterans Emily...",
+    "url": "https://dailycoffeenews.com/2025/11/03/washed-up-coffee-makes-a-multiroaster-splash-in-detroit/",
+    "urlToImage": "https://dailycoffeenews.com/wp-content/uploads/2025/10/Washed-Up-Coffee-Detroit-1-1.jpeg",
+    "publishedAt": "2025-11-03T14:14:25Z",
+    "content": "Washed Up Coffee at La Fonda Street in Detroit. All images courtesy of Washed Up Coffee.\r\nA fresh cafe called Washed Up Coffee is now open in Detroit’s West Village neighborhood, offering scratch-mad… [+3230 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Norunn Hornset",
+    "title": "Who gets what, where: To what extent are inequalities in distribution of Norwegian child welfare service measures related to spatial and temporal variation",
+    "description": "Inequality has long been a persistent issue, but it has intensified since the turn of the millennium and is now considered one of the most urgent challenges of our time. Even in Norway, which is traditionally considered an egalitarian society, there is an inc…",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336104",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0336104.g001&size=inline",
+    "publishedAt": "2025-11-03T14:00:00Z",
+    "content": "Abstract\r\nInequality has long been a persistent issue, but it has intensified since the turn of the millennium and is now considered one of the most urgent challenges of our time. Even in Norway, whi… [+48974 chars]"
   },
   {
     "source": {
@@ -50,83 +128,5 @@
     "urlToImage": "https://dims.apnews.com/dims4/default/c920046/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F52%2Fc7%2Fb1e732c85ff06fc97fc930879290%2Fc8df795f39ed46b297c70b86c10799cd",
     "publishedAt": "2025-11-03T05:33:22Z",
     "content": "The government shutdown is triggering a wave of closures of Head Start centers, leaving working parents scrambling for child care and shutting some of the nations neediest children out of preschool.\r… [+5553 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Balloon-juice.com"
-    },
-    "author": "Adam L Silverman",
-    "title": "War for Ukraine Day 1,347: Schrödinger’s German Patriots",
-    "description": "A quick housekeeping note: It’s been a while since I updated you all regarding Rosie. It has now been one year since her final chemo treatment. She still has her monthly check ins with the vet where her lymph nodes are checked and she gets a monoclonal antibo…",
-    "url": "https://balloon-juice.com/2025/11/02/war-for-ukraine-day-1347-schrodingers-german-patriots/",
-    "urlToImage": "https://balloon-juice.com/wp-content/uploads/2020/01/Silverman_On_Security.jpg",
-    "publishedAt": "2025-11-03T01:52:15Z",
-    "content": "A quick housekeeping note: It’s been a while since I updated you all regarding Rosie. It has now been one year since her final chemo treatment. She still has her monthly check ins with the vet where … [+17397 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Washington Monthly"
-    },
-    "author": "Suzanne Mettler and Trevor E. Brown",
-    "title": "Rural Revival",
-    "description": "With the onset of the Great Depression, the United States appeared on the verge of political revolt in rural areas. For half a century, rural people had felt increasingly marginalized by changes in American society and the economy and ignored by political lea…",
-    "url": "http://washingtonmonthly.com/2025/11/02/rural-divide-democrats-fdr-trump/",
-    "urlToImage": "https://washingtonmonthly.com/wp-content/uploads/2025/10/Nov-25-FDR-Mettler.jpg",
-    "publishedAt": "2025-11-02T23:27:50Z",
-    "content": "With the onset of the Great Depression, the United States appeared on the verge of political revolt in rural areas. For half a century, rural people had felt increasingly marginalized by changes in A… [+26234 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Capitalbnews.org"
-    },
-    "author": "Adam Mahoney",
-    "title": "Black Communities Across the US Refuse to Be Sacrifice Zones for Data Centers",
-    "description": "From Texas to Virginia and everywhere in between, Black residents are confronting these projects in different ways.",
-    "url": "https://capitalbnews.org/data-centers-black-communities-south/",
-    "urlToImage": "https://truthout.org/app/uploads/2025/10/GettyImages-2235570549.jpg",
-    "publishedAt": "2025-11-02T20:50:55Z",
-    "content": "Did you know that Truthout is a nonprofit and independently funded by readers like you? If you value what we do, please support our work with a donation.\r\nOriginally published by Capital B.\r\nWhen wor… [+10984 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "TNN",
-    "title": "Madhya Pradesh: Villagers catch principal, physical training instructor boozing on school campus",
-    "description": "Villagers in Sagar district caught a school principal and PTI allegedly drinking alcohol on school premises. The duo reportedly assaulted a villager who objected, leading to their escape and a viral video. Police have registered a case, and an education depar…",
-    "url": "https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-villagers-catch-principal-physical-training-instructor-boozing-on-school-campus/articleshow/125031572.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-125031621,width-1070,height-580,imgsize-32932,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-    "publishedAt": "2025-11-02T09:15:18Z",
-    "content": "<ul><li>News</li>\r\n<li>Madhya Pradesh: Villagers catch principal, physical training instructor boozing on school campus</li></ul>\r\nVillagers in Sagar district caught a school principal and PTI allege… [+2162 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Denver Post"
-    },
-    "author": "Georgia Nicols",
-    "title": "Daily Horoscope for November 2, 2025",
-    "description": "Get your daily horoscope for November 2, 2025 from astrologer Georgia Nicols.",
-    "url": "https://www.denverpost.com/2025/11/02/daily-horoscope-for-november-2-2025/",
-    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2019/08/Learn_how_to_take_photos_of_the_Milky_Way_with_the_help_of_a_Colorado_conservancy_1.jpg?w=1024&h=683",
-    "publishedAt": "2025-11-02T07:00:00Z",
-    "content": "Moon Alert: Avoid shopping or important decisions from 10 a.m. to 11 a.m. EST today (7 a.m. to 8 a.m. PST). After that, the Moon moves from PISCES into ARIES. Note: Daylight saving time ends today. \r… [+3584 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "BBC News"
-    },
-    "author": null,
-    "title": "My pregnant teen toasts bread over a candle flame in Georgian prison, mum says",
-    "description": "Billingham teenager Bella Culley is facing two years in prison in Georgia, South Caucasus.",
-    "url": "https://www.bbc.com/news/articles/c62065ynx5xo",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ea8b/live/83e2b750-b41d-11f0-b2a1-6f537f66f9aa.jpg",
-    "publishedAt": "2025-11-02T05:43:30Z",
-    "content": "Rayhan Demytriein Georgia, South Caucasus\r\nBella Culley, pictured at a previous hearing at Tbilisi City Court, is facing two years in jail\r\nA British teenager - eight months pregnant and charged with… [+6741 chars]"
   }
 ]

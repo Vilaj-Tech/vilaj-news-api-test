@@ -1,81 +1,16 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "Barnraisingmedia.com"
+      "id": "msnbc",
+      "name": "MSNBC"
     },
-    "author": "Paul Rosenberg",
-    "title": "The Trees at the Center of Our History",
-    "description": "Recovering the meaning the white pines, and other trees had for past generations, and—like Mayer’s project with Charles Johnson’s oak—finding imaginative ways to add new meaning and propagate it forward can play a significant role in helping us to reorient th…",
-    "url": "https://barnraisingmedia.com/the-trees-at-the-center-of-american-history/",
-    "urlToImage": "https://www.resilience.org/wp-content/uploads/2025/11/4526549190_d7cf8b8257_c.jpg",
-    "publishedAt": "2025-11-06T12:34:55Z",
-    "content": "This story was originally published by Barn Raiser, your independent source for rural and small town news.\r\nFrom the Pequot War to the New Deal-era Civilian Conservation Corps, trees tell a living st… [+21673 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "NPR"
-    },
-    "author": "Scott Neuman",
-    "title": "ICE is sending a chill through the construction industry",
-    "description": "The construction industry, where more than a quarter of workers are foreign-born, has long struggled to find enough workers. Now, industry officials say Trump's immigration crackdown is making it worse.",
-    "url": "https://www.npr.org/2025/11/06/nx-s1-5575539/ice-immigration-construction-latino-workers",
-    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5831x3280+0+304/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2F7e%2Fdd7590b6450e958345efceb2711c%2Fap25196798356389.jpg",
-    "publishedAt": "2025-11-06T10:00:00Z",
-    "content": "As cars and trucks zoom by, Rurick Palomino points to the underside of the Theodore Roosevelt Bridge that spans the Potomac River in Washington, D.C., where his crew of about 30 workers is doing demo… [+13599 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "NPR"
-    },
-    "author": "The NPR Network",
-    "title": "The federal government is still shut down. Here's what that means across the country",
-    "description": "The federal government remains shut down, in what is now the longest shutdown in U.S. history. Reporters from the NPR Network are digging into the ways the government shutdown is playing out in their region.",
-    "url": "https://www.npr.org/2025/11/06/g-s1-96673/shutdown-government",
-    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+239/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F32%2F11%2F9365f5c8450aaa0ac0ad719b4d6d%2F251101-giving-hope-food-bank-new-orleans-turner-35.JPG",
-    "publishedAt": "2025-11-06T10:00:00Z",
-    "content": "The federal government remains shut down, in what is now the longest shutdown in U.S. history.\r\nMany federal workers have missed paychecks, including air traffic controllers, who are working unpaid. … [+35526 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Edsurge.com"
-    },
-    "author": "Lauren Coffey",
-    "title": "As More States Expand Child Care Programs, This Is One to Watch",
-    "description": "One county in Maryland is garnering attention after a $10 million initiative to boost early childhood programs.",
-    "url": "https://www.edsurge.com/news/2025-11-06-as-more-states-expand-child-care-programs-this-is-one-to-watch",
-    "urlToImage": "https://edsurge.imgix.net/uploads/post/image/16516/shutterstock_1562679949__1_-1761854553.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
-    "publishedAt": "2025-11-06T09:02:00Z",
-    "content": "Jennifer Nicholls is the owner, lead teacher and cook, nurse and entertainment, she joked, at Journey Preschool, a home-based early childhood education program that cares for a dozen children. \r\nOfte… [+10597 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "ArchDaily"
-    },
-    "author": "Antonia Piñeiro",
-    "title": "EUmies Awards 2026 Unveil 410 Nominated Works and the Jury Led by Smiljan Radić",
-    "description": "The EUmies Awards are organized annually by the Fundació Mies van der Rohe and the European Commission, with the support of the European Union's Creative Europe Programme. Based on the principle that \"architecture is not merely a technical or aesthetic matter…",
-    "url": "https://www.archdaily.com/1035751/eumies-awards-2026-unveil-410-nominated-works-and-the-jury-led-by-smiljan-radic",
-    "urlToImage": "https://images.adsttc.com/media/images/690b/a322/1072/7b07/5584/127b/large_jpg/eumies-awards-2026-unveil-410-nominated-works-and-the-jury-led-by-smiljan-radic_15.jpg?1762370402",
-    "publishedAt": "2025-11-06T06:30:00Z",
-    "content": "Anne Frank Middle School Renovation / MARS architectes. Image © Nicolas Grosmond\r\nThe EUmies Awards are organized annually by the Fundació Mies van der Rohe and the European Commission, with the supp… [+32450 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "HuffPost"
-    },
-    "author": "Jennifer Bendery",
-    "title": "The Wildest Democratic Wins You May Not Have Heard About",
-    "description": "Elections for school boards and public service commissions aren’t as sexy as a governor’s race, but they matter — and Democrats swept them everywhere.",
-    "url": "https://www.huffpost.com/entry/democrats-win-2025-downballot-races_n_690a717ae4b0ccb451d768e6",
-    "urlToImage": "https://img.huffingtonpost.com/asset/690c01041800000b6a040812.jpeg?cache=6e3LK8y4NL&ops=1200_630",
-    "publishedAt": "2025-11-06T03:17:29Z",
-    "content": "WASHINGTON Everyone knows the headlines from Tuesday nights Democratic sweep in the 2025 elections governors races in New Jersey and Virginia, a big redistricting referendum in California, Zohran Mam… [+9133 chars]"
+    "author": "Stacey Abrams",
+    "title": "I've seen firsthand what's been happening across the South. Republicans saw it Tuesday.",
+    "description": "Georgia Democrats flipped two seats on the state’s Public Service Commission Tuesday as Democratic wins in Mississippi broke the GOP's legislative supermajority.",
+    "url": "https://www.msnbc.com/opinion/msnbc-opinion/mississippi-georgia-democrats-win-rcna242419",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251106-democrats-voting-election-south-es-be1721.jpg",
+    "publishedAt": "2025-11-07T11:00:00Z",
+    "content": "Tuesday nights election results told a powerful story: The Deep South, to quote the great Andre 3000, has something to say. The region typically defined as Alabama, Georgia, Louisiana and Mississippi… [+5574 chars]"
   },
   {
     "source": {
@@ -83,50 +18,115 @@
       "name": "Balloon-juice.com"
     },
     "author": "Adam L Silverman",
-    "title": "War for Ukraine Day 1,350: A Brief Wednesday Night Update",
-    "description": "It has been a long day and I just finished up a project around the house to set something up for tomorrow morning, so I’m going to run through the basics. Angelina Jolie made a humanitarian mission visit to Kherson today. Which is a big deal because the human…",
-    "url": "https://balloon-juice.com/2025/11/05/war-for-ukraine-day-1350-a-brief-wednesday-night-update/",
+    "title": "War for Ukraine Day 1,351: Tomorrow’s Russian War Crimes Announced Today",
+    "description": "Russia has ever so helpfully announced their next set of war crimes before they’ve committed them. Russia announces its future war crimes: [image or embed] — Kate from Kharkiv (@kateinkharkiv.bsky.social) November 6, 2025 at 7:59 AM Always so helpful. Here’s …",
+    "url": "https://balloon-juice.com/2025/11/06/war-for-ukraine-day-1351-tomorrows-russian-war-crimes-announced-today/",
     "urlToImage": "https://balloon-juice.com/wp-content/uploads/2020/01/Silverman_On_Security.jpg",
-    "publishedAt": "2025-11-06T02:19:32Z",
-    "content": "It has been a long day and I just finished up a project around the house to set something up for tomorrow morning, so I’m going to run through the basics.\r\nAngelina Jolie made a humanitarian mission … [+47892 chars]"
+    "publishedAt": "2025-11-07T01:26:13Z",
+    "content": "Russia has ever so helpfully announced their next set of war crimes before they’ve committed them.\r\nRussia announces its future war crimes:\r\n[image or embed]\r\n Kate from Kharkiv (@kateinkharkiv.bsky.… [+30343 chars]"
+  },
+  {
+    "source": {
+      "id": "breitbart-news",
+      "name": "Breitbart News"
+    },
+    "author": "John Carney",
+    "title": "Breitbart Business Digest: Brooklyn’s Unaffordable Professional Precincts Are America’s Next Rust Belt",
+    "description": "The white collar workers in Brooklyn who elected Zohran Mamdani are experiencing the economic displacement felt by blue collar workers in the Rust Belt three decades ago. They are the natural next chapter of the Make America Great Again coalition.\nThe post Br…",
+    "url": "https://www.breitbart.com/economy/2025/11/06/breitbart-business-digest-brooklyns-unaffordable-professional-precincts-are-americas-next-rust-belt/",
+    "urlToImage": "https://media.breitbart.com/media/2025/11/mamdani-rust-belt-getty-ap-640x335.png",
+    "publishedAt": "2025-11-07T00:50:45Z",
+    "content": "The Professional Precariat Needs Populism Too\r\nIts a November morning in New Hampshire. Pat Buchanan is standing among the men and women of a footwear factory, listening to the assembly-line cobblers… [+13242 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Boston Herald"
+      "name": "Grist"
     },
-    "author": "Tribune News Service",
-    "title": "Trump’s HHS orders state Medicaid programs to help find undocumented immigrants",
-    "description": "Five states reported they’ve received more than 170,000 names collectively.",
-    "url": "https://www.bostonherald.com/2025/11/05/trump-medicaid-immigrants/",
-    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/11/US-NEWS-HEALTH-STATES-MEDICAID-IMMIGRANTS-GET.jpg?w=1024&h=682",
-    "publishedAt": "2025-11-05T22:35:26Z",
-    "content": "By Phil Galewitz, KFF Health News\r\nThe Trump administration has ordered states to investigate certain individuals enrolled in Medicaid to determine whether they are ineligible because of their immigr… [+10163 chars]"
+    "author": "Emily Jones",
+    "title": "In Georgia, power bills beat out party politics",
+    "description": "Will the new Democratic public service commissioners advance clean energy and shake up next year’s midterms?",
+    "url": "https://grist.org/georgia-psc/in-georgia-power-bills-beat-out-party-politics/",
+    "urlToImage": "https://grist.org/wp-content/uploads/2025/11/AP25190699160333.jpg?quality=75&strip=all",
+    "publishedAt": "2025-11-06T21:13:47Z",
+    "content": "This coverage is made possible through a partnership between Grist and WABE, Atlantas NPR station.\r\nDuring his own victory speech on Election Day this week, Atlanta mayor Andre Dickens took a moment … [+5362 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "WSB Radio"
+      "name": "TheWrap"
     },
-    "author": "Jonathan O'brien",
-    "title": "Georgia lawmakers work to address issue of chronic absenteeism in schools",
-    "description": "According to data from the Georgia Department of Education nearly 20% of the state’s students are considered “chronically absent.”",
-    "url": "https://www.wsbradio.com/news/local/georgia-lawmakers-work-address-issue-chronic-absenteeism-schools/57LOVDECABBUBEUF2YJI3A6ZTI/",
-    "urlToImage": "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FVKKI7D7U45C3HFCHP6FSCCFJMM.jpeg?auth=18db16ca52108e173aeb849578cf2809e70f28af684aa3b907f65aa9665408b8&width=1200&height=630&smart=true",
-    "publishedAt": "2025-11-05T21:43:11Z",
-    "content": "ATLANTA — Post pandemic schools across the state have battled to make sure kids at every level are in class.\r\nRight now, in Georgia one social worker is responsible for 1100 students on average, acco… [+1057 chars]"
+    "author": "Kayla Cobb",
+    "title": "Creatorverse: As Creators Leave Hollywood, States Could Soon Flash Tax Breaks to Woo Them",
+    "description": "Hollywood's entertainment hubs are proving to be slow to adapt to digital content\nThe post Creatorverse: As Creators Leave Hollywood, States Could Soon Flash Tax Breaks to Woo Them appeared first on TheWrap.",
+    "url": "https://www.thewrap.com/production-tax-breaks-for-creators/",
+    "urlToImage": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2024/04/dude-perfect.jpg?fit=1200%2C675&quality=89&ssl=1",
+    "publishedAt": "2025-11-06T20:00:00Z",
+    "content": "Hey Creatorverse readers,\r\nAnother day, another opening in the world of creators. This week marked the grand opening of Whalar Groups The Lighthouse Brooklyn, a 34,000-square-foot content studio and … [+8762 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "New York Post"
+      "name": "Freerepublic.com"
     },
-    "author": "Natalie O'Neill",
-    "title": "Lovebirds crowned ‘world’s oldest married couple’ share longevity tips — including lunchtime beers",
-    "description": "The couple, who met during World War II, swears by the power of staying curious, having lunchtime beers and just “loving each other.”",
-    "url": "https://nypost.com/2025/11/05/world-news/lovebirds-crowned-worlds-oldest-married-couple-share-longevity-tips/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/11/114851779.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2025-11-05T20:37:02Z",
-    "content": "These longtime lovebirds are a rare breed.\r\nThe newly crowned oldest married couple” in the world is an adorable pair of former Big Apple centenarians who met during World War II and now swear by the… [+3395 chars]"
+    "author": "Jfeed",
+    "title": "The “Blue Tsunami”: What Haaretz Gets Wrong About America’s / Eli Gotthelf\nThe Myth.",
+    "description": "The “Blue Tsunami”: What Haaretz Gets Wrong About America’s / Eli Gotthelf Israel’s left loves to preach that America is turning anti-Israel and that Democrats are drifting away, but the recent U.S. elections show nothing of the sort. Beneath the liberal dram…",
+    "url": "https://freerepublic.com/focus/f-bloggers/4351071/posts",
+    "urlToImage": null,
+    "publishedAt": "2025-11-06T17:22:14Z",
+    "content": "Skip to comments.\r\nThe Blue Tsunami: What Haaretz Gets Wrong About Americas / Eli Gotthelf\r\nThe Myth.Jfeed ^\r\n | Nov 5, 2025\r\nPosted on 11/06/2025 9:22:14 AM PST by Freeleesy\r\nThe Blue Tsunami: What … [+4404 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Denver Post"
+    },
+    "author": "Kff Health News",
+    "title": "Trump’s HHS orders state Medicaid programs — including in Colorado — to help find undocumented immigrants",
+    "description": "Experts say it's an “unprecedented” step by the federal government that ensnares the state-federal health program in the president’s immigration crackdown.",
+    "url": "https://www.denverpost.com/2025/11/06/colorado-medicaid-undocumented-immigrants/",
+    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/04/Health_Department_Layoffs_Data_32433_cf0b52-1-1.jpg?w=1024&h=683",
+    "publishedAt": "2025-11-06T14:54:18Z",
+    "content": "By Phil Galewitz,KFF Health News\r\nThe Trump administration has ordered states to investigate certain individuals enrolled in Medicaid to determine whether they are ineligible because of their immigra… [+10395 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "La Rosa Holdings Corp.",
+    "title": "La Rosa Holdings Corp. Accelerates Its PropTech Innovation at Growth Summit 2025 with New Agent-Tech and AI Advancements",
+    "description": "Celebration, FL, Nov. 06, 2025 (GLOBE NEWSWIRE) -- La Rosa Holdings Corp. (NASDAQ: LRHC) (“La Rosa” or the “Company”), a real estate and PropTech company, today announced the kickoff of its annual GROWTH SUMMIT 2025, held today, Thursday, November 6, 2025, fr…",
+    "url": "https://www.globenewswire.com/news-release/2025/11/06/3182733/0/en/La-Rosa-Holdings-Corp-Accelerates-Its-PropTech-Innovation-at-Growth-Summit-2025-with-New-Agent-Tech-and-AI-Advancements.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/f854f31e-8844-4c15-a86b-772ced2fcb2a",
+    "publishedAt": "2025-11-06T14:25:00Z",
+    "content": "Celebration, FL, Nov. 06, 2025 (GLOBE NEWSWIRE) -- La Rosa Holdings Corp. (NASDAQ: LRHC) (La Rosa or the Company), a real estate and PropTech company, today announced the kickoff of its annual GROWTH… [+6097 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Substack.com"
+    },
+    "author": "Unbekoming",
+    "title": "End The Fed (2009)",
+    "description": "…\nThe post End The Fed (2009) appeared first on Global Research.",
+    "url": "https://unbekoming.substack.com/p/end-the-fed-2009",
+    "urlToImage": "https://substackcdn.com/image/fetch/$s_!xGXI!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F043c9fd1-756f-43eb-8455-b380d5a03730_1024x1024.png",
+    "publishedAt": "2025-11-06T14:03:05Z",
+    "content": "Ron Pauls End the Fed arrived in 2009 at a moment when the American monetary system teetered on the edge of collapse, yet most citizens remained oblivious to the counterfeiting operation running thei… [+69216 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Jackline Estomihi Mayende Kiwelu, Patrick Ngulube",
+    "title": "Enhancing food security sustainability through digital information extension services in rural Uganda: Maize postharvest evidence-based strategies",
+    "description": "Background Postharvest losses caused by poor drying and storage practices lead to maize waste, reduced food availability, unsafe food due to aflatoxin contamination, and income loss for farmers. This exacerbates food insecurity and threatens the livelihoods o…",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336105",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0336105.g003&size=inline",
+    "publishedAt": "2025-11-06T14:00:00Z",
+    "content": "Citation: Kiwelu JEM, Ngulube P (2025) Enhancing food security sustainability through digital information extension services in rural Uganda: Maize postharvest evidence-based strategies. PLoS One 20(… [+53553 chars]"
   }
 ]

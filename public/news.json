@@ -1,6 +1,84 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "OCRegister"
+    },
+    "author": "Kurt Snibbe",
+    "title": "Organ donors: Why California has one of the lowest registration percentages",
+    "description": "Although 90% of U.S. adults support organ donation, only 60% are actually signed up as donors.",
+    "url": "https://www.ocregister.com/2025/11/07/organ-donors-why-california-has-one-of-the-lowest-registration-percentages/",
+    "urlToImage": "https://www.ocregister.com/wp-content/uploads/2025/11/SGT-L-DONOR-CENTER-1103-SR-08.jpg?w=1024&h=682",
+    "publishedAt": "2025-11-07T22:49:00Z",
+    "content": "Ultimate donation\r\nCalifornia, the most populous state, has one of the nations lowest organ donor registration percentages.\r\nAccording to a 2019 sample of the U.S. population, 90% of adults support o… [+2986 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Rolling Out"
+    },
+    "author": "Munson Steed",
+    "title": "Onyx Impact CEO Esosa Osa reveals the war for Black America’s reality",
+    "description": "Esosa Osa doesn’t just analyze information warfare, she documents it with receipts. As founder and CEO of Onyx Impact, the Duke University graduate has dedicated her career to fighting digital harm and amplifying Black voices in an increasingly chaotic inform…",
+    "url": "https://rollingout.com/2025/11/07/esosa-osa-onyx-impact-black-report/",
+    "urlToImage": "https://rollingout.com/wp-content/uploads/2025/11/Esosa-Headshot.jpg",
+    "publishedAt": "2025-11-07T22:04:47Z",
+    "content": "Esosa Osa doesn’t just analyze information warfare, she documents it with receipts. As founder and CEO of Onyx Impact, the Duke University graduate has dedicated her career to fighting digital harm a… [+6867 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Cybriant",
+    "title": "J.R. Cunningham Joins Cybersecurity Leader Cybriant as Chief Security Officer",
+    "description": "New Leadership Advances Cybriant’s Delivery of Managed Cybersecurity Services as a Certified Google SecOps Partner New Leadership Advances Cybriant’s Delivery of Managed Cybersecurity Services as a Certified Google SecOps Partner",
+    "url": "https://www.globenewswire.com/news-release/2025/11/07/3183991/0/en/J-R-Cunningham-Joins-Cybersecurity-Leader-Cybriant-as-Chief-Security-Officer.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/f88eef47-f0ae-41db-8bbe-83b894e74315",
+    "publishedAt": "2025-11-07T21:59:00Z",
+    "content": "Alpharetta, Georgia, Nov. 07, 2025 (GLOBE NEWSWIRE) -- Cybriant is pleased to announce that J.R. Cunningham has joined the company as its new Chief Security Officer.  Cunningham brings decades of cyb… [+2587 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WBUR"
+    },
+    "author": null,
+    "title": "Why insomnia is an American health crisis",
+    "description": "More than 1 in 3 adults in the U.S. don’t get enough sleep, and 12% suffer from chronic insomnia. What’s driving more Americans toward chronically poor sleep, and what can be done about it?",
+    "url": "https://www.wbur.org/onpoint/2025/11/07/insomnia-american-health-crisis",
+    "urlToImage": "https://wordpress.wbur.org/wp-content/uploads/2025/11/GettyImages-2218996510-1000x667.jpg",
+    "publishedAt": "2025-11-07T21:00:00Z",
+    "content": "More than 1 in 3 adults in the U.S. dont get enough sleep, and 12% suffer from chronic insomnia. Whats driving more Americans toward chronically poor sleep, and what can be done about it?\r\nGuests\r\nSu… [+40307 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Master Trader Corp",
+    "title": "From Immigrant Roots to Market Mastery: Elder Santis Expands Master Trader Corp’s Educational Programs to Empower the Next Generation of Structured Traders",
+    "description": "Master Trader Corp announces expanded training initiatives to advance structured trading education.......",
+    "url": "https://www.globenewswire.com/news-release/2025/11/07/3183910/0/en/From-Immigrant-Roots-to-Market-Mastery-Elder-Santis-Expands-Master-Trader-Corp-s-Educational-Programs-to-Empower-the-Next-Generation-of-Structured-Traders.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/384a5fa6-199f-4004-a22c-4708a7ed8969",
+    "publishedAt": "2025-11-07T19:14:00Z",
+    "content": "Elder Santis Image\r\nATLANTA, Nov. 07, 2025 (GLOBE NEWSWIRE) -- Master Trader Corp, founded by professional trading educator Elder Santis\r\n, today announced the expansion of its educational initiative… [+2632 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Marieke Lemmen, Robert C. Burns, Ross Andrew, Jasmine Cardozo Moreira, Danielle Schwarzmann, Mary Allen",
+    "title": "Visitors’ support of ocean protection in a low-use marine protected area: Gray’s reef national marine sanctuary",
+    "description": "Marine protected areas (MPAs) are important tools for conserving biodiversity and supporting healthy ocean ecosystems and economies. However, the effectiveness of MPAs is dependent upon the support of those who use and are affected by them. Understanding how …",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336140",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0336140.g004&size=inline",
+    "publishedAt": "2025-11-07T14:00:00Z",
+    "content": "Abstract\r\nMarine protected areas (MPAs) are important tools for conserving biodiversity and supporting healthy ocean ecosystems and economies. However, the effectiveness of MPAs is dependent upon the… [+48650 chars]"
+  },
+  {
+    "source": {
       "id": "msnbc",
       "name": "MSNBC"
     },
@@ -50,83 +128,5 @@
     "urlToImage": "https://grist.org/wp-content/uploads/2025/11/AP25190699160333.jpg?quality=75&strip=all",
     "publishedAt": "2025-11-06T21:13:47Z",
     "content": "This coverage is made possible through a partnership between Grist and WABE, Atlantas NPR station.\r\nDuring his own victory speech on Election Day this week, Atlanta mayor Andre Dickens took a moment … [+5362 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "TheWrap"
-    },
-    "author": "Kayla Cobb",
-    "title": "Creatorverse: As Creators Leave Hollywood, States Could Soon Flash Tax Breaks to Woo Them",
-    "description": "Hollywood's entertainment hubs are proving to be slow to adapt to digital content\nThe post Creatorverse: As Creators Leave Hollywood, States Could Soon Flash Tax Breaks to Woo Them appeared first on TheWrap.",
-    "url": "https://www.thewrap.com/production-tax-breaks-for-creators/",
-    "urlToImage": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2024/04/dude-perfect.jpg?fit=1200%2C675&quality=89&ssl=1",
-    "publishedAt": "2025-11-06T20:00:00Z",
-    "content": "Hey Creatorverse readers,\r\nAnother day, another opening in the world of creators. This week marked the grand opening of Whalar Groups The Lighthouse Brooklyn, a 34,000-square-foot content studio and … [+8762 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": "Jfeed",
-    "title": "The “Blue Tsunami”: What Haaretz Gets Wrong About America’s / Eli Gotthelf\nThe Myth.",
-    "description": "The “Blue Tsunami”: What Haaretz Gets Wrong About America’s / Eli Gotthelf Israel’s left loves to preach that America is turning anti-Israel and that Democrats are drifting away, but the recent U.S. elections show nothing of the sort. Beneath the liberal dram…",
-    "url": "https://freerepublic.com/focus/f-bloggers/4351071/posts",
-    "urlToImage": null,
-    "publishedAt": "2025-11-06T17:22:14Z",
-    "content": "Skip to comments.\r\nThe Blue Tsunami: What Haaretz Gets Wrong About Americas / Eli Gotthelf\r\nThe Myth.Jfeed ^\r\n | Nov 5, 2025\r\nPosted on 11/06/2025 9:22:14 AM PST by Freeleesy\r\nThe Blue Tsunami: What … [+4404 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Denver Post"
-    },
-    "author": "Kff Health News",
-    "title": "Trump’s HHS orders state Medicaid programs — including in Colorado — to help find undocumented immigrants",
-    "description": "Experts say it's an “unprecedented” step by the federal government that ensnares the state-federal health program in the president’s immigration crackdown.",
-    "url": "https://www.denverpost.com/2025/11/06/colorado-medicaid-undocumented-immigrants/",
-    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/04/Health_Department_Layoffs_Data_32433_cf0b52-1-1.jpg?w=1024&h=683",
-    "publishedAt": "2025-11-06T14:54:18Z",
-    "content": "By Phil Galewitz,KFF Health News\r\nThe Trump administration has ordered states to investigate certain individuals enrolled in Medicaid to determine whether they are ineligible because of their immigra… [+10395 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "La Rosa Holdings Corp.",
-    "title": "La Rosa Holdings Corp. Accelerates Its PropTech Innovation at Growth Summit 2025 with New Agent-Tech and AI Advancements",
-    "description": "Celebration, FL, Nov. 06, 2025 (GLOBE NEWSWIRE) -- La Rosa Holdings Corp. (NASDAQ: LRHC) (“La Rosa” or the “Company”), a real estate and PropTech company, today announced the kickoff of its annual GROWTH SUMMIT 2025, held today, Thursday, November 6, 2025, fr…",
-    "url": "https://www.globenewswire.com/news-release/2025/11/06/3182733/0/en/La-Rosa-Holdings-Corp-Accelerates-Its-PropTech-Innovation-at-Growth-Summit-2025-with-New-Agent-Tech-and-AI-Advancements.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/f854f31e-8844-4c15-a86b-772ced2fcb2a",
-    "publishedAt": "2025-11-06T14:25:00Z",
-    "content": "Celebration, FL, Nov. 06, 2025 (GLOBE NEWSWIRE) -- La Rosa Holdings Corp. (NASDAQ: LRHC) (La Rosa or the Company), a real estate and PropTech company, today announced the kickoff of its annual GROWTH… [+6097 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Substack.com"
-    },
-    "author": "Unbekoming",
-    "title": "End The Fed (2009)",
-    "description": "…\nThe post End The Fed (2009) appeared first on Global Research.",
-    "url": "https://unbekoming.substack.com/p/end-the-fed-2009",
-    "urlToImage": "https://substackcdn.com/image/fetch/$s_!xGXI!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F043c9fd1-756f-43eb-8455-b380d5a03730_1024x1024.png",
-    "publishedAt": "2025-11-06T14:03:05Z",
-    "content": "Ron Pauls End the Fed arrived in 2009 at a moment when the American monetary system teetered on the edge of collapse, yet most citizens remained oblivious to the counterfeiting operation running thei… [+69216 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Plos.org"
-    },
-    "author": "Jackline Estomihi Mayende Kiwelu, Patrick Ngulube",
-    "title": "Enhancing food security sustainability through digital information extension services in rural Uganda: Maize postharvest evidence-based strategies",
-    "description": "Background Postharvest losses caused by poor drying and storage practices lead to maize waste, reduced food availability, unsafe food due to aflatoxin contamination, and income loss for farmers. This exacerbates food insecurity and threatens the livelihoods o…",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336105",
-    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0336105.g003&size=inline",
-    "publishedAt": "2025-11-06T14:00:00Z",
-    "content": "Citation: Kiwelu JEM, Ngulube P (2025) Enhancing food security sustainability through digital information extension services in rural Uganda: Maize postharvest evidence-based strategies. PLoS One 20(… [+53553 chars]"
   }
 ]

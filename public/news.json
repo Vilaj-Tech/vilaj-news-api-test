@@ -1,6 +1,58 @@
 [
   {
     "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "ISABELLA VOLMERT Associated Press, MORGAN LEE Associated Press",
+    "title": "This New Mexico program is bringing women's history out of the shadows",
+    "description": "A program in New Mexico highlights the contributions of women through historical markers",
+    "url": "https://abcnews.go.com/US/wireStory/roadways-classrooms-new-mexico-program-bringing-womens-history-127566596",
+    "urlToImage": "https://i.abcnewsfe.com/a/504b5c80-c8bd-4cba-b00d-e632554e137d/wirestory_0daae5a0313f6591db4545bd565f698d_16x9.jpg?w=1600",
+    "publishedAt": "2025-11-16T06:57:35Z",
+    "content": "SANTA FE, N.M. -- On a recent field trip to view historical markers in New Mexicos capital city of Santa Fe, seventh grader Raffi Paglayan noted the range of careers and contributions made by the wom… [+4457 chars]"
+  },
+  {
+    "source": {
+      "id": "newsweek",
+      "name": "Newsweek"
+    },
+    "author": "Jesus Mesa",
+    "title": "Ten Days That Shook His Second Term...",
+    "description": "Ten Days That Shook His Second Term...\r\n\n \n \n \n (Second column, 6th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:MAGA Sharpens Knives for 'Ice Maiden' After President's Miserable Week...\r\n\n \r\n\n \n \n Drudge Report Feed needs your support!   Become a Patron",
+    "url": "https://www.newsweek.com/ten-days-that-shook-trumps-second-term-11051326",
+    "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2025/11/Ten-Days-After-the-2025-Midterms-Trumps-Post-Election-Turmoil-1.png?w=1200crop=1",
+    "publishedAt": "2025-11-15T17:31:39Z",
+    "content": "In the ten days since the 2025 elections, Donald Trump has faced a series of political blows that left his allies rattled, his base divided, and his once-durable administration suddenly strained. A h… [+7881 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "The Thurgood Marshall College Fund",
+    "title": "Thurgood Marshall College Fund supports turkey, clothing and gas giveaway for Thanksgiving",
+    "description": "Washington, D.C., Nov. 15, 2025 (GLOBE NEWSWIRE) -- The Thurgood Marshall College Fund (TMCF) is serving as a sponsor of the New Testament Gospel Worldwide Ministries (NTG) 7th-annual turkey, clothing and gas giveaway on Nov. 22 in Rex, Georgia.",
+    "url": "https://www.globenewswire.com/news-release/2025/11/15/3188726/0/en/Thurgood-Marshall-College-Fund-supports-turkey-clothing-and-gas-giveaway-for-Thanksgiving.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/1f6a3b40-f1f3-48d9-ad73-7662562ab4db",
+    "publishedAt": "2025-11-15T16:36:00Z",
+    "content": "Washington, D.C., Nov. 15, 2025 (GLOBE NEWSWIRE) -- The Thurgood Marshall College Fund (TMCF) is serving as a sponsor of the New Testament Gospel Worldwide Ministries (NTG) 7th-annual turkey, clothin… [+2285 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Rolling Out"
+    },
+    "author": "David Kesiena",
+    "title": "Akon and wife clash over custody in divorce fight",
+    "description": "Akon is taking a firm stance in his divorce proceedings, making it clear through new court filings that he believes his estranged wife should not receive any spousal support following their nearly three-decade marriage. The rapper submitted his response to th…",
+    "url": "https://rollingout.com/2025/11/15/akon-divorce-spousal-support-custody/",
+    "urlToImage": null,
+    "publishedAt": "2025-11-15T14:56:45Z",
+    "content": "Akon is taking a firm stance in his divorce proceedings, making it clear through new court filings that he believes his estranged wife should not receive any spousal support following their nearly th… [+5787 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Americanthinker.com"
     },
@@ -76,57 +128,5 @@
     "urlToImage": "https://s.yimg.com/ny/api/res/1.2/thynyT4UfP3fz5zr8RyowA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_golfweek_articles_635/bf0939f7dab3496d0e0f34484c25e2f4",
     "publishedAt": "2025-11-14T21:29:05Z",
     "content": "The Women's Golf Coaches Association has announced the results of the most recent Mizuno WGCA Coaches Poll.\r\nThis is the fourth and final poll of the Fall 2025 season.\r\nThe Stanford Cardinal women's … [+4933 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Fox News Politics Newsletter: Progressive Dems turn on party leadership after shutdown ends",
-    "description": "Welcome to the Fox News Politics newsletter, with the latest updates on the Trump administration, Capitol Hill and more Fox News politics content.",
-    "url": "https://www.foxnews.com/politics/fox-news-politics-newsletter-progressive-dems-turn-party-leadership-after-shutdown-ends",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/aoc-with-reporters.jpg",
-    "publishedAt": "2025-11-14T21:20:50Z",
-    "content": "Welcome to the Fox News Politics newsletter, with the latest updates on the Trump administration, Capitol Hill and more Fox News politics content. Here's what's happening\r\n-Newsom pushes climate reco… [+2598 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Bringatrailer.com"
-    },
-    "author": "bringatrailer",
-    "title": "M52-Powered 1991 BMW 318is 5-Speed at No Reserve",
-    "description": "This 1991 BMW 318is coupe was modified with an M50 inline-six and aftermarket coilovers under previous ownership, and it was acquired in Missouri by the seller in 2013. It was used as a High Performance Driver Education (HPDE) vehicle in Georgia and promoted …",
-    "url": "https://bringatrailer.com/listing/1991-bmw-318is-e30-2/",
-    "urlToImage": "https://bringatrailer.com/wp-content/uploads/2025/11/1991_bmw_318is-e30_img_5829-94754.jpg",
-    "publishedAt": "2025-11-14T20:30:07Z",
-    "content": "This 1991 BMW 318is coupe was modified with an M50 inline-six and aftermarket coilovers under previous ownership, and it was acquired in Missouri by the seller in 2013. It was used as a High Performa… [+4817 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Daily Caller"
-    },
-    "author": "Reagan Reese",
-    "title": "DeSantis World Goes To War With H1B Visas As Trump Faces Blowback From Base",
-    "description": "One of President Donald Trump's old rivals is seemingly moving to seize on MAGA's dissatisfaction with the president's recent statements on H1-B visas.",
-    "url": "https://dailycaller.com/2025/11/14/ron-desantis-trump-h1b-visas-byron-donalds-florida-immigration/",
-    "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/11/GettyImages-2209582673-scaled-e1763144894939.jpg",
-    "publishedAt": "2025-11-14T19:59:20Z",
-    "content": "One of President Donald Trump’s old rivals is seemingly moving to seize on MAGA’s dissatisfaction with the president’s recent statements on H1-B visas.\r\nTrump recently sat down with Fox News host Lau… [+4197 chars]"
-  },
-  {
-    "source": {
-      "id": "cbs-news",
-      "name": "CBS News"
-    },
-    "author": null,
-    "title": "Book excerpt: \"There Is No Place For Us\" by Brian Goldstone",
-    "description": "For his new book, the journalist examines why so many people who work full-time jobs with low wages are homeless in America.",
-    "url": "https://www.cbsnews.com/news/book-excerpt-there-is-no-place-for-us-by-brian-goldstone/",
-    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/14/676352fc-1e38-4400-8e78-796c38d1114c/thumbnail/1200x630/e1f01d14f57ad0e66aaeefa600b82f06/there-is-no-place-for-us-cover-crown-1280.jpg",
-    "publishedAt": "2025-11-14T18:41:07Z",
-    "content": "Crown\r\nWe may receive an affiliate commission from anything you buy from this article.\r\nJournalist Brian Goldstone, who has written for The New York Times, Harper's Magazine, The New Republic and oth… [+10323 chars]"
   }
 ]

@@ -1,6 +1,71 @@
 [
   {
     "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "Connie Loizos",
+    "title": "How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech | TechCrunch",
+    "description": "Young's age and background – things that might seem like disadvantages when it comes to more established industries – have become his secret weapons. When he walks into a room of executives twice or three times his age, he says, there's initial skepticism. \"W…",
+    "url": "https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/111925_Interface-Cofounder-Headshots-21.jpg?resize=1200,800",
+    "publishedAt": "2025-11-22T03:27:13Z",
+    "content": "Thomas Lee Young doesn’t sound like your typical Silicon Valley founder.\r\nThe 24-year-old CEO of Interface, a San Francisco startup using AI to prevent industrial accidents, is a white guy with a Car… [+9369 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Raw Story"
+    },
+    "author": "Lewis Steel, Common Dreams",
+    "title": "The extremists in black robes are about to vote white yet again",
+    "description": "Fifty-seven years ago, I authored an article in the New York Times Magazine provocatively titled: “Nine Men in Black Who Think White\r\n.” It argued that the Supreme Court had long been one of the major roadblocks to progress on racial justice in this country.T…",
+    "url": "https://www.rawstory.com/the-2674331525/",
+    "urlToImage": "https://www.rawstory.com/media-library/supreme-court-justices.jpg?id=61321963&width=1200&height=600&coordinates=0%2C511%2C0%2C511",
+    "publishedAt": "2025-11-21T20:36:25Z",
+    "content": "Fifty-seven years ago, I authored an article in the New York Times Magazine provocatively titled: Nine Men in Black Who Think White\r\n. It argued that the Supreme Court had long been one of the major … [+9665 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Elearningindustry.com"
+    },
+    "author": "Christopher Pappas",
+    "title": "AI Technology In Higher Education: 7 Ways To Leverage Emerging Tech In Universities",
+    "description": "Explore practical ways AI in higher education is reshaping campuses. From adaptive learning to handling admin tasks, the power of AI can boost success without replacing humans.\nThis post was first published on eLearning Industry.",
+    "url": "https://elearningindustry.com/ai-technology-in-higher-education-ways-to-leverage-emerging-tech-in-universities",
+    "urlToImage": "https://cdn.elearningindustry.com/wp-content/uploads/2025/06/7-Ways-To-Leverage-AI-In-Higher-Education.jpg",
+    "publishedAt": "2025-11-21T20:00:26Z",
+    "content": "The Influence Of AI In Higher Education\r\nNot long ago, using Artificial Intelligence (AI) in universities was out of the question. But today, AI in higher education is quite common. From AI-driven re… [+8205 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "International CIO Leadership Association",
+    "title": "Top Technology Executives Recognized at the 2025 GeorgiaCIO ORBIE Awards",
+    "description": "Leading CIOs honored for leadership, innovation, and business impact. ......",
+    "url": "https://www.globenewswire.com/news-release/2025/11/21/3192950/0/en/Top-Technology-Executives-Recognized-at-the-2025-GeorgiaCIO-ORBIE-Awards.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/72e61112-a9a8-437e-be25-9fcdfe519629",
+    "publishedAt": "2025-11-21T18:01:00Z",
+    "content": "ATLANTA, Nov. 21, 2025 (GLOBE NEWSWIRE) -- The 2025 GeorgiaCIO ORBIE Awards recognized the exceptional leadership and innovation of top technology executives from Southern Company, AGCO Corporation, … [+4873 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Fan Xu, Xiaolei Zhang, Lezhu Zhang",
+    "title": "The impact of migrant work experience on rural households’ participation in digital finance: Evidence from China",
+    "description": "Currently, the development of digital finance in China’s rural areas remains in its early stages. The proportion of rural households participating in digital finance and the types of participation are relatively low. This hinders the realization of digital fi…",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337525",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0337525.t012&size=inline",
+    "publishedAt": "2025-11-21T14:00:00Z",
+    "content": "Abstract\r\nCurrently, the development of digital finance in Chinas rural areas remains in its early stages. The proportion of rural households participating in digital finance and the types of partici… [+51183 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Balloon-juice.com"
     },
@@ -63,70 +128,5 @@
     "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/11/DCNF-Weingarten-DEI-Fascism-Schools-Featured.jpg",
     "publishedAt": "2025-11-20T19:47:57Z",
     "content": "American Federation of Teachers President Randi Weingarten claimed during a Wednesday event in New York that diversity, equity and inclusion (DEI) policies were all that stood in the way of fascism.\r… [+2598 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Faruqi & Faruqi LLP",
-    "title": "LRN INVESTOR NOTICE: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Stride",
-    "description": "Faruqi & Faruqi, LLP Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losses In Stride To Contact Him Directly To Discuss Their Options",
-    "url": "https://www.globenewswire.com/news-release/2025/11/20/3192319/683/en/LRN-INVESTOR-NOTICE-Faruqi-Faruqi-LLP-Investigates-Claims-on-Behalf-of-Investors-of-Stride.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/8628babf-2ea4-4b8a-a60b-260db109bfa2",
-    "publishedAt": "2025-11-20T19:17:00Z",
-    "content": "Faruqi &amp; Faruqi, LLP Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losses In Stride To Contact Him Directly To Discuss Their Options\r\nIf you purchased or acq… [+4367 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Wnd.com"
-    },
-    "author": "Elizabeth Troutman Mitchell, The Daily Signal",
-    "title": "Reversing Biden: Lawmakers move to end taxpayer funding of illegal-aliens’ abortion ‘tourism’",
-    "description": "Trump administration 'is rightfully moving to reverse this shocking abuse'",
-    "url": "https://www.wnd.com/2025/11/reversing-biden-lawmakers-move-end-taxpayer-funding-illegal/",
-    "urlToImage": "https://www.wnd.com/wp-content/uploads/2024/07/joe-biden-what-huh-hand-confused.jpg",
-    "publishedAt": "2025-11-20T18:58:08Z",
-    "content": "Joe Biden (Official White House photo by Adam Schultz)\r\nFIRST ON THE DAILY SIGNALTwo lawmakers are working with the Trump administration to roll back a Biden-era regulation forcing taxpayers to pay f… [+4578 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Inside Higher Ed"
-    },
-    "author": "sara.custer@insidehighered.com",
-    "title": "U.S. Remains Leader in Interdisciplinary Science",
-    "description": "U.S. colleges and universities lead the world in interdisciplinary science research according to the Times Higher Education Interdisciplinary Science Rankings 2026 (THE is Inside Higher Ed’s parent company).",
-    "url": "https://www.insidehighered.com/news/quick-takes/2025/11/20/us-remains-leader-interdisciplinary-science",
-    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2024-05/GettyImages-1027139762.jpg?itok=I53t83Wl",
-    "publishedAt": "2025-11-20T18:28:00Z",
-    "content": "U.S. colleges and universities lead the world in interdisciplinary science research according to the Times Higher Education Interdisciplinary Science Rankings 2026 (THE is Inside Higher Eds parent co… [+2304 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The American Prospect"
-    },
-    "author": "David Dayen",
-    "title": "Big Tech Poised to Win Immunity Shield From State AI Regulation",
-    "description": "The Trump administration is readying an executive order preempting constraints on AI. It could become a much more wide-ranging deregulatory tool.\nThe post Big Tech Poised to Win Immunity Shield From State AI Regulation appeared first on The American Prospect.",
-    "url": "http://prospect.org/2025/11/20/big-tech-poised-to-win-immunity-shield-from-state-ai-regulation/",
-    "urlToImage": "https://i0.wp.com/prospect.org/wp-content/uploads/2025/11/Dayen-AI-EO-112025.jpg?fit=2000%2C1333&ssl=1",
-    "publishedAt": "2025-11-20T18:09:29Z",
-    "content": "If you want to understand who the U.S. government serves, in all its corrupt and self-serving glory, you need only look at two ongoing fights in the National Defense Authorization Act, a bill setting… [+10834 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Common Dreams"
-    },
-    "author": "Lewis M. Steel",
-    "title": "Nine Justices in Black Who Rule White",
-    "description": "Fifty-seven years ago, I authored an article in the New York Times Magazine provocatively titled: “Nine Men in Black Who Think White\r\n.” It argued that the Supreme Court had long been one of the major roadblocks to progress on racial justice in this country. …",
-    "url": "https://www.commondreams.org/opinion/supreme-court-racism",
-    "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=56531799&width=1200&height=600&coordinates=0%2C361%2C0%2C362",
-    "publishedAt": "2025-11-20T13:32:03Z",
-    "content": "Fifty-seven years ago, I authored an article in the New York Times Magazine provocatively titled: Nine Men in Black Who Think White\r\n. It argued that the Supreme Court had long been one of the major … [+10062 chars]"
   }
 ]

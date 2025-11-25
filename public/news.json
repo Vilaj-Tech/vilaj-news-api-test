@@ -1,6 +1,71 @@
 [
   {
     "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "ledmonds@businessinsider.com (Lauren Edmonds)",
+    "title": "Some New Yorkers are getting $12,000 in crypto in a Coinbase-funded basic income-style pilot program",
+    "description": "Participants in the cash transfer experiment will receive a $800 monthly no-strings-attached payment and an $8,000 lump sum.",
+    "url": "https://www.businessinsider.com/coinbase-crypto-cash-transfer-program-nyc-basic-income-ubi-2025-11",
+    "urlToImage": "https://i.insider.com/69239555abd5e944effb52f3?width=1200&format=jpeg",
+    "publishedAt": "2025-11-24T10:20:01Z",
+    "content": "Some New Yorkers are now getting crypto as a social safety net.\r\nCoinbase, the leading cryptocurrency exchange, donated funds to a nonprofit organization after shuttering its own philanthropy initiat… [+2813 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The American Prospect"
+    },
+    "author": "Gabrielle Gurley",
+    "title": "Josh Shapiro Ditched the Same Climate Pact That Abigail Spanberger Is Joining",
+    "description": "To seal a state budget deal, Pennsylvania is departing the RGGI emissions control program, but Virginia is jumping back in.\nThe post Josh Shapiro Ditched the Same Climate Pact That Abigail Spanberger Is Joining appeared first on The American Prospect.",
+    "url": "http://prospect.org/2025/11/24/josh-shapiro-ditched-same-climate-pact-abigail-spanberger-is-joining/",
+    "urlToImage": "https://i0.wp.com/prospect.org/wp-content/uploads/2025/11/Gurley-RGGI-112425.jpg?fit=2000%2C1333&quality=89&ssl=1",
+    "publishedAt": "2025-11-24T10:00:00Z",
+    "content": "At the same time that congressional Democrats were trying to wrangle their way out of the weekslong government shutdown impasse on Capitol Hill, Pennsylvania Gov. Josh Shapiro (D) faced his own stand… [+10717 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Inside Higher Ed"
+    },
+    "author": "Ryan Quinn",
+    "title": "Trump’s Effort to Break Up Education Dept. Part of Long History",
+    "description": "Trump’s Effort to Break Up Education Dept. Part of Long History\n\n \n\n\n \nRyan Quinn\n\nMon, 11/24/2025 - 03:00 AM\n\nAn iteration of the department in 1867 lasted about a year before being demoted and not resurfacing until the Carter administration. Department or n…",
+    "url": "https://www.insidehighered.com/news/government/2025/11/24/trump-isnt-first-president-try-break-ed",
+    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-11/Education_Department_Presidents.jpg?itok=R5TYv2Hl",
+    "publishedAt": "2025-11-24T08:00:00Z",
+    "content": "Last week, the Trump administration announced it was moving a raft of Congressionally required Education Department programs to other federal departmentseffectively undermining Congresss aim 46 years… [+13807 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "Tierney Real News Network",
+    "title": "Who is ilhan omar and why should you care ?",
+    "description": "Most people don't know the real story behind Ilhan Omar, Keith Ellison and the Islamo-Communists that have destroyed Minnesota. Why? Because the influencers and fake news feed information to us in bits and pieces for maximum outrage, clicks and cash - so we n…",
+    "url": "https://freerepublic.com/focus/f-bloggers/4354211/posts",
+    "urlToImage": null,
+    "publishedAt": "2025-11-23T20:05:44Z",
+    "content": "Most people don't know the real story behind Ilhan Omar, Keith Ellison and the Islamo-Communists that have destroyed Minnesota. Why? Because the influencers and fake news feed information to us in bi… [+77985 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Boston Herald"
+    },
+    "author": "Tribune News Service",
+    "title": "Accreditation of colleges, once low key, has gotten political",
+    "description": "The accreditation process is critical to the survival of institutions of higher education.",
+    "url": "https://www.bostonherald.com/2025/11/23/accreditation-of-colleges-once-low-key-has-gotten-political/",
+    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/11/202511180415MCT_____PHOTO____US-NEWS-CMP-ACCREDITATION-POLITICS-GET.jpg?w=1024&h=682",
+    "publishedAt": "2025-11-23T15:20:26Z",
+    "content": "By Robbie Sequeira, Stateline.org\r\nWhen six Southern public university systems this summer formed a new accreditation agency, the move shook the national evaluation model that higher education has re… [+9544 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "HuffPost"
     },
@@ -63,70 +128,5 @@
     "urlToImage": null,
     "publishedAt": "2025-11-22T16:26:07Z",
     "content": "Skip to comments.\r\nFrom Civics Lesson to Color Revolution: What the 'Refuse Orders' Message Really DidAMUSE on X ^\r\n | 21 Nov, 2025\r\n | @AMUSE \r\nPosted on 11/22/2025 8:26:07 AM PST by MtnClimber\r\nThe… [+20411 chars]"
-  },
-  {
-    "source": {
-      "id": "techcrunch",
-      "name": "TechCrunch"
-    },
-    "author": "Connie Loizos",
-    "title": "How this founder’s unlikely path to Silicon Valley could become an edge in industrial tech | TechCrunch",
-    "description": "Young's age and background – things that might seem like disadvantages when it comes to more established industries – have become his secret weapons. When he walks into a room of executives twice or three times his age, he says, there's initial skepticism. \"W…",
-    "url": "https://techcrunch.com/2025/11/21/how-this-founders-unlikely-path-to-silicon-valley-could-become-an-edge-in-industrial-tech/",
-    "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/111925_Interface-Cofounder-Headshots-21.jpg?resize=1200,800",
-    "publishedAt": "2025-11-22T03:27:13Z",
-    "content": "Thomas Lee Young doesn’t sound like your typical Silicon Valley founder.\r\nThe 24-year-old CEO of Interface, a San Francisco startup using AI to prevent industrial accidents, is a white guy with a Car… [+9369 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Raw Story"
-    },
-    "author": "Lewis Steel, Common Dreams",
-    "title": "The extremists in black robes are about to vote white yet again",
-    "description": "Fifty-seven years ago, I authored an article in the New York Times Magazine provocatively titled: “Nine Men in Black Who Think White\r\n.” It argued that the Supreme Court had long been one of the major roadblocks to progress on racial justice in this country.T…",
-    "url": "https://www.rawstory.com/the-2674331525/",
-    "urlToImage": "https://www.rawstory.com/media-library/supreme-court-justices.jpg?id=61321963&width=1200&height=600&coordinates=0%2C511%2C0%2C511",
-    "publishedAt": "2025-11-21T20:36:25Z",
-    "content": "Fifty-seven years ago, I authored an article in the New York Times Magazine provocatively titled: Nine Men in Black Who Think White\r\n. It argued that the Supreme Court had long been one of the major … [+9665 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Elearningindustry.com"
-    },
-    "author": "Christopher Pappas",
-    "title": "AI Technology In Higher Education: 7 Ways To Leverage Emerging Tech In Universities",
-    "description": "Explore practical ways AI in higher education is reshaping campuses. From adaptive learning to handling admin tasks, the power of AI can boost success without replacing humans.\nThis post was first published on eLearning Industry.",
-    "url": "https://elearningindustry.com/ai-technology-in-higher-education-ways-to-leverage-emerging-tech-in-universities",
-    "urlToImage": "https://cdn.elearningindustry.com/wp-content/uploads/2025/06/7-Ways-To-Leverage-AI-In-Higher-Education.jpg",
-    "publishedAt": "2025-11-21T20:00:26Z",
-    "content": "The Influence Of AI In Higher Education\r\nNot long ago, using Artificial Intelligence (AI) in universities was out of the question. But today, AI in higher education is quite common. From AI-driven re… [+8205 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "International CIO Leadership Association",
-    "title": "Top Technology Executives Recognized at the 2025 GeorgiaCIO ORBIE Awards",
-    "description": "Leading CIOs honored for leadership, innovation, and business impact. ......",
-    "url": "https://www.globenewswire.com/news-release/2025/11/21/3192950/0/en/Top-Technology-Executives-Recognized-at-the-2025-GeorgiaCIO-ORBIE-Awards.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/72e61112-a9a8-437e-be25-9fcdfe519629",
-    "publishedAt": "2025-11-21T18:01:00Z",
-    "content": "ATLANTA, Nov. 21, 2025 (GLOBE NEWSWIRE) -- The 2025 GeorgiaCIO ORBIE Awards recognized the exceptional leadership and innovation of top technology executives from Southern Company, AGCO Corporation, … [+4873 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Plos.org"
-    },
-    "author": "Fan Xu, Xiaolei Zhang, Lezhu Zhang",
-    "title": "The impact of migrant work experience on rural households’ participation in digital finance: Evidence from China",
-    "description": "Currently, the development of digital finance in China’s rural areas remains in its early stages. The proportion of rural households participating in digital finance and the types of participation are relatively low. This hinders the realization of digital fi…",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0337525",
-    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0337525.t012&size=inline",
-    "publishedAt": "2025-11-21T14:00:00Z",
-    "content": "Abstract\r\nCurrently, the development of digital finance in Chinas rural areas remains in its early stages. The proportion of rural households participating in digital finance and the types of partici… [+51183 chars]"
   }
 ]

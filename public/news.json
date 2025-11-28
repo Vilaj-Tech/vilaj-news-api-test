@@ -2,6 +2,71 @@
   {
     "source": {
       "id": null,
+      "name": "Deseret News"
+    },
+    "author": "Tad Walch",
+    "title": "AJ’s aura: The ‘most unselfish superstar,’ AJ Dybantsa lifts BYU by buying in like he always has",
+    "description": "“I’ve always felt he had a chance to go all the way because his family cares about the right things.”",
+    "url": "https://www.deseret.com/sports/2025/11/26/byu-aj-dybantsa-basketball-nba-education-parents-discipline/",
+    "urlToImage": "https://media.zenfs.com/en/deseret_news_992/077221d7042dca2df1a9a231a486999a",
+    "publishedAt": "2025-11-27T04:00:01Z",
+    "content": "Ace Dybantsa was born and raised in the Republic of Congo, where he spoke three languages. Chelsea Hudson grew up with her grandmother in Hanover, Jamaica, steeped in a dialect called Jamaican Patois… [+32460 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": null,
+    "title": "Georgia's pro-EU protesters defiant year after accession process was halted",
+    "description": "The demonstrations began when Georgia's prime minister called a four-year halt on moves towards joining the EU.",
+    "url": "https://www.bbc.com/news/articles/c208w378gg7o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8bb5/live/601ad730-caf7-11f0-b43f-e3318ee9f4fe.jpg",
+    "publishedAt": "2025-11-27T00:03:12Z",
+    "content": "Rayhan DemytrieCaucasus correspondent\r\nHundreds of protesters turn out every night, a year after pro-European demonstrations began\r\n\"I'm standing for the future of this country,\" says Giorgi Arabuli,… [+8333 chars]"
+  },
+  {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "Lorenzo Franceschi-bicchierai",
+    "title": "Bug in jury systems used by several US states exposed sensitive personal data | TechCrunch",
+    "description": "An easy-to-exploit vulnerability in a jury system made by Tyler Technologies exposed the personally identifiable data of jurors, including names, home addresses, emails, and phone numbers.",
+    "url": "https://techcrunch.com/2025/11/26/bug-in-jury-systems-used-by-several-us-states-exposed-sensitive-personal-data/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/gavel-messy-legal.jpg?resize=1200,675",
+    "publishedAt": "2025-11-26T16:02:17Z",
+    "content": "Several public websites designed to allow courts across the United States and Canada to manage the personal information of potential jurors had a simple security flaw that easily exposed their sensit… [+3858 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Linda Aurpibul, Chutima Saisaengjan, Wipaporn Natalie Songtaweesin, Supunnee Masurin, Tulathip Suwanlerk, Thanyawee Puthanakit",
+    "title": "Understanding the challenges of healthcare transition in the context of HIV-related stigma for young adults with perinatal HIV in Thailand",
+    "description": "The healthcare transition during adolescence and young adulthood has consistently been reported as a critical period for attrition and adverse health outcomes. The study assessed HIV-related stigma and transition experiences among young people living with per…",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336624",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0336624.t001&size=inline",
+    "publishedAt": "2025-11-26T14:00:00Z",
+    "content": "Abstract\r\nThe healthcare transition during adolescence and young adulthood has consistently been reported as a critical period for attrition and adverse health outcomes. The study assessed HIV-relate… [+50244 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Hector Torres, Efe Ozturk, Zhou Fang, Nicholas Zhang, Shuangyi Cai, Neel Sarkar, Ahmet F. Coskun",
+    "title": "What is a “Good” figure: Scoring of biomedical data visualization",
+    "description": "Biomedical data visualization is critical for interpreting complex datasets, yet the clarity and quality of visualizations vary widely across tools and applications. This study introduces a comprehensive framework for evaluating biomedical figures and benchma…",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336917",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0336917.g006&size=inline",
+    "publishedAt": "2025-11-26T14:00:00Z",
+    "content": "Citation: Torres H, Ozturk E, Fang Z, Zhang N, Cai S, Sarkar N, et al. (2025) What is a Good figure: Scoring of biomedical data visualization. PLoS One 20(11):\r\n e0336917.\r\nhttps://doi.org/10.1371/jo… [+45938 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "Mother Jones"
     },
     "author": "Julia Métraux",
@@ -63,70 +128,5 @@
     "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
     "publishedAt": "2025-11-26T10:29:00Z",
     "content": "Dublin, Nov. 26, 2025 (GLOBE NEWSWIRE) -- The \"United States Non-GMO Food Market Report by Product Type, Distribution Channel, States and Company Analysis 2025-2033\" report has been added to Research… [+8072 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Research and Markets",
-    "title": "United States Dental Insurance Market Forecast Report 2025-2033 Featuring AXA, AFLAC, Allianz, Aetna, Ameritas Life Insurance, United HealthCare, and Metlife",
-    "description": "The U.S. dental insurance market is poised for significant growth, projected to surge from $60.2 billion in 2024 to $111.89 billion by 2033, driven by a CAGR of 7.13%. This expansion is fueled by increasing oral health awareness, the rising cost of dental car…",
-    "url": "https://www.globenewswire.com/news-release/2025/11/26/3194939/28124/en/United-States-Dental-Insurance-Market-Forecast-Report-2025-2033-Featuring-AXA-AFLAC-Allianz-Aetna-Ameritas-Life-Insurance-United-HealthCare-and-Metlife.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "publishedAt": "2025-11-26T10:23:00Z",
-    "content": "Dublin, Nov. 26, 2025 (GLOBE NEWSWIRE) -- The \"United States Dental Insurance Market Report by Coverage, Type, Demographics and States and Company Analysis, 2025-2033\" report has been added to Resear… [+9085 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Research and Markets",
-    "title": "US STD Diagnostics Market Forecast and Company Analysis 2025-2033 Featuring Abbott, F. Hoffmann-La Roche, Hologic, BD and Co, Danaher, Siemens, bioMerieux, Thermo Fisher Scientific, Qiagen, Bio-Rad",
-    "description": "The United States STD Diagnostics Market is set to grow from US$ 5.06 billion in 2024 to US$ 8.49 billion by 2033, achieving a CAGR of 5.91% from 2025 to 2033. Key growth drivers include rising STD prevalence, technological advancements, increased awareness, …",
-    "url": "https://www.globenewswire.com/news-release/2025/11/26/3194929/28124/en/US-STD-Diagnostics-Market-Forecast-and-Company-Analysis-2025-2033-Featuring-Abbott-F-Hoffmann-La-Roche-Hologic-BD-and-Co-Danaher-Siemens-bioMerieux-Thermo-Fisher-Scientific-Qiagen-.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "publishedAt": "2025-11-26T10:17:00Z",
-    "content": "Dublin, Nov. 26, 2025 (GLOBE NEWSWIRE) -- The \"United States STD Diagnostics Market Report by Test Type, Technology, Location of Testing, End User, States and Company Analysis 2025-2033\" report has b… [+8733 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "War on the Rocks"
-    },
-    "author": "Arjun Akwei, Jinwan Park",
-    "title": "The Case for An Allied Competitive Strategy",
-    "description": "The purpose of American foreign policy is to advance and defend the interests of the American people through our engagements with the rest of the world, yet more so than ever before, most Americans see an enormous gap between the U.S. government’s foreign pol…",
-    "url": "https://warontherocks.com/2025/11/the-case-for-an-allied-competitive-strategy/",
-    "urlToImage": "https://warontherocks.com/wp-content/uploads/2025/11/Park-Photo.png?v=1764100836",
-    "publishedAt": "2025-11-26T08:30:38Z",
-    "content": "The purpose of American foreign policy is to advance and defend the interests of the American people through our engagements with the rest of the world, yet more so than ever before, most Americans s… [+19405 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Denver Post"
-    },
-    "author": "Georgia Nicols",
-    "title": "Daily Horoscope for November 26, 2025",
-    "description": "Get your daily horoscope for November 26, 2025 from astrologer Georgia Nicols.",
-    "url": "https://www.denverpost.com/2025/11/26/daily-horoscope-for-november-26-2025/",
-    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2019/08/Learn_how_to_take_photos_of_the_Milky_Way_with_the_help_of_a_Colorado_conservancy_1.jpg?w=1024&h=683",
-    "publishedAt": "2025-11-26T07:00:00Z",
-    "content": "Moon Alert: There are no restrictions to shopping or important decisions today. The Moon is in AQUARIUS.\r\nHappy Birthday for Wednesday, Nov. 26, 2025:\r\nYou are freethinking, hardworking, organized an… [+4280 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Cdc.gov"
-    },
-    "author": null,
-    "title": "Isolation and Characterization of Rickettsia finnyi, Novel Pathogenic Spotted Fever Group Rickettsia in Dogs, United States",
-    "description": "Spotted Fever Group <em>Rickettsia</em> in Dogs",
-    "url": "https://wwwnc.cdc.gov/eid/article/31/11/25-0681_article",
-    "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
-    "publishedAt": "2025-11-26T05:00:00Z",
-    "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.In 2020, a unique spotted … [+24020 chars]"
   }
 ]

@@ -2,6 +2,45 @@
   {
     "source": {
       "id": null,
+      "name": "Forbes"
+    },
+    "author": "Maria Gracia Santillana Linares, Forbes Staff, \n Maria Gracia Santillana Linares, Forbes Staff\n https://www.forbes.com/sites/mariagraciasantillanalinares/",
+    "title": "15 Top Colleges For Launching Your Career",
+    "description": "With job prospects for new grads dim and AI spreading, Forbes searched out schools that make it a priority to help students with co-op programs, internships and more.",
+    "url": "https://www.forbes.com/sites/mariagraciasantillanalinares/2025/12/07/15-top-colleges-for-launching-your-career/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69331a2bf3661fde89838562/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
+    "publishedAt": "2025-12-07T11:30:00Z",
+    "content": "With job prospects for new grads dim and AI spreading, Forbes searched out the schools that make it a priority to help students with co-op programs, internships, coaching and more.\r\nLast year, 105,09… [+21923 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ProPublica"
+    },
+    "author": "Ginger Thompson, Doris Burke",
+    "title": "Sick in a Hospital Town",
+    "description": "The story of Phoebe Putney Memorial Hospital — the dominant political and economic institution of Albany, Georgia — is the story of American health care.",
+    "url": "http://www.propublica.org/article/sick-in-a-hospital-town",
+    "urlToImage": "https://www.propublica.org/wp-content/uploads/2025/12/Phoebe-Hero-2.jpg?resize=2000,1333",
+    "publishedAt": "2025-12-07T10:00:00Z",
+    "content": "Phoebe Putney Memorial Hospital Katie Campbell/ProPublica\r\nEarly morning, May 26, 2022\r\nAnthony Parker was tired of feeling tired. He was approaching his 70th birthday and his third decade as preside… [+165239 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Page Six"
+    },
+    "author": "Leah Bitsky",
+    "title": "Tyrese Gibson brings the house down at Swizz Beatz’s starry Art Basel Miami afterparty",
+    "description": "Other A-listers in attendance included Pusha T, Khalid, Rich Paul, Black Coffee, Loren Ridinger, Art Basel CEO Noah Horowitz and Airbnb CEO Brian Chesky.",
+    "url": "https://pagesix.com/2025/12/06/celebrity-news/tyrese-gibson-brings-the-house-down-at-swizz-beatzs-starry-art-basel-miami-afterparty/",
+    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/12/116860405.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2025-12-06T17:13:03Z",
+    "content": "Tyrese Gibson brought the house down at Swizz Beatz’s starry afterparty for the first annual Art Basel Awards in Miami.\r\nThe “Fast &amp; Furious” actor was seen grooving on the dance floor with party… [+2536 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "Mother Jones"
     },
     "author": "Nina Lakhani",
@@ -89,44 +128,5 @@
     "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/12/Bus_Boycott_Anniversary_75929.jpg?w=1024&h=683",
     "publishedAt": "2025-12-05T16:30:13Z",
     "content": "By KIMBERLY CHANDLER and JAYLEN GREEN, Associated Press\r\nMONTGOMERY, Ala. (AP) Doris Crenshaw was 12 years old on Dec. 5, 1955, when she and her sister eagerly rushed door to door in their neighborho… [+7560 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Mit.edu"
-    },
-    "author": "Anne Trafton | MIT News",
-    "title": "Paula Hammond named dean of the School of Engineering",
-    "description": "Paula Hammond, an Institute Professor and MIT’s executive vice provost, has been named dean of MIT’s School of Engineering, effective Jan. 16.",
-    "url": "https://news.mit.edu/2025/paula-hammond-dean-school-engineering-1205",
-    "urlToImage": "https://news.mit.edu/sites/default/files/images/202512/MIT-Paula_Hammond-01-press.jpg",
-    "publishedAt": "2025-12-05T15:50:00Z",
-    "content": "Paula Hammond 84, PhD 93, an Institute Professor and MITs executive vice provost, has been named dean of MITs School of Engineering, effective Jan. 16. She will succeed Anantha Chandrakasan, the Vann… [+9248 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "AGCO Corporation",
-    "title": "CORRECTION – Massey Ferguson Names Prescott Frontier Days 2025 Sowing Good Deeds Winner",
-    "description": "Massey Ferguson names Arizona rodeo 2025 Sowing Good Deeds winner at PRCA Awards Banquet in Las Vegas. ...",
-    "url": "https://www.globenewswire.com/news-release/2025/12/05/3200838/0/en/CORRECTION-Massey-Ferguson-Names-Prescott-Frontier-Days-2025-Sowing-Good-Deeds-Winner.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6e8a3e4-68d9-4526-84a4-abb6301dc827",
-    "publishedAt": "2025-12-05T15:29:00Z",
-    "content": "In a release issued under the same headline on Dec. 4, 2025 by AGCO Corporation, please note that the quote in paragraph 5 was attributed to the wrong person. The corrected release follows:\r\nLAS VEGA… [+3684 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Plos.org"
-    },
-    "author": "Zhijia Gu, Keke Ji, Gaohan Xu, Ao Li, Yi Shen, Chong Yao",
-    "title": "Study on the spatiotemporal variation and driving factors of soil erosion based on sampling method in the loess hilly area of western Henan Province, China",
-    "description": "The loess hilly area of western Henan Province is one of the most serious areas of soil erosion due to rugged terrain, steep slopes and weak soil resistance ability. The prevention and control of soil erosion needs to know the rate, area and distribution of s…",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338185",
-    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0338185.g009&size=inline",
-    "publishedAt": "2025-12-05T14:00:00Z",
-    "content": "Abstract\r\nThe loess hilly area of western Henan Province is one of the most serious areas of soil erosion due to rugged terrain, steep slopes and weak soil resistance ability. The prevention and cont… [+56714 chars]"
   }
 ]

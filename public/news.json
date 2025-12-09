@@ -1,6 +1,97 @@
 [
   {
     "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "TOI Education",
+    "title": "How Marjorie Taylor Greene’s early education helped shape the politician she is today",
+    "description": "Marjorie Taylor Greene’s resignation from Congress and public split with Donald Trump has exposed deepening tensions inside the Republican Party. In her 60 Minutes interview, she accused Trump of sidelining America First priorities in favour of major industri…",
+    "url": "https://timesofindia.indiatimes.com/education/news/how-marjorie-taylor-greenes-early-education-helped-shape-the-politician-she-is-today/articleshow/125830397.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-125830432,width-1070,height-580,imgsize-1567771,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+    "publishedAt": "2025-12-08T08:36:54Z",
+    "content": "Marjorie Taylor Greenes resignation from Congress and public split with Donald Trump has exposed deepening tensions inside the Republican Party. In her 60 Minutes interview, she accused Trump of side… [+1948 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Nature.com"
+    },
+    "author": "Fatemeh Jahanimoghadam, Zahra Salari, Azadeh Horri, Mohamad Radmanesh, Amir Hossein Nekouei, Sima Joukar",
+    "title": "Evaluating the knowledge of general dental practitioners regarding local anesthetic injections in pediatric patients",
+    "description": "Inducing efficient anesthesia makes the dental procedures easier for pediatric patients and the dentist. This study aimed to assess the knowledge of general dental practitioners regarding local anesthetic injections in children. This cross-sectional survey wa…",
+    "url": "https://www.nature.com/articles/s41598-025-30988-1",
+    "urlToImage": null,
+    "publishedAt": "2025-12-08T00:00:00Z",
+    "content": "<li>Ram, D. &amp; Davidovich, E. Assessment and Management of Pain in Pediatric Dentistry. pp. 3140. (2023).\r\n</li><li>Guideline on Use of Local Anesthesia for Pediatric Dental Patients. Pediatr. Den… [+4851 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Zachary Bynum",
+    "title": "New Birth hosts World AIDS + HIV Awareness Sunday, offering free testing and critical health resources",
+    "description": "New Birth Missionary Baptist Church partners with public-health groups to confront HIV stigma and expand access to testing for communities disproportionately impacted across metro Atlanta.",
+    "url": "https://www.cbsnews.com/atlanta/news/new-birth-hosts-world-aids-hiv-awareness-sunday-offering-free-testing-and-critical-health-resources/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/07/f72c652d-08cd-465f-b4b3-f6af08f215a0/thumbnail/1200x630/6707f68963b78987da9146c60e54222b/freemobilemd.png",
+    "publishedAt": "2025-12-07T21:00:34Z",
+    "content": "New Birth Missionary Baptist Church is launching a full-scale community health initiative on Sunday as it hosts World AIDS and HIV Awareness Sunday, offering free HIV testing, on-site screenings, tak… [+2903 chars]"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Naftali Bendavid",
+    "title": "A US president who has often seemed to float above the laws of politics confronts political reality",
+    "description": "President who often seemed to float above laws of politics confronts political reality.",
+    "url": "https://syndication.washingtonpost.com/nss/stories/TKHUDSLYANAZ7JR3RNFKJOVNZ4",
+    "urlToImage": "https://www.nzherald.co.nz/resizer/v2/GY7OS65DFBFVJJ3LJIL2JHJMWY.jpg?auth=a826f9ad9587b4b0243f7fe6b538cf6d81ffb1ad57bfa5725415c9b224e531f5&width=1200&height=675&quality=70&smart=true",
+    "publishedAt": "2025-12-07T16:00:00Z",
+    "content": "He has suggested that in the not-too-distant future, no one will have to pay income tax.\r\nThis flurry of sometimes extravagant claims comes amid a growing Republican fear, fuelled by recent election … [+10978 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "OilPrice.com"
+    },
+    "author": "Felicity Bradstock",
+    "title": "States Press Ahead on Electric Cars as Washington Steps Back",
+    "description": "Since taking office in January, United States President Trump has spoken out against electric vehicles (EVs), signing an executive order to scrap the “EV mandate” (despite there being no such federal mandate). In recent months, federal support for EVs has wan…",
+    "url": "https://oilprice.com/Energy/Energy-General/States-Press-Ahead-on-Electric-Cars-as-Washington-Steps-Back.html",
+    "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2025-12-04_wtbipnul1q.jpg",
+    "publishedAt": "2025-12-07T16:00:00Z",
+    "content": "The Black Sea is becoming…\r\nThe global electric motor market…\r\nSurging U.S. electricity pricesdriven by…\r\nSet us as your preferred Google source\r\nBy Felicity Bradstock - Dec 07, 2025, 10:00 AM CSTSin… [+5163 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WWD"
+    },
+    "author": "Ryma Chikhoune",
+    "title": "Where Celebrities Get Their Facials Before the Red Carpet",
+    "description": "Meet the facialists behind L.A.’s most radiant skin. Here’s where to get a red-carpet-worthy glow this season.",
+    "url": "http://wwd.com/beauty-industry-news/beauty-features/la-facialists-red-carpet-glow-1238343314/",
+    "urlToImage": "https://wwd.com/wp-content/uploads/2025/12/FINALSparkle.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2025-12-07T15:00:00Z",
+    "content": "As awards season approaches, Los Angeles’ most sought-after facialists are in peak demand. The experts behind the industry’s most radiant complexions blend artistry and innovation, creating treatment… [+7767 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ET Online",
+    "title": "Quote of the day by Martin Luther King Jr.: 'Injustice anywhere is a threat to justice everywhere. We are caught in...'",
+    "description": "Martin Luther King Jr., one of the most influential figures of the last century, left behind a powerful legacy through his speeches and writings. His messages focused on justice, equality, nonviolence and the moral duty to stand against oppression. The curate…",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-martin-luther-king-jr-injustice-anywhere-is-a-threat-to-justice-everywhere-we-are-caught-in-/articleshow/125817445.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-125817507,width-1200,height-630,imgsize-55930,overlay-etpanache/articleshow.jpg",
+    "publishedAt": "2025-12-07T14:03:34Z",
+    "content": "Across the world, discussions on equality, civic responsibility and collective rights continue to draw from influential voices of the past. Among the most enduring is Martin Luther King Jr., whose wo… [+3621 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Forbes"
     },
@@ -37,96 +128,5 @@
     "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/12/116860405.jpg?quality=75&strip=all&w=1200",
     "publishedAt": "2025-12-06T17:13:03Z",
     "content": "Tyrese Gibson brought the house down at Swizz Beatz’s starry afterparty for the first annual Art Basel Awards in Miami.\r\nThe “Fast &amp; Furious” actor was seen grooving on the dance floor with party… [+2536 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Mother Jones"
-    },
-    "author": "Nina Lakhani",
-    "title": "“Demoralizing”: How Donald Trump Undermined Coal Country’s Comeback",
-    "description": "This story was originally published by the Guardian and is reproduced here as part of the Climate Desk collaboration. For a moment, Jacob Hannah saw an unprecedented opportunity to make Appalachia great again. In 2022, the Biden administration earmarked billi…",
-    "url": "https://www.motherjones.com/politics/2025/12/donald-trump-coal-country-appalachia-joe-biden-ira-grants-cuts/",
-    "urlToImage": "https://www.motherjones.com/wp-content/uploads/2025/12/Swensen_Guardian-5592.jpg?w=1200&h=630&crop=1",
-    "publishedAt": "2025-12-06T12:30:00Z",
-    "content": "Jacob Hannah, CEO of Coalfield Development: \"It was a once-in-a-generation cash injection.\"Michael Swensen/The Guardian\r\nGet your news from a source thats not owned and controlled by oligarchs. Sign … [+12785 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Denver Post"
-    },
-    "author": "Georgia Nicols",
-    "title": "Daily Horoscope for December 6, 2025",
-    "description": "Get your daily horoscope for DecemberS\n 6, 2025 from astrologer Georgia Nicols.",
-    "url": "https://www.denverpost.com/2025/12/06/daily-horoscope-for-decembers-6-2025/",
-    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2019/08/Learn_how_to_take_photos_of_the_Milky_Way_with_the_help_of_a_Colorado_conservancy_1.jpg?w=1024&h=683",
-    "publishedAt": "2025-12-06T07:00:00Z",
-    "content": "Moon Alert: There are no restrictions to shopping or important decisions today. The Moon is in CANCER.\r\nHappy Birthday for Saturday, Dec. 6, 2025:\r\nYou’re perceptive, meticulous and committed to what… [+4291 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Noah Whitman",
-    "title": "What states are snakeheads found in?",
-    "description": "What States Are Snakeheads Found In? A Growing Concern Snakeheads, invasive fish species native to Asia and Africa, have been confirmed in several U.S. states, causing ecological concern; the answer to “What states are snakeheads found in?” is that they’ve be…",
-    "url": "https://www.lifesciencesworld.com/what-states-are-snakeheads-found-in/",
-    "urlToImage": null,
-    "publishedAt": "2025-12-06T05:38:02Z",
-    "content": "What States Are Snakeheads Found In? A Growing Concern\r\nSnakeheads, invasive fish species native to Asia and Africa, have been confirmed in several U.S. states, causing ecological concern; the answer… [+9033 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": null,
-    "title": "America Prayer Vigil - 12/6/2025",
-    "description": "Join with fellow FREEPERS to pray for AMERICA: For those in Authority in Government, Family, Military, Business, Agri-Business; End to Sex Slavery; Healthcare, Education, Churches, and the Media. This is the confidence we have in approaching God: that if we a…",
-    "url": "https://freerepublic.com/focus/f-religion/4356165/posts",
-    "urlToImage": null,
-    "publishedAt": "2025-12-06T03:19:40Z",
-    "content": "Join with fellow FREEPERS to pray for AMERICA: For those in Authority in Government, Family, Military, Business, Agri-Business; End to Sex Slavery; Healthcare, Education, Churches, and the Media. Thi… [+4844 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Detroit Free Press"
-    },
-    "author": "Cora Hall and Ryan Ford, Detroit Free Press",
-    "title": "Roy Kramer, former SEC commissioner, CMU champion coach, dies at 96",
-    "description": "Former SEC commissioner Roy Kramer, credited with the creation of BCS, has died. Kramer coached CMU to the 1974 NCAA Division II football title.",
-    "url": "https://www.freep.com/story/sports/college/2025/12/05/roy-kramer-former-sec-commissioner-cmu-champion-coach-dies-at-96/87627939007/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ku2XTMNv9YOsYoDJM2h8yA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/detroit_free_press_natl_articles_245/08613aaae4391f78db28831cdba89e33",
-    "publishedAt": "2025-12-05T20:26:11Z",
-    "content": "Former Central Michigan football coach Roy Kramer died on Thursday, Dec. 4. He was 96.\r\nKramer became a national name in the sport as SEC commissioner and Vanderbilt athletics director, but before th… [+4697 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Forbes"
-    },
-    "author": "Peter Suciu, Contributor, \n Peter Suciu, Contributor\n https://www.forbes.com/sites/petersuciu/",
-    "title": "Medal Of Honor Recipients To Receive Larger Pension For Their Service",
-    "description": "President Trump signed into law the MEDAL Act, which raised the monthly pension to Medal of Honor recipients from $1,489.73 to $5,625, or about $67,500 annually.",
-    "url": "https://www.forbes.com/sites/petersuciu/2025/12/05/medal-of-honor-recipients-to-receive-larger-pension-for-their-service/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69331cef1fcf80ccb8cdab32/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2025-12-05T18:04:28Z",
-    "content": "U.S. President Joe Biden awards Ret. Private First Class Kenneth David with the Medal of Honor during a ceremony at the White House to honor seven U.S. Army soldiers on January 3, 2025 in Washington,… [+6224 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Boston Herald"
-    },
-    "author": "Associated Press",
-    "title": "What boycotting looks like 70 years after the Montgomery Bus Boycott",
-    "description": "The Montgomery Bus Boycott marks its 70th anniversary Friday.",
-    "url": "https://www.bostonherald.com/2025/12/05/montgomery-bus-boycott/",
-    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/12/Bus_Boycott_Anniversary_75929.jpg?w=1024&h=683",
-    "publishedAt": "2025-12-05T16:30:13Z",
-    "content": "By KIMBERLY CHANDLER and JAYLEN GREEN, Associated Press\r\nMONTGOMERY, Ala. (AP) Doris Crenshaw was 12 years old on Dec. 5, 1955, when she and her sister eagerly rushed door to door in their neighborho… [+7560 chars]"
   }
 ]

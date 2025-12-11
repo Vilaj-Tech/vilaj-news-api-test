@@ -1,132 +1,132 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "The-independent.com"
+      "id": "usa-today",
+      "name": "USA Today"
     },
-    "author": "Morgan Lee",
-    "title": "Breathtaking desert that inspired Georgia O’Keeffe is now protected",
-    "description": "A new conservation plan would ensure visitors can continue to access the spiritual retreat, along with winter pasture for livestock",
-    "url": "https://www.the-independent.com/arts-entertainment/art/news/georgia-okeefe-santa-fe-desert-b2880888.html",
-    "urlToImage": "https://static.the-independent.com/2025/12/09/11/Land_Conservation_Georgia_O%27Keeffe_80663.jpg?width=1200&height=800&crop=1200:800",
-    "publishedAt": "2025-12-09T12:31:07Z",
-    "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+3374 chars]"
-  },
-  {
-    "source": {
-      "id": "financial-post",
-      "name": "Financial Post"
-    },
-    "author": "The Associated Press",
-    "title": "Georgia O’Keeffe’s views of the New Mexico desert will be preserved with conservation plan",
-    "description": "SANTA FE, N.M. (AP) — A new conservation agreement will preserve land with breathtaking desert vistas that inspired the work of 20th century painter Georgia O’Keeffe and ensure visitors access to an adjacent educational retreat, several partners to the pact a…",
-    "url": "https://financialpost.com/pmn/georgia-okeeffes-views-of-the-new-mexico-desert-will-be-preserved-with-conservation-plan",
-    "urlToImage": null,
-    "publishedAt": "2025-12-09T11:12:43Z",
-    "content": "SANTA FE, N.M. (AP) A new conservation agreement will preserve land with breathtaking desert vistas that inspired the work of 20th century painter Georgia OKeeffe and ensure visitors access to an adj… [+5088 chars]"
-  },
-  {
-    "source": {
-      "id": "abc-news",
-      "name": "ABC News"
-    },
-    "author": "MORGAN LEE Associated Press",
-    "title": "Georgia O'Keeffe's views of the New Mexico desert will be preserved with conservation plan",
-    "description": "A new conservation plan would preserve pristine desert vistas beside the longtime home of 20th century painter Georgia O’Keeffe and ensure visitors continued access to a spiritual retreat, along with winter pasture for livestock",
-    "url": "https://abcnews.go.com/US/wireStory/georgia-okeeffes-views-new-mexico-desert-preserved-conservation-128234503",
-    "urlToImage": "https://i.abcnewsfe.com/a/08a5cbca-13bf-41c3-8375-9658799c9a19/wirestory_7ca6ae838d3fb262fd52484b39623929_16x9.jpg?w=1600",
-    "publishedAt": "2025-12-09T11:10:36Z",
-    "content": "SANTA FE, N.M. -- A new conservation agreement will preserve land with breathtaking desert vistas that inspired the work of 20th century painter Georgia O'Keeffe and ensure visitors access to an adja… [+2883 chars]"
+    "author": "Jarrett Johnson, Aggies Wire",
+    "title": "Texas A&M Softball secures No. 8 recruiting class in nation",
+    "description": "Texas A&M softball lands the No. 8 recruiting class, adding six four-star signees to build depth and future championship potential.",
+    "url": "https://aggieswire.usatoday.com/story/sports/college/aggies/2025/12/10/texas-aggies-softball-top-ten-2025-class-trisha-ford/87678696007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ooeo8R1pOfGy0tRHMyD0wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/aggies_wire_usa_today_articles_632/c9b04bfbe3a2a6023ad02199e3d78e3a",
+    "publishedAt": "2025-12-10T12:30:50Z",
+    "content": "Texas A&amp;M softball is making strides to become a force on the college softball scene again, and coach Trisha Ford is entering a crucial season as she leads her fourth roster fully recruited by he… [+2180 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Punch"
+      "name": "Boston Herald"
     },
-    "author": "Punch Newspapers",
-    "title": "At the Intersection of AI, Engineering, and Human Learning",
-    "description": "Discover Taiwo Feyijimi’s work at the crossroads of AI, engineering, and learning. Explore his innovative frameworks shaping the future of AI in engineerin\n\nRead More: https://punchng.com/at-the-intersection-of-ai-engineering-and-human-learning/",
-    "url": "https://punchng.com/at-the-intersection-of-ai-engineering-and-human-learning/",
-    "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/12/09124317/pca.jpg",
-    "publishedAt": "2025-12-09T10:40:38Z",
-    "content": "Taiwo Feyijimi stands at a rare crossroads where advanced artificial intelligence, engineering education, and human learning converge. As a doctoral candidate in Engineering Education Transformations… [+10972 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The American Prospect"
-    },
-    "author": "Whitney Curry Wimbish",
-    "title": "Trump’s Health Care Cuts Are a War on Children",
-    "description": "GOP funding cuts mean that more children will grow up with the lifelong implications of untreated illnesses.\nThe post Trump’s Health Care Cuts Are a War on Children appeared first on The American Prospect.",
-    "url": "http://prospect.org/2025/12/09/trumps-health-care-cuts-war-on-children/",
-    "urlToImage": "https://i0.wp.com/prospect.org/wp-content/uploads/2025/12/Wimbish-Kids-health-insurance-120925.jpg?fit=2120%2C1414&quality=89&ssl=1",
-    "publishedAt": "2025-12-09T10:30:00Z",
-    "content": "Heres a scenario that keeps adoptive and foster parent Sara Pendleton up at night: A child falls ill. The doctor is too expensive. Perhaps the childs parents reduced or cut their coverage because the… [+11532 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "ProPublica"
-    },
-    "author": "Eli Hager",
-    "title": "Wave of Tax Cuts Has Left Many States Vulnerable to Trump SNAP and Medicaid Crisis",
-    "description": "President Donald Trump’s so-called One Big Beautiful Bill Act will shift billions in costs for SNAP and Medicaid to states. But with 26 having cut or eliminated state income taxes just since 2021, they may not have the money to continue the programs.",
-    "url": "http://www.propublica.org/article/food-stamps-crisis-snap-big-beautiful-bill-state-tax-cuts",
-    "urlToImage": "https://www.propublica.org/wp-content/uploads/2025/12/GettyImages-2244600105_maxHeight_3000_maxWidth_3000.jpg?resize=2000,1377",
-    "publishedAt": "2025-12-09T10:00:00Z",
-    "content": "This fall, Americans got to see what its like to go without a safety net for the hungry. With the U.S. government shut down for multiple weeks and President Donald Trump refusing to fund SNAP, the fe… [+14063 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "NewsCenterMaine.com WCSH-WLBZ"
-    },
-    "author": "Emma Zimmerman Of The Maine Monitor",
-    "title": "Maine’s reproductive health providers worry about crisis pregnancy centers as they face defunding",
-    "description": "The centers aren’t bound to the same oversight as doctor’s offices and are often connected to religious organizations that oppose abortion.",
-    "url": "https://www.newscentermaine.com/article/news/regional/the-maine-monitor/reproductive-health-pregnancy-crisis-center-abortion-defunding-affordable-care-act/97-47c57a3a-9430-47db-8072-23e009f36468",
-    "urlToImage": "https://media.newscentermaine.com/assets/NCM/images/b2963753-2190-414c-a250-628e27b4cac1/20251208T160827/b2963753-2190-414c-a250-628e27b4cac1_1140x641.jpg",
-    "publishedAt": "2025-12-09T01:47:48Z",
-    "content": "PORTLAND, Maine ABBA Womens Choice in Portland looks like a typical medical office at first glance. On an April afternoon, Executive Director Jenny Pratt opened the door, revealing a modern waiting r… [+21733 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Hoover.org"
-    },
-    "author": "December 9, 2025",
-    "title": "Christian “Resurrection” in Islamic Iran?",
-    "description": "Christians of many hues have lived in Iran long before 633 CE, when Islam arrived on the heels of the Arab invading army. The Cyrus Cylinder, often considered one of the first declarations of human rights and religious tolerance, is rightly seen as emblematic…",
-    "url": "https://www.hoover.org/research/christian-resurrection-islamic-iran",
-    "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/2025-12/IraniStock-1092622402.jpg?itok=Fg1xyXxR",
-    "publishedAt": "2025-12-09T00:00:00Z",
-    "content": "<ul><li>Middle East</li><li>International Affairs</li></ul><ul><li>Determining America's Role in the World</li></ul>Christians of many hues have lived in Iran long before 633 CE, when Islam arrived o… [+8820 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Vox"
-    },
-    "author": "Eric Levitz",
-    "title": "Older voters are gaining power. Young people are paying the price.",
-    "description": "America is getting old. Between 1960 and 2024, the share of Americans over 65 doubled — from 9 percent to 18 percent. And the US will only grow grayer in the coming years. Within a decade, America’s seniors will outnumber its children for the first time in hi…",
-    "url": "https://www.vox.com/politics/471424/older-voters-property-tax-cuts-social-security-medicare",
-    "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/12/Vox_OldAmerica_JaredBartman.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "publishedAt": "2025-12-08T21:49:55Z",
-    "content": "America is getting old.\n\nBetween 1960 and 2024, the share of Americans over 65 doubled — from 9 percent to 18 percent. And the US will only grow grayer in the coming years. Within a decade, America’s… [+14071 chars]"
+    "author": "Ed Gaskin",
+    "title": "Gaskin: Owning AI future means owning the energy future",
+    "description": "If we want to lead the AI era, we must get our energy policy, our environmental protections, and our regulatory framework right.",
+    "url": "https://www.bostonherald.com/2025/12/10/gaskin-owning-ai-future-means-owning-the-energy-future/",
+    "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2025/12/BHR-L-GASKIN-01.jpg?w=1024&h=682",
+    "publishedAt": "2025-12-10T08:01:26Z",
+    "content": "Artificial intelligence is transforming nearly every sector of society medicine, transportation, education, finance, and the future of work. President Trump has made it clear that he wants the United… [+5911 chars]"
   },
   {
     "source": {
       "id": "abc-news-au",
       "name": "ABC News (AU)"
     },
-    "author": "Andrew Collins and Samantha Goerling",
-    "title": "Plenty of other local fish in the sea despite demersal ban, chef says",
-    "description": "Don Hancey has pointed to \"under-utilised\" fish species in WA waters as the government's ban on catching demersal varieties looms.",
-    "url": "https://www.abc.net.au/news/2025-12-09/wa-food-ambassador-demersal-fishing-ban/106109474",
-    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a06db4dd2fc6103d4b38aca468609694?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "publishedAt": "2025-12-08T21:32:46Z",
-    "content": "The West Australian food ambassador says the fishing industry should take the lead on education as consumers search for local alternatives in the wake of major changes to fishing rules.\r\nLast week th… [+3413 chars]"
+    "author": "Rosanne Maloney and Gabrielle Becerra Mellet",
+    "title": "North Queenslanders split over new crocodile management plan",
+    "description": "The new management plan sees the expansion of crocodile removal zones across north and far north Queensland. Some say it will not increase safety without better community education.",
+    "url": "https://www.abc.net.au/news/2025-12-10/north-queenslanders-split-over-new-crocodile-management-plan/106125448",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/be01af0aad97845a122bb996c77f1da5?impolicy=wcms_watermark_news&cropH=541&cropW=960&xPos=0&yPos=54&width=862&height=485&imformat=generic",
+    "publishedAt": "2025-12-10T07:29:27Z",
+    "content": "A new state government crocodile management plan has drawn mixed responses in far north Queensland about whether changes will make communities safer.\r\nThe plan, introduced to parliament on Tuesday, e… [+5463 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Science Daily"
+    },
+    "author": null,
+    "title": "Rising temperatures are slowing early childhood development",
+    "description": "Researchers discovered that unusually high temperatures can hinder early childhood development. Children living in hotter conditions were less likely to reach key learning milestones, especially in reading and basic math skills. Those facing economic hardship…",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251209234247.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/sweaty-boy-hot-school-child.webp",
+    "publishedAt": "2025-12-10T05:59:03Z",
+    "content": "Climate change, including extreme heat and frequent heat waves, is already known to harm ecosystems, agriculture, and human health. New evidence now suggests that increasing temperatures may also slo… [+3075 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Malay Mail"
+    },
+    "author": "Malay Mail",
+    "title": "Obesity is a chronic disease, not a lifestyle issue, warn health experts",
+    "description": "KUALA LUMPUR, Dec 10 — Obesity is a disease that needs to be managed rather than cured, according to health experts.Chairperson of APAC Cardiometabolic Summit, Senior Consultant...",
+    "url": "https://www.malaymail.com/news/malaysia/2025/12/10/obesity-is-a-chronic-disease-not-a-lifestyle-issue-warn-health-experts/201396",
+    "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2025/12/10/313860.jpg",
+    "publishedAt": "2025-12-10T05:48:43Z",
+    "content": "KUALA LUMPUR, Dec 10 Obesity is a disease that needs to be managed rather than cured, according to health experts.\r\nChairperson of APAC Cardiometabolic Summit, Senior Consultant Endocrinologist, Head… [+3299 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "Epoch Times",
+    "title": "Education Department Reaches Deal to Dismantle Biden’s Student Loan Plan: Some 7 million student loan borrowers would have to enroll in a different program and repay their debt",
+    "description": "The Trump administration is moving to dismantle the federal student loan repayment plan known as SAVE, the last remnant of the Biden-era effort to provide large-scale student debt relief. The U.S. Department of Education announced on Dec. 9 that it had reache…",
+    "url": "https://freerepublic.com/focus/f-news/4356714/posts",
+    "urlToImage": null,
+    "publishedAt": "2025-12-10T04:29:02Z",
+    "content": "Skip to comments.\r\nEducation Department Reaches Deal to Dismantle Bidens Student Loan Plan: Some 7 million student loan borrowers would have to enroll in a different program and repay their debt Epoc… [+5510 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Newsfromthestates.com"
+    },
+    "author": "Shauneen Miranda",
+    "title": "Trump Admin Moves to Officially Scrap Biden-Era Student Loan Forgiveness Program",
+    "description": "The initiative sought to provide lower monthly loan payments and forgive remaining debt after a certain period of time.",
+    "url": "https://www.newsfromthestates.com/article/trump-administration-aims-officially-scrap-biden-era-student-loan-forgiveness-program",
+    "urlToImage": "https://truthout.org/app/uploads/2025/12/GettyImages-2221173187-1200x800.jpg",
+    "publishedAt": "2025-12-09T21:38:20Z",
+    "content": "Truthout is an indispensable resource for activists, movement leaders and workers everywhere. Please make this work possible with a quick donation.\r\nWashington The U.S. Department of Education announ… [+3993 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Wonkette.com"
+    },
+    "author": "Marcie Jones",
+    "title": "Jasmine, Jasmine Crockett, Queen Of The Wild Senate Frontier?",
+    "description": "Nice time!",
+    "url": "https://www.wonkette.com/p/jasmine-jasmine-crockett-queen-of",
+    "urlToImage": "https://substackcdn.com/image/fetch/$s_!hqfo!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71e5bf9f-b15e-4c94-95d6-3e3c8b04806d_992x766.jpeg",
+    "publishedAt": "2025-12-09T21:20:34Z",
+    "content": "The bad news: The Supreme Court let stand Texass gerrydiddling out Democratic seats, because Texas is doing it for political reasons, not racial ones. And Collin Allred announced Monday that hes drop… [+4486 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Futurity: Research News"
+    },
+    "author": "Jade McClain-NYU",
+    "title": "High temps may lead to delays in child development",
+    "description": "A new study finds that kids exposed to higher-than-usual temperatures were less likely to meet developmental milestones.",
+    "url": "https://www.futurity.org/excessive-heat-childhood-development-delays-3311132/",
+    "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2025/12/high-temperatures-heat-climate-change-child-development-1600.jpg",
+    "publishedAt": "2025-12-09T19:50:38Z",
+    "content": "Climate changeincluding high temperatures and heat waveshas been shown to pose serious risks to the environment, food systems, and human health, but new research finds that it may also lead to delays… [+2935 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NPR"
+    },
+    "author": "Jonathan Lambert",
+    "title": "Rising temperatures could have a chilling impact on young children",
+    "description": "A study points to a new concern about the effect that heat can have on young children.",
+    "url": "https://www.npr.org/sections/goats-and-soda/2025/12/09/g-s1-101446/climate-change-heat-children-development",
+    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2F8b%2F5d0b26fd4c58b53b107ae42177f0%2Fgaza-heat-1.jpg",
+    "publishedAt": "2025-12-09T19:30:47Z",
+    "content": "Young children really struggle in the heat. Their bodies are too small to cool down by sweating, like adults. And they're wholly reliant on grown-ups to find any kind of relief, be it air conditionin… [+5740 chars]"
   }
 ]

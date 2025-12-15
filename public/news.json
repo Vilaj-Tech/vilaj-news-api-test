@@ -2,6 +2,32 @@
   {
     "source": {
       "id": null,
+      "name": "CNBC"
+    },
+    "author": null,
+    "title": "Some student loan borrowers pay 'more than necessary,' advisor says. What to know about relief programs",
+    "description": "Many federal student loan borrowers surveyed said they don't know about income-driven repayment plans or the Public Service Loan Forgiveness program.",
+    "url": "https://www.cnbc.com/2025/12/14/student-loan-borrowers-forgiveness-idr-plans.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108022982-1724174049290-gettyimages-1564758108-polina-003.jpeg?v=1765552439&w=1920&h=1080",
+    "publishedAt": "2025-12-14T12:30:01Z",
+    "content": "With many federal student loan borrowers struggling to repay their debt, consumer advocates and financial advisors say it's crucial that consumers know about the U.S. Department of Education's afford… [+4926 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "HuffPost"
+    },
+    "author": "Kevin Robillard",
+    "title": "Meet The Most Confident Democrats In America",
+    "description": "Everyone wants to be a Democratic governor, and a lot of the governors want to be president.",
+    "url": "https://www.huffpost.com/entry/meet-the-most-confident-democrats-in-america_n_693dd84ce4b07bcd2545c1f7",
+    "urlToImage": "https://img.huffingtonpost.com/asset/693dd8c3260000dd09836f7d.jpeg?ops=1200_630",
+    "publishedAt": "2025-12-14T11:00:17Z",
+    "content": "California Gov. Gavin Newsom is trying to prove Democratic-led states can better respond to the cost-of-living crisis than GOP-led ones. \r\nPHOENIX, Ariz. Democratic governors are in the club everyone… [+9354 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "Ms. Magazine"
     },
     "author": "Cynthia Richie Terrell",
@@ -102,31 +128,5 @@
     "urlToImage": "https://cdn.nextgov.com/media/img/cd/2025/12/12/121125_Getty_GovExec_Dodaro/open-graph.jpg",
     "publishedAt": "2025-12-12T15:56:00Z",
     "content": "One of an agency leaders worst fears is getting put on the high risk list of federal programs that are especially vulnerable to waste, fraud, abuse, mismanagement or are in need of transformation. \r\n… [+23044 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Common Dreams"
-    },
-    "author": "Christopher D. Cook",
-    "title": "Autopsy Results: Why the Democrats Lost in 2024—And How to Start Winning Again",
-    "description": "Why and how did Kamala Harris lose the 2024 presidential race? How can Democrats learn from this preventable loss and turn the tide in 2026 and beyond? Even as this November’s election saw numerous hopeful Democratic victories—most notably the remarkable wins…",
-    "url": "https://www.commondreams.org/opinion/democratic-party-autopsy-2024",
-    "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=55593174&width=1200&height=600&coordinates=0%2C85%2C0%2C86",
-    "publishedAt": "2025-12-12T11:37:02Z",
-    "content": "Why and how did Kamala Harris lose the 2024 presidential race? How can Democrats learn from this preventable loss and turn the tide in 2026 and beyond? Even as this Novembers election saw numerous ho… [+49198 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Forbes"
-    },
-    "author": "William P. Barrett, Senior Contributor, \n William P. Barrett, Senior Contributor\n https://www.forbes.com/sites/williampbarrett/",
-    "title": "America’s Top 100 Charities: A Year Of Pain After Trump Cuts",
-    "description": "Save The Children Federation and International Rescue Committee are among the Forbes 2025 Top 100 Charities  scrambling to make up for budget shortfalls.",
-    "url": "https://www.forbes.com/sites/williampbarrett/2025/12/12/americas-top-100-charities-a-year-of-pain-after-trump-cuts/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6939c1d8a00cdfac9168bf80/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2025-12-12T11:00:00Z",
-    "content": "A health worker in Ethiopia measures the arm of a child at a Save The Children mobile clinic in January 2023, after the worst drought in decades plunged millions into what the UN described as \"acute … [+13479 chars]"
   }
 ]

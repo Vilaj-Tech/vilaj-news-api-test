@@ -2,6 +2,45 @@
   {
     "source": {
       "id": null,
+      "name": "Sporting News"
+    },
+    "author": "Morgan Moriarty",
+    "title": "Kalen DeBoer coaching history: How ex-Indiana OC went from D2 Sioux Falls to Alabama",
+    "description": "DeBoer has been an FBS head coach since 2020.",
+    "url": "https://www.sportingnews.com/us/ncaa-football/alabama/news/kalen-deboer-coaching-history-indiana-sioux-falls-alabama/9194e9a920649e2200d1015a",
+    "urlToImage": "https://media.zenfs.com/en/the_sporting_news_articles_584/eac322cc0336348ade6879394343bc55",
+    "publishedAt": "2026-01-01T10:00:02Z",
+    "content": "Kalen DeBoer coaching history: How ex-Indiana OC went from D2 Sioux Falls to Alabama originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nAlabama h… [+4436 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Dem governor-elect taps Crockett's former 'chief brand strategist' for top DEI role",
+    "description": "Soon-to-be Virginia Gov. Abigail Spanberger has tapped a former “chief brand strategist\" for Rep. Jasmine Crockett, D-Texas, to serve in the state’s top DEI role.",
+    "url": "https://www.foxnews.com/politics/dem-governor-elect-taps-crocketts-former-chief-brand-strategist-top-dei-role",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/crockett-police-podcast.jpg",
+    "publishedAt": "2025-12-31T22:58:39Z",
+    "content": "FIRST ON FOX: Soon-to-be Virginia Democratic Gov. Abigail Spanberger has tapped the former \"chief brand strategist\" for Rep. Jasmine Crockett, D-Texas, to serve in the states top diversity, equity an… [+3255 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Daily Caller"
+    },
+    "author": "Geoffrey Ingersoll",
+    "title": "INGERSOLL: The First 25 Years Of The 21st Century, And What Did We Get?",
+    "description": "It’s as if government elites in the 21st century looked back on all the mid success, punctuated by moments of stunning mediocrity, and said watch this.",
+    "url": "https://dailycaller.com/2025/12/31/ingersoll-first-25-years-21st-century-new-year/",
+    "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/12/GettyImages-2235453875-e1767193980830.jpg",
+    "publishedAt": "2025-12-31T15:15:51Z",
+    "content": "Greetings, Dear Reader,\r\nWelcome back to State of the Day, where I strip the euphemism and misdirection of the day’s news and give it to you straight, no ice, no mixer.\r\nSince we’re hours away from e… [+5977 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "The Indian Express"
     },
     "author": "Mayank Chaudhary, Rohit Mundayur, Sayak Dutta, Namit Kumar, Venkata Krishna B, Nitin Sharma, Nihal Koshie, Shashank Nair, Pritish Raj, Sriram Veera, Mihir Vasavda, Amit Kamath",
@@ -89,44 +128,5 @@
     "urlToImage": "https://ml.globenewswire.com/Resource/Download/f854f31e-8844-4c15-a86b-772ced2fcb2a",
     "publishedAt": "2025-12-30T13:30:00Z",
     "content": "Celebration, FL, Dec. 30, 2025 (GLOBE NEWSWIRE) -- La Rosa Holdings Corp. (NASDAQ: LRHC) (La Rosa or the Company), a real estate and PropTech company, today announced that the Companys Board of Direc… [+6297 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Retractionwatch.com"
-    },
-    "author": "Retraction Watch Staff",
-    "title": "Cheers to 2025: In which Retraction Watch turned 15, and The Center For Scientific Integrity really became a center",
-    "description": "We always enjoy our annual review of the year at Retraction Watch, and 2025 is no exception. But we’re more excited about what lies ahead than what we already accomplished.  We’re on track for our second-highest year for pageviews — 6.6 million. This year we …",
-    "url": "https://retractionwatch.com/2025/12/30/cheers-2025-retraction-watch-turned-15-center-for-scientific-integrity/",
-    "urlToImage": "https://retractionwatch.com/wp-content/uploads/2025/02/rw-stacked-border.png",
-    "publishedAt": "2025-12-30T11:00:00Z",
-    "content": "We always enjoy our annual review of the year at Retraction Watch, and 2025 is no exception. But were more excited about what lies ahead than what we already accomplished. \r\nWere on track for our sec… [+6396 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "LOEFFLER: Vast network of Somali nonprofits ripped off Minnesota’s welfare state",
-    "description": "Minnesota welfare fraud investigation expands beyond $1 billion scandal to expose systemic abuse of federal loan programs, halting payments to recipients.",
-    "url": "https://www.foxnews.com/opinion/loeffler-vast-network-somali-nonprofits-ripped-off-minnesotas-welfare-state",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/tim-walz-fraud-minnesota.jpg",
-    "publishedAt": "2025-12-30T10:00:23Z",
-    "content": "When the news broke of convictions for rampant fraud across several pandemic programs in Minnesota, the $1 billion price tag and over 90 indictments were staggering. We now know this is a very low es… [+5656 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "ProPublica"
-    },
-    "author": "shoshana.gordon@propublica.org",
-    "title": "The Most-Read ProPublica Stories of 2025",
-    "description": "Our reporters published investigations this year on the Trump administration, health care, education and more. These are the stories readers spent the most time with in 2025.",
-    "url": "http://www.propublica.org/article/propublica-most-read-stories-2025",
-    "urlToImage": "https://www.propublica.org/wp-content/uploads/2025/12/20251219-2025-most-read-social_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?resize=2000,1050",
-    "publishedAt": "2025-12-30T10:00:00Z",
-    "content": "When President Donald Trump returned to the White House in January, ProPublicas reporters set out to cover how his second administration would reshape the government and the country.\r\nOur reporters d… [+9965 chars]"
   }
 ]

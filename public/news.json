@@ -1,42 +1,55 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "Salon"
+      "id": "usa-today",
+      "name": "USA Today"
     },
-    "author": "Amanda Marcotte",
-    "title": "Marjorie Taylor Greene bets the Republican troll era is over",
-    "description": "It's not like she anything else to offer",
-    "url": "https://www.salon.com/2026/01/02/marjorie-taylor-greene-bets-the-republican-troll-era-is-over/",
-    "urlToImage": "https://www.salon.com/app/uploads/2026/01/Marjorie-Taylor-Greene-2251418530.jpg",
-    "publishedAt": "2026-01-02T11:30:46Z",
-    "content": "Marjorie Taylor Greene really wants us to believe shes done with politics. Thats what the retiring Georgia GOP congresswoman told journalist Robert Draper for his lengthy end-of-year profile he wrote… [+8697 chars]"
-  },
-  {
-    "source": {
-      "id": "nbc-news",
-      "name": "NBC News"
-    },
-    "author": "Andrew Greif",
-    "title": "A legendary coach retired. Two years later, Nick Saban's influence still rules college football.",
-    "description": "Hours before a College Football Playoff quarterfinal began Thursday, 74-year-old Nick Saban sat on an ESPN stage constructed inside the Rose Bowl, in the corner of an end zone, in Pasadena, California.",
-    "url": "https://www.nbcnews.com/sports/college-football/legendary-coach-saban-retired-influence-still-rules-college-football-rcna251861",
-    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260102-saban-cristobal-cc-1248a-986f3b.jpg",
-    "publishedAt": "2026-01-02T10:00:00Z",
-    "content": "Hours before a College Football Playoff quarterfinal began Thursday, 74-year-old Nick Saban sat on an ESPN stage constructed inside the Rose Bowl, in the corner of an end zone, in Pasadena, Californi… [+7434 chars]"
+    "author": "Stephen Borelli, USA TODAY",
+    "title": "Should you enter the transfer portal? What all athletes need to know",
+    "description": "A small number of college athletes seek big NIL deals. Most invest time, money, and anguish in their decision. Here is our advice about transferring.",
+    "url": "https://www.usatoday.com/story/sports/college/2026/01/03/college-athletes-ncaa-transfer-portal-what-to-know-nil/87998153007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ujSfDkKbwWHTlI75m6PnnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/8f285cf5f56f5b08662dd4e7c6c64cde",
+    "publishedAt": "2026-01-03T12:02:43Z",
+    "content": "We tend to think of the transfer portal, at least as outside observers, in terms of opportunistic players.\r\nThose are the ones who seek a better situation in terms of playing time or, at the upper ec… [+10998 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Legalinsurrection.com"
+      "name": "GlobeNewswire"
     },
-    "author": "Ray Hilbrich",
-    "title": "Northwestern University Publishes Strategies to Anchor DEI in University Policies",
-    "description": "The article, which covered a recent school webinar, emphasized that universities should move away from political talking points and focus on implementing equity-driven policies in core areas.\nThe post Northwestern University Publishes Strategies to Anchor DEI…",
-    "url": "https://legalinsurrection.com/2026/01/northwestern-university-publishes-strategies-to-anchor-dei-in-university-policies/",
-    "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2025/12/Northwestern-University.jpg",
-    "publishedAt": "2026-01-02T01:00:48Z",
-    "content": "On December 16, Northwestern Universitys School of Education and Social Policy published an article titled Leading Change with Inclusion, Courage, and Global Perspective, which outlines how universit… [+2754 chars]"
+    "author": "Miracle Money Magnets",
+    "title": "Miracle Money Magnets: Financial Psychology Program Gains Attention as Post-Holiday Stress Drives Money Mindset Interest",
+    "description": "Miracle Money Magnets gains attention as financial psychology research validates mind-money links amid post-holiday consumer financial stress....",
+    "url": "https://www.globenewswire.com/news-release/2026/01/03/3212329/0/en/Miracle-Money-Magnets-Financial-Psychology-Program-Gains-Attention-as-Post-Holiday-Stress-Drives-Money-Mindset-Interest.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/60f2ebfe-4afd-45e5-b1ed-96519f4b86a3",
+    "publishedAt": "2026-01-03T01:37:00Z",
+    "content": "ST. PETERSBURG, FL, Jan. 02, 2026 (GLOBE NEWSWIRE) -- FOR IMMEDIATE RELEASE\r\nNew Year Brings Sharp Increase in Consumer Interest for Money Mindset Education; Consumers Explore Psychological Approache… [+26136 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Daily Caller"
+    },
+    "author": "Derek VanBuskirk",
+    "title": "Ten Years After Germany’s Most Infamous Night Of Sexual Violence, Women Still Aren’t Safe In Cologne",
+    "description": "A German streamer was struck by projectiles during a New Year's Eve livestream in Cologne — a decade after the sexual assault spree at the same celebration.",
+    "url": "https://dailycaller.com/2026/01/02/new-years-eve-cologne-germany-sexual-assault-muslim-migrants/",
+    "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-02-at-2.55.25-PM-e1767384308983.png",
+    "publishedAt": "2026-01-02T20:43:52Z",
+    "content": "A popular German streamer was struck twice by projectiles during a New Year’s Eve livestream in Cologne, Germany — exactly a decade after more than 1,000 women reported sexual assault complaints invo… [+2641 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Wordpress.com"
+    },
+    "author": null,
+    "title": "Universities and the Future of Civilisation. A talk by Iain McGilchrist",
+    "description": "Jenny Connected, \nJan 02, 2026\n\n\n \n \r\nJenny Mackness summarizes a talk by Iain McGilchrist, who has recently been made Chancellor of Ralston College, succeeding Jordan Peterson. \"For McGilchrist universities are the cornerstones of civilisation; they are of m…",
+    "url": "https://jennymackness.wordpress.com/2026/01/01/universities-and-the-future-of-civilisation-a-talk-by-iain-mcgilchrist-to-ralston-college-savannah-georgia-usa/",
+    "urlToImage": "https://jennymackness.wordpress.com/wp-content/uploads/2026/01/pieter_bruegel_the_elder_-_the_tower_of_babel_vienna_-_google_art_project_-_edited.jpg",
+    "publishedAt": "2026-01-02T20:37:00Z",
+    "content": "Last month I listened to a lecture on Higher Education given by Iain McGilchrist to Ralston College in Savannah, Georgia, USA. Iain has recently been made Chancellor of Ralston College succeeding Jor… [+7409 chars]"
   },
   {
     "source": {
@@ -46,87 +59,74 @@
     "author": "Daily Signal Staff",
     "title": "23 Books to Read in 2026",
     "description": "As you set your 2026 goals, reading lists, and New Year’s resolutions, The Daily Signal is proud to offer you some of our favorite reads from 2025.... Read More\nThe post 23 Books to Read in 2026 appeared first on The Daily Signal.",
-    "url": "https://www.dailysignal.com/2026/01/01/23-books-to-read-2026/",
+    "url": "https://www.dailysignal.com/2026/01/02/23-books-to-read-2026/",
     "urlToImage": "https://www.dailysignal.com/wp-content/uploads/2025/12/PS-GettyImages-639421230.gif",
-    "publishedAt": "2026-01-01T20:00:00Z",
-    "content": "As you set your 2026 goals, reading lists, and New Years resolutions, The Daily Signal is proud to offer you some of our favorite reads from 2025.\r\nWe asked our own staff, plus others from The Herita… [+25505 chars]"
+    "publishedAt": "2026-01-02T20:00:00Z",
+    "content": "As you set your 2026 goals, reading lists, and New Years resolutions, The Daily Signal is proud to offer you some of our favorite reads from 2025.\r\nWe asked our own staff, plus others from The Herita… [+25552 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "New York Post"
+      "name": "Lithub.com"
     },
-    "author": "Allison Lax",
-    "title": "Frustrated public school teacher rants about wildly low salary: ‘I don’t do it for the money’",
-    "description": "“We can’t afford the houses, so we are having to work two jobs just to pay for apartment rent. I’m tired.\"",
-    "url": "https://nypost.com/2026/01/01/lifestyle/teacher-rants-about-low-salary/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/01/comp.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-01-01T17:19:54Z",
-    "content": "Its no secret that being a public school teacher isnt exactly known for being the most lucrative profession, so much so that it’s preventing many from buying houses and simply keeping up with rising … [+2670 chars]"
+    "author": "Alissa Quart",
+    "title": "Zohran Mamdani Understands the Precarity of Middle Class American Life",
+    "description": "“We will replace the frigidity of rugged individualism with the warmth of collectivism,” the newly elected Mayor of New York Zohran Mamdani said, in his invigorating inauguration speech yesterday, that praised ordinary New Yorkers. Mamdani’s speech, like his …",
+    "url": "https://lithub.com/zohran-mamdani-understands-the-precarity-of-middle-class-american-life/",
+    "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2026/01/zohran.jpg",
+    "publishedAt": "2026-01-02T19:06:19Z",
+    "content": "We will replace the frigidity of rugged individualism with the warmth of collectivism, the newly elected Mayor of New York Zohran Mamdani said, in his invigorating inauguration speech yesterday, that… [+6044 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Mutualfundobserver.com"
+      "name": "PCMag.com"
     },
-    "author": "David Snowball",
-    "title": "The Big Box o’ Delights: What Went Right in 2025",
-    "description": "Sections: Climate and energy / […]",
-    "url": "https://www.mutualfundobserver.com/2026/01/the-big-box-o-delights-what-went-right-in-2025/",
-    "urlToImage": "https://www.mutualfundobserver.com/wp-content/uploads/2025/12/box-of-delights-featured-image.jpg",
-    "publishedAt": "2026-01-01T15:59:30Z",
-    "content": "By David Snowball Sections: Climate and energy / Public health / Conservation &amp; wildlife recovery / Social progress / Innovation &amp; technology\r\nCLIMATE &amp; ENERGY TRANSITION\r\nRenewables over… [+20702 chars]"
+    "author": "Chloe Albanesius",
+    "title": "Pornhub Is Now Blocked in 23 States (and France). How to Watch Anyway",
+    "description": "To protest age-verification laws, Pornhub's parent company has blocked its sites in almost half of the country. Here's how we got here, and how VPNs can help you continue watching.\nThe age-verification train keeps on chugging, and with it comes even more stat…",
+    "url": "https://me.pcmag.com/en/vpn/34416/pornhub-is-now-blocked-in-23-states-and-france-how-to-watch-anyway",
+    "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/p/pornhub-is/pornhub-is-now-blocked-in-23-states-and-france-how-to-watch_cd56.1200.jpg",
+    "publishedAt": "2026-01-02T17:36:20Z",
+    "content": "The age-verification train keeps on chugging, and with it comes even more state-level bans on Pornhub. Missouri is the latest US state to impose age-verification requirements, which prompted sites ow… [+11675 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Danwang.co"
+      "name": "Freerepublic.com"
     },
-    "author": "Dan Wang",
-    "title": "2025 Letter",
-    "description": "Corgis, compute, Cold War; Ecclesiastes; ties; Stendhal; humor; Pascal's Wager; deep infrastructure; Germanic obedience; Texas State Fair",
-    "url": "https://danwang.co/2025-letter/",
-    "urlToImage": "https://danwang.co/wp-content/uploads/2026/01/Grossberg-Maschinensaal-700x777.jpg",
-    "publishedAt": "2026-01-01T14:32:12Z",
-    "content": "(This piece is my year in review; I skipped a letter last year)\r\nOne way that Silicon Valley and the Communist Party resemble each other is that both are serious, self-serious, and indeed, completely… [+81906 chars]"
+    "author": "Undark",
+    "title": "Restricting Loans for Health Care Workers Should Outrage Us All",
+    "description": "In July, President Donald Trump signed into law new legislation that will overhaul the federal student loan system. Among the changes brought by the so-called One Big Beautiful Bill Act are the elimination of loans that allowed graduate students to borrow up …",
+    "url": "https://freerepublic.com/focus/f-news/4360026/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-01-02T15:43:35Z",
+    "content": "Skip to comments.\r\nRestricting Loans for Health Care Workers Should Outrage Us AllUndark ^\r\n | 12/22/2025\r\n | Uzma Rentia\r\nPosted on 01/02/2026 7:43:35 AM PST by fwdude\r\nIn July, President Donald Tru… [+8098 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Search Engine Journal"
+      "name": "WSOC Charlotte"
     },
-    "author": "Shelley Walsh",
-    "title": "Marketing Calendar With Template To Plan Your Content In 2026 via @sejournal, @theshelleywalsh",
-    "description": "Take the guesswork out of your marketing planning with our 2026 marketing calendar. Easily customize and reference key dates to create a successful content strategy.\nThe post Marketing Calendar With Template To Plan Your Content In 2026 appeared first on Sear…",
-    "url": "https://www.searchenginejournal.com/holiday-marketing/marketing-calendar-2026-with-template-to-plan-your-content/",
-    "urlToImage": "https://cdn.searchenginejournal.com/wp-content/uploads/2025/12/featured-821.png",
-    "publishedAt": "2026-01-01T13:30:09Z",
-    "content": "Key dates and notable events throughout the year can feed your content strategy and your social media marketing strategy. Timely aligning your digital campaigns with the right seasons for your brand … [+27022 chars]"
+    "author": "Bob D'angelo",
+    "title": "Here are notable new state laws taking effect in 2026",
+    "description": "Bingo restrictions, cannabis cafes, tourist taxes, panic buttons for workers and teledentistry are among the new laws that went into effect in some states as the calendar turned to 2026.",
+    "url": "https://www.wsoctv.com/news/trending/here-are-notable-new-state-laws-taking-effect-2026/QXHWFNU6TRBFJE4D2PCBDP52FM/",
+    "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQXYQXS4EWZEWXAX5F33UKDY74I.jpg?auth=85fc5a1c59cd77e6a6c91e77ee9595dc3a78443dcf425454f8f9fee5189d495b&width=1200&height=630&smart=true",
+    "publishedAt": "2026-01-02T15:34:32Z",
+    "content": "Bingo restrictions, cannabis cafes, tourist taxes, panic buttons for workers and teledentistry are among the new laws that went into effect in some states beginning on Jan. 1.\r\nHere are some of the k… [+6262 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Sporting News"
+      "name": "GlobeNewswire"
     },
-    "author": "Morgan Moriarty",
-    "title": "Kalen DeBoer coaching history: How ex-Indiana OC went from D2 Sioux Falls to Alabama",
-    "description": "DeBoer has been an FBS head coach since 2020.",
-    "url": "https://www.sportingnews.com/us/ncaa-football/alabama/news/kalen-deboer-coaching-history-indiana-sioux-falls-alabama/9194e9a920649e2200d1015a",
-    "urlToImage": "https://media.zenfs.com/en/the_sporting_news_articles_584/eac322cc0336348ade6879394343bc55",
-    "publishedAt": "2026-01-01T10:00:02Z",
-    "content": "Kalen DeBoer coaching history: How ex-Indiana OC went from D2 Sioux Falls to Alabama originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nAlabama h… [+4436 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Dem governor-elect taps Crockett's former 'chief brand strategist' for top DEI role",
-    "description": "Soon-to-be Virginia Gov. Abigail Spanberger has tapped a former “chief brand strategist\" for Rep. Jasmine Crockett, D-Texas, to serve in the state’s top DEI role.",
-    "url": "https://www.foxnews.com/politics/dem-governor-elect-taps-crocketts-former-chief-brand-strategist-top-dei-role",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/crockett-police-podcast.jpg",
-    "publishedAt": "2025-12-31T22:58:39Z",
-    "content": "FIRST ON FOX: Soon-to-be Virginia Democratic Gov. Abigail Spanberger has tapped the former \"chief brand strategist\" for Rep. Jasmine Crockett, D-Texas, to serve in the states top diversity, equity an… [+3255 chars]"
+    "author": "Faruqi & Faruqi LLP",
+    "title": "UPCOMING DEADLINE: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Stride",
+    "description": "Faruqi & Faruqi, LLP Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losses In Stride To Contact Him Directly To Discuss Their Options",
+    "url": "https://www.globenewswire.com/news-release/2026/01/02/3212173/683/en/UPCOMING-DEADLINE-Faruqi-Faruqi-LLP-Investigates-Claims-on-Behalf-of-Investors-of-Stride.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/8628babf-2ea4-4b8a-a60b-260db109bfa2",
+    "publishedAt": "2026-01-02T15:05:00Z",
+    "content": "Faruqi &amp; Faruqi, LLP Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losses In Stride To Contact Him Directly To Discuss Their Options\r\nIf you purchased or acq… [+4367 chars]"
   }
 ]

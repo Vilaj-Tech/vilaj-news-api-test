@@ -1,6 +1,32 @@
 [
   {
     "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "BILL BARROW Associated Press, EMILIE MEGNIEN Associated Press",
+    "title": "Marjorie Taylor Greene made waves. Her constituents don't agree on whether it was worth it",
+    "description": "Marjorie Taylor Greene is leaving Capitol Hill after five years as one of the most well-known members of Congress",
+    "url": "https://abcnews.go.com/Politics/wireStory/marjorie-taylor-greene-made-waves-constituents-agree-worth-128883612",
+    "urlToImage": "https://i.abcnewsfe.com/a/fa978884-42c4-435b-9af1-6e57b68bb8c1/wirestory_f0e7f5f606cc63a0ccd57e429c05c762_16x9.jpg?w=1600",
+    "publishedAt": "2026-01-04T06:05:36Z",
+    "content": "DALTON, Ga. -- President Donald Trump says Rep. Marjorie Taylor Greene is a traitor. But for Jackie Harling, who chairs the local Republican Party in Greenes northwestern corner of Georgia, shes stil… [+6095 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Noah Whitman",
+    "title": "How does dolphins get their food?",
+    "description": "How Dolphins Find Their Food: A Deep Dive into Cetacean Cuisine Dolphins are highly intelligent predators that utilize a diverse range of sophisticated techniques, including echolocation, cooperative hunting, and bottom stirring, to efficiently obtain their p…",
+    "url": "https://www.lifesciencesworld.com/how-does-dolphins-get-their-food/",
+    "urlToImage": null,
+    "publishedAt": "2026-01-04T04:12:30Z",
+    "content": "Dolphins are highly intelligent predators that utilize a diverse range of sophisticated techniques, including echolocation, cooperative hunting, and bottom stirring, to efficiently obtain their prima… [+9401 chars]"
+  },
+  {
+    "source": {
       "id": "usa-today",
       "name": "USA Today"
     },
@@ -102,31 +128,5 @@
     "urlToImage": null,
     "publishedAt": "2026-01-02T15:43:35Z",
     "content": "Skip to comments.\r\nRestricting Loans for Health Care Workers Should Outrage Us AllUndark ^\r\n | 12/22/2025\r\n | Uzma Rentia\r\nPosted on 01/02/2026 7:43:35 AM PST by fwdude\r\nIn July, President Donald Tru… [+8098 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "WSOC Charlotte"
-    },
-    "author": "Bob D'angelo",
-    "title": "Here are notable new state laws taking effect in 2026",
-    "description": "Bingo restrictions, cannabis cafes, tourist taxes, panic buttons for workers and teledentistry are among the new laws that went into effect in some states as the calendar turned to 2026.",
-    "url": "https://www.wsoctv.com/news/trending/here-are-notable-new-state-laws-taking-effect-2026/QXHWFNU6TRBFJE4D2PCBDP52FM/",
-    "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQXYQXS4EWZEWXAX5F33UKDY74I.jpg?auth=85fc5a1c59cd77e6a6c91e77ee9595dc3a78443dcf425454f8f9fee5189d495b&width=1200&height=630&smart=true",
-    "publishedAt": "2026-01-02T15:34:32Z",
-    "content": "Bingo restrictions, cannabis cafes, tourist taxes, panic buttons for workers and teledentistry are among the new laws that went into effect in some states beginning on Jan. 1.\r\nHere are some of the k… [+6262 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Faruqi & Faruqi LLP",
-    "title": "UPCOMING DEADLINE: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Stride",
-    "description": "Faruqi & Faruqi, LLP Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losses In Stride To Contact Him Directly To Discuss Their Options",
-    "url": "https://www.globenewswire.com/news-release/2026/01/02/3212173/683/en/UPCOMING-DEADLINE-Faruqi-Faruqi-LLP-Investigates-Claims-on-Behalf-of-Investors-of-Stride.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/8628babf-2ea4-4b8a-a60b-260db109bfa2",
-    "publishedAt": "2026-01-02T15:05:00Z",
-    "content": "Faruqi &amp; Faruqi, LLP Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losses In Stride To Contact Him Directly To Discuss Their Options\r\nIf you purchased or acq… [+4367 chars]"
   }
 ]

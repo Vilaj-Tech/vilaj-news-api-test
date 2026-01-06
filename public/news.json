@@ -1,6 +1,32 @@
 [
   {
     "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Jason Wolf, Arizona Republic",
+    "title": "Review of Walter Payton nominees raises questions about Kelce nonprofit",
+    "description": "Most players nominated for the Walter Payton NFL Man of the Year award adhere to nonprofit best practices. How efficient are their charitable efforts?",
+    "url": "https://www.usatoday.com/story/sports/nfl/2026/01/05/travis-kelce-nonprofit-spending-walter-payton-man-of-year/88020017007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/tBflFwDeerWrx9aJ2AHvQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTg7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/b40619510b5957b2322a8c79d6921679",
+    "publishedAt": "2026-01-05T10:31:04Z",
+    "content": "The nonprofits created by New Orleans Saints linebacker Demario Davis and Kansas City Chiefs tight end Travis Kelce each raised more than $1.5 million over the past three years, according to federal … [+13814 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Inside Higher Ed"
+    },
+    "author": "Elizabeth Redden",
+    "title": "Is the SAT a Good Fit for Public Universities? It Depends",
+    "description": "Is the SAT a Good Fit for Public Universities? It Depends\n\n \n\n\n \nElizabeth Redden\n\nMon, 01/05/2026 - 03:00 AM\n\nStandardized test requirements should be aligned with mission—a fact that demands a variety of approaches across different states and institutional …",
+    "url": "https://www.insidehighered.com/opinion/views/2026/01/05/sat-requirements-should-be-aligned-mission-opinion",
+    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2025-12/GettyImages-497533270.jpg?itok=kPUF2nks",
+    "publishedAt": "2026-01-05T08:00:00Z",
+    "content": "The autonomy of states in setting their own higher education policies creates a series of natural experiments across the United States, offering insights into what approaches work best in particular … [+10510 chars]"
+  },
+  {
+    "source": {
       "id": "abc-news",
       "name": "ABC News"
     },
@@ -102,31 +128,5 @@
     "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2026/01/zohran.jpg",
     "publishedAt": "2026-01-02T19:06:19Z",
     "content": "We will replace the frigidity of rugged individualism with the warmth of collectivism, the newly elected Mayor of New York Zohran Mamdani said, in his invigorating inauguration speech yesterday, that… [+6044 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PCMag.com"
-    },
-    "author": "Chloe Albanesius",
-    "title": "Pornhub Is Now Blocked in 23 States (and France). How to Watch Anyway",
-    "description": "To protest age-verification laws, Pornhub's parent company has blocked its sites in almost half of the country. Here's how we got here, and how VPNs can help you continue watching.\nThe age-verification train keeps on chugging, and with it comes even more stat…",
-    "url": "https://me.pcmag.com/en/vpn/34416/pornhub-is-now-blocked-in-23-states-and-france-how-to-watch-anyway",
-    "urlToImage": "https://sm.pcmag.com/t/pcmag_me/news/p/pornhub-is/pornhub-is-now-blocked-in-23-states-and-france-how-to-watch_cd56.1200.jpg",
-    "publishedAt": "2026-01-02T17:36:20Z",
-    "content": "The age-verification train keeps on chugging, and with it comes even more state-level bans on Pornhub. Missouri is the latest US state to impose age-verification requirements, which prompted sites ow… [+11675 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": "Undark",
-    "title": "Restricting Loans for Health Care Workers Should Outrage Us All",
-    "description": "In July, President Donald Trump signed into law new legislation that will overhaul the federal student loan system. Among the changes brought by the so-called One Big Beautiful Bill Act are the elimination of loans that allowed graduate students to borrow up …",
-    "url": "https://freerepublic.com/focus/f-news/4360026/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-01-02T15:43:35Z",
-    "content": "Skip to comments.\r\nRestricting Loans for Health Care Workers Should Outrage Us AllUndark ^\r\n | 12/22/2025\r\n | Uzma Rentia\r\nPosted on 01/02/2026 7:43:35 AM PST by fwdude\r\nIn July, President Donald Tru… [+8098 chars]"
   }
 ]

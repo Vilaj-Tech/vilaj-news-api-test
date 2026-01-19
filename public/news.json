@@ -1,6 +1,58 @@
 [
   {
     "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "ABC News",
+    "title": "Kiwi rider produces storming finish to maintain Tour Down Under lead",
+    "description": "Ally Wollaston has outsprinted defending champion Noemi Ruegg to claim stage two of the Tour Down Under and keep the race lead.",
+    "url": "https://www.abc.net.au/news/2026-01-18/sport-tour-down-under-day-two/106242620",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/8e9c23ecb28e285254a84c89cbb60cd7?impolicy=wcms_watermark_news&cropH=1744&cropW=3101&xPos=0&yPos=8&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-01-18T07:45:56Z",
+    "content": "New Zealand's Ally Wollaston has unleashed a storming finish to win stage two of the Tour Down Under and keep the race lead.\r\nThe FDJ United-Suez rider outsprinted defending Tour champion Noemi Ruegg… [+2837 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Denver Post"
+    },
+    "author": "Georgia Nicols",
+    "title": "Daily Horoscope for January 18, 2026",
+    "description": "Get your daily horoscope for January 18, 2026 from astrologer Georgia Nicols.",
+    "url": "https://www.denverpost.com/2026/01/18/daily-horoscope-for-january-18-2026/",
+    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2019/08/Learn_how_to_take_photos_of_the_Milky_Way_with_the_help_of_a_Colorado_conservancy_1.jpg?w=1024&h=683",
+    "publishedAt": "2026-01-18T07:00:00Z",
+    "content": "Moon Alert: Avoid shopping (except for food and gas) or major decisions from 4:30 p.m. to 5:30 p.m. EST today (1:30 p.m. to 2:30 p.m. PST.) After that, the Moon moves from CAPRICORN into AQUARIUS.\r\nH… [+3527 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Punch"
+    },
+    "author": "Punch Newspapers",
+    "title": "Dreaming is free",
+    "description": "Dreaming is free, but making it real takes effort. Learn practical steps for nurturing your dreams, no matter your circumstances, and turn them into realit\n\nRead More: https://punchng.com/dreaming-is-free/",
+    "url": "https://punchng.com/dreaming-is-free/",
+    "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/01/18010920/images.jpg",
+    "publishedAt": "2026-01-18T00:00:35Z",
+    "content": "As a young boy growing up in Lagos, Nigeria, I often found myself daydreaming on the long commute home from school in Yaba. Despite coming from modest beginnings, I was captivated by the idea of stud… [+5463 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Study Finds"
+    },
+    "author": "StudyFinds Analysis",
+    "title": "LIST: MA Best State To Raise Family; NM, WV Worst...",
+    "description": "LIST: MA Best State To Raise Family; NM, WV Worst...\r\n\n \n \n \n (Third column, 3rd story, link)\r\n\n \r\n\n \r\n\n \n \n Drudge Report Feed needs your support!   Become a Patron",
+    "url": "https://studyfinds.org/best-states-raising-family-2026/",
+    "urlToImage": "https://studyfinds.org/wp-content/uploads/2023/03/6tce6sb0apg.jpg",
+    "publishedAt": "2026-01-17T15:49:39Z",
+    "content": "Cambridge, Mass. (Photo by Michael Baccin on Unsplash)\r\n<ul><li>Massachusetts ranks first among the best states to raise a family in 2026, followed by Minnesota and North Dakota, while New Mexico, We… [+19876 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Balloon-juice.com"
     },
@@ -76,57 +128,5 @@
     "urlToImage": "https://media.breitbart.com/media/2026/01/Shri-Thanedar-Phil-Murphy-640x335.jpg",
     "publishedAt": "2026-01-15T18:41:47Z",
     "content": "Democrats in several states are pushing legislation to block U.S. Immigration and Customs Enforcement (ICE) agents working to protect Americans from illegal alien crime.\r\nThe news comes after an ICE … [+2260 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Scientific American"
-    },
-    "author": "Meghan Bartels",
-    "title": "At 25, Wikipedia Now Faces Its Most Existential Threat—Generative A.I.",
-    "description": "Wikipedia had to fight to establish its legitimacy—and now it faces a new existential threat posed by generative AI",
-    "url": "https://www.scientificamerican.com/article/at-25-wikipedia-now-faces-its-most-existential-threat-generative-a-i/",
-    "urlToImage": "https://static.scientificamerican.com/dam/m/26d094143aa4d239/original/GettyImages-2195020177_web.jpeg?m=1768495458.118&w=1200",
-    "publishedAt": "2026-01-15T18:30:00Z",
-    "content": "Ian Ramjohn remembers the first time he edited Wikipedia. It was 2004, when the site was just three years old, and its information about the government of his home nation of Trinidad and Tobago was a… [+8597 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lullabot.com"
-    },
-    "author": "Seth Brown",
-    "title": "Twenty Years of Lullabot",
-    "description": "In April 2007, I checked into the Old Court Inn the night before a Drupal training in Providence. I was in a melancholy mood, but the Inn cheered me up. A stately brick building along Providence’s “Mile of History,” I walked into a room with high ceilings, or…",
-    "url": "https://www.lullabot.com/articles/twenty-years-lullabot",
-    "urlToImage": "https://www.lullabot.com/sites/default/files/styles/max_800/public/2026-01/Twenty%20Years%20of%20Lullabot.png.webp?itok=5X4BfAqX",
-    "publishedAt": "2026-01-15T17:24:42Z",
-    "content": "In April 2007, I checked into the Old Court Inn the night before a Drupal training in Providence. I was in a melancholy mood, but the Inn cheered me up. A stately brick building along Providences Mil… [+10907 chars]"
-  },
-  {
-    "source": {
-      "id": "usa-today",
-      "name": "USA Today"
-    },
-    "author": "John Fennelly, Giants Wire",
-    "title": "Giants hiring John Harbaugh: 9 things to know about the head coach",
-    "description": "The New York Giants are hiring John Harbaugh, and here are nine things to know about the incoming head coach.",
-    "url": "https://giantswire.usatoday.com/story/sports/nfl/giants/2026/01/15/new-york-giants-hire-john-harbaugh-9-things-know-about-head-coach/88182780007/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kigxKQyfIYY.N8zdhbadVg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk7Y2Y9d2VicA--/https://media.zenfs.com/en/new_york_giants_wire_usa_today_sports_articles_591/01acaf286bde35db12afac7f00a57fa5",
-    "publishedAt": "2026-01-15T15:52:45Z",
-    "content": "After an intense meeting on Wednesday, which came on the heels of an aggressive pursuit, the New York Giants burned the midnight oil, finalizing a deal with John Harbaugh to become their next head co… [+2983 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Republica.com"
-    },
-    "author": "Redacción",
-    "title": "U.S. Freezes Immigrant Visa Processing for 75 Countries: Who’s Impacted and Why",
-    "description": "As immigration fraud enforcement ramps up and the Trump administration reasserts geopolitical power and leverage on the global stage, the State Department has increased pressure by pausing immigrant visa processing for nationals from approximately 75 countrie…",
-    "url": "https://republica.com/internacional/u-s-freezes-immigrant-visa-processing-for-75-countries-who-s-impacted-and-why-20261159350",
-    "urlToImage": "https://cdn.republica.com/012026/1768495143951.jpg?&cw=600&ch=365",
-    "publishedAt": "2026-01-15T15:35:00Z",
-    "content": "As immigration fraud enforcement ramps up and the Trump administration reasserts geopolitical power and leverage on the global stage, the State Department has increased pressure by pausing immigrant … [+9290 chars]"
   }
 ]

@@ -1,6 +1,32 @@
 [
   {
     "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Manu Kaushik",
+    "title": "Quote of the day by Martin Luther King Jr. : ‘There comes a time when silence is….’",
+    "description": "Martin Luther King Jr. was a pivotal leader in the American civil rights movement, advocating for nonviolent protest to achieve racial equality. He played a central role in landmark events like the March on Washington and campaigned for voting rights and econ…",
+    "url": "https://economictimes.indiatimes.com/news/international/canada/quote-of-the-day-by-martin-luther-king-jr-there-comes-a-time-when-silence-is-/articleshow/127448198.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-127448167,width-1200,height-630,imgsize-145760,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-01-25T03:43:49Z",
+    "content": "Martin Luther King Jr. (1929-1968) was a pivotal leader in the American civil rights movement, best known for his tireless advocacy of nonviolent protest to achieve racial equality. Born in Atlanta, … [+1484 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Balloon-juice.com"
+    },
+    "author": "Adam L Silverman",
+    "title": "War for Ukraine Day 1,430: A Brief Saturday Night Update",
+    "description": "I know it’s been a long trying day for far too many, so I’m just going to run through the basics tonight. My Ukrainian friend said this to me today and I haven’t been able to stop thinking about it. [image or embed] — Reid Southen (@rahll.bsky.social) January…",
+    "url": "https://balloon-juice.com/2026/01/24/war-for-ukraine-day-1430-a-brief-saturday-night-update/",
+    "urlToImage": "https://balloon-juice.com/wp-content/uploads/2020/01/Silverman_On_Security.jpg",
+    "publishedAt": "2026-01-25T03:36:02Z",
+    "content": "I know it’s been a long trying day for far too many, so I’m just going to run through the basics tonight.\r\nMy Ukrainian friend said this to me today and I haven’t been able to stop thinking about it.… [+15447 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Lawyersgunsmoneyblog.com"
     },
@@ -102,31 +128,5 @@
     "urlToImage": "https://images.newrepublic.com/de1ed8101c93017e410add7f42422fb226fbfd56.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
     "publishedAt": "2026-01-23T11:00:00Z",
     "content": "An important component to all of these plans will be raising provider pay and trying to build on the network of experienced programs that already exist, while at the same time covering costs for fami… [+1468 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "NPR"
-    },
-    "author": "Stephen Fowler",
-    "title": "Trump administration admits even more ways DOGE accessed sensitive personal data",
-    "description": "New court documents reveal even more ways DOGE improperly accessed and shared sensitive personal data last year — and how that data appears to have been used to advance dubious fraud claims.",
-    "url": "https://www.npr.org/2026/01/23/nx-s1-5684185/doge-data-social-security-privacy",
-    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7871x4427+0+278/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3a%2Fff%2F523dd0f94322bb0198bb65df344c%2Fgettyimages-2205899441.jpg",
-    "publishedAt": "2026-01-23T10:00:00Z",
-    "content": "For much of the last year, staffers who were initially part of the Department of Government Efficiency effort improperly accessed and shared sensitive personal data on millions of Americans. The Trum… [+16803 chars]"
-  },
-  {
-    "source": {
-      "id": "associated-press",
-      "name": "Associated Press"
-    },
-    "author": "R.j. Rico",
-    "title": "Winter storm threatens millions with power outages and no heat",
-    "description": "Utility companies and state officials are preparing for a forecasted ice storm that could bring down power lines and cause widespread outages. Officials across the eastern U.S. are concerned about freezing rain affecting power systems, especially in the South…",
-    "url": "https://apnews.com/article/winter-storm-power-outages-0fe4d9defd16e2beeebd42692f8c12c9",
-    "urlToImage": "https://dims.apnews.com/dims4/default/c2c1573/2147483647/strip/true/crop/6016x4009+0+4/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F69%2F6ebc65ea22aefad275d8e3034124%2F53db6eedb25d42e794182b8a614c9397",
-    "publishedAt": "2026-01-23T05:08:41Z",
-    "content": "ATLANTA (AP) Every morning this week, Newberry Electric Cooperative CEO Keith Avery walks into his office and turns on The Weather Channel. Then he starts making calls, lining up crews and equipment … [+5548 chars]"
   }
 ]

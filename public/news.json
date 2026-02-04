@@ -1,16 +1,55 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "NPR"
+      "id": "abc-news",
+      "name": "ABC News"
     },
-    "author": "Brittney Melton",
-    "title": "The House races to end shutdown. And, Trump wants to close Kennedy Center for 2 years",
-    "description": "Lawmakers are racing to end a partial government shutdown after Congress missed its funding deadline on Friday. And, Trump wants to close the Kennedy Center for two years for renovations.",
-    "url": "https://www.npr.org/2026/02/02/g-s1-108304/up-first-newsletter-partial-government-shutdown-minneapolis-kennedy-center-grammys-education-department",
-    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7134x4013+0+68/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2Fcf%2Ff2e6e4984af1ac5adb59e09eee91%2Fgettyimages-2258696415.jpg",
-    "publishedAt": "2026-02-02T12:21:48Z",
-    "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+6520 chars]"
+    "author": "ABC News",
+    "title": "WATCH: Behind the scenes before Westminster's best in show",
+    "description": "ABC News' Danny New tours the 150th Westminster Kennel Club Dog Show, meeting people from around the U.S. and exotic dog breeds that are new to him.",
+    "url": "https://abcnews.go.com/US/video/scenes-westminsters-best-show-129807346",
+    "urlToImage": "https://i.abcnewsfe.com/a/6d5637de-6301-47a7-bee6-ca802f32690c/260203_gmafl_dog_show_hpMain_16x9.jpg?w=992",
+    "publishedAt": "2026-02-03T11:14:11Z",
+    "content": "<ul><li>Trump urges Republicans to 'take over' and 'nationalize' voting\r\n</li><li>Guilty verdict in au pair trial\r\n</li><li>Alex Pretti's death ruled a homicide by medical examiner\r\n</li><li>Epstein … [+4520 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "ABC News",
+    "title": "WATCH: David Muir explains why brutal cold brought endangered penguins in from outdoors",
+    "description": "David Muir shares the extraordinary sight and a message from the Long Island Aquarium's care team.",
+    "url": "https://abcnews.go.com/world-news-tonight-with-david-muirT/video/david-muir-explains-brutal-cold-brought-endangered-penguins-129798413",
+    "urlToImage": "https://i.abcnewsfe.com/a/d1d7a4c8-6caa-4579-9cb6-2b017a1ac9a1/260202_wn_ender_hpMain_16x9.jpg?w=992",
+    "publishedAt": "2026-02-03T09:03:34Z",
+    "content": "<ul><li>Evidence of a crime scene at home of Savannah Guthries missing mother\r\n</li><li>Trump says GOP ought to nationalize voting\r\n</li><li>Clintons to testify as Kennedy Center to close for renovat… [+4522 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PR Newswire UK"
+    },
+    "author": null,
+    "title": "93 Worldwide at Risk of Losing Nearly 23 Million More People by 2030",
+    "description": "ISGlobal, supported by Rockefeller Foundation, analyzed impact of severe global aid cuts in 93 countries where preventable deaths could happen, including: 38 in Sub-Saharan Africa, 12 in MENA, 10 in Europe, 21 in Asia, and 12 in Latin America New study publis…",
+    "url": "https://www.prnewswire.co.uk/news-releases/93-worldwide-at-risk-of-losing-nearly-23-million-more-people-by-2030-302676923.html",
+    "urlToImage": null,
+    "publishedAt": "2026-02-03T00:12:00Z",
+    "content": "<ul><li>ISGlobal, supported by Rockefeller Foundation, analyzed impact of severe global aid cuts in 93 countries where preventable deaths could happen, including: 38 in Sub-Saharan Africa, 12 in MENA… [+11373 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Baltimore Beatdown"
+    },
+    "author": "Nikhil Mehta",
+    "title": "Ravens retain linebackers coach Tyler Santucci, announce other hires",
+    "description": "New Ravens head coach Jesse Minter is keeping linebackers coach Tyler Santucci on his staff for the 2026 season.",
+    "url": "https://www.baltimorebeatdown.com/baltimore-ravens-coaching-staff/80263/ravens-retain-linebackers-coach-tyler-santucci-announce-other-hires",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/XOS9XtfVhkFZ.hsaJrdBHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDM7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/6b3dc0ef833f30989804d6f8bb4a161e",
+    "publishedAt": "2026-02-02T23:42:57Z",
+    "content": "The Ravens announced multiple coaching moves on Monday, including the hires of offensive line coach Dwayne Ledford, secondary coach Mike Mickens, and game management coordinator Charlie Gelman.\r\nBalt… [+1743 chars]"
   },
   {
     "source": {
@@ -18,115 +57,76 @@
       "name": "Fox News"
     },
     "author": null,
-    "title": "PALANTIR CTO SHYAM SANKAR: The American people are being lied to about AI",
-    "description": "Palantir's Chief Technology Officer argues that artificial intelligence narratives mislead Americans, citing frontline experience to show AI empowers workers rather than replacing them.",
-    "url": "https://www.foxnews.com/opinion/palantir-cto-shyam-sankar-american-people-being-lied-ai",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/sankar-palantir-cto-split.jpg",
-    "publishedAt": "2026-02-02T10:00:42Z",
-    "content": "The American people are being lied to about artificial intelligence (AI). On one hand, were offered apocalyptic prophecies of job loss and oppressioneven the extinction of the human race. On the othe… [+7355 chars]"
+    "title": "Fox News Digital report spurs 22 AGs to urge expanded House probe into alleged judicial bias",
+    "description": "Nearly half of state attorneys general demand Congress expand probe into alleged climate bias influencing federal judges through judicial reference manual.",
+    "url": "https://www.foxnews.com/politics/fox-news-digital-report-spurs-22-ags-urge-expanded-house-probe-alleged-judicial-bias",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/gavel-and-the-capitol.png",
+    "publishedAt": "2026-02-02T22:04:57Z",
+    "content": "EXCLUSIVE: Nearly half of state attorneys general will demand the House Judiciary Committee expand its probe into climate policy-related influence on federal judges to include a gold-standard guide j… [+6368 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Whitehat-seo.co.uk"
+      "name": "UN News"
     },
-    "author": "Whitehat Seo",
-    "title": "Maximizing Growth: Benefits of Inbound Marketing in 2026",
-    "description": "Discover the benefits of inbound marketing to boost your brand's growth with strategies that attract, engage, and delight customers effectively.",
-    "url": "https://whitehat-seo.co.uk/blog/benefits-of-inbound-marketing",
-    "urlToImage": "https://whitehat-seo.co.uk/hubfs/inbound%20strategy.jpg",
-    "publishedAt": "2026-02-02T00:27:33Z",
-    "content": "Inbound Marketing Strategy\r\nThe convergence of AI-powered search, collapsing third-party tracking, and deeper understanding of B2B buyer behaviour has rendered the old inbound playbook obsolete. Comp… [+19692 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Nature.com"
-    },
-    "author": "Serhiy O. Semerikov, Olha V. Bondarenko, Pavlo P. Nechypurenko, Tetiana A. Vakaliuk, Iryna S. Mintii",
-    "title": "Student elective course selection patterns and satisfaction determinants identified through educational data mining",
-    "description": "Scientific Reports - Student elective course selection patterns and satisfaction determinants identified through educational data mining",
-    "url": "https://www.nature.com/articles/s41598-026-37712-7",
+    "author": "United Nations",
+    "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+    "description": "In Somalia, the Office for the Coordination of Humanitarian Affairs reports that severe drought conditions continue to displace people across the country. According to authorities and UN agencies, nearly half a million people have now abandoned their homes si…",
+    "url": "https://press.un.org/en/2026/db260202.doc.htm",
     "urlToImage": null,
-    "publishedAt": "2026-02-02T00:00:00Z",
-    "content": "<li>Wong, B. T. M., Li, K. C. &amp; Liu, M. The Role of Learning Analytics in Evaluating Course Effectiveness. Sustainability17, 559. https://doi.org/10.3390/su17020559 (2025).\r\nGoogle Scholar \r\n</li… [+14505 chars]"
+    "publishedAt": "2026-02-02T20:07:14Z",
+    "content": "The following is a near-verbatim transcript of todays briefing by Stéphane Dujarric, Spokesperson for the Secretary-General.\r\n**Briefing\r\nJust as a reminder, in 33 minutes, Ambassador James Kariuki, … [+29511 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Thegatewaypundit.com"
+      "name": "The Daily Caller"
     },
-    "author": "Johnathan Jones, The Western Journal",
-    "title": "Don Lemon Getting Himself Arrested Proves Traditional ‘Journalism’ Is Just an Echo Chamber of Weirdos",
-    "description": "Don Lemon was arrested by federal agents late Thursday night, and the reaction from the media class has been far more revealing than the arrest itself.\nThe post Don Lemon Getting Himself Arrested Proves Traditional ‘Journalism’ Is Just an Echo Chamber of Weir…",
-    "url": "https://www.thegatewaypundit.com/2026/02/don-lemon-getting-arrested-proves-traditional-journalism-just/",
-    "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/2026/01/img_1751.jpg",
-    "publishedAt": "2026-02-01T13:00:30Z",
-    "content": "Don Lemon was arrested by federal agents late Thursday night, and the reaction from the media class has been far more revealing than the arrest itself.\r\nLemon landed himself in custody after storming… [+5269 chars]"
+    "author": "Jaryn Crouson",
+    "title": "EXCLUSIVE: Swing State Lays Groundwork To Stop Democrats From Abolishing School Choice Program",
+    "description": "Georgia Republican Lt. Governor Burt Jones unveiled legislation that would prevent Democrats from revoking participation in the federal school choice program.",
+    "url": "https://dailycaller.com/2026/02/02/exclusive-swing-state-lays-groundwork-to-stop-democrats-from-abolishing-school-choice-program/",
+    "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/02/GettyImages-848482-scaled-e1770050358361.jpg",
+    "publishedAt": "2026-02-02T20:02:51Z",
+    "content": "Georgia Republican Lt. Governor Burt Jones unveiled legislation on Monday that would prevent future Democrat administrations in the state from revoking Georgia’s participation in the federal school c… [+3162 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Global Desk",
+    "title": "Quote of the day by former Fed chair Ben Bernanke: 'A gold standard doesn't imply stability in the prices of the goods and services...' - economic lessons by the economist & Nobel Prize winner",
+    "description": "Quote of the day by Ben Bernanke: Former Fed Chair Ben Bernanke clarifies that a gold standard stabilizes gold prices, not everyday goods and services. This distinction is crucial for understanding monetary policy's real-world impact on people's wallets. Bern…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-february-2-quote-of-the-day-by-former-fed-chair-ben-bernanke-a-gold-standard-doesnt-imply-stability-in-the-prices-of-the-goods-and-services-economic-lessons-by-the-economist-nobel-prize-winner/articleshow/127870592.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-127870616,width-1200,height-630,imgsize-12286,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-02-02T19:58:46Z",
+    "content": "Quote of the day by Ben Bernanke: Todays quote by the former Federal Reserve Chair Ben Bernanke cuts straight to a common misunderstanding about money and price stability. Many people still discuss t… [+5668 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Teachers union president calls Trump a ‘dictator’ on unearthed call with Antifa-linked group",
+    "description": "NEA president Becky Pringle sparked controversy calling Trump a \"dictator\" during a Soros linked far-left activist call promoting mass disruption and organizing.",
+    "url": "https://www.foxnews.com/politics/teachers-union-president-calls-trump-a-dictator-on-unearthed-call-with-antifa-linked-group",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/teachers-union-nea.jpg",
+    "publishedAt": "2026-02-02T19:01:54Z",
+    "content": "FIRST ON FOX: The president of the nations largest teachers union is facing backlash after calling former President Donald Trump a \"dictator\" during a far-left activist conference call that promoted … [+5798 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The New York Review of Books"
+      "name": "GlobeNewswire"
     },
-    "author": "Nell Irvin Painter",
-    "title": "My Elsewheres",
-    "description": "I’m a Black American woman who was formed in the twentieth century, amid the cold war and racial segregation that was entrenched even in the Bay Area. But how I think, the way I write, and where my imagination has taken me owe everything to places outside the…",
-    "url": "http://www.nybooks.com/online/2026/02/01/my-elsewheres-nell-irvin-painter/",
-    "urlToImage": "https://www.nybooks.com/wp-content/uploads/2026/02/Painter202601_11.jpeg",
-    "publishedAt": "2026-02-01T12:00:00Z",
-    "content": "I’m a Black American woman who was formed in the twentieth century, amid the cold war and racial segregation that was entrenched even in the Bay Area. But how I think, the way I write, and where my i… [+18806 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": "Breitbart",
-    "title": "Laken Riley’s Convicted Killer Angling For Another Trial",
-    "description": "The illegal alien convicted of killing nursing student Laken Riley is seeking a new trial — evoking an uncomfortable flashback to the brutal homicide that helped drive the illegal immigration debate and led to a federal law named after his victim. Jose Antoni…",
-    "url": "https://freerepublic.com/focus/f-news/4364868/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-01-31T17:28:19Z",
-    "content": "Skip to comments.\r\nLaken Rileys Convicted Killer Angling For Another Trial\r\nBreitbart ^\r\n | 30/1/26\r\n | Lowell Caufiel\r\nPosted on 01/31/2026 9:28:19 AM PST by Eleutheria5\r\nThe illegal alien convicted… [+3511 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Denver Post"
-    },
-    "author": "Georgia Nicols",
-    "title": "Daily Horoscope for January 31, 2026",
-    "description": "Get your daily horoscope for January 31, 2026 from astrologer Georgia Nicols.",
-    "url": "https://www.denverpost.com/2026/01/31/daily-horoscope-for-january-31-2026/",
-    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2019/08/Learn_how_to_take_photos_of_the_Milky_Way_with_the_help_of_a_Colorado_conservancy_1.jpg?w=1024&h=683",
-    "publishedAt": "2026-01-31T07:00:00Z",
-    "content": "Moon Alert: Avoid shopping (except for food and gas) or important decisions from 4:30 p.m. to 7:30 p.m. EST today (1:30 p.m. to 4:30 p.m. PST). After that, the Moon moves from CANCER into LEO.\r\nHappy… [+4262 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Juancole.com"
-    },
-    "author": "Waging Nonviolence",
-    "title": "Dance and Music are potent forms of cultural Defiance in Palestine",
-    "description": "With Palestinian history censored by the Israeli occupation, youth programs preserve collective memory through traditional music and dance.",
-    "url": "https://www.juancole.com/2026/01/cultural-defiance-palestine.html",
-    "urlToImage": "https://media.juancole.com/images/2026/01/Collage-6-1536x768-1.png",
-    "publishedAt": "2026-01-31T05:04:39Z",
-    "content": "A scene from a dance performance by the the Douban Professional Dance group perform in East Jerusalem. (Kaia Lola)( Waging Nonviolence ) – As Palestinians face unprecedented settler attacks, home dem… [+12880 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "FOX 9"
-    },
-    "author": "Fox 9",
-    "title": "ICE Out march held in Minneapolis, Bruce Springsteen plays Defend Minnesota concert",
-    "description": "A second \"National Day of Action\" happened in Minneapolis on Friday to demand \"ICE Out\" of Minnesota, only hours after Bruce Springsteen made a surprise appearance at a protest concert at First Avenue.",
-    "url": "https://www.fox9.com/news/ice-out-minnesota-march-protest-concert-jan-30-2026",
-    "urlToImage": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/01/1200/630/1_30-jadon-ice-out-march-kmspeme001_13_46_05_mpg_00.08.11.20.jpg?ve=1&tl=1",
-    "publishedAt": "2026-01-31T02:23:21Z",
-    "content": "MINNEAPOLIS (FOX 9) - Immigration operations continued in Minnesota on Friday as protests, a benefit concert and Senate DHS funding negotiations unfold.\r\nA second \"National Day of Action\"  took place… [+13821 chars]"
+    "author": "King Green, Inc.",
+    "title": "Legacy Lawns Begins With a Question: What Happens to a Great Business When the Founder Is Ready to Step Back?",
+    "description": "Legacy Lawns launches nationally to preserve lawn care legacies through partnerships protecting founder brands, employees, and culture....",
+    "url": "https://www.globenewswire.com/news-release/2026/02/02/3230545/0/en/Legacy-Lawns-Begins-With-a-Question-What-Happens-to-a-Great-Business-When-the-Founder-Is-Ready-to-Step-Back.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/134b8610-c7bf-40a3-95f4-02a067f8734f",
+    "publishedAt": "2026-02-02T18:53:00Z",
+    "content": "GAINESVILLE, Ga., Feb. 02, 2026 (GLOBE NEWSWIRE) -- For most lawn care owners, the business isnt just a company. Its years of early mornings, customer relationships built one yard at a time, employee… [+5634 chars]"
   }
 ]

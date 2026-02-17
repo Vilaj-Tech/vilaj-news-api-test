@@ -2,6 +2,32 @@
   {
     "source": {
       "id": null,
+      "name": "Jeffbullas.com"
+    },
+    "author": "Jeff Bullas",
+    "title": "We Built Social Media Echo Chambers. Now We’re Building AI Yes-Men.",
+    "description": "I’ve been running an experiment for the past few months: building an AI mentor that actively disagrees with me. It challenges my assumptions, questions my reasoning, and pushes me past procrastination into action. It’s programmed to be my intellectual sparrin…",
+    "url": "https://www.jeffbullas.com/ai-mentors-yes-men/",
+    "urlToImage": "https://www.jeffbullas.com/wp-content/uploads/2026/02/ai-mentor-yes-man.jpg",
+    "publishedAt": "2026-02-16T10:24:46Z",
+    "content": "I’ve been running an experiment for the past few months: building an AI mentor that actively disagrees with me. It challenges my assumptions, questions my reasoning, and pushes me past procrastinatio… [+13293 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Facultyfocus.com"
+    },
+    "author": "Dr. Andrea Crenshaw, EdD, and Dr. Natasha Ramsay-Jordan, EdD",
+    "title": "Belonging by Design: An Asset-Based Approach to Inclusive Learning",
+    "description": "Student belonging in higher education has become a top priority for colleges and universities across the nation as they strive to retain and ensure students persist to graduation. In particular, multiple studies on belonging highlight the significance of deve…",
+    "url": "https://www.facultyfocus.com/articles/equality-inclusion-and-diversity/belonging-by-design-an-asset-based-approach-to-inclusive-learning/",
+    "urlToImage": "https://s39613.pcdn.co/wp-content/uploads/2026/01/iStock-2167140814-scaled.jpg",
+    "publishedAt": "2026-02-16T04:00:00Z",
+    "content": "Student belonging in higher education has become a top priority for colleges and universities across the nation as they strive to retain and ensure students persist to graduation. In particular, mult… [+10365 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "HuffPost"
     },
     "author": "HuffPost",
@@ -102,31 +128,5 @@
     "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/mh-cdc-disability-698f4da748694.jpg?crop=1xw:1xh;center,top&resize=1200:*",
     "publishedAt": "2026-02-13T17:05:00Z",
     "content": "The below is text from a real informational webpage that was on the U.S. Centers for Disease Control and Prevention website. The original page was deleted following executive orders from president Do… [+8730 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Kevinmd.com"
-    },
-    "author": "Adam Zbib",
-    "title": "Immigration policy and child health: a medical student’s perspective",
-    "description": "“Do no harm.” Upon entering medical school, my classmates and I uttered these words with pride and joy, unaware of the deeper meaning behind them. While it may sound cliché, many of us choose to become doctors because we have a strong desire to help others in…",
-    "url": "https://kevinmd.com/2026/02/immigration-policy-and-child-health-a-medical-students-perspective.html",
-    "urlToImage": "https://kevinmd.com/wp-content/uploads/Gemini_Generated_Image_y40qm0y40qm0y40q-1024x717.png",
-    "publishedAt": "2026-02-13T16:00:33Z",
-    "content": "“Do no harm.” Upon entering medical school, my classmates and I uttered these words with pride and joy, unaware of the deeper meaning behind them. While it may sound cliché, many of us choose to beco… [+5797 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The New York Review of Books"
-    },
-    "author": "Adam Gaffney",
-    "title": "Medicaid Undone",
-    "description": "One year ago President Donald Trump promised to “love and cherish” Medicaid. Alas, his affection for the public insurance program was short-lived. The so-called One Big Beautiful Bill Act (OBBA) he signed into law on July 4—the most sweeping health care legis…",
-    "url": "http://www.nybooks.com/online/2026/02/13/medicaid-undone/",
-    "urlToImage": "https://www.nybooks.com/wp-content/uploads/2026/02/Gaffney202602_4.jpeg",
-    "publishedAt": "2026-02-13T14:52:49Z",
-    "content": "One year ago President Donald Trump promised to “love and cherish” Medicaid. Alas, his affection for the public insurance program was short-lived. The so-called One Big Beautiful Bill Act (OBBA) he s… [+22051 chars]"
   }
 ]

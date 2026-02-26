@@ -1,6 +1,110 @@
 [
   {
     "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Matt Hayes, USA TODAY",
+    "title": "Players, cash, lack of consequences. What could go wrong in NIL world?",
+    "description": "More than 20 Georgia players have been cited or arrested for speeding and/or reckless driving since a teammate died in 2023 while racing another.",
+    "url": "https://www.usatoday.com/story/sports/ncaaf/2026/02/25/dont-blame-kirby-smart-for-georgia-players-reckless-driving-chris-cole-nil-millions/88841234007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/R7O4KzZ2OxTgr.mMBYCL7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/74d37c0fdc5efaf207ff3e4de0d157bb",
+    "publishedAt": "2026-02-25T10:05:00Z",
+    "content": "First, the particulars, because three years later, it still makes no sense.\r\nA Georgia football player died in January 2023 while a car he was riding in was racing other Georgia football players. Mor… [+4293 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Washington Monthly"
+    },
+    "author": "Anne Kim",
+    "title": "Could New Orleans Be the Model for Fixing Public Schools?",
+    "description": "A new documentary by the author of Reinventing Government shows how one of the nation’s worst school districts became the fastest improving.\nThe post Could New Orleans Be the Model for Fixing Public Schools?  appeared first on Washington Monthly.",
+    "url": "http://washingtonmonthly.com/2026/02/25/new-orleans-public-schools-turnaround/",
+    "urlToImage": "https://i0.wp.com/washingtonmonthly.com/wp-content/uploads/2026/02/Ep.-57-New-Orleans-1.jpg?fit=1920%2C1080&quality=89&ssl=1",
+    "publishedAt": "2026-02-25T10:00:00Z",
+    "content": "In 2003, New Orleans public schools were among the worst in the country. Seventy percent of eighth-graders were not proficient in math, 74 percent werent proficient in English, and the graduation rat… [+20428 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Watertown Public Opinion"
+    },
+    "author": "Roger Merriam, Watertown Public Opinion",
+    "title": "Watertown's Gage Lohr earns All-ESD wrestling honor for fourth time",
+    "description": "Six grapplers from Watertown and four from Aberdeen Central have been named to the 2026 All-Eastern S.D. Conference boys wrestling team.",
+    "url": "https://www.thepublicopinion.com/story/sports/2026/02/25/sports-items-with-area-interest/88850981007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KntdrcEAEMSfkc7DIU91rw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTE7Y2Y9d2VicA--/https://media.zenfs.com/en/watertown-public-opinion/0319e2e1bdca0ef2960fa23316e0b126",
+    "publishedAt": "2026-02-25T09:04:55Z",
+    "content": "Four-time honorees Gage Lohr of Watertown and Alex Oedekoven of Pierre spearhead the 2026 All-Eastern South Dakota Conference boys wrestling team.\r\nLohr is one of six honorees from Watertown, includi… [+6250 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ANI",
+    "title": "Gujarat to host 3rd edition of Semiconnect Conference 2026 at Mahatma Mandir",
+    "description": "Gujarat will host the Gujarat Semiconnect Conference 2026 on March 1 in Gandhinagar. The event aims to make Gujarat India's gateway to silicon. Global leaders will discuss strategies to strengthen India's semiconductor manufacturing and research. The conferen…",
+    "url": "https://economictimes.indiatimes.com/news/india/gujarat-to-host-3rd-edition-of-semiconnect-conference-2026-at-mahatma-mandir/articleshow/128776072.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-128776114,width-1200,height-630,imgsize-131428,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-02-25T09:01:14Z",
+    "content": "Gandhinagar: The Government of Gujarat is set to host the third edition of the Gujarat Semiconnect Conference 2026 on March 1, at Mahatma Mandir, Gandhinagar, a release said.The event was convened by… [+3685 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Cdc.gov"
+    },
+    "author": null,
+    "title": "Lymphocytic Choriomeningitis Virus Seroprevalence among Urban Pregnant Women and Newborns, Philadelphia, Pennsylvania, USA, 2021",
+    "description": "LCMV Seroprevalence among Women and Newborns",
+    "url": "https://wwwnc.cdc.gov/eid/article/32/3/25-0910_article",
+    "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+    "publishedAt": "2026-02-25T05:00:00Z",
+    "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Lymphocytic choriomeningit… [+22087 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TMZ"
+    },
+    "author": "TMZ Staff",
+    "title": "Harvey Levin Blasts Uninformed For Calling Newsom Racist, Shows Picture of Event Audience",
+    "description": "Gavin Newsom wasn't making racist remarks during a recent event -- since it looked like he was the intermission entertainment at a Coldplay concert -- so says our own Harvey Levin. The TMZ executive producer tore into the misinformed outrage…\n Permalink",
+    "url": "https://www.tmz.com/2026/02/24/harvey-levin-shows-gavin-newsom-audience-slams-uninformed/",
+    "urlToImage": "https://imagez.tmz.com/image/71/16by9/2026/02/24/7140d6a02a8844319620391137b9cf4a_xl.jpg",
+    "publishedAt": "2026-02-24T21:19:05Z",
+    "content": "Gavin Newsom wasn't making racist remarks during a recent event -- since it looked like he was the intermission entertainment at a Coldplay concert -- so says our own Harvey Levin.\r\nThe TMZ executive… [+1530 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Futurity: Research News"
+    },
+    "author": "Sydney Barrilleaux - U. Georgia",
+    "title": "Funny teachers may help students stay more engaged",
+    "description": "Humor can be a way for teachers to improve how a student feels about the class, researchers say. But it doesn't always work.",
+    "url": "https://www.futurity.org/funny-teachers-humor-3323742/",
+    "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2026/02/funny-teachers-humor-students-learning-1600.jpg",
+    "publishedAt": "2026-02-24T19:48:34Z",
+    "content": "Instructors cracking a joke here and there could make students feel better about the class as a whole, according to new research.\r\nUnlike lectures with packed auditoriums, smaller lab courses can mak… [+2567 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Federalreserve.gov"
+    },
+    "author": null,
+    "title": "Cook, Opening Remarks for the “AI and Productivity across the Economy” Panel",
+    "description": "Good morning. Thank you to the National Association for Business Economics for inviting me to speak with you today, and thank you to Jared for serving as our m",
+    "url": "https://www.federalreserve.gov/newsevents/speech/cook20260224a.htm",
+    "urlToImage": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg",
+    "publishedAt": "2026-02-24T14:30:00Z",
+    "content": "Good morning. Thank you to the National Association for Business Economics for inviting me to speak with you today, and thank you to Jared for serving as our moderator.1 I am honored to share the sta… [+8046 chars]"
+  },
+  {
+    "source": {
       "id": "bbc-news",
       "name": "BBC News"
     },
@@ -24,109 +128,5 @@
     "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2026/02/National-Association-of-Colored-Women.jpg",
     "publishedAt": "2026-02-24T09:50:42Z",
     "content": "Born during the Civil War, Ida Bell Wells-Barnett (1862-1931) and Mary Eliza ChurchTerrell (1863-1954) helped lay the groundwork for a century of struggles against racist violence, legalized segregat… [+12504 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Microsoft.com"
-    },
-    "author": "Katie Murray",
-    "title": "Power BI February 2026 Feature Summary",
-    "description": "Welcome to the February Power BI update! Power BI’s February 2026 update is here, and it’s a good one. This release brings smarter Copilot and AI experiences, more flexible ways to interact with reports, polished visuals, and useful modeling enhancements—plus…",
-    "url": "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2026-feature-summary/",
-    "urlToImage": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-    "publishedAt": "2026-02-24T09:00:00Z",
-    "content": "Welcome to the February Power BI update!\r\nPower BIs February 2026 update is here, and its a good one. This release brings smarter Copilot and AI experiences, more flexible ways to interact with repor… [+25578 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Inside Higher Ed"
-    },
-    "author": "joshua.m.kim@dartmouth.edu",
-    "title": "Building Bridges, Not Just Programs",
-    "description": "Building Bridges, Not Just Programs\n\njoshua.m.kim@d…\n\nTue, 02/24/2026 - 03:00 AM\n\nA guest post by James DeVaney on what Workforce Pell means for universities and employers.\n \n Byline(s)\r\n\n \n James DeVaney",
-    "url": "https://www.insidehighered.com/opinion/columns/learning-innovation/2026/02/24/building-bridges-not-just-programs",
-    "urlToImage": "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png",
-    "publishedAt": "2026-02-24T08:00:00Z",
-    "content": "For decades, higher educations relationship with workforce development has been characterized by a kind of polite distance. Universities offered degrees. Employers hired graduates. And the space betw… [+16844 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Signify",
-    "title": "Signify proposes changes to its Supervisory Board",
-    "description": "Press Release    February, 24, 2026  Signify proposes changes to its Supervisory Board  Proposal to appoint Barbara Holzapfel and Jeroen Hoencamp as...",
-    "url": "https://www.globenewswire.com/news-release/2026/02/24/3243180/0/en/Signify-proposes-changes-to-its-Supervisory-Board.html",
-    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/92a36c7a-fc53-46a0-a9f7-442e8934017e",
-    "publishedAt": "2026-02-24T07:00:00Z",
-    "content": "Press Release\r\nFebruary, 24, 2026\r\nSignify proposes changes to its Supervisory Board\r\n<ul><li>Proposal to appoint Barbara Holzapfel and Jeroen Hoencamp as Supervisory Board members</li><li>Proposal t… [+6097 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "New York Post"
-    },
-    "author": "Larry Elder",
-    "title": "How Gavin Newsom’s elite racism causes real harm to black people",
-    "description": "Nothing says “I get you” like assuming your audience bombed the SATs and cannot read particularly well.",
-    "url": "https://nypost.com/2026/02/23/opinion/how-gavin-newsoms-elite-racism-causes-real-harm-to-black-people/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/02/crop-38582495.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-02-24T00:21:04Z",
-    "content": "Gavin Newsom, Californias golden-boy governor and likely 2028 White House hopeful, recently decided to bond with a black audience in Georgia.\r\nNewsom proclaimed, Im not trying to impress you. Im just… [+4165 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": "Operation Rescue",
-    "title": "SPECIAL REPORT: Planned Parenthood Employees Bring Charges Against Another Sinking Affiliate (A 'they/them' complaint)",
-    "description": "Atlanta, GA — After months of public drama among the employees and higher-ups of Planned Parenthood Southeast, six former PPSE employees recently filed discrimination charges against the affiliate, submitting the charges to the U.S. Equal Employment Opportuni…",
-    "url": "https://freerepublic.com/focus/f-chat/4368027/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-02-23T21:53:53Z",
-    "content": "Skip to comments.\r\nSPECIAL REPORT: Planned Parenthood Employees Bring Charges Against Another Sinking Affiliate (A 'they/them' complaint)Operation Rescue ^\r\n | February 23, 2026\r\n | Sarah Neely\r\nPost… [+8551 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Georgia lawmaker calls for ICE surge after Savannah teacher allegedly killed by illegal immigrant",
-    "description": "A Georgia congressman is urging a surge of ICE agents after a Savannah teacher was killed by an illegal immigrant fleeing a federal traffic stop.",
-    "url": "https://www.foxnews.com/politics/georgia-lawmaker-calls-ice-surge-after-savannah-teacher-allegedly-killed-illegal-immigrant",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/buddy-carter-ice.jpg",
-    "publishedAt": "2026-02-23T20:30:58Z",
-    "content": "A Georgia congressman is calling for a surge of Immigration and Customs Enforcement (ICE) agents to his state after a teacher was allegedly killed by an illegal immigrant fleeing law enforcement.\r\n\"I… [+2330 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "In These Times"
-    },
-    "author": "Amie Stager",
-    "title": "Inside the First-Ever Young Worker March on Washington",
-    "description": "Federal workers who led the first-ever young workers march on Washington want to see young workers rise up across the U.S. and demand more from their employers and government.",
-    "url": "https://inthesetimes.com/article/young-worker-march-washington-labor-federal-government",
-    "urlToImage": "https://s3.us-east-1.amazonaws.com/in-these-times/_1200x630_crop_center-center_82_none/minn1.jpeg?mtime=1771871417",
-    "publishedAt": "2026-02-23T19:05:00Z",
-    "content": "For Eric Chornoby, leisure time is a luxury he cant afford. Hes a union postal worker from Detroit who hasnt gone on vacation in five years.\r\nEveryone told me our generation was getting it good. I di… [+15015 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Newsom tells Georgia crowd, 'I am like you ... I'm a 960 SAT guy'",
-    "description": "California Gov. Gavin Newsom claimed he's a \"960 SAT guy\" who \"cannot read a speech\" due to dyslexia in a candid Atlanta book tour moment.",
-    "url": "https://www.foxnews.com/politics/newsom-tells-georgia-crowd-i-am-like-you-im-960-sat-guy",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/newsom-looking-on.jpg",
-    "publishedAt": "2026-02-23T17:31:58Z",
-    "content": "California Democrat Gov. Gavin Newsom attempted to relate to an audience at an Atlanta book tour stop by pointing to his own unimpressive standardized test scores and claiming that he \"cannot read a … [+1709 chars]"
   }
 ]

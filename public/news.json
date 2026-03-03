@@ -1,6 +1,110 @@
 [
   {
     "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Todd Kelly, Golfweek",
+    "title": "The No. 1 teams in the first spring 2026 Mizuno WGCA Coaches Polls",
+    "description": "The Women's Golf Coaches Association has released the most recent Mizuno WGCA Coaches Poll for women's college golf.",
+    "url": "https://golfweek.usatoday.com/story/sports/golf/college/2026/03/02/2026-mizuno-wgca-coaches-polls-stanford-wingate-emory-keiser/88935649007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HjTr5NhGy6KZjbdwaxn5jg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_golfweek_articles_635/758737db517b9cf7d931c0a5666ec83f",
+    "publishedAt": "2026-03-02T11:06:02Z",
+    "content": "The Women's Golf Coaches Association has released the most recent Mizuno WGCA Coaches Poll for women's college golf. This is the first poll (originally released on Feb. 26) of the spring 2026 season.… [+7926 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Noah Whitman",
+    "title": "Why do humans hunt alligators?",
+    "description": "Why Do Humans Hunt Alligators? Humans hunt alligators primarily for their valuable hides and meat, with additional motivations including population control to mitigate risks to humans and livestock in certain regions. Introduction: Alligators – An Ancient Pre…",
+    "url": "https://www.lifesciencesworld.com/why-do-humans-hunt-alligators/",
+    "urlToImage": null,
+    "publishedAt": "2026-03-02T04:33:04Z",
+    "content": "Humans hunt alligators primarily for their valuable hides and meat, with additional motivations including population control to mitigate risks to humans and livestock in certain regions.\r\nIntroductio… [+9550 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Wattsupwiththat.com"
+    },
+    "author": "Guest Blogger",
+    "title": "Bad Bets: Massive EV Subsidies Not Paying Off",
+    "description": "“There have been massive, mounting losses that are going to have to be made up somewhere,” Pyle said. “Washington bludgeoned carmakers into a timetable of efficiency standards and the carmakers went along with it. People should be vehemently opposed to anythi…",
+    "url": "https://wattsupwiththat.com/2026/03/01/bad-bets-massive-ev-subsidies-not-paying-off/",
+    "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/03/Rivian_R1S_-_June_2025_-_Sarah_Stierch_02.webp?fit=1024%2C512&quality=75&ssl=1",
+    "publishedAt": "2026-03-02T02:00:00Z",
+    "content": "By James Varney\r\nThe future was supposed to have arrived this year in a cluster of counties just east of Atlanta in the form of a state-of-the-art factory that would churn out 400,000 electric vehicl… [+15091 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "On3.com"
+    },
+    "author": "Keegan Pope",
+    "title": "College Football Recruiting: Biggest decommitments in February",
+    "description": "The month of February is one of the quietest times in the college football recruiting calendar, with a dead period sandwiched between two major periods for unofficial visits in January and March. But that doesn’t stop the action from happening completely. Mor…",
+    "url": "https://www.on3.com/rivals/news/college-football-recruiting-biggest-decommitments-in-february/",
+    "urlToImage": "https://s.yimg.com/os/en/on3_recruiting_articles_521/b859e645f59efea18f11fd86ed12afc1",
+    "publishedAt": "2026-03-02T01:00:00Z",
+    "content": "The month of February is one of the quietest times in the college football recruiting calendar, with a dead period sandwiched between two major periods for unofficial visits in January and March.\r\nBu… [+3278 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Sharyn  Alfonsi, Aliza  Chasan, Ashley  Velie",
+    "title": "Families of school shooting victims want more accountability",
+    "description": "Following a precedent setting case out of Michigan, prosecutors are starting to hold parents accountable for their child's mass shooting crimes. 60 Minutes reports on whether it's enough to break the cycle of school shootings.",
+    "url": "https://www.cbsnews.com/news/school-shootings-accountability-oxford-michigan-60-minutes/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/03/01/673e0638-07f1-4bdb-8c0e-0573532aa8c0/thumbnail/1200x630/df1cae2c63e7453fd6b3491fd6dfa063/shooting-accountability-article.jpg",
+    "publishedAt": "2026-03-02T00:00:23Z",
+    "content": "For the past two weeks, prosecutors in Barrow County, Georgia, have been arguing that Colin Gray ignored red flags about his son's mental health before the teen allegedly opened fire at Apalachee Hig… [+10673 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Sharyn  Alfonsi, Ashley  Velie",
+    "title": "The accountability factor in school mass shootings",
+    "description": "After a deadly school shooting in Oxford, Michigan, prosecutors, in a first, charged both the gunman and his parents. It's a change some victims' families believe could help break the cycle of violence.",
+    "url": "https://www.cbsnews.com/news/how-parents-are-being-held-responsible-after-school-shootings-60-minutes-transcript/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/03/01/962cacc9-a8e5-4f45-bd9e-bcfc4ca4331d/thumbnail/1200x630/534ad8a9d719b649e6712b5406f01859/shooting-accountability-video-alfonsi.jpg",
+    "publishedAt": "2026-03-02T00:00:22Z",
+    "content": "Since the 1999 Columbine high school massacre in Colorado, there have been 84 mass shootings at schools across the United States.\r\nEach tragedy is uniquely horrific. But the response from lawmakers h… [+11860 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dawnnewsup.com"
+    },
+    "author": "Dawnnewsup",
+    "title": "Trump’s Medicaid work mandates are meant to save money. But first states will have to spend millions",
+    "description": "JEFFERSON CITY, Mo. — To receive Medicaid health coverage, some adults will soon have to show they are working, volunteering or taking classes. But to gather that proof, many states first will have to spend millions of dollars improving their computer systems…",
+    "url": "https://dawnnewsup.com/2026/03/01/health/trumps-medicaid-work-mandates-are-meant-to-save-money-but-first-states-will-have-to-spend-millions/",
+    "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2026/03/01/Medicaid_Work_Requirements_86451_c0-336-4032-2688_s1200x700.jpg?b9045e74783b6319fce841b792fcd0258cbfc91e",
+    "publishedAt": "2026-03-01T20:38:48Z",
+    "content": "JEFFERSON CITY, Mo. To receive Medicaid health coverage, some adults will soon have to show they are working, volunteering or taking classes. But to gather that proof, many states first will have to … [+6446 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New Zealand Herald"
+    },
+    "author": "Cameron Smith",
+    "title": "Cutting the cord? When your children should be financially independent",
+    "description": "A financial expert says the goal is capability, not a deadline.",
+    "url": "https://www.nzherald.co.nz/business/cutting-the-cord-when-your-children-should-be-financially-independent/premium/D2F5ZUFEHBGSPPLO2FKL3A3V4A/",
+    "urlToImage": "https://www.nzherald.co.nz/resizer/v2/PC2BDNLHEFGP3CNVV67ZP7WVDI.jpg?auth=b42dc84cc24e948765b96770380373c4ac02ac8f47908f0af4f96832a55f2ebc&width=1200&height=675&quality=70&focal=1109%2C725&smart=false",
+    "publishedAt": "2026-03-01T16:00:00Z",
+    "content": "Georgia Grange, head of New Zealand at Revolut, said the data show parents see money as one of the most important skills their children can learn.\r\nIts been a gap in New Zealand for a long time, she … [+4761 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Abcnews.com"
     },
@@ -24,109 +128,5 @@
     "urlToImage": "https://balloon-juice.com/wp-content/uploads/2020/01/Silverman_On_Security.jpg",
     "publishedAt": "2026-03-01T03:07:17Z",
     "content": "(Current mood and yes, I know, it’s now 28 FEB)\r\nGiven all the whacked out activity of today, I’m just going to run through the basics tonight so I can go off line.\r\nSign of the Times: While Russia’s… [+19339 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": null,
-    "title": "Guess Ilhan, Mancini, and Tlaib will REALLY scream obscenities today",
-    "description": "I mean…it’s been a rough week for them. A huge cash flow for their elections just got eradicated, apparently. Are investigations in their future?",
-    "url": "https://freerepublic.com/focus/f-chat/4368742/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-02-28T21:44:32Z",
-    "content": "Skip to comments.\r\nGuess Ilhan, Mancini, and Tlaib will REALLY scream obscenities todayPosted on 02/28/2026 1:44:32 PM PST by Billie Bud\r\nI meanits been a rough week for them. A huge cash flow for th… [+3162 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Mental Floss"
-    },
-    "author": "Eden Gordon",
-    "title": "Quiz: Do You Know All These Odd-But-True Music Facts?",
-    "description": "Test your knowledge of music trivia with this quiz, and learn about everything from the British Navy's use of Britney Spears to the unexpected origins of the song 'Jingle Bells.'",
-    "url": "https://www.mentalfloss.com/quizzes/odd-but-true-music-facts",
-    "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_252,w_3000,h_1687/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01kjg2qtdt17ch2ap8kn.jpg",
-    "publishedAt": "2026-02-28T21:00:00Z",
-    "content": "Musicians have long been the subject of widespread fascination. That's partly because there's so much fascinating trivia about them, their antics, and the impact their music has had on the world. \r\nB… [+4280 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Punch"
-    },
-    "author": "Punch Newspapers",
-    "title": "How leaving Nigeria deepened my professional capacity as scientist – US-based scientist",
-    "description": "Harvard-trained Nigerian scientist, Dr. Olakunle Jaiyesimi, shares how leaving the country expanded his professional capacity through metabolomics and rese\n\nRead More: https://punchng.com/how-leaving-nigeria-deepened-my-professional-capacity-as-scientist-us-b…",
-    "url": "https://punchng.com/how-leaving-nigeria-deepened-my-professional-capacity-as-scientist-us-based-scientist/",
-    "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/02/28015019/ritual.jpg",
-    "publishedAt": "2026-02-28T00:09:03Z",
-    "content": "Harvard-trained Nigerian scientist, Dr Olakunle Jaiyesimi, speaks to IBRAHIM ADAM on how leaving Nigeria gave him an insight that expanded his professional capacity, among other issues\r\nWhen did you … [+10781 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Forbes"
-    },
-    "author": "Merlisa Lawrence Corbett, Contributor, \n Merlisa Lawrence Corbett, Contributor\n https://www.forbes.com/sites/merlisalawrencecorbett/",
-    "title": "Martin Luther King Jr. And Arthur Ashe Legacies Linked Through Service",
-    "description": "This text is about Arthur Ashe Jr. and Martin Luther King Jr legacies joined in a partnership between the USTA Foundation and Realize The Dream initiative.",
-    "url": "https://www.forbes.com/sites/merlisalawrencecorbett/2026/02/27/martin-luther-king-jr-and-arthur-ashe-legacies-linked-through-service/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69a0654effc9ae66ac0e06f9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2026-02-27T21:07:55Z",
-    "content": "(Original Caption) Left to right are Gregory Hines, Tony Randall, Arthur Ashe, Ruby Dee, Randall Robinson, Ossie Davis, and Harry Belafonte, speaking at a press conference to announce Artists and Ath… [+6849 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Futurity: Research News"
-    },
-    "author": "Holly Frew - Georgia State U.",
-    "title": "How family background shapes salary expectations",
-    "description": "New findings highlight a rarely examined driver of pay inequity: self-set salary expectations shaped by upbringing.",
-    "url": "https://www.futurity.org/family-background-class-salary-expectations-3322522/",
-    "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2026/02/class-family-background-salary-expectations-1600.jpg",
-    "publishedAt": "2026-02-27T19:47:52Z",
-    "content": "A new study suggests how family background shapes not only job outcomes but also the salary expectations job seekers bring with them from the start.\r\nThe researchers tracked how social class origins … [+4500 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Nextcity.org"
-    },
-    "author": "Roshan Abraham",
-    "title": "The Weekly Wrap: How New Orleans Is Building Citywide Virtual Power Plant – For Free",
-    "description": "A twisted tower that carried crucial electrical feeder lines to the New Orleans metro area lies collapsed in 2021 in the aftermath of Hurricane Ida in Bridge City, Lousiana. Power out, high voltage lines on the ground, maybe weeks until electricity is restore…",
-    "url": "https://nextcity.org/urbanist-news/vpp-new-orleans-entergy-settlement-citywide-virtual-power-plant",
-    "urlToImage": "https://nextcity.org/images/daily/_resized/AP21244779926762.jpg",
-    "publishedAt": "2026-02-27T15:41:00Z",
-    "content": "Welcome back to The Weekly Wrap, our Friday roundup of stories that explain the problems oppressing people in cities and elevate the solutions that bring us closer to economic, environmental and soci… [+9742 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Advocate.com"
-    },
-    "author": "Kayla Gagnet",
-    "title": "The Advocate newsletter: 2/27/26",
-    "description": "➡️ It was a difficult week for transgender people in Kansas, where a new law took effect that immediately stripped roughly 1,700 people of their driver's licenses. Read more about the law's impact.",
-    "url": "https://www.advocate.com/newsletter/the-advocate-newsletter-2-27-26",
-    "urlToImage": "https://assets.rbl.ms/62530614/origin.png",
-    "publishedAt": "2026-02-27T14:13:44Z",
-    "content": "It was a difficult week for transgender people in Kansas, where a new law took effect that immediately stripped roughly 1,700 people of their driver's licenses. Read more about the law's impact.\r\nAt … [+911 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Boosterthon",
-    "title": "Boosterthon Tops $1 Billion Raised for Education",
-    "description": "Leading school fundraiser celebrates landmark achievement at Westminster Academy in Ft. Lauderdale, Fla. on February 27 with founders Chris and Lyndie Carneal Leading school fundraiser celebrates landmark achievement at Westminster Academy in Ft. Lauderdale, …",
-    "url": "https://www.globenewswire.com/news-release/2026/02/27/3246497/0/en/Boosterthon-Tops-1-Billion-Raised-for-Education.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/0b079a32-cc25-4389-8bbf-bfba62743d8f",
-    "publishedAt": "2026-02-27T13:10:00Z",
-    "content": "FT. LAUDERDALE, Feb. 27, 2026 (GLOBE NEWSWIRE) -- What began as a single idea to help one elementary school raise much-needed funds has grown into a movement that has transformed school fundraising n… [+4478 chars]"
   }
 ]

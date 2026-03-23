@@ -1,6 +1,58 @@
 [
   {
     "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Jessica Orwig,Abby Narishkin",
+    "title": "I'm a third-generation cafeteria owner with 4 sons. I won't push any of them into this business.",
+    "description": "Michael Greene, who runs Matthews Cafeteria, shares the highs and lows of managing a family business, and why his kids may not take over one day.",
+    "url": "https://www.businessinsider.com/third-generation-cafeteria-owner-wont-force-kids-run-family-business-2026-3",
+    "urlToImage": "https://i.insider.com/69bd4b9fd387710cb9e4699d?width=1200&format=jpeg",
+    "publishedAt": "2026-03-22T12:55:01Z",
+    "content": "Michael Greene sitting inside Matthews Cafeteria, where he grew up learning the ins and outs of the food service industry.Business Insider\r\n<ul><li>Michael Greene reflects on his journey running Matt… [+4262 chars]"
+  },
+  {
+    "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": null,
+    "title": "Meet the Colored People's Protective Association: Little-known history of Calgary's early Black community",
+    "description": "Over 115 years ago, more than 150 members of Calgary’s Black community gathered for what a local newspaper called “one of the most successful balls of the season.” In those days, only 16 years after incorporation, the city welcomed an influx of Black settlers.",
+    "url": "https://www.cbc.ca/news/canada/calgary/colored-people-s-protective-assocation-calgary-9.7125224",
+    "urlToImage": "https://i.cbc.ca/ais/f27552ab-8075-4a8d-a7db-ee9d1d9eb83d,1773944609069/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2000%2C1125%29%3BResize%3D620",
+    "publishedAt": "2026-03-22T12:00:00Z",
+    "content": "Over 115 years ago, more than 150 members of Calgarys Black community gathered at a venue called Eagle Hall on First Street S.W. for what a local newspaper called one of the most successful balls of … [+8011 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BusinessLine"
+    },
+    "author": "PTI",
+    "title": "Over half of countries have banned phones in schools: UNESCO",
+    "description": "UNESCO reports that over half of countries have banned phones in schools to combat cyberbullying and improve attention in classrooms.",
+    "url": "https://www.thehindubusinessline.com/news/over-half-of-countries-have-banned-phones-in-schools-unesco/article70771814.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/qy7quf/article70771825.ece/alternates/LANDSCAPE_1200/BL07_Think_Smartphone.jpg",
+    "publishedAt": "2026-03-22T07:59:51Z",
+    "content": "More than half of the countries have banned phones in schools amid mounting concerns about declining attention in classrooms and cyberbullying, according to the UNSECO's Global Education Monitoring (… [+3882 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Durva More",
+    "title": "Quote of the Day by Donald Glover: “We put stereotypes on ourselves…” — a powerful lesson on stereotypes, identity, self-expression, and being true to yourself from the award-winning actor, writer, and musician",
+    "description": "Donald Glover’s Quote of the Day talks about stereotypes and identity. He explains that labels can make it harder for people, especially Black kids, to be themselves. The quote encourages freedom, self-expression, and confidence. Donald Glover, known for acti…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-donald-glover-we-put-stereotypes-on-ourselves-a-powerful-lesson-on-stereotypes-identity-self-expression-and-being-true-to-yourself-from-the-award-winning-actor-writer-and-musician/articleshow/129721370.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-129721370,width-1200,height-630,imgsize-90840,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-03-21T16:10:53Z",
+    "content": "Quote of the day by Donald Glover: A Quote of the Day is a short and meaningful line that shares wisdom, life lessons, or motivation. Many people read one quote daily to start their day with positive… [+4408 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Ms. Magazine"
     },
@@ -76,57 +128,5 @@
     "urlToImage": "https://www.conceptcarz.com/images/ccp_logo_0002.gif",
     "publishedAt": "2026-03-19T23:58:57Z",
     "content": "March 19, 2026 by Hyundai Hyundai deepens partnerships with Ronald McDonald House Charities of the Coastal Empire, Second Harvest of Coastal Georgia, and Ducks Unlimited\r\nHyundai announced renewed su… [+4909 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Reason"
-    },
-    "author": "Josh Blackman",
-    "title": "In Memoriam: John J. Park, Jr.",
-    "description": "I am deeply saddened by the loss of my friend and colleague, Jack Park. I pass along this remembrance from…\nThe post In Memoriam: John J. Park, Jr. appeared first on Reason.com.",
-    "url": "https://reason.com/volokh/2026/03/19/in-memoriam-john-j-park-jr/",
-    "urlToImage": "https://fedsoc.org/cdn-cgi/image/fit=scale-down,width=1690,format=jpeg/https://fedsoc-cms-public.s3.amazonaws.com/John%20Park%20Jr.%20In%20memorium.png",
-    "publishedAt": "2026-03-19T21:11:53Z",
-    "content": "I am deeply saddened by the loss of my friend and colleague, Jack Park. I pass along this remembrance from the Federalist Society. The Federalist Society joins the family, friends, and professional c… [+3538 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Daily Caller"
-    },
-    "author": "Alexander Pease",
-    "title": "REPORT: Fifth Graders Say Teacher Played ‘Knife Tag’ With Them",
-    "description": "The educator also allegedly matched up students to 'date'",
-    "url": "https://dailycaller.com/2026/03/19/las-vegas-fifth-grade-teacher-kha-nam-nguyen-knife-tag-games-classroom-arrest-charges/",
-    "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/03/GettyImages-1268352141-scaled-e1773942382731.jpg",
-    "publishedAt": "2026-03-19T18:02:18Z",
-    "content": "A fifth grade teacher from Las Vegas, Nevada, is facing multiple charges for an array of alleged questionable behaviors in the classroom, including playing a game known as “knife tag” with the lights… [+2474 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ms. Magazine"
-    },
-    "author": "Katie Fleischer",
-    "title": "Keeping Score: Trump Attacks Iran, Pressures Senate Republicans to Pass ‘Show Your Papers’ Voter Registration Bill; States Expand Access to Childcare and Paid Leave",
-    "description": "In every issue of Ms., we track research on our progress in the fight for equality, catalogue can’t-miss quotes from feminist voices and keep tabs on the feminist movement’s many milestones. We’re Keeping Score online, too—in this biweekly roundup.\nThis week:…",
-    "url": "https://msmagazine.com/2026/03/19/keeping-score-feminist-news-trump-iran-save-america-act-women-voters-childcare-paid-leave-dolores-huerta/",
-    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/03/Keeping-Score-Trump-Attacks-Iran-Pressures-Senate-Republicans-to-Pass-Show-Your-Papers-Voter-Registration-Bill-States-Expand-Access-to-Childcare-and-Paid-Leave.png",
-    "publishedAt": "2026-03-19T17:23:11Z",
-    "content": "In every issue of Ms., we track research on our progress in the fight for equality, catalogue cant-miss quotes from feminist voices and keep tabs on the feminist movement’s many milestones. We’re Kee… [+20898 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Rolling Stone"
-    },
-    "author": "Ryan Bort",
-    "title": "The Affordability Crisis Can’t Be Solved With Another Tax Cut",
-    "description": "Democrats don’t need to trade away revenue required for meaningful policy. They need to tax the rich",
-    "url": "http://www.rollingstone.com/politics/political-commentary/affordability-crisis-cant-be-solved-another-tax-cut-1235533831/",
-    "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/03/Rising-Costs-op-Ed.jpg?w=1600&h=900&crop=1",
-    "publishedAt": "2026-03-19T15:15:00Z",
-    "content": "Over the past year, I traveled the country, from Arizona to Alaska, Iowa to Georgia, talking with everyday Americans about rising costs, health care, and what they think the government should provide… [+6138 chars]"
   }
 ]

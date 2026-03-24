@@ -1,6 +1,32 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "Rolling Stone"
+    },
+    "author": "Ryan Bort",
+    "title": "Is This Uncharismatic Leader Exactly What The Democrats Need?",
+    "description": "Ken Martin, the chair of the Democratic National Committee, has a plan to turn the party around — if he can keep it from tearing itself apart.",
+    "url": "http://www.rollingstone.com/politics/politics-features/ken-martin-dnc-chair-democratic-party-1235534235/",
+    "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/02/ken-martin-profile.jpg?w=1600&h=900&crop=1",
+    "publishedAt": "2026-03-23T13:00:00Z",
+    "content": "“There are politicians who have the ‘it factor,’ and are highly charismatic,” Ken Martin, the head of the Democratic National Committee, tells me. “That’s not who I am.”\r\nMartin is speaking by phone … [+26986 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Conversation Africa"
+    },
+    "author": "William McCorkle, Associate Professor of Education, College of Charleston",
+    "title": "Immigrant kids can attend school regardless of citizenship – some states are challenging this standard",
+    "description": "The Heritage Foundation released a policy document in February 2026 that spells out how states can try to challenge a 1982 Supreme Court ruling that enshrined immigrant students’ right to attend school.",
+    "url": "https://theconversation.com/immigrant-kids-can-attend-school-regardless-of-citizenship-some-states-are-challenging-this-standard-278766",
+    "urlToImage": "https://images.theconversation.com/files/725150/original/file-20260319-57-jkg0qd.jpg?ixlib=rb-4.1.0&rect=0%2C536%2C5882%2C2941&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2026-03-23T12:25:39Z",
+    "content": "An undocumented mother walks her 6-year-old daughter to school in Danbury, Conn., in October 2025, shortly before the family self-deported. John Moore/Getty Images\r\nAll immigrants, regardless of thei… [+7547 chars]"
+  },
+  {
+    "source": {
       "id": "business-insider",
       "name": "Business Insider"
     },
@@ -102,31 +128,5 @@
     "urlToImage": "https://img.huffingtonpost.com/asset/69bc78151b00009cb914eacb.jpeg?cache=wwV9QpYnjQ&ops=1200_630",
     "publishedAt": "2026-03-20T10:00:17Z",
     "content": "WASHINGTON President Donald Trump has been brazen about trying to make it harder for certain people voters who lean Democratic to vote in November.\r\nHes demanded Republicans take over voting and nati… [+10464 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Thenation.com"
-    },
-    "author": "Devin Thomas O’Shea",
-    "title": "The Red-State War Against Blue Cities",
-    "description": "Devin Thomas O’Shea\n\n\n\nSt. Louis has a Missouri problem. But like many other Democratic cities in Republican states, it can fight back by expanding.\r\n\n\r\n\n\nThe post The Red-State War Against Blue Cities appeared first on The Nation.",
-    "url": "https://www.thenation.com/?post_type=article&p=590903",
-    "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/03/st-louis-getty.jpg",
-    "publishedAt": "2026-03-20T09:00:00Z",
-    "content": "Politics / March 20, 2026\r\nSt. Louis has a Missouri problem. But like many other Democratic cities in Republican states, it can fight back by expanding.\r\nAd Policy\r\nA home damaged by an F3 tornado in… [+21256 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Conceptcarz.com"
-    },
-    "author": "Conceptcarz.com",
-    "title": "Hyundai Expands Commitment to Health, Nutrition, and Sustainability in Coastal Georgia",
-    "description": "Hyundai announced renewed support for three leading nonprofit organizations serving the Savannah region Ronald McDonald House Charities of the Coastal Empire, Second Harvest of Coastal Georgia, and Ducks Unlimited. This investment underscores Hyundai",
-    "url": "https://www.conceptcarz.com/a60376/hyundai-health-nutrition-sustainability-coastal-georgia.aspx",
-    "urlToImage": "https://www.conceptcarz.com/images/ccp_logo_0002.gif",
-    "publishedAt": "2026-03-19T23:58:57Z",
-    "content": "March 19, 2026 by Hyundai Hyundai deepens partnerships with Ronald McDonald House Charities of the Coastal Empire, Second Harvest of Coastal Georgia, and Ducks Unlimited\r\nHyundai announced renewed su… [+4909 chars]"
   }
 ]

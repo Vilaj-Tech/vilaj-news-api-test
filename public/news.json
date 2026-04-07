@@ -1,6 +1,58 @@
 [
   {
     "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Sahil Kapur",
+    "title": "Tax cuts are the hot new idea for Democrats",
+    "description": "Tax cuts are the hottest new idea in Democratic politics, as candidates seek to capitalize on cost-of-living struggles and win working class voters.",
+    "url": "https://www.nbcnews.com/politics/elections/tax-cuts-are-hot-new-idea-democrats-candidates-2026-2028-rcna264454",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260320-cory-booker-katie-porter-ew-330p-2eb859.jpg",
+    "publishedAt": "2026-04-06T09:00:00Z",
+    "content": "WASHINGTON Tax cuts are becoming the hottest new idea in Democratic politics from coast to coast, as candidates across the party spectrum seek to capitalize on cost-of-living struggles and win back w… [+6759 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Inside Higher Ed"
+    },
+    "author": "kathryn.palmer@insidehighered.com",
+    "title": "A Town-Gown Partnership Focused on Climate Resilience",
+    "description": "A Town-Gown Partnership Focused on Climate Resilience\n\n \n\n\n \nkathryn.palmer…\n\nMon, 04/06/2026 - 03:00 AM\n\nAs climate change spurs extreme heat waves and flooding in Georgia, Agnes Scott College and the city of Decatur are working together to forge solutions. …",
+    "url": "https://www.insidehighered.com/news/tech-innovation/teaching-learning/2026/04/06/town-gown-partnership-focused-climate-resilience",
+    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-04/AgnesScott_Climate_Luminary_01.jpg?itok=tUYquy0e",
+    "publishedAt": "2026-04-06T07:00:00Z",
+    "content": "Since 2022, students from Agnes Scott College have helped place 36 heat sensors across their campus and surrounding Decatur, Ga., in an effort to help researchers analyze and mitigate the risks of ex… [+5423 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Ibtimes.com.au"
+    },
+    "author": "Tony Jackson",
+    "title": "Top 50 Best Universities for AI Studies 2026: Global Rankings Guide Students Worldwide",
+    "description": "Demand for artificial intelligence education has surged in 2026 as industries from healthcare to autonomous vehicles seek talent skilled in machine learning, robotics, ethics and large language models. Leading global rankings from QS, Times Higher Education a…",
+    "url": "https://www.ibtimes.com.au/top-50-best-universities-ai-studies-2026-global-rankings-guide-students-worldwide-1865499",
+    "urlToImage": "https://d.ibtimes.com.au/en/full/1893358/top-50-best-universities-ai-studies-2026-global-rankings.png",
+    "publishedAt": "2026-04-06T02:03:54Z",
+    "content": "Demand for artificial intelligence education has surged in 2026 as industries from healthcare to autonomous vehicles seek talent skilled in machine learning, robotics, ethics and large language model… [+9665 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Just Jared"
+    },
+    "author": "Just Jared",
+    "title": "BET HBCU Awarefest Concert Special Airs Tonight: Full Star Lineup Revealed",
+    "description": "BET is bringing a major night of music and purpose to TV screens on Sunday (April 5). The network will air the HBCU Awarefest Benefit Concert Special on Sunday (April 5) at 9 p.m. ET. The special captures the inaugural HBCU Awarefest concert, filmed at State …",
+    "url": "https://www.justjared.com/2026/04/05/bet-hbcu-awarefest-concert-special-airs-tonight-lineup/",
+    "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2026/04/awarefest-bet-social.jpg",
+    "publishedAt": "2026-04-05T19:13:16Z",
+    "content": "BET is bringing a major night of music and purpose to TV screens on Sunday (April 5).\r\nThe network will air the HBCU Awarefest Benefit Concert Special on Sunday (April 5) at 9 p.m. ET.\r\nThe special c… [+1166 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Ibtimes.com.au"
     },
@@ -76,57 +128,5 @@
     "urlToImage": "https://news.mit.edu/sites/default/files/images/202603/mit-dusp-Freedom-Fellows.jpg",
     "publishedAt": "2026-04-03T21:15:00Z",
     "content": "For the past three summers, MIT masters students and recently graduated planners have collaborated with cities and community organizations to advance climate, infrastructure, and economic development… [+10643 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Embassy of the Kingdom of the Netherlands",
-    "title": "King Willem-Alexander and Queen Máxima to pay working visit to Pennsylvania, Washington, D.C., and Florida",
-    "description": "Washington, D.C., April 03, 2026 (GLOBE NEWSWIRE) -- His Majesty King Willem-Alexander and Her Majesty Queen Máxima will pay a working visit to the United States. The visit, which will take place from Monday 13 to Wednesday 15 April 2026, will cover Philadelp…",
-    "url": "https://www.globenewswire.com/news-release/2026/04/03/3268091/0/en/King-Willem-Alexander-and-Queen-M%C3%A1xima-to-pay-working-visit-to-Pennsylvania-Washington-D-C-and-Florida.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/a66b5598-921c-4513-86b2-8a674fed59bc",
-    "publishedAt": "2026-04-03T16:07:00Z",
-    "content": "Washington, D.C., April 03, 2026 (GLOBE NEWSWIRE) -- His Majesty King Willem-Alexander and Her Majesty Queen Máxima will pay a working visit to the United States. The visit, which will take place fro… [+9069 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Thefutoncritic.com"
-    },
-    "author": null,
-    "title": "BET to Air \"HBCU AWAREFEST Benefit Concert Special\" Sunday, April 5 at 9 PM ET/8 PM CT",
-    "description": "The star-studded benefit concert supporting HBCUs features a genre-spanning lineup including Jill Scott, Tems, Common, Jeezy, Yolanda Adams, Coco Jones, Kirk Franklin, BigXthaPlug, and more.",
-    "url": "http://www.thefutoncritic.com/news/2026/04/03/bet-to-air-hbcu-awarefest-benefit-concert-special-sunday-april-5-at-9-pm-et-8-pm-ct-412514/20260403bet01/",
-    "urlToImage": null,
-    "publishedAt": "2026-04-03T07:01:00Z",
-    "content": "BET TO AIR \"HBCU AWAREFEST BENEFIT CONCERT SPECIAL\" SUNDAY, APRIL 5 AT 9 PM ET/ 8 PM CT\r\nHBCU AWAREFEST Brings Out Jill Scott, Tems, Common, Kirk Franklin, Coco Jones, Angel Reese, Robert F. Smith, D… [+5462 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Antaranews.com"
-    },
-    "author": "Sean Filo, Tegar Nurfitra",
-    "title": "Indonesia, Georgia advance talks on higher education partnership",
-    "description": "Indonesia and Georgia are accelerating talks to finalize a memorandum of understanding (MoU) on higher education cooperation aimed at boosting student ...",
-    "url": "https://en.antaranews.com/news/410989/indonesia-georgia-advance-talks-on-higher-education-partnership",
-    "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/04/03/WhatsApp-Image-2026-04-02-at-13.44.10.jpeg",
-    "publishedAt": "2026-04-03T05:54:53Z",
-    "content": "Jakarta (ANTARA) - Indonesia and Georgia are accelerating talks to finalize a memorandum of understanding (MoU) on higher education cooperation aimed at boosting student exchange, joint research and … [+2004 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Gettingsmart.com"
-    },
-    "author": "Mason Pashia",
-    "title": "Making Work-Based Learning Work: Georgia’s Novel Approach to WBL Data",
-    "description": "Georgia’s work-based learning uses O*NET skill evaluations at scale—building credible, portable evidence for digital credentials and hiring.\nThe post Making Work-Based Learning Work: Georgia’s Novel Approach to WBL Data appeared first on Getting Smart.",
-    "url": "https://www.gettingsmart.com/2026/04/02/making-work-based-learning-work-georgias-novel-approach-to-wbl-data/",
-    "urlToImage": "https://www.gettingsmart.com/wp-content/uploads/2026/04/Manufacturing-Students-Work-Based-Learning-.png",
-    "publishedAt": "2026-04-02T21:15:00Z",
-    "content": "Editors Note: In all platform images, student and employer names have been altered to preserve privacy.\r\nWhile far better than nothing, work-based learning (WBL) has a credibility problem. A student … [+7499 chars]"
   }
 ]

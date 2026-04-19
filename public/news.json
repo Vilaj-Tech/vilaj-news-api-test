@@ -2,6 +2,58 @@
   {
     "source": {
       "id": null,
+      "name": "Deseret News"
+    },
+    "author": "Jay Drew",
+    "title": "Keanu Tanuvasa determined to make his last year of college football a memorable one",
+    "description": "Why defensive tackle Keanu Tanuvasa believes the Cougars are on the 'verge of something special' in 2026 college football season.",
+    "url": "https://www.deseret.com/sports/2026/04/17/byu-cougars-football-keanu-tanuvasa-interview-nil-leader-last-year/",
+    "urlToImage": "https://s.yimg.com/os/en/deseret_news_992/8cbf40e020ec1e5a38afae3f4d913cdc",
+    "publishedAt": "2026-04-18T03:00:01Z",
+    "content": "Every time he walked onto the Zions Bank Practice Field behind the Student Athlete Building at BYU the past five weeks, or into the Indoor Practice Facility, Keanu Tanuvasa paused a moment to reflect… [+5634 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Kavitha Surana and Lizzie Presser, ProPublica",
+    "title": "Texas Medical Board sanctions three doctors for delayed care that led to the deaths of two pregnant women",
+    "description": "The Texas Medical Board has disciplined three doctors ProPublica previously investigated whose patients died after receiving delayed or inappropriate...",
+    "url": "https://www.cnn.com/2026/04/17/health/texas-medical-board-pregnant-women-propublica",
+    "urlToImage": "https://s.yimg.com/os/en/cnn_articles_875/6948b3afc640f94fa60db9b6864f5aa1",
+    "publishedAt": "2026-04-17T22:49:20Z",
+    "content": "EDITORS NOTE:  This story was originally published by ProPublica, a nonprofit newsroom that investigates abuses of power. Sign up to receive its biggest stories as soon as theyre published.\r\nThe Texa… [+9313 chars]"
+  },
+  {
+    "source": {
+      "id": "breitbart-news",
+      "name": "Breitbart News"
+    },
+    "author": "Lowell Cauffiel",
+    "title": "WATCH: Drivers Chased Down and Arrested in Wild Atlanta Street Takeover",
+    "description": "Eighteen young people were taken into custody in Atlanta earlier this week — an exception to the often-fruitless task of trying to enforce traffic laws during dangerous “street takeovers” erupting in cities across the U.S. in recent years.\nThe post WATCH: Dri…",
+    "url": "https://www.breitbart.com/crime/2026/04/17/watch-drivers-chased-down-and-arrested-in-wild-atlanta-street-takeover/",
+    "urlToImage": "https://media.breitbart.com/media/2026/04/atlanta-takeover-640x335.jpg",
+    "publishedAt": "2026-04-17T22:05:07Z",
+    "content": "Eighteen young people were taken into custody in Atlanta earlier this week an exception to the often-fruitless task of trying to enforce traffic laws during dangerous street takeovers erupting in cit… [+2742 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Anglotopia.net"
+    },
+    "author": "Jonathan",
+    "title": "America’s British History: The Great Awakening (1730s-1740s) – Religious Revival and the Challenge to British Authority",
+    "description": "Great Events in Colonial American History – Article 11 The British Context The Great Awakening—the wave of religious revivalism that swept the American colonies from the 1730s through the 1740s—had its roots in broader transatlantic religious movements. In En…",
+    "url": "https://anglotopia.net/america250/americas-british-history-the-great-awakening-1730s-1740s-religious-revival-and-the-challenge-to-british-authority/",
+    "urlToImage": "https://i0.wp.com/anglotopia.net/wp-content/uploads/2026/01/Sinners_in_the_Hands_of_an_Angry_God_by_Jonathan_Edwards_1741.jpg?fit=445%2C750&ssl=1",
+    "publishedAt": "2026-04-17T13:30:00Z",
+    "content": "Great Events in Colonial American History – Article 11\r\nThe Great Awakening—the wave of religious revivalism that swept the American colonies from the 1730s through the 1740s—had its roots in broader… [+15297 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "ProPublica"
     },
     "author": "Kavitha Surana, Lizzie Presser",
@@ -76,57 +128,5 @@
     "urlToImage": "https://s.yimg.com/os/en/on3_recruiting_articles_521/f6fc565bb4571071397e83f46da37143",
     "publishedAt": "2026-04-16T18:05:17Z",
     "content": "Upson-Lee High School (Ga.) has been in search of their next head football coach and earlier this week, they announced who that very person would be.\r\nAccording to a social media announcement on Face… [+2237 chars]"
-  },
-  {
-    "source": {
-      "id": "breitbart-news",
-      "name": "Breitbart News"
-    },
-    "author": "Alana Mastrangelo",
-    "title": "Mastrangelo: UK's 'Guardian' Newspaper Fears PragerU Is 'Brazen Rightwing' Organization Trying to 'Conquer American Schools'",
-    "description": "In a lengthy hit piece the Guardian offered a heavily one-sided portrayal of PragerU, emphasizing criticisms from \"academics and education experts\" who are reportedly \"alarmed\" by the organization's newfound influence in schools.\nThe post Mastrangelo: UK’s ‘G…",
-    "url": "https://www.breitbart.com/politics/2026/04/16/mastrangelo-uks-guardian-newspaper-fears-prageru-brazen-rightwing-organization-trying-conquer-american-schools/",
-    "urlToImage": "https://media.breitbart.com/media/2026/04/Dennis-Prager-640x335.jpg",
-    "publishedAt": "2026-04-16T17:37:07Z",
-    "content": "The UK’s Guardian newspaper smeared PragerU as an organization “masquerading as a university” and amusingly exposed the left’s irrational fears of a “brazen rightwing plan to conquer American schools… [+6693 chars]"
-  },
-  {
-    "source": {
-      "id": "the-irish-times",
-      "name": "The Irish Times"
-    },
-    "author": "Richard Luscombe",
-    "title": "Pope says ‘handful of tyrants’ ravaging world amid feud with Trump’s White House",
-    "description": "Pontiff denounces leaders who invoke religion to justify war as US bishops offer support after Vance remarks",
-    "url": "https://www.irishtimes.com/world/africa/2026/04/16/pope-says-handful-of-tyrants-ravaging-world-amid-feud-with-trumps-white-house/",
-    "urlToImage": "https://www.irishtimes.com/resizer/v2/HQMFY2R6RYXVSTKAERSK2T5ZUM.jpg?smart=true&auth=a55a4982ad4e55ca07ed2a8aa6aefadb60bf0116467c4e4a949967bbf4cc2ffb&width=1200&height=630",
-    "publishedAt": "2026-04-16T17:24:32Z",
-    "content": "Pope Leo XIV has said the world is being ravaged by a handful of tyrants who spend billions on war, in comments that will be seen as another sharp escalation in his almost weeklong feud with the Whit… [+4086 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dianeravitch.net"
-    },
-    "author": "dianeravitch",
-    "title": "Last Words from the Late Vivian Connell",
-    "description": "I first met Vivian Connell in 2012 at a conference for legislators in Raleigh, North Carolina. She was part of a panel of North Carolina teachers who spoke about the challenges and needs of their classrooms. She was brilliant and articulate. I later learned t…",
-    "url": "https://dianeravitch.net/2026/04/16/last-words-from-the-late-vivian-connell/",
-    "urlToImage": "https://dianeravitch.net/wp-content/uploads/2026/03/img_9209.jpg",
-    "publishedAt": "2026-04-16T15:00:00Z",
-    "content": "I first met Vivian Connell in 2012 at a conference for legislators in Raleigh, North Carolina. She was part of a panel of North Carolina teachers who spoke about the challenges and needs of their cla… [+33696 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Inside Higher Ed"
-    },
-    "author": "kathryn.palmer@insidehighered.com",
-    "title": "Lawmakers Question Publish-or-Perish Culture of Scientific Research",
-    "description": "Lawmakers Question Publish-or-Perish Culture of Scientific Research\n\n \n\n\n \nkathryn.palmer…\n\nThu, 04/16/2026 - 03:00 AM\n\nAt a congressional hearing Wednesday, witnesses defended the scientific publishing industry while blasting the Trump administration’s ongoi…",
-    "url": "https://www.insidehighered.com/news/government/science-research-policy/2026/04/16/lawmakers-question-publish-or-perish-culture",
-    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-04/Scientist_Lab_papers.jpg?itok=cpYXdH2I",
-    "publishedAt": "2026-04-16T07:00:00Z",
-    "content": "As research fraud grows, federal lawmakers are looking for solutions to bolster the integrity of scientific research. \r\nTo help with that work, the House Committee on Science, Space and Technologys i… [+7298 chars]"
   }
 ]

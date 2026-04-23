@@ -1,6 +1,110 @@
 [
   {
     "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "High-alcohol, ready-to-drink cocktails spark overconsumption concerns for Gen Z drinkers",
+    "description": "High-alcohol BuzzBallz cocktails are trending among Gen Z drinkers, raising experts' concerns about overconsumption and deceptive sweetness masking potency.",
+    "url": "https://www.foxnews.com/food-drink/high-alcohol-ready-drink-cocktails-spark-overconsumption-concerns-gen-z-drinkers",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/BUZZBALLZ-COCKTAIL-TREND-WHAT-TO-KNOW-1.jpeg",
+    "publishedAt": "2026-04-22T12:00:44Z",
+    "content": "A wave of sweet, high-alcohol canned cocktails is gaining traction among young drinkers, raising concerns among some experts.\r\nBuzzBallz, a brand of pre-mixed, ready-to-drink alcoholic cocktails crea… [+4458 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Inside Higher Ed"
+    },
+    "author": "Ryan Quinn",
+    "title": "Partisan Divergence in Info Sources Affects Higher Ed Stances",
+    "description": "Democratic state lawmakers’ reliance on different information sources than Republicans’ partly explains the parties’ diverging stances on controversial higher ed topics, researchers conclude in a newly published paper.",
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/04/22/partisan-divergence-info-sources-affects-higher-ed-views",
+    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2024-10/College_Choice_Politics_0.jpg?itok=F0oVoAOx",
+    "publishedAt": "2026-04-22T07:00:00Z",
+    "content": "Democratic state lawmakers reliance on different information sources than Republicans partly explains the parties diverging stances on controversial higher ed topics, researchers conclude in a newly … [+2203 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Kevinmd.com"
+    },
+    "author": "The Podcast by KevinMD",
+    "title": "Why cervical cancer screening drops after menopause, and why that’s dangerous [PODCAST]",
+    "description": "Physician and public health researcher Nenrot S. Gopep discusses the article \"Menopause and the drop in cervical cancer screening.\" Nenrot explains how cervical cancer risk persists well beyond the reproductive years, with many diagnoses occurring around age …",
+    "url": "https://kevinmd.com/2026/04/why-cervical-cancer-screening-drops-after-menopause-and-why-thats-dangerous-podcast.html",
+    "urlToImage": "https://kevinmd.com/wp-content/uploads/Gemini_Generated_Image_h8guhqh8guhqh8gu-1024x572.png",
+    "publishedAt": "2026-04-21T23:00:52Z",
+    "content": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes!\r\nWhat if the moment women stop seeing their gynecologist is exactly when their cervical cancer risk matters most? Nenr… [+13092 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Ms. Magazine"
+    },
+    "author": "Eleanor J. Bader",
+    "title": "When Reporting Becomes a Crime: Georgia Fort on Her Arrest, Press Freedom and Black Media Representation",
+    "description": "The press release in Emmy-award winning journalist Georgia Fort’s inbox was vague, stating only that an event to honor Rev. Dr. Martin Luther King Jr’s memory would be taking place Jan. 18 and asking people to assemble at 10 a.m. \nFort joined protesters in a …",
+    "url": "https://msmagazine.com/2026/04/21/georgia-fort-women-journalism-media-protest-minnesota-cities-church/",
+    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/04/Newspaper0746-scaled-1.webp",
+    "publishedAt": "2026-04-21T21:33:47Z",
+    "content": "Georgia Fort is an Emmy Awardwinning journalist, founder of BLCK Press and a mentor working to expand opportunities for Black and brown voices in media. (Courtesy of Fort)\r\nThe leaflet in Emmy-award … [+10508 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KQED"
+    },
+    "author": "Elize Manoukian",
+    "title": "Internal Emails Show How Fringe Groups Fueled Sheriff Chad Bianco’s Ballot Seizure",
+    "description": "Records reveal that the unprecedented taking of 650,000 ballots was based on the thinnest of evidence, raising alarms over how the November election could be disrupted.",
+    "url": "https://www.kqed.org/news/12080702/internal-emails-show-how-fringe-groups-fueled-sheriff-chad-biancos-ballot-seizure",
+    "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/03/GettyImages-2267789591-2000x1333.jpg",
+    "publishedAt": "2026-04-21T20:00:56Z",
+    "content": "At board hearings, he wears button-down shirts and the occasional pocket protector. If Bunch was the movement’s firebrand, Langworthy is its genial middle school math teacher. He focused his group’s … [+8707 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "U.S. Small Business Administration",
+    "title": "SBA Announces National Small Business Week 2026 Cosponsors",
+    "description": "America’s SBDC to Co-Host NSBW Two-Day Virtual Summit America’s SBDC to Co-Host NSBW Two-Day Virtual Summit",
+    "url": "https://www.globenewswire.com/news-release/2026/04/21/3278364/0/en/SBA-Announces-National-Small-Business-Week-2026-Cosponsors.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/c5e0bb1c-16d1-4343-90ac-1f01b09e3fd9",
+    "publishedAt": "2026-04-21T19:00:00Z",
+    "content": "WASHINGTON, April 21, 2026 (GLOBE NEWSWIRE) -- Today, the U.S. Small Business Administration announced its full list of cosponsors for National Small Business Week 2026, which will take place from Ma… [+3580 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Telecompetitor"
+    },
+    "author": "Phil Britt",
+    "title": "Truvista Fiber to acquire Commerce, Georgia municipal network",
+    "description": "Truvista Fiber to acquire Commerce, Georgia municipal network\nTruvista Fiber has agreed to acquire the City of Commerce, Georgia’s municipal broadband network, which will operate under the Truvista Fiber name once the acquisition closes. Truvista said it will…",
+    "url": "https://www.telecompetitor.com/truvista-fiber-to-acquire-commerce-georgia-municipal-network/",
+    "urlToImage": null,
+    "publishedAt": "2026-04-21T18:45:00Z",
+    "content": "Truvista Fiber has agreed to acquire the City of Commerce, Georgias municipal broadband network, which will operate under the Truvista Fiber name once the acquisition closes.\r\nTruvista said it will p… [+1641 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Weandthecolor.com"
+    },
+    "author": "Dirk Petzold",
+    "title": "Our World in Ten Buildings: How Architecture Shapes Who We Are and How We Live—Book by Michael Murphy",
+    "description": "Architecture is not decoration. It is not a luxury reserved for people with corner offices or penthouse apartments. Every room you have ever entered — every hospital corridor, every school hallway, every cramped public housing unit — was designed. Someone mad…",
+    "url": "https://weandthecolor.com/our-world-in-ten-buildings-how-architecture-shapes-who-we-are-and-how-we-live-book-by-michael-murphy/209328",
+    "urlToImage": "https://weandthecolor.com/wp-content/uploads/2026/04/Our-World-in-Ten-Buildings-How-Architecture-Defines-Who-We-Are-and-How-We-Live-Book-Michael-Murphy.webp",
+    "publishedAt": "2026-04-21T15:33:27Z",
+    "content": "This post contains affiliate links. We may earn a commission if you click on them and make a purchase. It’s at no extra cost to you and helps us run this site. Thanks for your support!\r\nArchitecture … [+19971 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Blogger.com"
     },
@@ -24,109 +128,5 @@
     "urlToImage": "https://ml.globenewswire.com/Resource/Download/4a1e4f60-f018-49ce-89fa-e40a0547f949",
     "publishedAt": "2026-04-21T13:00:00Z",
     "content": "Belmont, NC, April 21, 2026 (GLOBE NEWSWIRE) -- Belmont Abbey marks its 150th anniversary with a year-long celebration beginning on its Founders Day, April 21, which commemorates the arrival in 1876 … [+5749 chars]"
-  },
-  {
-    "source": {
-      "id": "financial-post",
-      "name": "Financial Post"
-    },
-    "author": "GlobeNewswire",
-    "title": "National Center on Education and the Economy (NCEE) Announces the Global “Rapid Risers” in Education",
-    "description": "Georgia, Macao, Oman, Peru, and Qatar identified as Global Rapid Risers, demonstrating how systems can accelerate progress and sustain gains over time. NCEE invites leaders worldwide to learn from these systems as they design pathways to excellence. WASHINGTO…",
-    "url": "https://financialpost.com/globe-newswire/national-center-on-education-and-the-economy-ncee-announces-the-global-rapid-risers-in-education",
-    "urlToImage": null,
-    "publishedAt": "2026-04-21T11:05:17Z",
-    "content": "Georgia, Macao, Oman, Peru, and Qatar identified as Global Rapid Risers, demonstrating how systems can accelerate progress and sustain gains over time. NCEE invites leaders worldwide to learn from th… [+5060 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Kevinmd.com"
-    },
-    "author": "Kreena Patel, MD, MPH",
-    "title": "The reality of PrEP access and HIV prevention in Georgia",
-    "description": "“I just do not want my life to change,” said my patient. “It does not have to. With the medicine we have now, people with HIV can live a perfectly normal life,” I responded. As a family physician in the Atlanta area, I see patients at all stages of their HIV …",
-    "url": "https://kevinmd.com/2026/04/the-reality-of-prep-access-and-hiv-prevention-in-georgia.html",
-    "urlToImage": "https://kevinmd.com/wp-content/uploads/1279c59a-1ddb-4cdf-8c00-8c1322704fa7.jpeg",
-    "publishedAt": "2026-04-21T11:00:33Z",
-    "content": "“I just do not want my life to change,” said my patient. “It does not have to. With the medicine we have now, people with HIV can live a perfectly normal life,” I responded. As a family physician in … [+4556 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Hamilton Journal News"
-    },
-    "author": "Steven Wright, Journal-News, Hamilton, Ohio",
-    "title": "Girls basketball: Fairmont celebrates undefeated season, girls basketball state championship",
-    "description": "Tape was laid out on the court Friday at Trent Arena to display an “x” at a memorable spot. On the scoreboard they set the clock at 5.9 seconds. A pole was also placed a few feet away from the taped marker. At the other end of the court, selected members of t…",
-    "url": "https://www.journal-news.com/sports/girls-basketball-fairmont-celebrates-undefeated-season-girls-basketball-state-championship/article_bed5ba8f-c8f7-546b-a5c7-b75599e8a3c6.html",
-    "urlToImage": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
-    "publishedAt": "2026-04-21T01:03:00Z",
-    "content": "Tape was laid out on the court Friday at Trent Arena to display an x at a memorable spot.\r\nOn the scoreboard they set the clock at 5.9 seconds. A pole was also placed a few feet away from the taped m… [+2566 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Springfieldnewssun.com"
-    },
-    "author": "Steven Wright, Journal-News, Hamilton, Ohio",
-    "title": "Steven Wright: Girls basketball: Fairmont celebrates undefeated season, girls basketball state championship",
-    "description": "Tape was laid out on the court Friday at Trent Arena to display an “x” at a memorable spot. On the scoreboard they set the clock at 5.9 seconds. A pole was also placed a few feet away from the taped marker. At the other end of the court, selected members of t…",
-    "url": "https://www.springfieldnewssun.com/sports/girls-basketball-fairmont-celebrates-undefeated-season-girls-basketball-state-championship/article_3a2faf23-3207-58c7-9c38-5e14e0d8a9e3.html",
-    "urlToImage": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
-    "publishedAt": "2026-04-21T01:03:00Z",
-    "content": "Tape was laid out on the court Friday at Trent Arena to display an x at a memorable spot.\r\nOn the scoreboard they set the clock at 5.9 seconds. A pole was also placed a few feet away from the taped m… [+2566 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Wnd.com"
-    },
-    "author": "Jerry Newcombe",
-    "title": "Clarence Thomas pokes the ‘progressive’ bear",
-    "description": "He's 'totally right to remind Americans about our founding principles and the courage we need to hold on to them'",
-    "url": "https://www.wnd.com/2026/04/clarence-thomas-pokes-progressive-bear/",
-    "urlToImage": "https://www.wnd.com/wp-content/uploads/2024/06/ClarenceThomas.png",
-    "publishedAt": "2026-04-21T00:05:06Z",
-    "content": "It’s not often that Supreme Court Associate Justice Clarence Thomas speaks in public. Clarence Thomas has now served longer than anyone else on the court since the fall of 1991.\r\nWhat he said last we… [+4736 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Nature.com"
-    },
-    "author": "Silvana C. E. Maas, Iosune Baraibar, Lea Lemler, Maria Butjosa-Espín, Odei Blanco Irazuegui, Josep Tabernero, Elena Elez, Jose A. Seoane",
-    "title": "Epigenetic fingerprints link early-onset colon and rectal cancer to pesticide exposure",
-    "description": "An analysis of exposome traits in patients with early-onset colorectal cancer (CRC) (&lt;50 years) compared with late-onset CRC (≥70 years) based on epigenetic markers shows that pesticide usage, in particular of picloram, is associated with early-onset CRC.",
-    "url": "https://www.nature.com/articles/s41591-026-04342-5",
-    "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04342-5/MediaObjects/41591_2026_4342_Fig1_HTML.png",
-    "publishedAt": "2026-04-21T00:00:00Z",
-    "content": "Cohort description\r\nFor the discovery phase of this study, we utilized colon adenocarcinoma (COAD) samples obtained from TCGA10. The subsequent replication phase was carried out through a meta-analys… [+26479 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Forbes"
-    },
-    "author": "Tom Layberger, Contributor, \n Tom Layberger, Contributor\n https://www.forbes.com/sites/tomlayberger/",
-    "title": "End Of The ‘Super Senior?’ NCAA Weighs Eligibility Age Limit Of 24",
-    "description": "Players who spent seven years changing schools and 30-year-old Aussie kickers would be a thing of the past should eligibility rules be altered.",
-    "url": "https://www.forbes.com/sites/tomlayberger/2026/04/20/end-of-the-super-senior-ncaa-weighs-eligibility-age-limit-of-24/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69e6918def64f687c93e4495/0x0.jpg?format=jpg&crop=3310,1860,x0,y63,safe&height=900&width=1600&fit=bounds",
-    "publishedAt": "2026-04-20T22:38:51Z",
-    "content": "LOUISVILLE, KENTUCKY - Tyler Shough of the Louisville Cardinals throws a pass against the Pittsburgh Panthers at Cardinal Stadium on November 23, 2024 in Louisville, Kentucky. (Photo by Andy Lyons/Ge… [+5600 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ewtnnews.com"
-    },
-    "author": "Tessa Gervasini, Ken Oliver-Méndez",
-    "title": "American Jewish leaders extol Pope John Paul II’s legacy on historic synagogue visit anniversary",
-    "description": "On the occasion of the 40th anniversary of Pope John Paul II’s Rome synagogue visit, American Jewish and Catholic leaders promoted shared priorities.",
-    "url": "https://www.ewtnnews.com/world/us/catholic-and-jewish-leaders-commemorate-the-40th-anniversary-of-pope-john-paul-ii-s-historic",
-    "urlToImage": "https://res.cloudinary.com/ewtn/image/upload/v1776454143/ewtn-news/en/Eric.Cohen_subkja.jpg",
-    "publishedAt": "2026-04-20T21:05:00Z",
-    "content": "American Catholic and Jewish leaders and community members gathered April 16 at the St. John Paul II National Shrine in Washington, D.C., to reflect on Catholic-Jewish relations 40 years after Pope J… [+5735 chars]"
   }
 ]

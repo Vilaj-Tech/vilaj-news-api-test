@@ -1,6 +1,84 @@
 [
   {
     "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": null,
+    "title": "When my sons with autism are sent home from school, they've learned the problem is them — not the system",
+    "description": "Wendy Lintner's twin sons with autism are in Grade 5. At one time, both were not attending school full-time. Not because she doesn’t believe in education or because they don't want to be there, but because the school system simply hasn’t been able to support …",
+    "url": "https://www.cbc.ca/news/canada/first-person-autism-partial-schooling-9.7175015",
+    "urlToImage": "https://i.cbc.ca/ais/ddf6c669-e24a-4dfb-8d79-784ec89bfb04,1776967812134/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C92%2C1170%2C658%29%3BResize%3D620",
+    "publishedAt": "2026-04-26T08:00:00Z",
+    "content": "This First Person column is written by Wendy Litner, who lives in Toronto. For more information about CBC's First Person stories, please see the FAQ. \r\nWithin an hour of dropping my son off at junior… [+5726 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Skepticalscience.com"
+    },
+    "author": null,
+    "title": "2026 SkS Weekly Climate Change & Global Warming News Roundup #17",
+    "description": "A listing of 28 news and opinion articles we found interesting and shared on social media during the past week: Sun, April 19, 2026 thru Sat, April 25, 2026.\nStories we promoted this week, by category:\nClimate Change Impacts (10 articles)\n<ul>\n<li>A more trou…",
+    "url": "https://skepticalscience.com/2026-SkS-Weekly-News-Roundup_17.html",
+    "urlToImage": "https://skepticalscience.com/public/assets/images/og/button_sks_200.jpg",
+    "publishedAt": "2026-04-26T07:25:48Z",
+    "content": "Posted on 26 April 2026 by BaerbelW, John Hartz, Doug Bostrom\r\nA listing of 28 news and opinion articles we found interesting and shared on social media during the past week: Sun, April 19, 2026 thru… [+5478 chars]"
+  },
+  {
+    "source": {
+      "id": "the-next-web",
+      "name": "The Next Web"
+    },
+    "author": "Cristian Dina",
+    "title": "OpenAI knew. It chose not to call the police. Now Sam Altman is sorry.",
+    "description": "Sam Altman published an open letter to the community of Tumbler Ridge, British Columbia, on Thursday, apologising for OpenAI’s failure to alert law enforcement after its own systems flagged a user who went on to carry out the deadliest school shooting in Cana…",
+    "url": "https://thenextweb.com/news/sam-altman-openai-apology-tumbler-ridge-shooting/",
+    "urlToImage": "https://media.thenextweb.com/2026/04/Sam-altman-open-ai.avif",
+    "publishedAt": "2026-04-25T18:51:33Z",
+    "content": "TL;DR\r\nSam Altman apologised to the community of Tumbler Ridge, British Columbia, for OpenAIs failure to alert police after its own systems flagged a ChatGPT user who went on to kill eight people and… [+12169 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Wnd.com"
+    },
+    "author": "Emzari Gelashvili, Real Clear Wire",
+    "title": "How Soviet subversion outlived the Soviet Union",
+    "description": "Ideology is never to fight, but force an enemy to adopt your system, civilization, ambitions",
+    "url": "https://www.wnd.com/2026/04/how-soviet-subversion-outlived-soviet-union/",
+    "urlToImage": "https://www.wnd.com/wp-content/uploads/2021/02/reagan-berlinwall-youtube.jpg",
+    "publishedAt": "2026-04-25T18:13:30Z",
+    "content": "President Ronald Reagan at the Berlin Wall on June 12, 1987, urged Soviet leader Mikhail Gorbachev, “Tear down this wall.”\r\nThe Word That Changed Everything\r\nIn 1996, on my first day working at the G… [+16089 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Writersdigest.com"
+    },
+    "author": "Amy Jones",
+    "title": "The Family Business",
+    "description": "As a mother and daughter on opposite sides of the desk, Novelist Wanda M. Morris and Senior Editor at Little, Brown Books for Young Readers Alexandra Hightower shed light on the publishing industry and what they’ve learned from each other.\nThe post The Family…",
+    "url": "https://www.writersdigest.com/the-family-business#article",
+    "urlToImage": "https://www.writersdigest.com/uploads/2026/04/Family-Business.png?auto=webp",
+    "publishedAt": "2026-04-25T16:15:40Z",
+    "content": "A condensed version of this interview appears in the May/June 2026 issue of Writer's Digest.\r\nWriters and editors go hand-in-hand in traditional publishing. Their work feeds off each other, and typic… [+14486 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Truthout"
+    },
+    "author": "Lydia Pelot-Hobbs",
+    "title": "As Opposition Grows, Oklahoma Organizers Share How They Halted an ICE Warehouse",
+    "description": "Organizers also channeled mass outrage into long-haul organizing for immigration justice in Oklahoma and beyond.",
+    "url": "https://truthout.org/articles/as-opposition-grows-oklahoma-organizers-share-how-they-halted-an-ice-warehouse/",
+    "urlToImage": "https://truthout.org/app/uploads/2026/04/GettyImages-2263740259.jpg",
+    "publishedAt": "2026-04-25T13:33:37Z",
+    "content": "Support justice-driven, accurate and transparent news make a quick donation to Truthout today! \r\nThe recent move from the Department of Homeland Security (DHS) to convert empty or surplus warehouses … [+14360 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Lenscratch.com"
     },
@@ -50,83 +128,5 @@
     "urlToImage": "https://www.hoover.org/sites/default/files/styles/facebook/public/2023-01/iStock-1396228367.jpg?h=e6000be4&itok=MAlV_i88",
     "publishedAt": "2026-04-24T00:00:00Z",
     "content": "The Alliance for Civics in the Academy hosts \"Can Civic Education be Liberal?\" with Melinda Zook, Joseph Knippenberg, Benjamin Storey, and Dan Edelstein on Wednesday, May 13, 2026, from 9:0010:00 a.m… [+4642 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Conversation Africa"
-    },
-    "author": "Zachary Handlos, Atmospheric Science Educator, Georgia Institute of Technology",
-    "title": "Why the Southeast is burning – extreme drought is only part of the reason",
-    "description": "The southeastern US has been in drought for months. With the wind and unusually low humidity, it’s facing perfect conditions for spreading fires.",
-    "url": "https://theconversation.com/why-the-southeast-is-burning-extreme-drought-is-only-part-of-the-reason-281392",
-    "urlToImage": "https://images.theconversation.com/files/732054/original/file-20260423-57-aski7q.jpg?ixlib=rb-4.1.0&rect=765%2C962%2C2077%2C1038&q=45&auto=format&w=1356&h=668&fit=crop",
-    "publishedAt": "2026-04-23T21:55:09Z",
-    "content": "Fire crews responded to dozens of wildfires burning in Georgia and northern Florida on April 23, 2026. Georgia Department of Natural Resources via AP\r\nLarge parts of the southeastern U.S. are in the … [+4364 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Daily Signal"
-    },
-    "author": "Pedro Rodriguez",
-    "title": "Georgia Politicos Accuse Ossoff of Hiding His ‘Socialism’ on the Campaign Trail",
-    "description": "Republican leaders in Georgia told The Daily Signal that Democratic Sen. Jon Ossoff, who is campaigning for reelection, is presenting himself as a moderate by emphasizing broadly popular issues rather than embracing what they describe as a sharply partisan vo…",
-    "url": "https://www.dailysignal.com/2026/04/23/georgia-politicos-accuse-ossoff/",
-    "urlToImage": "https://static.dailysignalmedia.org/Ossoff-new-site.jpg",
-    "publishedAt": "2026-04-23T20:10:34Z",
-    "content": "Republican leaders in Georgia told The Daily Signal that Democratic Sen. Jon Ossoff, who is campaigning for reelection, is presenting himself as a moderate by emphasizing broadly popular issues rathe… [+3001 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Vote Run Lead",
-    "title": "Vote Run Lead Action Makes First-Ever State and Local Endorsements, Backing Barrier-Breaking Women in Critical 2026 Races",
-    "description": "In a pivotal moment for American democracy, the organization endorses three battle-tested leaders shaping the country’s future. In a pivotal moment for American democracy, the organization endorses three battle-tested leaders shaping the country’s future.",
-    "url": "https://www.globenewswire.com/news-release/2026/04/23/3280326/0/en/Vote-Run-Lead-Action-Makes-First-Ever-State-and-Local-Endorsements-Backing-Barrier-Breaking-Women-in-Critical-2026-Races.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/636778f0-618e-46f6-b3ec-37a2d730f059",
-    "publishedAt": "2026-04-23T19:17:00Z",
-    "content": "WASHINGTON, D.C., April 23, 2026 (GLOBE NEWSWIRE) -- In its first-ever state and local endorsements, Vote Run Lead Action, a 501(c)(4) nonprofit that trains women and gender-expansive people to run f… [+4153 chars]"
-  },
-  {
-    "source": {
-      "id": "the-verge",
-      "name": "The Verge"
-    },
-    "author": "Gaby Del Valle",
-    "title": "Democrats want to ban ICE from turning warehouses into detention centers",
-    "description": "A bill introduced by Rep. Rashida Tlaib (D-MI) would prohibit the Department of Homeland Security from converting warehouses and similar buildings into immigrant detention centers, an attempt to slow President Donald Trump's mass deportations campaign. The Ba…",
-    "url": "https://www.theverge.com/policy/917643/ban-warehouse-detention-act-ice-dhs",
-    "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2270617775.jpg?quality=90&strip=all&crop=0%2C9.3066550574541%2C100%2C81.386689885092&w=1200",
-    "publishedAt": "2026-04-23T18:35:39Z",
-    "content": "<ul><li></li><li></li><li></li></ul>\r\nby\r\nGaby Del ValleClose\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee All by Gaby Del Valle\r\nApr 23… [+4621 chars]"
-  },
-  {
-    "source": {
-      "id": "fortune",
-      "name": "Fortune"
-    },
-    "author": "Moriah Balingit, The Associated Press",
-    "title": "America actually listened to the parental childcare crisis with record number of 4-year-olds in state preschool",
-    "description": "California led the way.",
-    "url": "https://fortune.com/2026/04/23/america-actually-listened-to-the-parental-childcare-crisis-with-record-number-of-4-year-olds-in-state-preschool/",
-    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/AP26112606743410-e1776965385896.jpg?resize=1200,600",
-    "publishedAt": "2026-04-23T17:30:59Z",
-    "content": "The number of 4-year-olds attending state-funded preschools reached record highs last school year, driven by states embracing universal access and an unprecedented $14.4 billion in spending.State-fun… [+7511 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Deadline"
-    },
-    "author": "Patrick Hipes",
-    "title": "Peabody Awards Winners Include ‘Heated Rivalry’, ‘Jimmy Kimmel Live!’, ‘The Pitt’, Oscar Winner ‘Mr. Nobody Against Putin’",
-    "description": "Oscar-winning documentary Mr Nobody Against Putin, Emmy winners Adolescence and The Pitt, in-the-zeitgeist shows including Jimmy Kimmel Live!, Pluribus and Heated Rivalry, and news and interactive specials touching on the war in Gaza, immigration, ICE and the…",
-    "url": "http://deadline.com/2026/04/2026-peabody-awards-winners-list-1236868900/",
-    "urlToImage": "https://deadline.com/wp-content/uploads/2026/04/peabody-awards-2026.jpg?w=1024",
-    "publishedAt": "2026-04-23T17:00:00Z",
-    "content": "Oscar-winning documentary Mr Nobody Against Putin, Emmy winners Adolescence and The Pitt, in-the-zeitgeist shows including Jimmy Kimmel Live!, Pluribus and Heated Rivalry, and news and interactive sp… [+20974 chars]"
   }
 ]

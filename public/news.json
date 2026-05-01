@@ -1,16 +1,68 @@
 [
   {
     "source": {
-      "id": "fortune",
-      "name": "Fortune"
+      "id": null,
+      "name": "Techtarget.com"
     },
-    "author": "Nino Paoli, Fortune Editors",
-    "title": "Meet all 37 White House ballroom donors funding the $400 million build, including Silicon Valley tech giants, crypto bros and the Lutnicks",
-    "description": "The list, reviewed by Fortune, did not mention specific dollar amounts offered by each contributor.",
-    "url": "https://fortune.com/article/who-has-donated-trump-white-house-ballroom/",
-    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2242848550-e1761409580506.jpg?resize=1200,600",
-    "publishedAt": "2026-04-29T12:23:02Z",
-    "content": "The White House released a list of donors for the Trump administrations new ballroom construction project in October, following a historic East Wing demolition.The projected cost of the 90,000-square… [+9353 chars]"
+    "author": "Sara Heath",
+    "title": "FQHCs in low-income neighborhoods have lower cancer screening rates",
+    "description": "FQHCs located in low-income neighborhoods have lower breast, cervical and colorectal cancer screening rates than those in better-resourced areas.",
+    "url": "https://www.techtarget.com/patientengagement/news/366642506/FQHCs-in-low-income-neighborhoods-have-lower-cancer-screening-rates",
+    "urlToImage": "https://www.techtarget.com/rms/onlineimages/location_g1319143350.jpg",
+    "publishedAt": "2026-04-30T13:02:00Z",
+    "content": "Federally qualified health centers were designed to promote healthcare access for the nation's most vulnerable populations, but according to new data from the University of Georgia, there are steep i… [+3942 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "SEN TOMMY TUBERVILLE, MORGAN MURPHY: Republicans must win the map war once and for all",
+    "description": "Virginia's redistricting threatens to hand Democrats the House. Republicans in multiple states could flip up to fifteen seats if they act now.",
+    "url": "https://www.foxnews.com/opinion/sen-tommy-tuberville-morgan-murphy-republicans-must-win-map-war",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/virginia-redistricting-referendum-fairfax-voting-fox-news.jpg",
+    "publishedAt": "2026-04-30T13:00:46Z",
+    "content": "Republicans didnt start this decades redistricting fight. But we should finish it.\r\nStates traditionally redraw districts only after the decennial census. In 2022 and again in 2024, Democrats fired t… [+4045 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Publishingperspectives.com"
+    },
+    "author": "Andrew Albanese",
+    "title": "PEN America Honors Tennessee Library Advocates for Defending the Freedom to Read",
+    "description": "“The Rutherford County Library Alliance is an important reminder that power lives in our communities, with the courage of individuals who refuse to be silenced,” said Summer Lopez PEN America co-CEO.” Also this week, PEN International released its 2026 Intern…",
+    "url": "https://publishingperspectives.com/2026/04/pen-america-honors-tennessee-library-advocates-for-defending-the-freedom-to-read/",
+    "urlToImage": "https://publishingperspectives.com/wp-content/uploads/2026/04/Screen-Shot-2026-04-29-at-9.11.35-PM.png",
+    "publishedAt": "2026-04-30T11:51:40Z",
+    "content": "The Rutherford County Library Alliance is an important reminder that power lives in our communities, with the courage of individuals who refuse to be silenced,” said Summer Lopez PEN America co-CEO. … [+4753 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Ewtnnews.com"
+    },
+    "author": "Kate Quiñones",
+    "title": "Archdiocese of Atlanta launches online high school program",
+    "description": "The Archdiocese of Atlanta is launching Sacred Heart Virtual Academy, an online high school program for students in Georgia and beyond.",
+    "url": "https://www.ewtnnews.com/world/us/archdiocese-of-atlanta-launches-online-high-school-program",
+    "urlToImage": "https://res.cloudinary.com/ewtn/image/upload/v1777409891/shutterstock_1413790913_fmpow9.jpg",
+    "publishedAt": "2026-04-30T10:00:00Z",
+    "content": "The Archdiocese of Atlanta is launching a fully online high school program, known as Sacred Heart Virtual Academy, designed to expand access to Catholic education throughout Georgia and beyond. \r\nEnr… [+3102 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Kffhealthnews.org"
+    },
+    "author": "Andrew Jones",
+    "title": "When Natural Disasters Strike, Another Crisis Hits Those Recovering From Opioid Addiction",
+    "description": "Using Hurricane Helene as a teachable moment, a group of doctors outlined concrete steps that lawmakers can take to reverse a crisis in getting substance use medications during natural disasters.",
+    "url": "https://kffhealthnews.org/public-health/substance-use-disorder-treatment-natural-disasters-opioid-suboxone-emergency-supply/",
+    "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/04/GettyImages-2176579055.jpg",
+    "publishedAt": "2026-04-30T09:00:00Z",
+    "content": "If you or someone you know is seeking help for addiction recovery, contact the free and confidential treatment referral hotline, 1-800-662-HELP, or visit findtreatment.gov.\r\nA day after Hurricane Hel… [+8097 chars]"
   },
   {
     "source": {
@@ -18,115 +70,63 @@
       "name": "Antaranews.com"
     },
     "author": "Katriana",
-    "title": "Georgia supports peaceful solutions to every conflict",
-    "description": "Georgia&#39;s Ambassador to Indonesia, Tornike Nozadze, emphasized that his country always supports the peaceful resolution of any conflicts occurring around ...",
-    "url": "https://en.antaranews.com/news/414088/georgia-supports-peaceful-solutions-to-every-conflict",
-    "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/04/28/1000571729.jpg",
-    "publishedAt": "2026-04-29T11:37:51Z",
-    "content": "Jakarta (ANTARA) - Georgia's Ambassador to Indonesia, Tornike Nozadze, emphasized that his country always supports the peaceful resolution of any conflicts occurring around the world, including betwe… [+2630 chars]"
+    "title": "Georgia plays a key role in securing global energy: Ambassador",
+    "description": "Ambassador of Georgia to Indonesia Tornike Nozadze said that Georgia plays a key role in facilitating reliable and diverse routes, thus contributing to global ...",
+    "url": "https://en.antaranews.com/news/414176/georgia-plays-a-key-role-in-securing-global-energy-ambassador",
+    "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/04/29/1000573359.jpg",
+    "publishedAt": "2026-04-30T08:52:58Z",
+    "content": "Jakarta (ANTARA) - Ambassador of Georgia to Indonesia Tornike Nozadze said that Georgia plays a key role in facilitating reliable and diverse routes, thus contributing to global energy security.\"Geor… [+2091 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Antaranews.com"
+      "name": "Overdriveonline.com"
     },
-    "author": "Katriana",
-    "title": "Georgia calls Indonesia key Southeast Asia partner",
-    "description": "Georgian Ambassador to Indonesia Tornike Nozadze said bilateral ties are &ldquo;excellent,&rdquo; highlighting Indonesia&rsquo;s strategic role in Southeast ...",
-    "url": "https://en.antaranews.com/news/414072/georgia-calls-indonesia-key-southeast-asia-partner",
-    "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/04/28/1000571729.jpg",
-    "publishedAt": "2026-04-29T11:01:54Z",
-    "content": "Jakarta (ANTARA) - Georgian Ambassador to Indonesia Tornike Nozadze said bilateral ties are “excellent,” highlighting Indonesia’s strategic role in Southeast Asia and growing cooperation across trade… [+1590 chars]"
+    "author": "Overdrive Staff",
+    "title": "Missing trucker found deceased in Georgia: FBI | ICE arrests driver out on bail after crash",
+    "description": "FBI's missing-trucker case is now a death investigation. Also: DHS said the driver entered the U.S. illegally in 2022; pleaded not guilty to charges related to a November crash that killed a newlywed couple. New petition to allow mirror-replacement camera sys…",
+    "url": "https://www.overdriveonline.com/life/article/15823834/missing-trucker-found-in-georgia-ice-arrests-driver-out-on-bail-after-crash",
+    "urlToImage": "https://img.overdriveonline.com/mindful/rr/workspaces/default/uploads/2026/04/gonzalez.BGcPjtjgaQ.webp?auto=format%2Ccompress&h=630&q=70&w=1200",
+    "publishedAt": "2026-04-30T06:17:10Z",
+    "content": "Trucking news and briefs for Thursday, April 30, 2026:\r\n<ul><li>Truck driver allegedly responsible for fatal Oregon crash in ICE custody.</li><li>Missing truckers case turns into death investigation.… [+6625 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Freerepublic.com"
+      "name": "Hollywood Reporter"
     },
-    "author": "Fox News",
-    "title": "Pastor known for marriage advice arrested at rumored swingers community accused of having multiple wives",
-    "description": "A pastor who runs a ministry in a rumored swingers community for Florida seniors — and ironically wrote a book on how to love your spouse — was arrested Wednesday following allegations that he married multiple women. Leslie Williams, 62, was taken into custod…",
-    "url": "https://freerepublic.com/focus/f-chat/4376811/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-04-29T02:06:37Z",
-    "content": "Skip to comments.\r\nPastor known for marriage advice arrested at rumored swingers community accused of having multiple wivesFox News ^\r\n | April 27, 2026\r\n | Bonny Chu\r\nPosted on 04/28/2026 7:06:37 PM… [+2637 chars]"
+    "author": "Steven Zeitchik",
+    "title": "Can Steve Hilton Save Hollywood? He Has a Big Film Incentive Plan",
+    "description": "The Republican-affiliated frontrunner also wants post-production and above-the-line expenses eligible for credits as the candidate courts showbiz.",
+    "url": "http://www.hollywoodreporter.com/news/politics-news/steve-hilton-governor-california-donald-trump-hollywood-1236580626/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/GettyImages-2273631362.jpg?w=1440&h=810&crop=1",
+    "publishedAt": "2026-04-30T03:45:07Z",
+    "content": "California gubernatorial frontrunner Steve Hilton is preparing to announce an ambitious plan to save Hollywood productions and jobs, The Hollywood Reporter has learned.\r\nThe Republican candidate will… [+6271 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Elastic.co"
+      "name": "The Punch"
     },
-    "author": "Bobby Suber",
-    "title": "Whole-of-state cyber defense: How AI-driven security helps US states protect what matters most",
-    "description": "State and local governments in the United States face growing cyber threats but uneven security resources across agencies. A whole-of-state security model enables shared visibility, coordination, and resilience without sacrificing data sovereignty.",
-    "url": "https://www.elastic.co/blog/whole-of-state-cyber-defense",
-    "urlToImage": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt0eca27f488cf9d23/69f2484ef2be513f4686485b/rodion-kutsaiev--mCL702J-lA-unsplash.jpg",
-    "publishedAt": "2026-04-29T00:00:00Z",
-    "content": "Why are US states rethinking how they defend against cyber threats?\r\nThis shift toward collective cyber defense is a cornerstone of the new federal vision. The March 2026 National Cyber Strategy for … [+12075 chars]"
+    "author": "Punch Newspapers",
+    "title": "Africa Day: Celebrate employee mobility",
+    "description": "On Africa Day, explore how online education fosters employee mobility in Africa, allowing professionals to advance their careers without debt or relocation\n\nRead More: https://punchng.com/africa-day-celebrate-employee-mobility/",
+    "url": "https://punchng.com/africa-day-celebrate-employee-mobility/",
+    "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/04/30003137/AfricaDay_1640x800_2026-1536x749-1-1200x630.png",
+    "publishedAt": "2026-04-29T23:36:13Z",
+    "content": "Financial engineering education occurs near banking hubs like New York, London, and Hong Kong, which can mean relocation for graduate students from Africa. But picking up and moving thousands of mile… [+4206 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Streetartutopia.com"
+      "name": "Ms. Magazine"
     },
-    "author": "Vidar",
-    "title": "Made This For Mother’s Day (15 Photos)",
-    "description": "15 Walls About Mothers, Grandmothers, and Love Some murals do more than decorate a city. They turn a blank wall into a public thank-you, a shared memory, or a quiet act of love. For Mother’s Day, we gathered 15 murals honoring mothers, grandmothers, and the p…",
-    "url": "https://streetartutopia.com/2026/04/29/street-art-about-mothers-grandmothers/",
-    "urlToImage": "https://i0.wp.com/streetartutopia.com/wp-content/uploads/2026/04/Mothers-Day-murals.jpeg?fit=1200%2C700&ssl=1",
-    "publishedAt": "2026-04-28T22:01:00Z",
-    "content": "Most liked mode is active for this post: images are ranked by community likes.\r\nSome murals do more than decorate a city. They turn a blank wall into a public thank-you, a shared memory, or a quiet a… [+10475 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Usatodayhss.com"
-    },
-    "author": "Joe Spears, USA TODAY High School Sports",
-    "title": "Which Georgia schools are best for athletes? According to one study, these are the top 25",
-    "description": "According to one study, these 25 Georgia high schools are considered the best for athletes in 2026.",
-    "url": "https://www.usatodayhss.com/story/sports/high-school/2026/04/28/best-georgia-high-schools-for-athletes-2026/89843602007/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lN23wi1wc_E_OQSc6ux1tg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NDI7Y2Y9d2VicA--/https://media.zenfs.com/en/high_school_sports_usa_today_sports_articles_147/9c42cfb8e2525c46335f347cf0c4e91b",
-    "publishedAt": "2026-04-28T21:09:10Z",
-    "content": "There's no denying the impact Georgia has created in sports.\r\nThe home state of legends like Ty Cobb and Herschel Walker, Georgia has recently seen stars like Travis Hunter and Caleb Downs continue t… [+2300 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aclu.org"
-    },
-    "author": "Johanna Silver",
-    "title": "Deaths in Detention: ICE Is Rapidly Expanding Detention Camps into Warehouses Despite Record Deaths",
-    "description": "Despite abhorrent conditions and increasing deaths in ICE detention, the Trump administration’s new warehouse detention system would increase capacity to 96,000 people and undoubtedly lead to continued abuse.",
-    "url": "https://www.aclu.org/news/immigrants-rights/deaths-in-detention-ice-is-rapidly-expanding-detention-camps-into-warehouses-despite-record-deaths",
-    "urlToImage": "https://assets.aclu.org/live/uploads/2026/04/detention-camps-social.jpg",
-    "publishedAt": "2026-04-28T17:42:55Z",
-    "content": "Immigration and Customs Enforcement (ICE) recently announced the death of another person in its custody the 17th person so far in 2026. Deaths inside of immigration detention centers are rising and n… [+9185 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Yalealumnimagazine.org"
-    },
-    "author": "news@yale.edu (Yale News)",
-    "title": "The life and legacy of a revolutionary New Havener",
-    "description": "Yale Alumni Magazine highlights the story of Roger Sherman: a humble cobbler who became the treasurer of Yale College, the only person to sign all four of the nation’s founding documents, a congressman, a senator, and the first mayor of New&nbsp;Haven.",
-    "url": "https://yalealumnimagazine.org/articles/6232-serial-signer",
-    "urlToImage": "https://yalealumnimagazine.org//uploads/images/15800158/1776456103/roger_sherman_YUAG_500x442_0_0_645.jpg",
-    "publishedAt": "2026-04-28T17:19:07Z",
-    "content": "If, in this semiquincentennial year, you want to rank America’s founding fathers in terms of their influence, you have to put New Haven’s Roger Sherman (1721–1793) in the top ten. Sherman is the only… [+5516 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Research and Markets",
-    "title": "United States Wi-Fi Chipset Market Report 2026-2034: Rapid Adoption of Wi-Fi 6, Wi-Fi 6E, and Next-Generation Standards Fueling Growth",
-    "description": "The United States Wi-Fi Chipset Market is poised for significant growth, expanding from $5.90 billion in 2025 to $9.82 billion by 2034 at a 5.83% CAGR. Key drivers include the rise of Wi-Fi 6 and 6E technologies, the proliferation of smart homes and IoT devic…",
-    "url": "https://www.globenewswire.com/news-release/2026/04/28/3282957/28124/en/United-States-Wi-Fi-Chipset-Market-Report-2026-2034-Rapid-Adoption-of-Wi-Fi-6-Wi-Fi-6E-and-Next-Generation-Standards-Fueling-Growth.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/48722dd8-4224-4221-b715-8192704745e3",
-    "publishedAt": "2026-04-28T15:17:00Z",
-    "content": "Dublin, April 28, 2026 (GLOBE NEWSWIRE) -- The \"United States Wi-Fi Chipset Market Report by Band, MIMO Configuration, Standard, Application, States and Company Analysis, 2026-2034\" report has been a… [+7956 chars]"
+    "author": "Ava Slocum",
+    "title": "War on Women Report: Rise of ‘Sleep Porn’; Georgia Midwives Sue for Right to Practice; Louisiana Family Massacre Exposes Deadly Intersection of Domestic Violence and Guns",
+    "description": "MAGA Republicans are back in the White House, and Project 2025 is their guide: the right-wing plan to turn back the clock on women’s rights, remove abortion access, and force women into roles as wives and mothers in the “ideal, natural family structure.”\nWe k…",
+    "url": "https://msmagazine.com/2026/04/29/war-on-women-report-sleep-porn-georgia-midwives-louisiana-family-massacre-domestic-violence-guns/",
+    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/04/War-on-Women-Report-Rise-of-Sleep-Porn-Georgia-Midwives-Sue-for-Right-to-Practice-Louisiana-Family-Massacre-Exposes-Deadly-Intersection-of-Domestic-Violence-and-Guns-1.png",
+    "publishedAt": "2026-04-29T22:14:34Z",
+    "content": "MAGA Republicans are back in the White House, and Project 2025 is their guidethe right-wing plan to turn back the clock on womens rights, remove abortion access, and force women into roles as wives a… [+18005 chars]"
   }
 ]

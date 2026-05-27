@@ -1,6 +1,110 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "Archinect"
+    },
+    "author": "Niall Patrick Walsh",
+    "title": "Four unique education projects by EskewDumezRipple: Your Next Employer?",
+    "description": "Following our previous visit to BMA Architects, we are moving our Meet Your Next Employer series to New Orleans this week to explore the work of EskewDumezRipple. Operating across New Orleans and Washington DC, the firm engages in the fields of architecture, …",
+    "url": "https://archinect.com/news/article/150544660/four-unique-education-projects-by-eskewdumezripple-your-next-employer",
+    "urlToImage": "https://archinect.gumlet.io/uploads/9b/9ba3fe96d968a86abe4826bc08e2f0ca.jpg?fit=crop&auto=compress%2Cformat&enlarge=true&crop=faces&w=1200&h=707",
+    "publishedAt": "2026-05-26T15:14:00Z",
+    "content": "Following our previous visit to BMA Architects, we are moving our Meet Your Next Employer series to New Orleans this week to explore the work of EskewDumezRipple.\r\nOperating across New Orleans and Wa… [+4016 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Weandthecolor.com"
+    },
+    "author": "Dirk Petzold",
+    "title": "Principles of Logo Design by George Bokhua Teaches You to Build Marks That Last",
+    "description": "Logo design sits at the center of every brand identity conversation. Yet most designers approach it without a real system. George Bokhua’s Principles of Logo Design: A Practical Guide to Creating Effective Signs, Symbols, and Icons changes that. Published by …",
+    "url": "https://weandthecolor.com/principles-of-logo-design-by-george-bokhua-teaches-you-to-build-marks-that-last/209937",
+    "urlToImage": "https://weandthecolor.com/wp-content/uploads/2026/05/Principles-of-Logo-Design-A-Practical-Guide-to-Creating-Effective-Signs-Symbols-and-Icons-Book-by-George-Bokhua.webp",
+    "publishedAt": "2026-05-26T14:03:44Z",
+    "content": "This post contains affiliate links. We may earn a commission if you click on them and make a purchase. It’s at no extra cost to you and helps us run this site. Thanks for your support!\r\nLogo design s… [+12455 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Kevinmd.com"
+    },
+    "author": "Gus W. Krucke, MD",
+    "title": "Bedside medicine and the meaning of physician presence",
+    "description": "Transitioning from one part of the country to another can be daunting, though for me it has become a fascinating lesson in both what differentiates us and what remains remarkably the same. Geography changes. Accents shift. Customs vary. Yet suffering, fear, h…",
+    "url": "https://kevinmd.com/2026/05/bedside-medicine-and-the-meaning-of-physician-presence.html",
+    "urlToImage": "https://kevinmd.com/wp-content/uploads/af0fd645-6060-4672-904b-3973b984e04a.png",
+    "publishedAt": "2026-05-26T14:00:43Z",
+    "content": "Transitioning from one part of the country to another can be daunting, though for me it has become a fascinating lesson in both what differentiates us and what remains remarkably the same. Geography … [+5846 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ComputerWeekly.com"
+    },
+    "author": "Lis Evenstad",
+    "title": "UKtech50 2026: The longlist of the UK’s influential tech leaders",
+    "description": "Each year, Computer Weekly launches a search for the most influential people in UK IT, asking the tech community who it thinks should be in the top 50 – here is the longlist of everyone nominated for 2026",
+    "url": "https://www.computerweekly.com/news/366643331/UKtech50-2026-the-longlist-of-the-UKs-influential-tech-leaders",
+    "urlToImage": "https://www.computerweekly.com/visuals/ComputerWeekly/Hero Images/IT-leader-UKtech50-2-2018-adobe.jpeg",
+    "publishedAt": "2026-05-26T06:35:00Z",
+    "content": "Now in its 16th year, Computer Weeklys search for the 50 most influential people in UK IT is more relevant than ever, and selecting the top 50 shortlist  is a mammoth task with so many deserving cand… [+33224 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Niagara Gazette"
+    },
+    "author": "Niagara Gazette, Niagara Falls, N.Y.",
+    "title": "Americans announce special events, roster signings",
+    "description": "The Niagara Falls Americans have announced their first 18 signings as the team gears up for its June 6 home opener at Sal Maglie Stadium. The Americans will host two fireworks shows this year, the first on opening day, following a 6:30 p.m. start against the …",
+    "url": "https://www.niagara-gazette.com/sports/americans-announce-special-events-roster-signings/article_177cf85a-32b1-47a6-a312-cee63ba32e09.html",
+    "urlToImage": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
+    "publishedAt": "2026-05-25T21:47:00Z",
+    "content": "The Niagara Falls Americans have announced their first 18 signings as the team gears up for its June 6 home opener at Sal Maglie Stadium.\r\nThe Americans will host two fireworks shows this year, the f… [+3186 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Why scammers target veterans and how to fight back",
+    "description": "Veterans reported $419 million in fraud losses in 2024 as scammers exploit military records and VA data. Here are the biggest scams and how to fight back.",
+    "url": "https://www.foxnews.com/tech/why-scammers-target-veterans-how-fight-back",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/veteran-scam-photo-1.jpg",
+    "publishedAt": "2026-05-25T18:53:04Z",
+    "content": "This Memorial Day, while the rest of the country pauses to honor the fallen, scammers are doing something else entirely. They're running searches.\r\nThey're pulling military records. Cross-referencing… [+15528 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Princeton University"
+    },
+    "author": "Rebekah Schroeder, Office of Communications",
+    "title": "Students honored for leadership and service at Class Day",
+    "description": "At its Class Day ceremony, the Class of 2026 celebrated the achievements and leadership of some of its most outstanding members.",
+    "url": "https://www.princeton.edu/news/2026/05/25/students-honored-leadership-and-service-class-day",
+    "urlToImage": "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2026/05/20250526_ClassDay_DJA_411.jpg?itok=0jiTdN6H",
+    "publishedAt": "2026-05-25T16:45:00Z",
+    "content": "Members of Princeton Universitys Class of 2026 celebrated the end of their undergraduate careers with a Class Day ceremony honoring their achievements and leadership on Monday, May 25. Recipients of … [+12550 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "In HelloNation, Insurance Agent Matt Orr Examines Car Insurance Needs and Teen Driver Coverage",
+    "description": "The article reviews Georgia auto insurance requirements and explains how adding a teen driver affects coverage and costs. LAGRANGE, Ga., May 25, 2026 /PRNewswire/ -- How much car insurance do you really need in Georgia, and what changes when a teen driver joi…",
+    "url": "https://www.prnewswire.com/news-releases/in-hellonation-insurance-agent-matt-orr-examines-car-insurance-needs-and-teen-driver-coverage-302779759.html",
+    "urlToImage": "https://mma.prnewswire.com/media/2985726/Matt_Orr___Insurance_Agent.mp4?p=medium",
+    "publishedAt": "2026-05-25T16:41:00Z",
+    "content": "The article reviews Georgia auto insurance requirements and explains how adding a teen driver affects coverage and costs.\r\nLAGRANGE, Ga., May 25, 2026 /PRNewswire/ -- How much car insurance do you re… [+4567 chars]"
+  },
+  {
+    "source": {
       "id": "business-insider",
       "name": "Business Insider"
     },
@@ -24,109 +128,5 @@
     "urlToImage": "http://lenscratch.com/wp-content/uploads/2026/05/1_Binom_photobook.jpg",
     "publishedAt": "2026-05-25T10:00:09Z",
     "content": "© Nata Drachinskaya, artist book “Binom”\r\nBINOM by Nata Drachinskaya first came onto my radar when it was selected as a Finalist for the APhF:24 Dummy Award at the Athens Photo Festival. I began foll… [+11318 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Idealist.org"
-    },
-    "author": null,
-    "title": "Mayo Clinic Health System - Organization",
-    "description": "<p>Started in 1992, Mayo Clinic Health System is a family of clinics, hospitals and health care facilities serving over 60 communities in Iowa, Georgia, Wisconsin and Minnesota. As part of Mayo Clinic",
-    "url": "https://www.idealist.org/en/nonprofit/ff208325853f4e9488dd79402a27471d-mayo-clinic-health-system-eau-claire",
-    "urlToImage": "https://www.idealist.org/static/images/og-image.jpg",
-    "publishedAt": "2026-05-25T07:09:59Z",
-    "content": "Started in 1992, Mayo Clinic Health System is a family of clinics, hospitals and health care facilities serving over 60 communities in Iowa, Georgia, Wisconsin and Minnesota. As part of Mayo Clinic, … [+327 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "19thnews.org"
-    },
-    "author": "Grace Panetta",
-    "title": "Tulsi Gabbard Exit Marks Fourth Woman to Leave Trump Cabinet",
-    "description": "Resignations and firings have further narrowed diversity in Trump’s Cabinet.",
-    "url": "https://19thnews.org/2026/04/women-trump-cabinet-bondi-noem-chavez-deremer/",
-    "urlToImage": "https://truthout.org/app/uploads/2026/05/GettyImages-2267239743.jpg",
-    "publishedAt": "2026-05-24T20:43:35Z",
-    "content": "Truthout is a vital news source and a living history of political struggle. If you think our work is valuable, support us with a donation of any size.\r\nThis story was originally published by The 19th… [+5802 chars]"
-  },
-  {
-    "source": {
-      "id": "usa-today",
-      "name": "USA Today"
-    },
-    "author": "Mitchell Northam, USA TODAY",
-    "title": "Frankie Muniz, Travis Pastrana remember NASCAR legend Kyle Busch",
-    "description": "Travis Pastrana and Frankie Muniz achieved fame before breaking into NASCAR. When they arrived, they found out just how great Kyle Busch was.",
-    "url": "https://www.usatoday.com/story/sports/nascar/2026/05/24/kyle-busch-travis-pastrana-frankie-muniz-nascar-trucks-charlotte-death/90244852007/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6nhiN9PdGjor6cIb91feHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njg7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/156c3eb8e1632d8828d409465558297c",
-    "publishedAt": "2026-05-24T19:10:31Z",
-    "content": "CONCORD, NC Professional athletes often like to say that when they step onto the field or court or in the case of NASCAR drivers, strap on their helmet and slide into their seat they can block out th… [+8789 chars]"
-  },
-  {
-    "source": {
-      "id": "fortune",
-      "name": "Fortune"
-    },
-    "author": "Laura Ungar, The Associated Press",
-    "title": "Meet the hospital dogs ‘making a real difference’ by getting sick kids to smile",
-    "description": "A mounting body of research shows that even short interactions with facility dogs can improve children’s overall well-being.",
-    "url": "https://fortune.com/2026/05/23/meet-the-hospital-dogs-making-a-real-difference-by-getting-sick-kids-to-smile/",
-    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/AP26141764225533-e1779550868798.jpg?resize=1200,600",
-    "publishedAt": "2026-05-23T15:42:36Z",
-    "content": "The first time 5-year-old Calvin Owens went outside in more than a month, he met up with his canine friend Hadley on a hospital patio. Despite being tethered to equipment with wires and tubes, the li… [+7762 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Imogen Garfinkel",
-    "title": "I was in NXIVM sex cult. I was branded with a hot iron, 'slave' women were ordered to have sex and torture each other if they broke the rules - this is how the leader controlled us",
-    "description": "When Sarah Edmondson first joined NXIVM in 2005, she thought she was signing up for a wellness programme, only discovering 12 years later the horror that lurked at its centre.",
-    "url": "https://www.dailymail.com/news/article-15836695/I-NXIVM-sex-cult-branded-hot-iron-slave-women-ordered-sex-torture-broke-rules-leader-controlled-us.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/05/22/16/108770701-0-image-m-9_1779464348160.jpg",
-    "publishedAt": "2026-05-23T13:05:02Z",
-    "content": "When Sarah Edmondson first joined NXIVM in 2005, she thought she was signing up for a wellness and personal development programme, designed to shape the world into a better place.\r\nFounded in 1998 by… [+15373 chars]"
-  },
-  {
-    "source": {
-      "id": "usa-today",
-      "name": "USA Today"
-    },
-    "author": "Ellen J. Horrow, USA TODAY",
-    "title": "Kyle Busch death: Latest news on how NASCAR legend passed away",
-    "description": "Fans continue to mourn Kyle Busch two days after the NASCAR legend's sudden and shocking death at age 41. Here's what we know.",
-    "url": "https://www.usatoday.com/story/sports/nascar/2026/05/23/kyle-busch-death-news-updates-cause-tributes/90227782007/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lVvPm5BSxzkRF43pP9TqtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/9260c2cfabdb2e44ec70f399c82995c8",
-    "publishedAt": "2026-05-23T11:04:26Z",
-    "content": "Fans continue to mourn Kyle Busch two days after the NASCAR legend's sudden and shocking death at age 41.\r\nThe two-time NASCAR Cup Series champion was hospitalized in Charlotte, North Carolina, earli… [+11620 chars]"
-  },
-  {
-    "source": {
-      "id": "usa-today",
-      "name": "USA Today"
-    },
-    "author": "Marcus D. Smith, USA TODAY",
-    "title": "Track holds moment of silence for Kyle Busch ahead of NASCAR Trucks race",
-    "description": "NASCAR held a moment of silence for record-setting driver Kyle Busch ahead of the Craftsman Truck Series race at Charlotte Motor Speedway.",
-    "url": "https://www.usatoday.com/story/sports/nascar/2026/05/22/kyle-busch-moment-silence-truck-series-charlotte-motor-speedway/90218775007/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.lyNVVlDW.Do179r.P2E6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/ad0f325bd1e0e3b9ea828770d8a76fd5",
-    "publishedAt": "2026-05-22T22:56:32Z",
-    "content": "Tributes, heartfelt gestures and words have been circulating the NASCAR world after the sudden and shocking death of legendary driver Kyle Busch, giving a whole new meaning to Memorial Day weekend.\r\n… [+6731 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "esquire.com"
-    },
-    "author": "Charles P. Pierce",
-    "title": "Judges are Starting to Crack Down on Trump's Courtroom Lackeys",
-    "description": "The bill for making a mockery of our justice system is starting to come due. Ah, Todd Blanche, you will be hung out to dry very soon.",
-    "url": "https://www.esquire.com/news-politics/politics/a71388737/crack-down-on-trumps-courtroom-lackeys/",
-    "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/7715cb5f-7cde-4b73-9b04-0a3cb88fdf7f.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*",
-    "publishedAt": "2026-05-22T22:18:39Z",
-    "content": "(Permanent Musical Accompaniment\r\n To The Last Post Of The Week From The Blogs Favourite Living Canadian)\r\nNow this right here\r\n ought to scare any administration official who has plans for the futur… [+11235 chars]"
   }
 ]

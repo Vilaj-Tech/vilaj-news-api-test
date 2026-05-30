@@ -1,16 +1,55 @@
 [
   {
     "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
+      "id": null,
+      "name": "Science Daily"
     },
-    "author": "Kristine Villarroel",
-    "title": "The most and least educated US states, ranked by the share of adults with a bachelor's degree or higher",
-    "description": "Educational attainment varies widely across the US. See the states with the highest and lowest shares of adults with bachelor's degrees or higher.",
-    "url": "https://www.businessinsider.com/most-least-educated-states-bachelors-degrees-or-higher",
-    "urlToImage": "https://i.insider.com/6a0de446ce0a5b2f12d7de41?width=1200&format=jpeg",
-    "publishedAt": "2026-05-28T13:07:01Z",
-    "content": "Access to higher education varies widely across the US.\r\nSome states and cities have an abundance of prestigious schools and universities, while others rely on a smaller number of large public instit… [+19026 chars]"
+    "author": null,
+    "title": "This bizarre crocodile relative from the Triassic looked like an ostrich dinosaur",
+    "description": "Scientists have discovered Labrujasuchus expectatus, a bizarre crocodile relative that looked more like an ostrich-like dinosaur than anything resembling a modern crocodile. It walked on two legs, had tiny arms, and sported a toothless beak—an unexpected comb…",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260529043641.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/reconstruction-of-labrujasuchus-expectatus.webp",
+    "publishedAt": "2026-05-29T12:39:56Z",
+    "content": "During the Triassic Period, many of the major animal groups we know today were only beginning to evolve. The world was filled with unusual creatures experimenting with body shapes and lifestyles that… [+5254 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Blistering report exposes how national K-12 group's DEI agenda is trickling down to local schools",
+    "description": "The National PTA faces scrutiny over DEI initiatives and left-wing political priorities allegedly trickling down to state and local school chapters and ultimately reaching students.",
+    "url": "https://www.foxnews.com/politics/blistering-report-exposes-how-national-k-12-groups-dei-agenda-trickling-down-local-chapters",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/virginia-mom-relieved-to-choose-private-school-due-to-far-left-policy-1.jpeg",
+    "publishedAt": "2026-05-29T12:00:26Z",
+    "content": "FIRST ON FOX: The National Parent Teacher Association (NPTA), a parent-teacher organization many families associate with bake sales, book fairs and school fundraisers, is facing scrutiny over the gro… [+10020 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Post Staff Report",
+    "title": "Martin Luther King Jr.’s American dream was all about non-violence — and we still have a lot to learn: late leader’s son",
+    "description": "We've come a ways and we've made some progress, but we have a substantial amount of progress for the American dream to be fulfilled ... \" Martin Luther King III said.",
+    "url": "https://nypost.com/2026/05/29/us-news/us-still-has-work-to-do-on-mlk-jr-s-american-dream-son/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/05/newspress-collage-sbn60whhk-1779726692032.jpg?quality=75&strip=all&1779712322&w=1200",
+    "publishedAt": "2026-05-29T12:00:00Z",
+    "content": "Through July 4, The Post, in conjunction with the Milken Center for Advancing the American Dream, is featuring US citizens explaining what the American dream means to them in 2026 including Martin Lu… [+2770 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Raw Story"
+    },
+    "author": "Tara Dublin",
+    "title": "This idiocracy is turning America's pride into a global disgrace",
+    "description": "Almost 250 years ago, our Founding Fathers survived a brutal war and established a new nation where all could live free from the oppression of the King of England. We take time every July 4th to remember what the early settlers lived through to create a new n…",
+    "url": "https://www.rawstory.com/raw-investigates/trump-250th-birthday/",
+    "urlToImage": "https://www.rawstory.com/media-library/trump-pardon-recipients-under-scrutiny-in-wide-ranging-pay-to-play-investigation-report.jpg?id=66693858&width=1200&height=600&coordinates=0%2C34%2C0%2C35",
+    "publishedAt": "2026-05-29T09:30:01Z",
+    "content": "Almost 250 years ago, our Founding Fathers survived a brutal war and established a new nation where all could live free from the oppression of the King of England. We take time every July 4th to reme… [+5466 chars]"
   },
   {
     "source": {
@@ -18,115 +57,76 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "Element451 Launches Bolt as the AI Agent Platform for Higher Education, Surpassing 60 Million AI-Powered Student Journeys",
-    "description": "Built on years of operational experience in higher education, Bolt is now available as a standalone AI Agent platform, deployable by any institution, on any system. RALEIGH, N.C., May 28, 2026 /PRNewswire/ -- Element451, the AI platform built for the higher e…",
-    "url": "https://www.prnewswire.com/news-releases/element451-launches-bolt-as-the-ai-agent-platform-for-higher-education-surpassing-60-million-ai-powered-student-journeys-302783355.html",
-    "urlToImage": "https://mma.prnewswire.com/media/2988855/Element451_logo_Logo.jpg?p=facebook",
-    "publishedAt": "2026-05-28T13:05:00Z",
-    "content": "Built on years of operational experience in higher education, Bolt is now available as a standalone AI Agent platform, deployable by any institution, on any system.\r\nRALEIGH, N.C., May 28, 2026 /PRNe… [+6385 chars]"
+    "title": "American Council of Learned Societies Awards 2026 ACLS Leading Edge Fellowships",
+    "description": "Fourteen Humanities and Social Science PhDs Will Join Mission-Driven Nonprofit Organizations Advancing Justice and Equity NEW YORK, May 29, 2026 /PRNewswire/ -- The American Council of Learned Societies (ACLS) is pleased to announce the 2026 ACLS Leading Edge…",
+    "url": "https://www.prnewswire.com/news-releases/american-council-of-learned-societies-awards-2026-acls-leading-edge-fellowships-302785020.html",
+    "urlToImage": "https://mma.prnewswire.com/media/2990130/2026_Leading_Edge_AM.jpg?p=facebook",
+    "publishedAt": "2026-05-29T09:00:00Z",
+    "content": "Fourteen Humanities and Social Science PhDs Will Join Mission-Driven Nonprofit Organizations Advancing Justice and Equity\r\nNEW YORK, May 29, 2026 /PRNewswire/ -- The American Council of Learned Socie… [+3485 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Gbdmagazine.com"
+      "name": "Inside Higher Ed"
     },
-    "author": "Laura Rote",
-    "title": "How a Global Flooring Manufacturer is Incentivizing Doing Good",
-    "description": "Story at a glance: gb&d takes a field trip to go behind-the-scenes of manufacturing and design with major flooring company Tarkett in Dalton, Georgia. The global company is on a mission to make recycling effortless, from its takeback program to products that …",
-    "url": "https://gbdmagazine.com/flooring-manufacturer-incentivizing-good/",
-    "urlToImage": "https://gbdmagazine.com/wp-content/uploads/2026/05/tarkett-large-ReStart_Aquafil_2023-10.jpg",
-    "publishedAt": "2026-05-28T10:22:38Z",
-    "content": "Story at a glance:\r\n<ul><li>gb&amp;d takes a field trip to go behind-the-scenes of manufacturing and design with major flooring company Tarkett in Dalton, Georgia.</li><li>The global company is on a … [+14497 chars]"
+    "author": "Sara Brady",
+    "title": "Why I Created the National AI Equity Lab",
+    "description": "Why I Created the National AI Equity Lab\n\nSara Brady\n\nFri, 05/29/2026 - 03:00 AM\n\nI see it as my civic duty to ensure that the proliferation of artificial intelligence does not further exacerbate existing inequities in our society.\n \n Byline(s)\r\n\n \n Shaun Har…",
+    "url": "https://www.insidehighered.com/opinion/columns/resident-scholar/2026/05/29/why-i-created-national-ai-equity-lab",
+    "urlToImage": "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png",
+    "publishedAt": "2026-05-29T07:00:00Z",
+    "content": "I will always be a staunch proponent of actual intelligencehumans reading, writing, creating, synthesizing, learning, thinking critically for ourselves and sharing knowledge person to person. Notwith… [+6358 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Lightspeedmagazine.com"
+      "name": "CleanTechnica"
     },
-    "author": "Kristine Kathryn Rusch",
-    "title": "The Test of Time",
-    "description": "Advanced Temporal Disruption\n\nTimed Midterm\n\nInstructions:\n<ul>\n <li>Time Allotted: 130 minutes</li>\n <li>No Breaks Allowed</li>\n <li>No Outside Devices Allowed</li>\n</ul>",
-    "url": "https://www.lightspeedmagazine.com/?p=36069",
-    "urlToImage": "https://www.lightspeedmagazine.com/wp-content/uploads/2022/10/LIGHTSPEED_swordAndRocket_cover.png",
-    "publishedAt": "2026-05-28T10:01:12Z",
-    "content": "Advanced Temporal Disruption\r\nTimed Midterm\r\nInstructions:\r\n<ul><li>Time Allotted: 130 minutes</li><li>No Breaks Allowed.</li><li>No Outside Devices Allowed.</li><li>Any Student Caught Time Traveling… [+77193 chars]"
-  },
-  {
-    "source": {
-      "id": "fortune",
-      "name": "Fortune"
-    },
-    "author": "Nick Lichtenberg",
-    "title": "America’s new AI map shows something surprising: ‘A lot of normal people are adopting AI’",
-    "description": "Microsoft's U.S. AI diffusion report finds the technology spreading into college towns, Sun Belt suburbs, and small businesses that didn't exist years ago.",
-    "url": "https://fortune.com/2026/05/28/normal-people-using-ai-microsoft-diffusion-report/",
-    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/diffusion.png?resize=1200,600",
-    "publishedAt": "2026-05-28T09:00:00Z",
-    "content": "When technologists and investors imagine where artificial intelligence is taking root in America, they picture the usual suspects: San Francisco, Seattle, New York, Boston. The places with the ventur… [+10091 chars]"
+    "author": "Press Release",
+    "title": "Public Service Commission Passes Georgia Power’s Costs to Ratepayers",
+    "description": "ATLANTA — Today, despite the efforts of two commissioners, the Georgia Public Service Commission agreed to allow Georgia Power to continue automatically passing along all of its fuel costs to ratepayers rather than creating an incentive for the utility compan…",
+    "url": "https://cleantechnica.com/2026/05/28/public-service-commission-passes-georgia-powers-costs-to-ratepayers/",
+    "urlToImage": "https://cleantechnica.com/wp-content/uploads/2023/04/Nuclear-Energy-Power-CleanTechnica-Watermark.png",
+    "publishedAt": "2026-05-29T02:45:39Z",
+    "content": "Support CleanTechnica's work through a Substack subscription or on Stripe.\r\nATLANTA Today, despite the efforts of two commissioners, the Georgia Public Service Commission agreed to allow Georgia Powe… [+3748 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Thenation.com"
+      "name": "Yahoo Entertainment"
     },
-    "author": "Gregg Gonsalves",
-    "title": "Nurses Are the Backbone of US Healthcare—and They’re Getting Screwed",
-    "description": "Gregg Gonsalves\n\n\n\nA recent hospital stay reminded me of the incredible work that nurses do. So why are we making it harder for them to do their jobs?\r\n\n\r\n\n\nThe post Nurses Are the Backbone of US Healthcare—and They’re Getting Screwed appeared first on The Na…",
-    "url": "https://www.thenation.com/?post_type=article&p=598794",
-    "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/05/GettyImages-2271810413.jpg",
-    "publishedAt": "2026-05-28T09:00:00Z",
-    "content": "A recent hospital stay reminded me of the incredible work that nurses do. So why are we making it harder for them to do their jobs?\r\nAd Policy\r\nRed Rocks Community College student Ariana Lazo practic… [+5872 chars]"
+    "author": "Rick Maese, (c) 2026 , The Washington Post",
+    "title": "U.S. coach is wooed by European power just as World Cup arrives",
+    "description": "FAYETTEVILLE, Ga. - Barely two weeks before the U.S. men’s national team opens perhaps the most anticipated tournament in program history, the Americans have their first potential pre-World Cup distraction. As the team gathered in Georgia this week for its fi…",
+    "url": "https://sports.yahoo.com/articles/us-coach-is-wooed-by-european-power-just-as-world-cup-arrives-170101195.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/My2LGzaFUPjqYTTF6v_z8g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-05/6b12a8a9-6292-4e18-b900-ccc509fcf353",
+    "publishedAt": "2026-05-29T00:53:18Z",
+    "content": "FAYETTEVILLE, Ga. - Barely two weeks before the U.S. mens national team opens perhaps the most anticipated tournament in program history, the Americans have their first potential pre-World Cup distra… [+4970 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Hillsdale Daily News"
+      "name": "PRNewswire"
     },
-    "author": "Joseph Flaherty, Hillsdale Daily News",
-    "title": "Caleb Blonde, Payton Nichelson named Hillsdale County Area Best Athletes of the Meet",
-    "description": "Two Jonesville athletes earned Athlete of the Meet honors for the Hillsdale Area Best track and field event held at Hayden Park.",
-    "url": "https://www.hillsdale.net/story/sports/high-school/track-field/2026/05/28/hillsdale-area-best-highlighted-by-two-honored-jonesville-runners/90221607007/",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/c6ab952cc0f50bf4132d3c4cc19befa0898309616b64a6b15c48b3645758d96b/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhillsdale-daily-news%2F15ae74749a1eb3fb81bfa899b1ebf4e8",
-    "publishedAt": "2026-05-28T08:03:05Z",
-    "content": "HILLSDALE The 2026 Hillsdale County Area Best meet took place at Hayden Park, featuring a host of the areas top student-athletes competing for final bragging rights before the weekends state finals.\r… [+9829 chars]"
+    "author": null,
+    "title": "US Aviation Academy Makes Major Florida Move: New Fort Pierce Flight Campus and Kissimmee Maintenance School Open Simultaneously",
+    "description": "Twin openings signal a defining chapter in the Academy's nationwide expansion — combining EASA ATO-approved pilot training, a Part 147-certified aviation maintenance program, and a direct-to-airline employment pathway under one growing national brand DENTON, …",
+    "url": "https://www.prnewswire.com/news-releases/us-aviation-academy-makes-major-florida-move-new-fort-pierce-flight-campus-and-kissimmee-maintenance-school-open-simultaneously-302785129.html",
+    "urlToImage": "https://mma.prnewswire.com/media/2990268/5993202/US_Aviation_Academy_Logo.jpg?p=facebook",
+    "publishedAt": "2026-05-29T00:16:00Z",
+    "content": "Twin openings signal a defining chapter in the Academy's nationwide expansion combining EASA ATO-approved pilot training, a Part 147-certified aviation maintenance program, and a direct-to-airline em… [+7680 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "CBS Sports"
+      "name": "Billboard"
     },
-    "author": "Brandon Marcello",
-    "title": "With the Protect College Sports bill finally in hand, SEC leaders are discussing contingencies",
-    "description": "As a bipartisan Senate bill to regulate college athletics gains traction, the SEC is already plotting its own radical roster-building workarounds",
-    "url": "https://www.cbssports.com/college-football/news/protect-college-sports-sec-contingencies/",
-    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/05/28/bf86d6f5-cf2f-4e85-ab01-e7bb9b7faad3/thumbnail/1200x675/1685f889ffdae064d9edf84db12c235c/sec-sankey-1.jpg",
-    "publishedAt": "2026-05-28T02:41:10Z",
-    "content": "MIRAMAR BEACH, Fla. -- The same morning a landmark, bipartisan bill promising to regulate the unwieldy realm of college sports was introduced in the Senate, the Southeastern Conference's decision-mak… [+13762 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Johnchow.com"
-    },
-    "author": "Michael Kwan",
-    "title": "The Ultimate Strategy To yggdrasil casinos",
-    "description": "Best Live Casinos in the UK 170% up to 1000 USDT + 35 Free Spins. After depositing, claim your welcome bonus by following the casino’s instructions. E wallets are fastest, while bank transfers can take longer. These offers let you claim free spins or bonus ca…",
-    "url": "https://johnchow.com/the-ultimate-strategy-to-yggdrasil-casinos/",
-    "urlToImage": null,
-    "publishedAt": "2026-05-27T22:19:52Z",
-    "content": "Best Live Casinos in the UK\r\n170% up to 1000 USDT + 35 Free Spins. After depositing, claim your welcome bonus by following the casino’s instructions. E wallets are fastest, while bank transfers can t… [+17467 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Investopedia"
-    },
-    "author": "Beverly Bird",
-    "title": "Save $1,100 on Your Car Insurance by Dropping Collision and Comprehensive Coverage",
-    "description": "Today's car insurance premiums are expensive. But by evaluating the necessity of your collision and comprehensive coverage, you may be able to save more than...",
-    "url": "https://www.investopedia.com/save-usd1-100-on-your-car-insurance-by-dropping-collision-and-comprehensive-coverage-11977650",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FmrvJPQygZcmqtv9Uj7OmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/6d09502c712893ddd77b3afc538d9861",
-    "publishedAt": "2026-05-27T19:05:00Z",
-    "content": "Fact checked by Suzanne Kvilhaug\r\nDropping your collision or comprehensive car insurance could save you hundreds, but it's not right for everyone.Credit: stefanamer / Getty Images\r\nKey Takeaways\r\n<ul… [+6747 chars]"
+    "author": "Thom Duffy",
+    "title": "Bruce Springsteen Land of Hope & Dreams Tour: Activist Groups Backed",
+    "description": "Bruce Springsteen's tour has partnered with more than 20 activist groups working on the front lines of the battle for democracy and human rights.",
+    "url": "http://www.billboard.com/lists/bruce-springsteen-land-hope-dreams-tour-activist-groups/",
+    "urlToImage": "https://www.billboard.com/wp-content/uploads/2026/05/P1068SYC.jpg?w=1024",
+    "publishedAt": "2026-05-28T22:01:06Z",
+    "content": "What happens when the show is over?\r\nOn each night of Bruce Springsteens short-but-impassioned Land of Hope and Dreams American Tour, he has declared: “We are here to call upon the righteous power of… [+13005 chars]"
   }
 ]

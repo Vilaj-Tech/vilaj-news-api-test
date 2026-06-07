@@ -1,6 +1,97 @@
 [
   {
     "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Stephen Borelli, USA TODAY",
+    "title": "Heisman winner, ex-Knicks guard's advice to kids: 'Run your own race'",
+    "description": "Charlie Ward opens up about his multisport life as a Heisman Trophy winner and NBA player. Then he became a coach. What's his advice for your kid?",
+    "url": "https://www.usatoday.com/story/sports/2026/06/06/charlie-ward-knicks-spurs-nba-finals-heisman-youth-sports-tips/90423822007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/evv_z7c9D1cLr3S_j9Rm2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xODQ0O2NmPXdlYnA-/https://media.zenfs.com/en/usa_today_sports_articles_558/b6411dbc1f521b7b33e31faab28d282f",
+    "publishedAt": "2026-06-06T10:04:56Z",
+    "content": "BOSTON There were so many opportunities for Charlie Ward, as he grew into who he is today, to look around and take in everything.\r\nThere was Charlie Sr., the high school football coach who was a fath… [+14210 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Coolcatteacher.com"
+    },
+    "author": "coolcatteacher@gmail.com (Victoria A Davis, Cool Cat Teacher)",
+    "title": "Data Driven Schools: Driving Learning and Improving Relationships",
+    "description": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast anywhere you listen to podcasts.\nWhat does it really mean to be a data-driven school? AJ Juliani led 150 educators in building their own AI-powered data dashboards — no c…",
+    "url": "https://www.coolcatteacher.com/datadriven/",
+    "urlToImage": "https://www.coolcatteacher.com/wp-content/uploads/2026/05/S2E6brighter-datadriven.png",
+    "publishedAt": "2026-06-05T19:04:20Z",
+    "content": "A Washington Post report found that 33% of U.S. students now have chronic absenteeism and half of students who miss just 2 to 4 days in September will miss more than a month by years end. Meanwhile, … [+12116 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hautetime.com"
+    },
+    "author": "Akshay",
+    "title": "20 Photography Studios Worth Booking Right Now",
+    "description": "Discover 20 photography studios worth booking right now for portraits, branding sessions, fashion shoots, and creative projects.\nThe post 20 Photography Studios Worth Booking Right Now appeared first on Haute Time.",
+    "url": "https://www.hautetime.com/20-photography-studios-worth-booking-right-now/",
+    "urlToImage": "https://hautetime.s3.us-west-1.amazonaws.com/wp-content/uploads/2026/06/05132639/Chair-and-vase-with-pampas-grass-on-white-backdrop-in-photo-studio.jpg",
+    "publishedAt": "2026-06-05T18:30:36Z",
+    "content": "The studios redefining what it means to be photographed from Omaha to Los Angeles.\r\nThere is a reason the best portraits stop you cold. They are not simply well-lit or technically precise. They carry… [+9086 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Nakedcapitalism.com"
+    },
+    "author": "KLG",
+    "title": "Coffee Break: Theology at Work in the World, Eugenics Is Still Undead, Science Is Still Under Attack, and Ultra-Processed Foods in the Dock",
+    "description": "Part the First: Pope Leo XIV and the Larger World.  Of the academic historians currently writing for both their colleagues and students and the general reader, Greg Grandin is among the finest.  In The Education of Pope Leo XIV he places the former Father Bob…",
+    "url": "https://www.nakedcapitalism.com/2026/06/coffee-break-theology-at-work-in-the-world-eugenics-is-still-undead-science-is-still-under-attack-and-ultra-processed-foods-in-the-dock.html",
+    "urlToImage": null,
+    "publishedAt": "2026-06-05T18:00:54Z",
+    "content": "Part the First: Pope Leo XIV and the Larger World.  Of the academic historians currently writing for both their colleagues and students and the general reader, Greg Grandin is among the finest.  In T… [+19191 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Tennessee American Water Proudly Recognizes American Water Charitable Foundation 2026 Water and Environment Grantees",
+    "description": "Recipients include three nonprofit organizations CHATTANOOGA, Tenn., June 5, 2026 /PRNewswire/ -- The American Water Charitable Foundation, a philanthropic non-profit organization established by American Water (NYSE: AWK), the largest regulated water and wast…",
+    "url": "https://www.prnewswire.com/news-releases/tennessee-american-water-proudly-recognizes-american-water-charitable-foundation-2026-water-and-environment-grantees-302792902.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1765565/AW_TENNESSEE_Logo.jpg?id=OA2680693&p=facebook",
+    "publishedAt": "2026-06-05T16:44:00Z",
+    "content": "Recipients include three nonprofit organizations \r\nCHATTANOOGA, Tenn., June 5, 2026 /PRNewswire/ -- The American Water Charitable Foundation, a philanthropic non-profit organization established by Am… [+4415 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Kristine Villarroel",
+    "title": "States where a bachelor's degree pays off the most and least, ranked",
+    "description": "See the states where having a bachelor's degree gives workers the least and most advantage in annual earnings, according to Census data.",
+    "url": "https://www.businessinsider.com/bachelors-degree-earnings-gap-states-ranked",
+    "urlToImage": "https://i.insider.com/6a21ee6f2ab5f9757add951c?width=1200&format=jpeg",
+    "publishedAt": "2026-06-05T15:09:36Z",
+    "content": "Getting a four-year college education isn't always worth it for everybody whether it comes down to avoiding the rising cost of a degree or pursuing careers outside a traditional college setting but i… [+17842 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Spelman College",
+    "title": "Spelman College Appoints Dr. Ayanna Howard, Renowned Roboticist, Higher Education Leader, its 12th President",
+    "description": "Nationally recognized AI pioneer, former NASA engineer selected to lead nation’s top-ranked HBCU into next chapter of excellence and impact Nationally recognized AI pioneer, former NASA engineer selected to lead nation’s top-ranked HBCU into next chapter of e…",
+    "url": "https://www.globenewswire.com/news-release/2026/06/05/3307465/0/en/Spelman-College-Appoints-Dr-Ayanna-Howard-Renowned-Roboticist-Higher-Education-Leader-its-12th-President.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/0c79b974-606d-47d5-a295-3a39f1884d73",
+    "publishedAt": "2026-06-05T14:05:00Z",
+    "content": "Atlanta, GA, June 05, 2026 (GLOBE NEWSWIRE) -- The Spelman College Board of Trustees today announced the appointment of Dr. Ayanna Howard as the College's 12th president. Dr. Howard, a renowned robot… [+7176 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "GlobeNewswire"
     },
@@ -37,96 +128,5 @@
     "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2026/05/Screen-Shot-2026-05-30-at-10.02.08-AM.png",
     "publishedAt": "2026-06-05T05:22:32Z",
     "content": "Many activists moved from organizing mass demonstrations and direct actions against Israels genocidal war in Gaza to organizing militant demonstrations and direct actions against ICE and for immigran… [+6113 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Daily Caller"
-    },
-    "author": "Josh Grega",
-    "title": "Mom Allegedly Discovers School Official’s Sexual Relationship With Son On Valentines Weekend Trip",
-    "description": "On a Valentine's Day trip, the mother of a high school student found out that her family friend, her son's former teacher, had allegedly been sleeping with him.",
-    "url": "https://dailycaller.com/2026/06/04/mom-allegedly-discovers-school-officials-sexual-relationship-roswell-high-school/",
-    "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/06/GettyImages-609971376-scaled-e1780603075139.jpg",
-    "publishedAt": "2026-06-04T21:53:56Z",
-    "content": "The mother of a high school student allegedly found out during a Valentine’s Day weekend trip that their family friend, a former teacher and administrator at her son’s high school, had been sleeping … [+3588 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "On3.com"
-    },
-    "author": "Andy Villamarzo",
-    "title": "2028 4-star S Bryce Hayes-Roberts transferring to IMG Academy",
-    "description": "The nationally ranked Bradenton (Fla.) IMG Academy Ascenders national football team received another big name prospect from the 2028 class, according to Rivals National Recruiting Analyst Sam Spiegelman on Thursday afternoon. [ $19.99 gets you a FULL year of …",
-    "url": "https://www.on3.com/high-school/news/2028-4-star-s-bryce-hayes-roberts-transferring-to-img-academy/",
-    "urlToImage": "https://s.yimg.com/os/en/on3_recruiting_articles_521/35e2a02933ae79b09897a6c89fc31c73",
-    "publishedAt": "2026-06-04T21:39:53Z",
-    "content": "The nationally ranked Bradenton (Fla.) IMG Academy Ascenders national football team received another big name prospect from the 2028 class, according to Rivals National Recruiting Analyst Sam Spiegel… [+1833 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "On3.com"
-    },
-    "author": "Chad Simmons",
-    "title": "One time Georgia baseball commit Brodie Campbell is now committed to Georgia Tech to play football",
-    "description": "Georgia Tech made Brodie Campbell a priority from the beginning. Now the Yellow Jackets have their quarterback. The three-star signal-caller from Newnan (Ga.) announced his commitment to Brent Key and Georgia Tech after taking his official visit to Atlanta th…",
-    "url": "https://www.on3.com/rivals/news/one-time-georgia-baseball-commit-brodie-campbell-is-now-committed-to-georgia-tech-to-play-football/",
-    "urlToImage": "https://s.yimg.com/os/en/on3_recruiting_articles_521/71c83cd1c67feae86e4a00b17dd0f047",
-    "publishedAt": "2026-06-04T21:34:53Z",
-    "content": "Georgia Tech made Brodie Campbell a priority from the beginning.\r\nNow the Yellow Jackets have their quarterback.\r\nThe three-star signal-caller from Newnan (Ga.) announced his commitment to Brent Key … [+2798 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Mit.edu"
-    },
-    "author": "Media Lab",
-    "title": "PATH to boost AI training and career opportunities for industry-aligned jobs",
-    "description": "MIT and collaborators announced PATH (Pathways for AI Training and Hiring) to scale industry-aligned AI training for entry-level and current workers, with focus on transforming community colleges into engines powering an AI-enabled workforce.",
-    "url": "https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604",
-    "urlToImage": "https://news.mit.edu/sites/default/files/images/202605/mit-raise.jpg",
-    "publishedAt": "2026-06-04T19:50:00Z",
-    "content": "MIT, in collaboration with Georgia State University and a growing network of educational institutions, has announced expanded work under PATH (Pathways for AI Training and Hiring) a multiyear initiat… [+6012 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "On3.com"
-    },
-    "author": "Andy Villamarzo",
-    "title": "Prediction: Baylor School (Tenn.) repeats as DII-AAA champs",
-    "description": "The 2026 high school football season will be getting underway in less than two months with official practices, which means it’s officially preview season. Rivals is breaking down the nation’s top teams from coast-to-coast, and today we make our way over to th…",
-    "url": "https://www.on3.com/high-school/news/prediction-baylor-school-tenn-repeats-as-dii-aaa-champs/",
-    "urlToImage": "https://s.yimg.com/os/en/on3_recruiting_articles_521/4d014480484ff96b0315bb58b3114978",
-    "publishedAt": "2026-06-04T19:26:28Z",
-    "content": "The 2026 high school football season will be getting underway in less than two months with official practices, which means its officially preview season. Rivals is breaking down the nations top teams… [+5034 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Sports Illustrated"
-    },
-    "author": "Matt Giles",
-    "title": "Duke Football Adds Another Promising Piece to 2027 Haul",
-    "description": "The Duke football recruiting team is steadily approaching the top 25 in the cycle.",
-    "url": "https://www.si.com/college/duke/blue-devils-football-adds-another-promising-piece-2027-haul",
-    "urlToImage": "https://s.yimg.com/os/en/duke_blue_devils_on_si_articles_907/92843b4ebee476506bc27e45f4e04b89",
-    "publishedAt": "2026-06-04T17:57:34Z",
-    "content": "Third-year Duke football head coach Manny Diaz and his staff reeled in their 13th 2027 pledge on Thursday afternoon, as Troup County High School (Ga.) running back Javarris Warner announced his commi… [+2645 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Rolling Stone"
-    },
-    "author": "Brian Hiattt",
-    "title": "Role Model on His New Album — and Why He’s Killing Off His ‘Sally’ Guest-Star Bit",
-    "description": "Role Model breaks down his new single, \"High Hopes 3000,\" and his upcoming album, Chuck Timely & The Hourglass — plus, he reveals that he will no longer bring a \"Sally\" onstage every night",
-    "url": "http://www.rollingstone.com/music/music-features/role-model-new-album-ending-sally-1235572317/",
-    "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/06/role-model-new-single-interview.jpg?w=1600&h=900&crop=1",
-    "publishedAt": "2026-06-04T16:00:00Z",
-    "content": "“Does love come around or does one come around to it?” That’s the question at the center of “High Hopes 3000,” Role Model‘s just-released new single, and the singer-songwriter says the idea frames hi… [+15337 chars]"
   }
 ]

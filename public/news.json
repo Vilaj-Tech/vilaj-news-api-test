@@ -1,6 +1,32 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "ARTnews"
+    },
+    "author": "Emily Watlington",
+    "title": "As the Country Turns 250, Why Won’t Its Museums Meet the Moment?",
+    "description": "As America 250 unfolds under Donald Trump, museums from the Smithsonian to MFA Boston find roundabout ways to confront past and present.",
+    "url": "https://www.artnews.com/art-in-america/features/america-250-donald-trump-smithsonian-mfa-boston-museums-1234788176/",
+    "urlToImage": null,
+    "publishedAt": "2026-06-07T09:00:00Z",
+    "content": "The Ultimate Fighting ring had not yet been erected on the White House lawn. The National Mall had not yet been repaved into an IndyCar race track for the Freedom 250. But the entertainment programmi… [+14048 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Bossip"
+    },
+    "author": "Nia Noelle",
+    "title": "Rest In Power: Notable Black Folks Who We’ve Lost In 2026",
+    "description": "Reporting on losses in Black culture, honoring legacies, and navigating grief and resilience.\nThe post Rest In Power: Notable Black Folks Who We’ve Lost In 2026 appeared first on Bossip.",
+    "url": "https://bossip.com/4582019/who-died-in-2026/",
+    "urlToImage": "https://blackamericaweb.com/wp-content/uploads/sites/10/2026/02/17714396321138.png?strip=all&quality=80&w=700&crop=0,0,100,400px",
+    "publishedAt": "2026-06-06T15:32:32Z",
+    "content": "Source: Reach Media / Radio One\r\nAs weve come to understand year after year, day after day, death is an inevitable part of lifea universal truth that spares no one. Yet, despite its certainty, the we… [+59718 chars]"
+  },
+  {
+    "source": {
       "id": "usa-today",
       "name": "USA Today"
     },
@@ -102,31 +128,5 @@
     "urlToImage": "https://ml.globenewswire.com/Resource/Download/f854f31e-8844-4c15-a86b-772ced2fcb2a",
     "publishedAt": "2026-06-05T12:30:00Z",
     "content": "CELEBRATION, Fla., June 05, 2026 (GLOBE NEWSWIRE) -- La Rosa Holdings Corp. (NASDAQ: LRHC) (La Rosa or the Company), a real estate and PropTech company, today provided a business update and reported … [+20930 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The American Prospect"
-    },
-    "author": "Maureen Tkacik",
-    "title": "Debbie Downer",
-    "description": "The sleazy fintech bro Republican running in her home district is as beatable as they come. So why is former DNC chair Wasserman Schultz carpetbagging in a historically Black district?\nThe post Debbie Downer appeared first on The American Prospect.",
-    "url": "http://prospect.org/2026/06/05/debbie-downer-wasserman-schultz-florida-house-races/",
-    "urlToImage": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/06/Tkacik-Wasserman-Schultz-060526.jpg?fit=2000%2C1333&ssl=1",
-    "publishedAt": "2026-06-05T09:30:00Z",
-    "content": "Not long ago, it seemed like 2026 might be an epic comeback year for the Florida Democratic Party. Barely two months into President Trumps second term, they gained ten points on their 2024 numbers in… [+18615 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "CounterPunch"
-    },
-    "author": "James Madigan",
-    "title": "Searching for the Way Forward",
-    "description": "Many activists moved from organizing mass demonstrations and direct actions against Israel’s genocidal war in Gaza to organizing militant demonstrations and direct actions against ICE and for immigrant rights. Today, with a lull in both of these mass movement…",
-    "url": "https://www.counterpunch.org/2026/06/05/searching-for-the-way-forward/",
-    "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2026/05/Screen-Shot-2026-05-30-at-10.02.08-AM.png",
-    "publishedAt": "2026-06-05T05:22:32Z",
-    "content": "Many activists moved from organizing mass demonstrations and direct actions against Israels genocidal war in Gaza to organizing militant demonstrations and direct actions against ICE and for immigran… [+6113 chars]"
   }
 ]

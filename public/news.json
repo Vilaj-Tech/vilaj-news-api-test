@@ -1,29 +1,55 @@
 [
   {
     "source": {
-      "id": "fortune",
-      "name": "Fortune"
+      "id": null,
+      "name": "GlobeNewswire"
     },
-    "author": "Hillel Italie, The Associated Press",
-    "title": "One of America’s greatest historians just died at 92 after being hit by a car in a supermarket parking lot",
-    "description": "Gordon S. Wood, professor emeritus at Brown University, wrote prize-winning works including \"The Radicalism of the American Revolution.\"",
-    "url": "https://fortune.com/2026/06/09/gordon-wood-revolution-historian-dies-92/",
-    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/06/AP26159594145657-e1781018890413.jpg?resize=1200,600",
-    "publishedAt": "2026-06-09T15:28:21Z",
-    "content": "Gordon S. Wood, the eminent and prolific scholar who forged a highly influential and sharply debated narrative of the countrys early years of independence through such prize-winning works as The Crea… [+9026 chars]"
+    "author": "Magic School, Inc.",
+    "title": "MagicSchool Names the 9 U.S. School Districts Leading the Way on AI in K-12 Education",
+    "description": "New report recognizes the top school districts across the country implementing AI thoughtfully and responsibly in 2026\n...",
+    "url": "https://www.globenewswire.com/news-release/2026/06/10/3309921/0/en/MagicSchool-Names-the-9-U-S-School-Districts-Leading-the-Way-on-AI-in-K-12-Education.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/4c6aa3e7-6124-4a09-9684-bf919fbad077",
+    "publishedAt": "2026-06-10T15:16:00Z",
+    "content": "DENVER, June 10, 2026 (GLOBE NEWSWIRE) -- MagicSchool\r\n, the leading AI platform built for K-12 schools, today released its inaugural \"Districts Leading the Way: Class of 2026\" report, recognizing ni… [+8319 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Kffhealthnews.org"
+      "name": "Jezebel"
     },
-    "author": "khnlaureno",
-    "title": "Tuesday, June 9, 2026",
-    "description": "KFF Health News is a national newsroom that produces in-depth journalism about health issues and is one of the core operating programs at KFF—an independent source of health policy research, polling, and journalism. Learn more about KFF. This articleKFF Healt…",
-    "url": "https://kffhealthnews.org/morning-briefing/tuesday-june-9-2026/",
-    "urlToImage": null,
-    "publishedAt": "2026-06-09T13:07:24Z",
-    "content": "A Trump administration initiative to impose $100,000 fees on employers seeking visas for skilled foreign workers amounts to an unlawful tax on those companies and must be voided in its entirety, a fe… [+4932 chars]"
+    "author": "Jacob Weindling",
+    "title": "Sports' Inevitable Gambling Crisis Has Arrived with Brendan Sorsby",
+    "description": "Lubbock judge overrules NCAA, says QB who bet on his team can play for Lubbock's team.",
+    "url": "https://www.jezebel.com/sports-inevitable-existential-crisis-has-arrived-with-brendan-sorsby",
+    "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/06/main-Brendan-Sorsby-TTU-Gambling.jpg",
+    "publishedAt": "2026-06-10T13:59:45Z",
+    "content": "It is quite literally impossible to watch any major sports broadcast in America and not see an ad for gambling anymore. What was once viewed as the ultimate sin is now the proud business partner of t… [+12687 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "On3.com"
+    },
+    "author": "Andy Villamarzo",
+    "title": "2027 RB Keith Smith announces transfer to IMG Academy",
+    "description": "The nationally ranked Bradenton (Fla.) IMG Academy Ascenders football team is receiving a top specialist from the region, according to a social media post via X, formerly known as Twitter. [ $19.99 gets you a FULL year of On3 | Rivals national coverage ] 2027…",
+    "url": "https://www.on3.com/high-school/news/2027-rb-keith-smith-announces-transfer-to-img-academy/",
+    "urlToImage": "https://s.yimg.com/os/en/on3_recruiting_articles_521/977bd08362130e2880d00ea75c2bd5e6",
+    "publishedAt": "2026-06-10T13:58:53Z",
+    "content": "The nationally ranked Bradenton (Fla.) IMG Academy Ascenders football team is receiving a top specialist from the region, according to a social media post via X, formerly known as Twitter.\r\n[ $19.99 … [+2346 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Gandharv Walia",
+    "title": "Quote of the day by Julia Roberts: 'Loving what you do is...' Life lessons on passion, human nature, respect, success and happiness by popular American actor",
+    "description": "Quote of the Day by Julia Roberts highlights the importance of passion, purpose, success, happiness, respect, and personal growth. The quote, “Loving what you do is the secret to everything,” explains how commitment to work and life can shape outcomes. The me…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-julia-roberts-loving-what-you-do-is-life-lessons-on-passion-human-nature-respect-success-and-happiness-by-popular-american-actor/articleshow/131622210.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-131622261,width-1200,height-630,imgsize-2064239,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-06-10T00:36:31Z",
+    "content": "Julia Roberts Quote of the Day by Julia Robertsoffers a message that many people can relate to in their personal and professional lives. The quote, Loving what you do is the secret to everything, foc… [+6490 chars]"
   },
   {
     "source": {
@@ -31,90 +57,51 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "Nichiha USA Showcases Complete Wall Systems and Expanded Architectural Wall Panel Portfolio at AIA26",
-    "description": "VintageWood Smooth, VintageBrick, and ConcreteBoard join the Full Trim Suite to highlight Nichiha's presence at the architecture industry's premier annual gathering SAN DIEGO, June 9, 2026 /PRNewswire/ -- Nichiha USA will exhibit at AIA26, the American Instit…",
-    "url": "https://www.prnewswire.com/news-releases/nichiha-usa-showcases-complete-wall-systems-and-expanded-architectural-wall-panel-portfolio-at-aia26-302794056.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1858938/Z-Modular-TX-134.jpg?id=OA2690342&p=facebook",
-    "publishedAt": "2026-06-09T12:45:00Z",
-    "content": "VintageWood Smooth, VintageBrick, and ConcreteBoard join the Full Trim Suite to highlight Nichiha's presence at the architecture industry's premier annual gathering\r\nSAN DIEGO, June 9, 2026 /PRNewswi… [+3187 chars]"
+    "title": "Thirty-Three States Take Action to Combat Osteoporosis During May as Osteoporosis Awareness and Prevention Month",
+    "description": "ARLINGTON, Va., June 9, 2026 /PRNewswire/ -- The Bone Health and Osteoporosis Foundation (BHOF) announced today that 33 states have taken steps through legislation and executive actions to tackle the costly and growing problem of osteoporosis declaring May 20…",
+    "url": "https://www.prnewswire.com/news-releases/thirty-three-states-take-action-to-combat-osteoporosis-during-may-as-osteoporosis-awareness-and-prevention-month-302795765.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS594172/BHOF-logo-name-w-tag-Vert-Master-RGB--002_Logo.jpg?id=OA2693757&p=facebook",
+    "publishedAt": "2026-06-09T20:00:00Z",
+    "content": "ARLINGTON, Va., June 9, 2026 /PRNewswire/ -- The Bone Health and Osteoporosis Foundation (BHOF) announced today that 33 states have taken steps through legislation and executive actions to tackle the… [+2988 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Dan Wolken",
+    "title": "Texas Tech deserves more hate in Brendan Sorsby's sordid eligibility case",
+    "description": "Texas Tech could choose to do the right thing and tell Sorsby his services are no longer needed. But here's to guessing Cody Campbell and the Red Raiders administration won't find a conscience when it comes to their starting QB.",
+    "url": "https://sports.yahoo.com/college-football/article/texas-tech-deserves-more-hate-in-brendan-sorsbys-sordid-eligibility-case-191252725.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/P81_xLaOT_bVeSMV7DOtMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cfe-conferences-060926_0730.jpg",
+    "publishedAt": "2026-06-09T19:12:52Z",
+    "content": "An important thing seems to have been forgotten in the wake of an injunction that shook college sports to the core Monday.\r\nThe entire crisis around Brendan Sorsby could be avoided with one simple de… [+4812 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Utexas.edu"
+    },
+    "author": "Sam Heimbach",
+    "title": "UT Austin Selected To Help Lead National Expansion of Semiconductor Workforce",
+    "description": "Ten-state network will connect employers, educators and workforce partners to build talent pipelines across America's most semiconductor-dense region.",
+    "url": "https://news.utexas.edu/2026/06/09/ut-austin-selected-to-help-lead-national-expansion-of-semiconductor-workforce/",
+    "urlToImage": "https://news.utexas.edu/wp-content/uploads/2026/06/2024-ENGR-Semiconductor-Classroom-Banerjee-1043-scaled.jpg",
+    "publishedAt": "2026-06-09T17:33:48Z",
+    "content": "As the U.S. increases domestic production of semiconductors to diminish reliance on foreign countries, The University of Texas at Austin has been selected to lead part of a coordinated national strat… [+8535 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Freerepublic.com"
     },
-    "author": "ESPN",
-    "title": "Coaches, ADs 'disgusted,' 'stunned' with Brendan Sorsby ruling",
-    "description": "A judge's decision to rule Texas Tech quarterback Brendan Sorsby eligible on Monday morning roiled college sports, with reactions ranging from doomsday predictions to informal chatter about Big 12 schools attempting to not play the Red Raiders this season. Th…",
-    "url": "https://freerepublic.com/focus/f-chat/4382969/posts",
+    "author": "YouTube",
+    "title": "Karmelo Defense CRUMBLES after Multiple Witnesses Testify!",
+    "description": "This video covers the murder trial of Carmelo Anthony, who is accused of fatally stabbing 17-year-old Austin Metcalf at a high school track meet. The defense's primary argument of self-defense appears to be failing as the trial moves toward jury deliberations…",
+    "url": "https://freerepublic.com/focus/f-bloggers/4383027/posts",
     "urlToImage": null,
-    "publishedAt": "2026-06-09T11:23:54Z",
-    "content": "Skip to comments.\r\nCoaches, ADs 'disgusted,' 'stunned' with Brendan Sorsby rulingESPN ^\r\n | 06/08/2026\r\n | Pete Thamel and Max Olson\r\nPosted on 06/09/2026 4:23:54 AM PDT by DFG\r\nA judge's decision to… [+9645 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Salon"
-    },
-    "author": "Jonathan Larsen",
-    "title": "Bill Pulte’s family has ties to “The Family,” secretive Christian org with vast political influence",
-    "description": "The new acting national intelligence director’s grandfather was close with Fellowship Foundation leader Doug Coe",
-    "url": "https://www.salon.com/2026/06/09/bill-pultes-family-has-ties-to-the-family-secretive-christian/",
-    "urlToImage": "https://www.salon.com/app/uploads/2026/06/Bill-Pulte-GettyImages-2221548184.jpg",
-    "publishedAt": "2026-06-09T10:30:07Z",
-    "content": "Incoming acting Director of National IntelligenceBill Pultes family has had extensive ties over two generations to leaders and financial backers of a secretive Christian organization that conducts sh… [+15915 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Hurriyet Daily News"
-    },
-    "author": "hurriyetdailynews.com",
-    "title": "Türkiye, Azerbaijan, Georgia pledge deeper cooperation",
-    "description": "The foreign ministers of Türkiye, Azerbaijan and Georgia have pledged to deepen trilateral cooperation in areas ranging from security and transport to energy, trade and climate action.",
-    "url": "https://www.hurriyetdailynews.com/turkiye-azerbaijan-georgia-pledge-deeper-cooperation-223057",
-    "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6a27a64ca16f132875cee363.jpg",
-    "publishedAt": "2026-06-09T05:36:16Z",
-    "content": "ISTANBUL\r\nThe foreign ministers of Türkiye, Azerbaijan and Georgia have pledged to deepen trilateral cooperation in areas ranging from security and transport to energy, trade and climate action.\r\nFor… [+2839 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Melissa Koenig, Associated",
-    "title": "Famed American historian quoted in iconic 'Good Will Hunting' scene killed in tragic accident",
-    "description": "Gordon S Wood, a famed scholar of the American Revolution and the founding of the United States, died in a tragic accident in Rhode Island over the weekend.",
-    "url": "https://www.dailymail.com/news/article-15884011/Gordon-Wood-historian-Good-Hunting-killed-crash.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/06/08/23/109210501-0-image-a-24_1780959345031.jpg",
-    "publishedAt": "2026-06-08T23:05:34Z",
-    "content": "A famed scholar of the American Revolution and the founding of the United States, who was once mentioned in the hit film Good Will Hunting, died in a tragic accident over the weekend.\r\nGordon S Wood,… [+10307 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Coolcatteacher.com"
-    },
-    "author": "coolcatteacher@gmail.com (Victoria A Davis, Cool Cat Teacher)",
-    "title": "AI in the Classroom: Why There Are No Best Practices Yet",
-    "description": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast anywhere you listen to podcasts.\nMIT's Justin Reich interviewed 120 teachers and students about AI in the classroom. His finding: there are no research-based best practic…",
-    "url": "https://www.coolcatteacher.com/e939/",
-    "urlToImage": "https://www.coolcatteacher.com/wp-content/uploads/2026/06/939-justin-reich-thumbnail.png",
-    "publishedAt": "2026-06-08T22:12:21Z",
-    "content": "Happy Motivational Monday, friends. Today will make you think as we talk to my friend Justin Reich from MIT. In a June 2026 NPR/Ipsos poll, nearly three out of four teachers said they believe AI will… [+22090 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "ARTnews"
-    },
-    "author": "Brian Boucher",
-    "title": "Crystal Bridges Museum Tacks on a Big Expansion, Just 15 Years After Opening, and Packs it With American Art",
-    "description": "Just fifteen years after opening, Arkansas's Crystal Bridges Museum of American Art, founded by Walmart heir Alice Walton, has expanded dramatically.",
-    "url": "https://www.artnews.com/art-news/news/crystal-bridges-museum-moshe-safdie-expansion-american-art-1234788435/",
-    "urlToImage": null,
-    "publishedAt": "2026-06-08T21:59:43Z",
-    "content": "Crystal Bridges Museum of American Art may have opened its 200,000-square-foot facility in Bentonville, Arkansas just 15 years ago, but it is already ready for its first major addition. At the museum… [+11202 chars]"
+    "publishedAt": "2026-06-09T17:22:51Z",
+    "content": "Skip to comments.\r\n Karmelo Defense CRUMBLES after Multiple Witnesses Testify! YouTube ^\r\n | 06/09/2026\r\n | Robert Gouveia\r\nPosted on 06/09/2026 10:22:51 AM PDT by SmokingJoe\r\nThis video covers the m… [+5492 chars]"
   },
   {
     "source": {
@@ -122,11 +109,24 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "Leading Physician-Economist Dr. Amol Navathe Appointed Chair of the Medicare Payment Advisory Commission (MedPAC)",
-    "description": "WASHINGTON, June 8, 2026 /PRNewswire/ -- The U.S. Government Accountability Office (GAO) has officially announced the appointment of Amol Navathe, MD, PhD, as the new Chair of the Medicare Payment Advisory Commission (MedPAC). Navathe is a prominent internal …",
-    "url": "https://www.prnewswire.com/news-releases/leading-physician-economist-dr-amol-navathe-appointed-chair-of-the-medicare-payment-advisory-commission-medpac-302794256.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1859108/Amol_Navathe.jpg?id=OA2690681&p=facebook",
-    "publishedAt": "2026-06-08T19:06:00Z",
-    "content": "WASHINGTON, June 8, 2026 /PRNewswire/ -- The U.S. Government Accountability Office (GAO) has officially announced the appointment of Amol Navathe, MD, PhD, as the new Chair of the Medicare Payment Ad… [+3228 chars]"
+    "title": "THE PETS & FAMILIES HOUSING COALITION CONVENES U.S. MAYORS TO ADVANCE PET-INCLUSIVE COMMUNITIES",
+    "description": "Nearly two-thirds of U.S. households include a pet, yet a lack of pet-inclusive housing remains a leading driver of pet relinquishment and housing instability. The Pets & Families Housing Coalition convened U.S. mayors and municipal leaders at the U.S. Confer…",
+    "url": "https://www.prnewswire.com/news-releases/the-pets--families-housing-coalition-convenes-us-mayors-to-advance-pet-inclusive-communities-302795563.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1860491/Pet-BlueLogo.jpg?id=OA2693789&p=facebook",
+    "publishedAt": "2026-06-09T16:27:00Z",
+    "content": "<ul><li>Nearly two-thirds of U.S. households include a pet, yet a lack of pet-inclusive housing remains a leading driver of pet relinquishment and housing instability.</li><li>The Pets &amp; Families… [+8015 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Bossip"
+    },
+    "author": "lizsmith23",
+    "title": "Chris Tucker, Dr. J & More Hit The Green ‘Fore’ The Future At The Steve & Marjorie Harvey Foundation Charity Classic [Exclusive]",
+    "description": "Steve Harvey's charity golf event unites celebrities to invest in youth through mentorship, education, and empowerment.\nThe post Chris Tucker, Dr. J & More Hit The Green ‘Fore’ The Future At The Steve & Marjorie Harvey Foundation Charity Classic [Exclusive] a…",
+    "url": "https://bossip.com/4584280/steve-marjorie-harvey-foundation-charity-classic/",
+    "urlToImage": "https://bossip.com/wp-content/uploads/sites/28/2026/06/17810175565423.jpg?quality=80&strip=all&w=1024&crop=0,0,100,678px",
+    "publishedAt": "2026-06-09T15:33:06Z",
+    "content": "<ul><li>Annual golf classic raises funds to cultivate leadership, confidence, and purpose in young people.</li><li>Attendees, including Chris Tucker and Dr. J, emphasize importance of giving back and… [+6489 chars]"
   }
 ]

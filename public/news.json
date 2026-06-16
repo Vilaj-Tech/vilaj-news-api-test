@@ -1,6 +1,71 @@
 [
   {
     "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Kristine Villarroel",
+    "title": "Every US state ranked by high school graduation rate, from lowest to highest",
+    "description": "Graduation rates across US states measure the share of students who graduate from high school in 4 years. See how the rates vary from state to state.",
+    "url": "https://www.businessinsider.com/us-states-ranked-high-school-graduation-rates",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/494741cfe2c205c4f86fce796540f547afc95ffed1b4291496f51789be12428e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fc868537669240d8f05a2c0f8ecbb2929",
+    "publishedAt": "2026-06-15T16:13:04Z",
+    "content": "<ul><li>Business Insider compared the most recent graduation rates reported by all 50 states.\r\n</li><li>Kentucky had the highest graduation rate at 93.60%, while Alaska had the lowest, falling under … [+10419 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Yamaha Motor Corp., USA",
+    "title": "Yamaha Motorsports Demonstrates Commitment to Youth Development as Sole OEM Supporting the Motorcycle Service Technology Competition at Skills USA’s National Leadership Conference",
+    "description": "Yamaha Demonstrates Commitment to Youth Development Supporting the Motorcycle Service Technology Competition at Skills USA’s National Leadership Conference",
+    "url": "https://www.globenewswire.com/news-release/2026/06/15/3311989/0/en/Yamaha-Motorsports-Demonstrates-Commitment-to-Youth-Development-as-Sole-OEM-Supporting-the-Motorcycle-Service-Technology-Competition-at-Skills-USA-s-National-Leadership-Conference.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/09b83af6-320e-40f9-aa95-8e4d1133bb1c",
+    "publishedAt": "2026-06-15T16:00:00Z",
+    "content": "MARIETTA, Ga., June 15, 2026 (GLOBE NEWSWIRE) -- Yamaha Motor Corporation, USA, is proud to announce its role as the sole original equipment manufacturer (OEM) supporting this years Motorcycle Servic… [+3997 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Georgia's Plant Hatch receives 20-year license renewal from the Nuclear Regulatory Commission",
+    "description": "Unit 1 authorized to operate through 2054 and Unit 2 through 2058 ATLANTA, June 15, 2026 /PRNewswire/ -- Georgia Power announced today that the U.S. Nuclear Regulatory Commission (NRC) has approved the subsequent license renewal for the Edwin I. Hatch Nuclear…",
+    "url": "https://www.prnewswire.com/news-releases/georgias-plant-hatch-receives-20-year-license-renewal-from-the-nuclear-regulatory-commission-302800398.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS268159/Georgia_Power_v1_Logo.jpg?id=OA2717033&p=facebook",
+    "publishedAt": "2026-06-15T14:05:00Z",
+    "content": "Unit 1 authorized to operate through 2054 and Unit 2 through 2058 \r\nATLANTA, June 15, 2026 /PRNewswire/ -- Georgia Power announced today that the U.S. Nuclear Regulatory Commission (NRC) has approved… [+6142 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Mother Jones"
+    },
+    "author": "Samantha Michaels",
+    "title": "ICE Took Mom and Dad. Now the Perez Kids Are Home Alone.",
+    "description": "As her older siblings prepare breakfast, 13-year-old Cynthia Perez waits at the kitchen table, not very hungry. “I’m nervous,” she tells her mom’s friend Mariana Blanco, who gently brushes the girl’s long brown hair. “I know you are, love,” Blanco says. “It’s…",
+    "url": "https://www.motherjones.com/politics/2026/06/trump-family-separations-data-us-citizens-children-immigrant-parents-ice-obama-biden-policies/",
+    "urlToImage": "https://www.motherjones.com/wp-content/uploads/2026/05/514_SEPARATIONS_2000.jpg?w=1200&h=630&crop=1",
+    "publishedAt": "2026-06-15T11:30:00Z",
+    "content": "Get your news from a source thats not owned and controlled by oligarchs. Sign up for the free Mother Jones Daily.\r\nAs her older siblings prepare breakfast, 13-year-old Cynthia Perez waits at the kitc… [+27859 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "On3.com"
+    },
+    "author": "Andy Villamarzo",
+    "title": "2028 3-star EDGE Andre Robinson heading to IMG Academy",
+    "description": "Class of 2028 four-star offensive lineman Eytan D’Oleo isn’t the only one leaving New Jersey football power Camden (NJ) for nationally ranked Bradenton (Fla.) IMG Academy. The elite defensive lineman will be joined by a fellow teammate that played alongside o…",
+    "url": "https://www.on3.com/high-school/news/2028-3-star-edge-andre-robinson-heading-to-img-academy/",
+    "urlToImage": "https://s.yimg.com/os/en/on3_recruiting_articles_521/bea273cd4511acb14156c630e55a07d9",
+    "publishedAt": "2026-06-15T11:07:56Z",
+    "content": "Class of 2028 four-star offensive lineman Eytan DOleo isnt the only one leaving New Jersey football power Camden (NJ) for nationally ranked Bradenton (Fla.) IMG Academy. The elite defensive lineman w… [+2385 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "On3.com"
     },
@@ -63,70 +128,5 @@
     "urlToImage": "https://s.yimg.com/os/en/on3_recruiting_articles_521/e713b6d697ddb39169a24c52860d5f03",
     "publishedAt": "2026-06-13T19:03:35Z",
     "content": "Georgia Tech has secured another important defensive piece with the commitment of Noah Renes.\r\nThe 6-foot-3, 220-pound linebacker from Niceville (Fla.) chose Brent Key and the Yellow Jackets over Mis… [+1423 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Yahoo Entertainment"
-    },
-    "author": "Godwin Oluponmile",
-    "title": "A new $1,700 tax credit lets you reroute money from the IRS to scholarships — but 23 states are sitting it out",
-    "description": "A new tax credit allows you to donate $1,700 to a qualified scholarship-granting organization, dropping your federal tax bill by the full $1,700 on what you...",
-    "url": "https://finance.yahoo.com/economy/policy/articles/1-700-tax-credit-lets-174500593.html",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/3BDA32D07998FF39CD143E363973D40821E19333310D2A6C52FDFB50392C1B57/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F23fc6d8a4ea1c27dcc1153ad9d28221a",
-    "publishedAt": "2026-06-13T17:45:00Z",
-    "content": "shutterstock.com / PeopleImages\r\nYou don't usually get to choose where your federal taxes go once they leave your paycheck.\r\nA new credit changes that for up to $1,700 of your bill. Starting with the… [+6548 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Raw Story"
-    },
-    "author": "Alexandria Jacobson, Investigative Reporter",
-    "title": "Trump lawyer barreling toward lifetime bench seat despite 'disturbing' red flags: experts",
-    "description": "One of Donald Trump's personal lawyers in the E. Jean Carroll case is days away from a lifetime seat on a powerful federal appeals court, and legal experts say his written confirmation responses are riddled with \"disturbing\" red flags that can't be ignored.Ju…",
-    "url": "https://www.rawstory.com/raw-investigates/trump-judge-2677036038/",
-    "urlToImage": "https://www.rawstory.com/media-library/justin-d-smith.png?id=66909622&width=1200&height=600&coordinates=0%2C65%2C0%2C66",
-    "publishedAt": "2026-06-13T13:30:32Z",
-    "content": "One of Donald Trump's personal lawyers in the E. Jean Carroll case is days away from a lifetime seat on a powerful federal appeals court, and legal experts say his written confirmation responses are … [+7528 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Orlando Sentinel"
-    },
-    "author": "Mike Bianchi, Orlando Sentinel",
-    "title": "Mike Bianchi: UCF and Big 12 must stand up to protect college football from Texas Tech’s dangerous gamble",
-    "description": "ORLANDO, Fla. — Nick Saban sat before Congress just days ago and delivered a warning that should send chills through every corner of college athletics. “Right now in college football we have no rules,” said the greatest college football coach of all time. “We…",
-    "url": "https://www.orlandosentinel.com/2026/06/12/texas-tech-brendan-sorsby-ucf-big-12-mike-bianchi-commentary/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_UUg9HXwWtr0Q9kuBwX8cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/orlando_sentinel_national_858/27645574f4ca7157b5475a10f2a3c99a",
-    "publishedAt": "2026-06-13T09:30:00Z",
-    "content": "ORLANDO, Fla. Nick Saban sat before Congress just days ago and delivered a warning that should send chills through every corner of college athletics.\r\nRight now in college football we have no rules, … [+7006 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Wells Fargo Foundation Provides $1 Million Grant to Expand Capital Access for Broward County Entrepreneurs",
-    "description": "Ascendus to deploy $900,000 in loans and pair every dollar with hands-on coaching, from Prospera and other partners, supporting an estimated 160 local jobs across 36 Broward small businesses FORT LAUDERDALE, Fla., June 12, 2026 /PRNewswire/ -- Today at the 20…",
-    "url": "https://www.prnewswire.com/news-releases/wells-fargo-foundation-provides-1-million-grant-to-expand-capital-access-for-broward-county-entrepreneurs-302799451.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1864066/2026_BRIDGE_Broward_Partners.jpg?id=OA2704465&p=facebook",
-    "publishedAt": "2026-06-12T21:37:00Z",
-    "content": "Ascendus to deploy $900,000 in loans and pair every dollar with hands-on coaching, from Prospera and other partners, supporting an estimated 160 local jobs across 36 Broward small businesses\r\nFORT LA… [+7723 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "phillymag.com"
-    },
-    "author": "Shaunice Ajiwe",
-    "title": "America’s Greatest Black-Owned Bookstore Community Is Right Here in Philly",
-    "description": "Marc Lamont Hill was never the same after his brother Anthony gave him a copy of The Autobiography of Malcolm X when he was a […]",
-    "url": "https://www.phillymag.com/news/2026/06/12/black-owned-bookstores-philadelphia/",
-    "urlToImage": "https://cdn10.phillymag.com/wp-content/uploads/sites/3/2026/06/1200-blackBookstores.jpg",
-    "publishedAt": "2026-06-12T18:24:51Z",
-    "content": "LongformMore than places to buy books, these neighborhood institutions serve as classrooms, gathering spaces, and engines of change.\r\nMarc Lamont Hill at his Uncle Bobbies Coffee and Books / Photogra… [+19441 chars]"
   }
 ]

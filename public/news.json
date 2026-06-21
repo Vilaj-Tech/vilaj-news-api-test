@@ -1,6 +1,71 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "Ieee.org"
+    },
+    "author": "Edd Gent",
+    "title": "War Taught this Ukrainian Entrepreneur the Value of Resilience",
+    "description": "Salome Mikadze-Struk is no stranger to adversity. The daughter of refugees, she built a software-development business as an undergraduate at the height of the COVID-19 pandemic and kept it running despite the outbreak of war in her native Ukraine. Now, she’s …",
+    "url": "https://spectrum.ieee.org/mikadze-struk-resilience-in-entrepreneurship",
+    "urlToImage": "https://spectrum.ieee.org/media-library/image.jpg?id=66957336&width=1200&height=600&coordinates=0%2C16%2C0%2C84",
+    "publishedAt": "2026-06-20T13:00:01Z",
+    "content": "Salome Mikadze-Struk is no stranger to adversity. The daughter of refugees, she built a software-development business as an undergraduate at the height of the COVID-19pandemic and kept it running des… [+7737 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Abcnews.com"
+    },
+    "author": "ANDREA RODRÍGUEZ Associated Press",
+    "title": "Cuba pushes through sweeping free-market reforms",
+    "description": "Observers are calling Cuba’s new free-market reforms the most sweeping economic overhaul on the island’s communist economy since the Cuban revolution while the grandson of former President Raúl Castro says in an interview that Cuba must seek to move it...",
+    "url": "https://abcnews.com/Business/wireStory/cuba-pushes-sweeping-free-market-reforms-biggest-economic-134047041",
+    "urlToImage": "https://i.abcnewsfe.com/a/528d7f3b-09a0-46dd-8121-2c016c0ffc10/wirestory_b6b8d4319d4291dde47084baa624c795_16x9.jpg?w=1600",
+    "publishedAt": "2026-06-19T23:40:35Z",
+    "content": "HAVANA -- Observers on Friday called Cubas new free-market reforms the most sweeping economic overhaul of the islands communist economy since the Cuban revolution, as the grandson of former President… [+4185 chars]"
+  },
+  {
+    "source": {
+      "id": "associated-press",
+      "name": "Associated Press"
+    },
+    "author": "Andrea Rodríguez",
+    "title": "Cuban Parliament's free-market measures mark historic economic reform",
+    "description": "Observers are calling Cuba’s new free-market reforms the most sweeping economic overhaul on the island’s communist economy since the Cuban revolution while the grandson of former President Raúl Castro says in an interview that Cuba must seek to move its econo…",
+    "url": "https://apnews.com/article/cuba-economic-reforms-us-embargo-diaz-canel-trump-rubio-b6b8d4319d4291dde47084baa624c795",
+    "urlToImage": "https://dims.apnews.com/dims4/default/c3aae9d/2147483647/strip/true/crop/4001x2666+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F98%2Fe5%2Fb17b08a1412831c025d3c442d2cc%2F79ab658237c14220a7add2ec1f59188c",
+    "publishedAt": "2026-06-19T23:04:04Z",
+    "content": "HAVANA (AP) Observers on Friday called Cubas new free-market reforms the most sweeping economic overhaul of the islands communist economy since the Cuban revolution, as the grandson of former Preside… [+4281 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Nakedcapitalism.com"
+    },
+    "author": "KLG",
+    "title": "Coffee Break: More on American Science, An NIH Grant Long Overdue, An Experimental Model, and Further Thoughts on AI",
+    "description": "Part the First: Back to the Past in Science and Medicine.  The future of basic science in the United States looks grim for everyone from the aspiring graduate student to the full professor who has met her potential and has several graduate students, postdocs,…",
+    "url": "https://www.nakedcapitalism.com/2026/06/coffee-break-more-on-american-science-an-nih-grant-long-overdue-an-experimental-model-and-further-thoughts-on-ai.html",
+    "urlToImage": null,
+    "publishedAt": "2026-06-19T18:00:47Z",
+    "content": "Part the First: Back to the Past in Science and Medicine.  The future of basic science in the United States looks grim for everyone from the aspiring graduate student to the full professor who has me… [+20989 chars]"
+  },
+  {
+    "source": {
+      "id": "breitbart-news",
+      "name": "Breitbart News"
+    },
+    "author": "Lowell Cauffiel",
+    "title": "Georgia Police: Teacher Wore 'Jesus Loves You' Sweater in Video While Having Sex with Student, Boosted Grades to Keep Teens from Reporting Her OnlyFans",
+    "description": "The ongoing problem of rampant educator sexual misconduct took a new twist in Georgia this week as a biology teacher is accused of not only molesting a half-dozen teenagers, but also operating a pornographic Only Fans account and filming sex with one student …",
+    "url": "https://www.breitbart.com/crime/2026/06/19/georgia-police-teacher-wore-jesus-loves-you-sweater-in-video-while-having-sex-with-student-was-giving-good-grades-to-students-to-hide-only-fans-page/",
+    "urlToImage": "https://media.breitbart.com/media/2026/06/Maris-Nichols-640x335.jpg",
+    "publishedAt": "2026-06-19T16:58:11Z",
+    "content": "The ongoing problem of rampant educator sexual misconduct took a new twist in Georgia this week as a biology teacher is accused of not only molesting a half-dozen teenagers, but also operating a porn… [+3247 chars]"
+  },
+  {
+    "source": {
       "id": "business-insider",
       "name": "Business Insider"
     },
@@ -63,70 +128,5 @@
     "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/06/AP26167523020203.jpg",
     "publishedAt": "2026-06-19T00:00:00Z",
     "content": "Alex Bores is engulfed in a brutal (and super-expensive) battle over how technology will change work, life, and society.\r\nAd Policy\r\nAlex Bores, democratic candidate in New Yorks 12th Congressional D… [+16279 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "On3.com"
-    },
-    "author": "Chad Simmons",
-    "title": "Georgia Tech lands a commitment from 4-star EDGE Justin Weeks",
-    "description": "Justin Weeks arrived in Atlanta expecting to learn more about Georgia Tech. He left as a Yellow Jacket. The four-star EDGE from Douglasville (Ga.) Douglas County announced his commitment to Brent Key and Georgia Tech after an official visit that changed the c…",
-    "url": "https://www.on3.com/rivals/news/georgia-tech-lands-a-commitment-from-4-star-edge-justin-weeks/",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/1385067ff194ca8bda106fbb1f6b920f6f549441f0303c1ac26fb01463c88370/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fon3_recruiting_articles_521%2Fda1ad29768b529bcc63b336c7208660b",
-    "publishedAt": "2026-06-18T22:23:15Z",
-    "content": "Justin Weeks arrived in Atlanta expecting to learn more about Georgia Tech.\r\nHe left as a Yellow Jacket.\r\nThe four-star EDGE from Douglasville (Ga.) Douglas County announced his commitment to Brent K… [+2211 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "SkillsUSA Elects 2026-27 National Officers, Leads Charge Against Nationwide Skills Gap",
-    "description": "As vital industries face critical labor shortages, 15 student leaders step up to champion the next generation of the skilled workforce our economy depends on LEESBURG, Va., June 18, 2026 /PRNewswire/ -- With the American economy facing a widening skills gap—m…",
-    "url": "https://www.prnewswire.com/news-releases/skillsusa-elects-2026-27-national-officers-leads-charge-against-nationwide-skills-gap-302804600.html",
-    "urlToImage": "https://mma.prnewswire.com/media/2997350/SkillsUSA_2026_2027_National_Officer_Team.jpg?p=facebook",
-    "publishedAt": "2026-06-18T18:20:00Z",
-    "content": "As vital industries face critical labor shortages, 15 student leaders step up to champion the next generation of the skilled workforce our economy depends on\r\nLEESBURG, Va., June 18, 2026 /PRNewswire… [+4425 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Highsnobiety"
-    },
-    "author": null,
-    "title": "The Life-Changing Power of Football",
-    "description": "With the 2026 FIFA World Cup upon us, it’s clear that football is the world’s sport. Eleven players, creatives, and artists tell us how it shaped their lives.",
-    "url": "https://www.highsnobiety.com/p/adam-friedland-cobi-jones-chris-richards-football-soccer-origin-world-cup/",
-    "urlToImage": "https://www.highsnobiety.com/static-assets/dato/1781801344-hs_soccer_wf_mel-recovered.jpg",
-    "publishedAt": "2026-06-18T17:47:33Z",
-    "content": "The World Cup is here. People who have never expressed the slightest interest in the beautiful game will be perched at the water cooler, preaching the gospel of Frances elite forwards or the brillian… [+24466 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Stateline.org"
-    },
-    "author": "Sofia Resnick",
-    "title": "Trump Administration Shifts Pregnancy-Prevention Program to Promote Childbearing",
-    "description": "Title X, which was signed into law in 1970, has prevented almost 20 million unintended pregnancies.",
-    "url": "https://stateline.org/2026/06/18/trump-changes-pregnancy-prevention-program-to-promote-childbearing/",
-    "urlToImage": "https://truthout.org/app/uploads/2026/06/GettyImages-1312832605-scaled.jpg",
-    "publishedAt": "2026-06-18T16:56:58Z",
-    "content": "Truthout is a vital news source and a living history of political struggle. If you think our work is valuable, support us with a donation of any size.\r\nA federal poverty-fighting program focused on r… [+8326 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Gbdmagazine.com"
-    },
-    "author": "Laura Rote",
-    "title": "Highlights from NeoCon and Fulton Market Design Days 2026",
-    "description": "Story at a glance: More than 55,000 commercial design professionals attended this year’s NeoCon and Fulton Market Design Days events in Chicago. Bold color was a major player across furniture, fabrics, and more at this year’s shows. Designers were excited to …",
-    "url": "https://gbdmagazine.com/neocon-and-design-days-2026/",
-    "urlToImage": "https://gbdmagazine.com/wp-content/uploads/2026/06/neoconP1095864.jpg",
-    "publishedAt": "2026-06-18T15:54:19Z",
-    "content": "Story at a glance:\r\n<ul><li>More than 55,000 commercial design professionals attended this years NeoCon and Fulton Market Design Days events in Chicago.</li><li>Bold color was a major player across f… [+29102 chars]"
   }
 ]

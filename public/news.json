@@ -2,6 +2,84 @@
   {
     "source": {
       "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Matt Novak",
+    "title": "Every State’s ‘America 250’ Time Capsule Contributions, Ranked",
+    "description": "Where did your state rank?",
+    "url": "https://gizmodo.com/every-states-america-250-time-capsule-contributions-ranked-2000776096",
+    "urlToImage": "https://gizmodo.com/app/uploads/2026/06/shovel_america250-1200x675.jpg",
+    "publishedAt": "2026-06-27T12:00:42Z",
+    "content": "A time capsule to celebrate America’s Semiquincentennial, the 250th anniversary of the country’s founding, was recently sealed and will be buried at Independence National Historical Park in Philadelp… [+45577 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "Reuters",
+    "title": "Wealthy nations reap huge benefits from immigration, study finds",
+    "description": "Wealthy nations with the highest rate of immigration over the past 35 years reaped a large economic benefit and many could still absorb more ​workers, according to research to be presented at a top European Central Bank conference next week. Political tension…",
+    "url": "https://freerepublic.com/focus/f-news/4385624/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-06-27T02:22:15Z",
+    "content": "Skip to comments.\r\nWealthy nations reap huge benefits from immigration, study findsReuters ^\r\n | June 25, 2026\r\nPosted on 06/26/2026 7:22:15 PM PDT by MinorityRepublican\r\nWealthy nations with the hig… [+5360 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Detroit News"
+    },
+    "author": "Connor Earegood, The Detroit News",
+    "title": "J Batt still working at Michigan State despite taking Kentucky AD job",
+    "description": "J Batt is still working and being paid at Michigan State despite taking the role as Kentucky athletic director.",
+    "url": "https://www.detroitnews.com/story/sports/college/michigan-state-university/2026/06/26/j-batt-paid-michigan-state-kentucky-athletic-director/90712453007/",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/2fa1715bd8b962bcf6fa00fa0975bb394e358f4fde56ca2397908153a4aeafb6/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdetroit_news_articles_230%2F5774b3e78e1c552b714fd170738927c0",
+    "publishedAt": "2026-06-26T19:09:46Z",
+    "content": "Two weeks after athletic director J Batt accepted the same position at Kentucky, Michigan State still has not named an interim athletic director. However, it is not without leadership, because Batt i… [+2291 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "Dallas Express",
+    "title": "$7.25 To $25? Senate Democrat’s New Federal Minimum Wage Proposal",
+    "description": "Sen. Chris Murphy (D-Connecticut) introduced legislation on Thursday to raise the federal minimum wage from $7.25 to $25 per hour through phased increases. The bill, titled the Living Wage for All Act, includes a companion measure in the House led by Rep. Del…",
+    "url": "https://freerepublic.com/focus/f-news/4385561/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-06-26T17:16:24Z",
+    "content": "Skip to comments.\r\n$7.25 To $25? Senate Democrats New Federal Minimum Wage Proposal\r\nDallas Express ^\r\n | June 26, 2026\r\n | Tiffany Chartier - Senior Production Editor \r\nPosted on 06/26/2026 10:16:24… [+6432 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "The Inner Circle acknowledges Dr. Barbara Betancourt Cortes as a Pinnacle Lifetime Member",
+    "description": "ROSWELL, Ga., June 26, 2026 /PRNewswire/ -- Dr. Barbara Betancourt Cortes is Recognized as a Pinnacle Lifetime Member for Excellence in Chiropractic Care and Patient Wellness. Barbara Betancourt Cortes, DC, has established a promising career in chiropractic m…",
+    "url": "https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-dr-barbara-betancourt-cortes-as-a-pinnacle-lifetime-member-302812009.html",
+    "urlToImage": "https://mma.prnewswire.com/media/3001221/Dr_Barbara_Betancourt_Cortes.jpg?p=facebook",
+    "publishedAt": "2026-06-26T17:16:00Z",
+    "content": "ROSWELL, Ga., June 26, 2026 /PRNewswire/ -- Dr. Barbara Betancourt Cortes is Recognized as a Pinnacle Lifetime Member for Excellence in Chiropractic Care and Patient Wellness.\r\nBarbara Betancourt Cor… [+3479 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Isaiah Osei Duah Junior, Katelyn JeNay Houston, Danielle S. Rodriguez, Cassandra M. Germain",
+    "title": "Electroretinography as a non-invasive biomarker for early detection of cognitive impairment in older adults: A scoping review protocol",
+    "description": "Cognitive decline and dementia represent a growing global health challenge with an urgent need for accessible biomarkers to support early detection, monitoring, and timely intervention, particularly among marginalized populations who face persistent barriers …",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352593",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0352593.g002&size=inline",
+    "publishedAt": "2026-06-26T14:00:00Z",
+    "content": "Abstract\r\nCognitive decline and dementia represent a growing global health challenge with an urgent need for accessible biomarkers to support early detection, monitoring, and timely intervention, par… [+31472 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "The Atlantic"
     },
     "author": "Kelsey Ables",
@@ -50,83 +128,5 @@
     "urlToImage": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-FsNMhM4/0/LJr9h9HvnhxGxTFLKnVvgGcNnLtXXzCS942pzCD7B/L/2181epart-L.jpg",
     "publishedAt": "2026-06-26T01:54:43Z",
     "content": "Subscribe Apple | Spotify | Amazon |iHeart Radio | Castbox | Podcast Republic | RSS | Patreon | Discord | Facebook | IMDB\r\nFew figures have inspired as much fear as Lavrentiy Beria. \r\nAs the ruthless… [+12553 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Bleeding Cool News"
-    },
-    "author": "Ray Flook",
-    "title": "CMA Fest 2026: Our Viewing Guide to Tonight's Big Country Music Event",
-    "description": "Tonight, multi-award-winning country star Riley Green and Emmy Award-winning anchor and host from ABC's Good Morning America, Lara Spencer, will host the Country Music Association and ABC's CMA Fest presented by SoFi (CMA Fest 2026). The three-hour concert ev…",
-    "url": "https://bleedingcool.com/tv/cma-fest-2026-our-viewing-guide-to-tonights-big-country-music-event/",
-    "urlToImage": "https://bleedingcool.com/wp-content/uploads/2026/06/MixCollage-24-Jun-2026-07-27-PM-7566-2000x1125.jpg",
-    "publishedAt": "2026-06-25T22:37:11Z",
-    "content": "Posted in: ABC, Hulu, Music, Pop Culture, TV | Tagged: CMA Fest\r\nHosted by Riley Green and Lara Spencer, here's your preview/viewing guide for tonight's CMA Fest presented by SoFi (CMA Fest 2026) on … [+83957 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PR Newswire UK"
-    },
-    "author": null,
-    "title": "Marquis Who's Who Honors Leoma G. Gilley, PhD, as Linguist and Author",
-    "description": "UNIONDALE, N.Y., June 25, 2026 /PRNewswire/ -- Marquis Who's Who honors Leoma G. Gilley, PhD, as a linguist and author, acknowledging her unique achievements in biblical translation and literature. With nearly 50 years of professional experience, Dr. Gilley h…",
-    "url": "https://www.prnewswire.co.uk/news-releases/marquis-whos-who-honors-leoma-g-gilley-phd-as-linguist-and-author-302811288.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1873419/Screenshot_2026-06-25_at_1-36-16_PM.jpg?id=OA2736990&p=facebook",
-    "publishedAt": "2026-06-25T21:12:00Z",
-    "content": "UNIONDALE, N.Y., June 25, 2026 /PRNewswire/ -- Marquis Who's Who honors Leoma G. Gilley, PhD, as a linguist and author, acknowledging her unique achievements in biblical translation and literature. W… [+3921 chars]"
-  },
-  {
-    "source": {
-      "id": "the-irish-times",
-      "name": "The Irish Times"
-    },
-    "author": "Nathan Johns",
-    "title": "At 6ft 7in, Spain U20 secondrow Rocky Kenneally won’t stay under the radar much longer",
-    "description": "Born in the UK and living in Marbella, Kenneally boarded at Blackrock and played in this year's Leinster Senior Cup final",
-    "url": "https://www.irishtimes.com/sport/rugby/2026/06/25/at-6ft-7in-spain-u20-secondrow-rocky-kenneally-wont-stay-under-the-radar-much-longer/",
-    "urlToImage": "https://www.irishtimes.com/resizer/v2/CVP5FSZGHNA67CRXTD4PN3XGOQ.jpg?smart=true&auth=b3fc40bcf82e12a724c5222afca84b8941b6c6bec541f6e355432b1b1dad449e&width=1200&height=630",
-    "publishedAt": "2026-06-25T19:30:38Z",
-    "content": "Rocky Kenneally found himself at a Leinster summer camp in Kings Hospital. It was a present from his Irish grandmother. Kenneally lived in Marbella, so perhaps part of grannys incentive was to get so… [+4895 chars]"
-  },
-  {
-    "source": {
-      "id": "the-irish-times",
-      "name": "The Irish Times"
-    },
-    "author": "Nathan Johns",
-    "title": "Rocky Kenneally: Meet the Blackrock boarder playing rugby for Spain",
-    "description": "Born in the UK and living in Marbella, Kenneally boarded at the Dublin school and played in the Leinster Senior Cup final",
-    "url": "https://www.irishtimes.com/sport/rugby/2026/06/25/rocky-kenneally-meet-the-blackrock-boarder-playing-rugby-for-spain/",
-    "urlToImage": "https://www.irishtimes.com/resizer/v2/CVP5FSZGHNA67CRXTD4PN3XGOQ.jpg?smart=true&auth=b3fc40bcf82e12a724c5222afca84b8941b6c6bec541f6e355432b1b1dad449e&width=1200&height=630",
-    "publishedAt": "2026-06-25T19:30:38Z",
-    "content": "Rocky Kenneally found himself at a Leinster summer camp in Kings Hospital. It was a present from his Irish grandmother. Kenneally lived in Marbella, so perhaps part of grannys incentive was to get so… [+4905 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Columbia.edu"
-    },
-    "author": "Olga Rukovets",
-    "title": "Life Aboard the Langseth: A Q&A With Chief Science Officer Cody Bahlau",
-    "description": "On Columbia’s global research vessel, the R/V Marcus G. Langseth, Bahlau serves as the key link between scientists, crewmembers and operations on shore.",
-    "url": "https://news.climate.columbia.edu/2026/06/25/life-aboard-the-langseth-a-qa-with-chief-science-officer-cody-bahlau/",
-    "urlToImage": "https://media.news.climate.columbia.edu/wp-content/uploads/2026/06/Pic-1-1300x975.jpg",
-    "publishedAt": "2026-06-25T17:35:19Z",
-    "content": "Aboard Columbias global research vessel, the R/V Marcus G. Langseth, Cody Bahlau serves as the key link between the scientific teams, crew members and operations on shore. Despite the diverse and oft… [+10930 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Cdc.gov"
-    },
-    "author": "CDC",
-    "title": "Notes from the Field: Drug Overdose Deaths in Hotels and Motels — United States, 2022–2024",
-    "description": "This report describes the number of drug overdose deaths that occurred in U.S. hotels and motels during 2022–2024.",
-    "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7524a2.htm",
-    "urlToImage": "https://www.cdc.gov/mmwr/volumes/75/wr/social-media/weekly_generic_logo_1200x675_1.jpg?_=88225",
-    "publishedAt": "2026-06-25T17:23:38Z",
-    "content": "Summary\r\nWhat is already known about this topic?\r\nIn 2024, at least 2,327 drug overdose deaths that were unintentional or of undetermined intent occurred in hotels and motels. Location-specific overd… [+18103 chars]"
   }
 ]

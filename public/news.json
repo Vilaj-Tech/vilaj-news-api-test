@@ -2,6 +2,71 @@
   {
     "source": {
       "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "GradGuard",
+    "title": "GradGuard Celebrates Second Annual Scholarship Program, Awarding More Than $20,000 to College Students on National Insurance Awareness Day",
+    "description": "Students will receive up to $3,000 to help offset tuition, books, housing, or other college-related expenses. Students will receive up to $3,000 to help offset tuition, books, housing, or other college-related expenses.",
+    "url": "https://www.globenewswire.com/news-release/2026/06/28/3318590/0/en/GradGuard-Celebrates-Second-Annual-Scholarship-Program-Awarding-More-Than-20-000-to-College-Students-on-National-Insurance-Awareness-Day.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/d305a5be-bc15-4203-bddb-268abb3e3c7f",
+    "publishedAt": "2026-06-28T14:30:00Z",
+    "content": "PHOENIX, June 28, 2026 (GLOBE NEWSWIRE) -- GradGuard, the authority in helping protect students and their families from the risks of college life through its pioneering tuition and renters insurance … [+3666 chars]"
+  },
+  {
+    "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Enyi Okebugwu",
+    "title": "More than 3 million college students are raising kids. Most won’t graduate",
+    "description": "Only 18% of student parents earn a degree within six years. Fixing this isn't charity — it's the most direct solution to the talent shortage.",
+    "url": "https://fortune.com/2026/06/28/student-parents-workforce-talent-shortage-child-care-okebugwu/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2239742474-e1782480380225.jpg?resize=1200,600",
+    "publishedAt": "2026-06-28T09:30:00Z",
+    "content": "Seven in 10 U.S. employers report difficulty finding the talent they need. The workers theyre looking for exist they are sitting in classrooms, or they were, until the system pushed them out.Nearly o… [+5591 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Georgia district quietly trained teachers to blame 'Whiteness,' 'decolonize' under federal crackdown: report",
+    "description": "City Schools of Decatur allegedly hid race-based policies from federal oversight after embedding DEI ideology in teacher training and curriculum, a watchdog group reports.",
+    "url": "https://www.foxnews.com/media/georgia-district-quietly-trained-teachers-blame-whiteness-decolonize-under-federal-crackdown-report",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/california-faculty-call-for-standardized-test-scores-to-be-reinstated.jpeg",
+    "publishedAt": "2026-06-27T19:00:39Z",
+    "content": "A Georgia public school district quietly scrubbed its website and altered race-based policies to evade a sweeping federal crackdown on Diversity, Equity, and Inclusion (DEI) programs, a new watchdog … [+4387 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Mental Floss"
+    },
+    "author": "Jenny Cohen",
+    "title": "See the Highest-Paid Job in Every State, Mapped",
+    "description": "Jobs in healthcare top the rankings list.",
+    "url": "https://www.mentalfloss.com/geography/maps/highest-paying-job-every-state",
+    "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_1469,w_2859,h_1608/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01kvxknfvyckq18avknn.jpg",
+    "publishedAt": "2026-06-27T18:00:00Z",
+    "content": "There are many different options when it comes to jobs thatll pay you a reliable salary. You may want to check out the most common jobs in your state to get an idea of positions that may be easier to… [+3606 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Nick Pisa",
+    "title": "England fans take New York: Three Lions followers flood the Big Apple to cheer on Harry Kane's men as they bid to beat Panama and reach World Cup knockout stage",
+    "description": "Flights from UK were sold out as die-hard fans crossed the Atlantic for the game at New York's Met Life stadium, which will kick off at 5pm local or 10pm back home.",
+    "url": "https://www.dailymail.com/news/article-15934695/England-fans-New-York-Three-Lions-World-Cup.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/06/27/15/109641097-0-image-m-39_1782570239468.jpg",
+    "publishedAt": "2026-06-27T15:19:22Z",
+    "content": "Thousands of England fans have flooded into New York for the team's final group game against Panama and cheer them on into the knockout stages.\r\nFlights from UK were sold out as die-hard fans crossed… [+12978 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "Gizmodo.com"
     },
     "author": "Matt Novak",
@@ -63,70 +128,5 @@
     "urlToImage": "https://mma.prnewswire.com/media/3001221/Dr_Barbara_Betancourt_Cortes.jpg?p=facebook",
     "publishedAt": "2026-06-26T17:16:00Z",
     "content": "ROSWELL, Ga., June 26, 2026 /PRNewswire/ -- Dr. Barbara Betancourt Cortes is Recognized as a Pinnacle Lifetime Member for Excellence in Chiropractic Care and Patient Wellness.\r\nBarbara Betancourt Cor… [+3479 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Plos.org"
-    },
-    "author": "Isaiah Osei Duah Junior, Katelyn JeNay Houston, Danielle S. Rodriguez, Cassandra M. Germain",
-    "title": "Electroretinography as a non-invasive biomarker for early detection of cognitive impairment in older adults: A scoping review protocol",
-    "description": "Cognitive decline and dementia represent a growing global health challenge with an urgent need for accessible biomarkers to support early detection, monitoring, and timely intervention, particularly among marginalized populations who face persistent barriers …",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352593",
-    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0352593.g002&size=inline",
-    "publishedAt": "2026-06-26T14:00:00Z",
-    "content": "Abstract\r\nCognitive decline and dementia represent a growing global health challenge with an urgent need for accessible biomarkers to support early detection, monitoring, and timely intervention, par… [+31472 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Atlantic"
-    },
-    "author": "Kelsey Ables",
-    "title": "Here Come Trump’s ‘Freedom Trucks’",
-    "description": "A fleet of mobile museums is touring the country with a version of American history the administration can get behind.",
-    "url": "https://www.theatlantic.com/culture/2026/06/freedom-trucks-trump/687458/",
-    "urlToImage": "https://cdn.theatlantic.com/thumbor/WtI8PNWRt8rXUEezQS3xgvR7RpI=/0x1000:2995x2560/1200x625/media/img/mt/2026/06/2026_06_09_FreedomTrucks/original.jpg",
-    "publishedAt": "2026-06-26T11:00:00Z",
-    "content": "Photographs by Brad TroneRight now, six AI-Generated George Washingtons are roaming around the country in semitrucks, stopping at sites as varied as the New Mexico desert and the National Mall and at… [+18684 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Thenation.com"
-    },
-    "author": "Ryan Thoreson",
-    "title": "Protecting Children Means Defending LGBT Rights",
-    "description": "Ryan Thoreson\n\n\n\nAround the world, governments are scapegoating LGBT people to build popular support for their erosion of individual rights—often under the guide of protecting children.\r\n\n\r\n\n\nThe post Protecting Children Means Defending LGBT Rights appeared f…",
-    "url": "https://www.thenation.com/article/world/lgbt-rights-children-authoritarianism/",
-    "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/06/budapest-pride-gt-img.jpg",
-    "publishedAt": "2026-06-26T09:00:00Z",
-    "content": "Around the world, governments are scapegoating LGBT people to build popular support for their erosion of individual rightsoften under the guide of protecting children.\r\nAd Policy\r\nParticipants cross … [+15813 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Inside Higher Ed"
-    },
-    "author": "Sara Weissman",
-    "title": "Florida Universities Consider Banning Undocumented Students",
-    "description": "Florida Universities Consider Banning Undocumented Students\n\n \n\n\n \nSara Weissman\n\nFri, 06/26/2026 - 03:00 AM\n\nAnd the board overseeing state colleges is eyeing a similar ban. Together, the policies could make Florida the fourth state to limit noncitizens’ enr…",
-    "url": "https://www.insidehighered.com/news/government/state-policy/2026/06/26/florida-universities-could-ban-undocumented-students",
-    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-06/No_Entry_University_of_Florida.jpg?itok=5Cb79dWa",
-    "publishedAt": "2026-06-26T07:00:00Z",
-    "content": "The Florida Board of Governors this week took a step toward barring undocumented students from admission to the state systems 12 public universities.\r\nA proposed rule, discussed Thursday by the board… [+5740 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Everything-everywhere.com"
-    },
-    "author": "Gary Arndt",
-    "title": "Lavrentiy Beria: The Rise and Fall of Stalin’s Right-Hand Man",
-    "description": "Podcast Transcript Few figures have inspired as much fear as Lavrentiy Beria.  As the ruthless head of Stalin’s secret police, he oversaw purges, mass arrests, deportations, and a vast system of terror that touched millions of lives.  Yet after Stalin’s death…",
-    "url": "https://everything-everywhere.com/lavrentiy-beria-the-rise-and-fall-of-stalins-right-hand-man/",
-    "urlToImage": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-FsNMhM4/0/LJr9h9HvnhxGxTFLKnVvgGcNnLtXXzCS942pzCD7B/L/2181epart-L.jpg",
-    "publishedAt": "2026-06-26T01:54:43Z",
-    "content": "Subscribe Apple | Spotify | Amazon |iHeart Radio | Castbox | Podcast Republic | RSS | Patreon | Discord | Facebook | IMDB\r\nFew figures have inspired as much fear as Lavrentiy Beria. \r\nAs the ruthless… [+12553 chars]"
   }
 ]

@@ -1,6 +1,45 @@
 [
   {
     "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Florida board votes to ban illegal immigrants from public college admissions",
+    "description": "The 6-1 vote bars illegal immigrants from 28 state colleges and adult education programs, drawing fierce pushback from students and a state senator.",
+    "url": "https://www.foxnews.com/media/florida-board-votes-ban-illegal-immigrants-public-college-admissions",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/ron-desantis-florida-gov.png",
+    "publishedAt": "2026-07-02T21:00:24Z",
+    "content": "Florida's State Board of Education voted Tuesday to move forward with a policy barring illegal immigrants from being admitted to the state's public colleges, marking the latest effort by state leader… [+2892 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Global Desk",
+    "title": "Quote of the Day by Samuel L. Jackson: “Those who say that money can't buy happiness, never… – Inspiring lessons on wealth, happiness, financial stability, opportunity and why money makes life easier by the American actor known for his commanding screen presence and deep insights on success and life",
+    "description": "Quote of the Day by Samuel L. Jackson: Samuel L. Jackson’s quote, “Those who say that money can't buy happiness, never had any,” explores the practical relationship between money, financial security, and happiness. The quote suggests that while wealth alone c…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-samuel-l-jackson-those-who-say-that-money-cant-buy-happiness-never-inspiring-lessons-on-wealth-happiness-financial-stability-opportunity-and-why-money-makes-life-easier-by-the-american-actor-known-for-his-commanding-screen-presence-and-deep-insights-on-success-and-life/articleshow/132141499.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-132141499,width-1200,height-630,imgsize-14250,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-07-02T16:13:46Z",
+    "content": "Quote of the Day by Samuel L. Jackson: Money plays an important role in shaping people's lives, providing security, opportunities, and freedom from many everyday worries. While genuine happiness is o… [+8955 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The New Republic"
+    },
+    "author": "Edith Olmsted",
+    "title": "White House Deletes State Fair Photos After Trump Threw a Tantrum",
+    "description": "White House officials deleted photographs of crowds at the beginning of Donald Trump’s Great American State Fair, after the president raged at the dismal turnout. “We’re told that the aerial image of the crowds from his rally last week enraged him so much tha…",
+    "url": "https://newrepublic.com/post/212664/white-house-deletes-great-american-state-fair-photos-donald-trump-tantrum",
+    "urlToImage": "https://images.newrepublic.com/4e3a1c3622a34380da6ad5fb531cc906409f6a95.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+    "publishedAt": "2026-07-02T14:16:19Z",
+    "content": "On New Hampshire, U.S. District Judge Joseph LaPlante found the administrations request to get the states voter registration list infringed the Civil Rights Acts provisions on federal election record… [+1272 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "PRNewswire"
     },
@@ -89,44 +128,5 @@
     "urlToImage": "https://mma.prnewswire.com/media/2848345/UPDATED_Arclin_Logo.jpg?p=facebook",
     "publishedAt": "2026-07-02T11:07:00Z",
     "content": "ALPHARETTA, Ga., July 2, 2026 /PRNewswire/ -- Arclin, a leading materials science company, today announced the launch of its Fabric of America Fund, a nationwide, employee-driven giving initiative de… [+2136 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Inside Higher Ed"
-    },
-    "author": "gianna.jakubowski",
-    "title": "New Presidents: Aspen Institute, Spelman, U at Buffalo, SUNY Brockport and More",
-    "description": "Ángel Cabrera, president of the Georgia Institute of Technology, has been selected as president and CEO of the Aspen Institute, effective Nov. 1. James Cousins, president of Kentucky Wesleyan College, has been named president of Wilkes University in Pennsylva…",
-    "url": "https://www.insidehighered.com/news/quick-takes/2026/07/02/new-presidents-aspen-institute-spelman-and-more",
-    "urlToImage": "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png",
-    "publishedAt": "2026-07-02T07:00:00Z",
-    "content": "Ángel Cabrera, president of the Georgia Institute of Technology, has been selected as president and CEO of the Aspen Institute, effective Nov. 1. \r\nJames Cousins, president of Kentucky Wesleyan Colle… [+2420 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lewrockwell.com"
-    },
-    "author": "No Author",
-    "title": "The 250th Anniversary of…What, Exactly?",
-    "description": "In a few days, Americans will celebrate the 250th anniversary of the Declaration of Independence. There will be fireworks, concerts, speeches, and millions of backyard barbecues. But what precisely are we celebrating? Most Americans know that on July 4, 1776,…",
-    "url": "https://www.lewrockwell.com/2026/07/no_author/the-250th-anniversary-ofwhat-exactly/",
-    "urlToImage": "https://lrc-cdn.s3.amazonaws.com/assets/2021/02/LRC-share.jpg",
-    "publishedAt": "2026-07-02T04:01:00Z",
-    "content": "In a few days, Americans will celebrate the 250th anniversary of the Declaration of Independence. There will be fireworks, concerts, speeches, and millions of backyard barbecues.\r\nBut what precisely … [+7917 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Fox News Poll: An early look at the Georgia Senate race",
-    "description": "A new poll shows Democrat Jon Ossoff leading Republican Mike Collins by 13 points in the 2026 Georgia Senate race, with inflation as the top concern.",
-    "url": "https://www.foxnews.com/politics/fox-news-poll-early-look-georgia-senate-race",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/georgia-senate-race-ossoff.png",
-    "publishedAt": "2026-07-01T22:00:02Z",
-    "content": "Georgia Democratic Sen. Jon Ossoff narrowly won his Senate seat in a January 2021 runoff, defeating Republican David Perdue by just over a percentage point. New Fox News polling suggests a different … [+5274 chars]"
   }
 ]

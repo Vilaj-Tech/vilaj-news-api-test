@@ -1,6 +1,45 @@
 [
   {
     "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "CBS News",
+    "title": "Transcript: NCAA President Charlie Baker on \"Face the Nation with Margaret Brennan,\" July 5, 2026",
+    "description": "The following is the full transcript of an interview with NCAA President Charlie Baker, a portion of which aired on \"Face the Nation with Margaret Brennan\" on July 5, 2026. This interview was taped on July 1, 2025.",
+    "url": "https://www.cbsnews.com/news/charlie-baker-ncaa-president-face-the-nation-transcript-07-05-2026/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kWBwU_E01ygjoRTQI9RVJQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/cbs_news_897/c7d088f6dd92e493cf849542abd856b3",
+    "publishedAt": "2026-07-05T14:37:12Z",
+    "content": "The following is the full transcript of an interview with NCAA President Charlie Baker, a portion of which aired on \"Face the Nation with Margaret Brennan\" on July 5, 2026. This interview was taped o… [+25266 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Raw Story"
+    },
+    "author": "Kathleen Culliton",
+    "title": "'Misquoted the Declaration': Outrage mounts over Trump's July 4 speech stumble",
+    "description": "President Donald Trump drew scorn from conservatives and liberals alike for a July 4 stumble that threw his patriotism, and his education, into question. Trump addressed the nation on the 250th anniversary of the signing of the Declaration of Independence wit…",
+    "url": "https://www.rawstory.com/trump-declaration-of-independence-2677159406/",
+    "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=67097893&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
+    "publishedAt": "2026-07-05T12:42:57Z",
+    "content": "President Donald Trump drew scorn from conservatives and liberals alike for a July 4 stumble that threw his patriotism, and his education, into question. \r\nTrump addressed the nation on the 250th ann… [+1460 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Intercept"
+    },
+    "author": "Eoin Higgins",
+    "title": "Graham Platner Has Already Inspired Another Left-Wing Veteran to Take On an Establishment Dem",
+    "description": "Alex Scheel is running an anti-war campaign to unseat incumbent Rep. Marilyn Strickland. He’s also a longtime member of the DSA in Washington state.\nThe post Graham Platner Has Already Inspired Another Left-Wing Veteran to Take On an Establishment Dem appeare…",
+    "url": "https://theintercept.com/2026/07/05/washington-primary-strickland-scheel-dsa/",
+    "urlToImage": "https://theintercept.com/wp-content/uploads/2026/07/signal-2026-06-18-142547-1-e1783000813634.jpeg?fit=2048%2C1024&w=1200&h=800",
+    "publishedAt": "2026-07-05T10:15:00Z",
+    "content": "Alex Scheel speaks at an Armistice Day rally on Veterans Day 2025.  Photo: Bryan Richardson/Courtesy of the Scheel campaign\r\nEoin Higgins is the author of “Owned: How Tech Billionaires on the Right B… [+7154 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Bossip"
     },
@@ -89,44 +128,5 @@
     "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/ron-desantis-florida-gov.png",
     "publishedAt": "2026-07-02T21:00:24Z",
     "content": "Florida's State Board of Education voted Tuesday to move forward with a policy barring illegal immigrants from being admitted to the state's public colleges, marking the latest effort by state leader… [+2892 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Global Desk",
-    "title": "Quote of the Day by Samuel L. Jackson: “Those who say that money can't buy happiness, never… – Inspiring lessons on wealth, happiness, financial stability, opportunity and why money makes life easier by the American actor known for his commanding screen presence and deep insights on success and life",
-    "description": "Quote of the Day by Samuel L. Jackson: Samuel L. Jackson’s quote, “Those who say that money can't buy happiness, never had any,” explores the practical relationship between money, financial security, and happiness. The quote suggests that while wealth alone c…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-samuel-l-jackson-those-who-say-that-money-cant-buy-happiness-never-inspiring-lessons-on-wealth-happiness-financial-stability-opportunity-and-why-money-makes-life-easier-by-the-american-actor-known-for-his-commanding-screen-presence-and-deep-insights-on-success-and-life/articleshow/132141499.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-132141499,width-1200,height-630,imgsize-14250,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-07-02T16:13:46Z",
-    "content": "Quote of the Day by Samuel L. Jackson: Money plays an important role in shaping people's lives, providing security, opportunities, and freedom from many everyday worries. While genuine happiness is o… [+8955 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The New Republic"
-    },
-    "author": "Edith Olmsted",
-    "title": "White House Deletes State Fair Photos After Trump Threw a Tantrum",
-    "description": "White House officials deleted photographs of crowds at the beginning of Donald Trump’s Great American State Fair, after the president raged at the dismal turnout. “We’re told that the aerial image of the crowds from his rally last week enraged him so much tha…",
-    "url": "https://newrepublic.com/post/212664/white-house-deletes-great-american-state-fair-photos-donald-trump-tantrum",
-    "urlToImage": "https://images.newrepublic.com/4e3a1c3622a34380da6ad5fb531cc906409f6a95.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-    "publishedAt": "2026-07-02T14:16:19Z",
-    "content": "On New Hampshire, U.S. District Judge Joseph LaPlante found the administrations request to get the states voter registration list infringed the Civil Rights Acts provisions on federal election record… [+1272 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "BOMA International TOBYs Award Winning Properties Honored in Long Beach",
-    "description": "WASHINGTON, July 2, 2026 /PRNewswire/ -- The commercial real estate industry honored 19 properties with The Outstanding Building of the Year® (TOBY®) Award this week at the 2026 BOMA International Conference & Expo in Boston. The TOBY Awards are the highest r…",
-    "url": "https://www.prnewswire.com/news-releases/boma-international-tobys-award-winning-properties-honored-in-long-beach-302816911.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1780772/BOMA-BOMI-Logo.jpg?id=OA2746589&p=facebook",
-    "publishedAt": "2026-07-02T14:00:00Z",
-    "content": "WASHINGTON, July 2, 2026 /PRNewswire/ -- The commercial real estate industry honored 19 properties with The Outstanding Building of the Year® (TOBY®) Award this week at the 2026 BOMA International Co… [+5652 chars]"
   }
 ]

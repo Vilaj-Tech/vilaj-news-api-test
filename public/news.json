@@ -1,6 +1,71 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Rule #1 Investing",
+    "title": "Rule #1 Investing Opens Registration for Virtual Investing Workshop",
+    "description": "Atlanta, Georgia, USA, July 06, 2026 (GLOBE NEWSWIRE) -- The three-day online program teaches everyday investors how to research companies, value them, and decide when to buy.",
+    "url": "https://www.globenewswire.com/news-release/2026/07/06/3322534/0/en/Rule-1-Investing-Opens-Registration-for-Virtual-Investing-Workshop.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/9e9188f6-f300-4701-b160-604a5e54b46c",
+    "publishedAt": "2026-07-06T14:21:00Z",
+    "content": "Atlanta, Georgia, USA, July 06, 2026 (GLOBE NEWSWIRE) -- The three-day online program teaches everyday investors how to research companies, value them, and decide when to buy.\r\nRule #1 Investing has … [+3510 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BusinessLine"
+    },
+    "author": "cuelive",
+    "title": "Three TISB students score perfect 45 in IBDP 2026; 40 students cross the 40-point mark",
+    "description": "Three TISB students score perfect 45 in IBDP 2026; 40 students cross the 40-point mark",
+    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/three-tisb-students-score-perfect-45-in-ibdp-2026-40-students-cross-the-40-point-mark/article71189922.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/jrxtdp/article71189921.ece/alternates/LANDSCAPE_1200/IB_Result_2026.jpg",
+    "publishedAt": "2026-07-06T14:00:22Z",
+    "content": "BENGALURU, India , July 6, 2026 /PRNewswire/ -- The International School Bangalore (TISB) is proud to announce another strong set of results in the International Baccalaureate Diploma Programme exami… [+3759 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Kelly Services, Inc.",
+    "title": "Kelly Appoints Alan Stukalsky as Chief Product and Technology Officer",
+    "description": "Alan Stukalsky joins Kelly as Chief Product and Technology Officer to oversee product strategy, technology capabilities, and digital innovation efforts....",
+    "url": "https://www.globenewswire.com/news-release/2026/07/06/3322339/0/en/Kelly-Appoints-Alan-Stukalsky-as-Chief-Product-and-Technology-Officer.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/520790a2-fd35-4158-ad5c-06ddbd99783b",
+    "publishedAt": "2026-07-06T11:30:00Z",
+    "content": "TROY, Mich., July 06, 2026 (GLOBE NEWSWIRE) -- Kelly (Nasdaq: KELYA, KELYB), a global workforce strategy and solutions provider, has appointed Alan Stukalsky as chief product and technology officer, … [+3449 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Root"
+    },
+    "author": "Phenix S Halley",
+    "title": "How Black Soldiers and Spies Shaped The American Revolution",
+    "description": "From double agents to a historic proclamation pulling enslaved people onto the battlefield, here are some little-known stories of Black folks' contributions during the American Revolution on Independence Day. Read more...",
+    "url": "https://www.theroot.com/how-black-soldiers-and-spies-shaped-the-american-revolu-2000114416",
+    "urlToImage": null,
+    "publishedAt": "2026-07-06T09:58:45Z",
+    "content": "The 250th anniversary of America arrives as historians continue to confront the full, complicated truth of the American Revolution and the Black soldiers, spies and petitioners whose stories have oft… [+11204 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Root"
+    },
+    "author": "Phenix S Halley",
+    "title": "America 250: How Black Soldiers and Spies Shaped The American Revolution",
+    "description": "The 250th anniversary of America arrives as historians continue to confront the full, complicated truth of the American Revolution and the Black soldiers, spies and petitioners whose stories have often been pushed to the margins. While Crispus Attucks is ofte…",
+    "url": "https://www.theroot.com/america-250-how-black-soldiers-and-spies-shaped-the-am-2000114416",
+    "urlToImage": null,
+    "publishedAt": "2026-07-06T09:58:45Z",
+    "content": "The 250th anniversary of America arrives as historians continue to confront the full, complicated truth of the American Revolution and the Black soldiers, spies and petitioners whose stories have oft… [+11204 chars]"
+  },
+  {
+    "source": {
       "id": "cbs-news",
       "name": "CBS News"
     },
@@ -63,70 +128,5 @@
     "urlToImage": "https://dims.apnews.com/dims4/default/949b174/2147483647/strip/true/crop/3376x2250+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fcd%2F189dc6adda8f113ef84f5e53160d%2F33e5255a52494888bdf905130ba039e3",
     "publishedAt": "2026-07-04T12:29:36Z",
     "content": "NEW YORK (AP) Doctors and others are sounding an alarm: More U.S. children have been drowning in recent years.\r\nWhen drowning occurs, seconds matter, said Dr. Rohit Shenoi, the lead author of a recen… [+5914 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Abcnews.com"
-    },
-    "author": "MIKE STOBBE AP medical writer",
-    "title": "A child can drown in seconds. Doctors want more families to be prepared",
-    "description": "Doctors and others are sounding an alarm: More U.S. children have been drowning in recent years",
-    "url": "https://abcnews.com/Health/wireStory/child-drown-seconds-doctors-families-prepared-134468222",
-    "urlToImage": "https://i.abcnewsfe.com/a/68417d17-10ec-49d7-81f9-edb8b4d9ab9c/wirestory_6e627bdbfc58fffbc5ac7b4e4a8978ef_16x9.jpg?w=1600",
-    "publishedAt": "2026-07-04T12:23:30Z",
-    "content": "NEW YORK -- Doctors and others are sounding an alarm: More U.S. children have been drowning in recent years.\r\nWhen drowning occurs, seconds matter, said Dr. Rohit Shenoi, the lead author of a recent … [+5759 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "What state has the most rabies?",
-    "description": "What State Has the Most Rabies? A Deep Dive into U.S. Rabies Hotspots What state has the most rabies? Texas consistently reports the highest number of rabies cases annually, primarily due to its large size, diverse wildlife populations, and favorable climate …",
-    "url": "https://www.lifesciencesworld.com/what-state-has-the-most-rabies/",
-    "urlToImage": null,
-    "publishedAt": "2026-07-04T05:23:07Z",
-    "content": "What State Has the Most Rabies? A Deep Dive into U.S. Rabies Hotspots\r\nWhat state has the most rabies?Texasconsistently reports the highest number of rabies cases annually, primarily due to its large… [+9528 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Studyfinds.com"
-    },
-    "author": "studyfinds",
-    "title": "State Of The States: Minnesota Tops Well-Being Rankings, Louisiana Last... | Life Satisfaction Declining In All 50... | Americans Growing More Miserable, Depressed, Distrustful...",
-    "description": "A new report ranks all 50 states on well-being at America's 250th year. See who leads, who trails, and why happiness keeps sliding.",
-    "url": "https://studyfinds.com/america-at-250-happiness-rankings/",
-    "urlToImage": "https://studyfinds.com/wp-content/uploads/2023/07/hpq1nlflgby.jpg",
-    "publishedAt": "2026-07-03T14:00:13Z",
-    "content": "(Photo by Charles \"Duck\" Unitas)\r\n<ul><li>Minnesota ranked first overall among all 50 states, while Louisiana ranked last out of 51 measured jurisdictions including Washington, D.C.</li><li>Not a sin… [+15120 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Protothema.gr"
-    },
-    "author": "admin",
-    "title": "OECD: more Greeks are returning from abroad, new diaspora study finds",
-    "description": "Presentation of the EKT and OECD study on the Greek diaspora, the utilization of human resources, and the prospects for the repatriation of Greeks living abroad\nThe post OECD: more Greeks are returning from abroad, new diaspora study finds appeared first on P…",
-    "url": "https://en.protothema.gr/2026/07/03/oecd-more-greeks-are-returning-from-abroad-new-diaspora-study-finds/",
-    "urlToImage": "https://en.protothema.gr/wp-content/uploads/2026/07/oecd-1.jpg-1.jpg",
-    "publishedAt": "2026-07-03T13:29:20Z",
-    "content": "More Greeks who left the country in previous years are now returning, according to the new OECD Diaspora Review: Greece, presented today at a special event organised by the General Secretariat for Co… [+5818 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Florida board votes to ban illegal immigrants from public college admissions",
-    "description": "The 6-1 vote bars illegal immigrants from 28 state colleges and adult education programs, drawing fierce pushback from students and a state senator.",
-    "url": "https://www.foxnews.com/media/florida-board-votes-ban-illegal-immigrants-public-college-admissions",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/ron-desantis-florida-gov.png",
-    "publishedAt": "2026-07-02T21:00:24Z",
-    "content": "Florida's State Board of Education voted Tuesday to move forward with a policy barring illegal immigrants from being admitted to the state's public colleges, marking the latest effort by state leader… [+2892 chars]"
   }
 ]

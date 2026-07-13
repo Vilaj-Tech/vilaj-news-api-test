@@ -1,6 +1,71 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "The Atlantic"
+    },
+    "author": "Yair Lapid",
+    "title": "The Surprising Source of America’s Success",
+    "description": "Loneliness created the first nation in history in which almost everyone has already changed the course of their life at least once.",
+    "url": "https://www.theatlantic.com/ideas/2026/07/america-birthday-250-roadtrip/687877/",
+    "urlToImage": "https://cdn.theatlantic.com/thumbor/rjwCLCxq2HquoZR86OfwNzvf5Pc=/0x100:4690x2543/1200x625/media/img/mt/2026/07/2026_07_09_The_Surprising_Source_of_American_Success/original.jpg",
+    "publishedAt": "2026-07-12T10:00:00Z",
+    "content": "Driving on I-79 south from Pittsburgh toward Charlottesville, I started composing this birthday card in my head—a love letter to America on its 250th birthday. The hills of Pennsylvania were blankete… [+27931 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Homebrewedchristianty.com"
+    },
+    "author": "Tripp Fuller",
+    "title": "Winter in America: The Double Deac Deans on the 250th, Christian Nationalism, and the Questions That Do Not Get Answered",
+    "description": "This was a live one, recorded on the eve of the 250th at Wake Forest Divinity School with the Double Deans in the room. Corey Walker’s Theology Summit lecture — which spent six hours at the top of Substack the week we recorded — uses two moments in American h…",
+    "url": "https://www.homebrewedchristianty.com/2026/07/12/winter-in-america-the-double-deac-deans-on-the-250th-christian-nationalism-and-the-questions-that-do-not-get-answered/",
+    "urlToImage": null,
+    "publishedAt": "2026-07-12T09:07:51Z",
+    "content": "This was a live one, recorded on the eve of the 250th at Wake Forest Divinity School with the Double Deans in the room. Corey Walker’s Theology Summit lecture which spent six hours at the top of Subs… [+9270 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Idratherbewriting.com"
+    },
+    "author": "<a href='#jeremy'>Jeremy Rosselot-Merritt</a>",
+    "title": "The gap between academic and industry technical writing: What it is, why it exists, why it's important, and what we can do about it (Part II)",
+    "description": "This is Part II of a guest post from Jeremy Rosselot-Merritt, an assistant professor at James Madison University. In this post, Jeremy transitions from describing the reasons for the gap between academics and practitioners (explained in Part I) to solutions. …",
+    "url": "https://idratherbewriting.com/blog/gap-between-industry-and-academia-tw-part2",
+    "urlToImage": null,
+    "publishedAt": "2026-07-12T07:00:00Z",
+    "content": "by Jeremy Rosselot-Merritt on Jul 12, 2026\r\ncategories: \r\n academics-and-practitioners\r\n • \r\n ai\r\nThis is Part II of a two-part post. Read The gap between academic and industry technical writing: Wha… [+20185 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "Michelle Wakim",
+    "title": "Young woman stopped taking the pill because of mental health concerns",
+    "description": "Two young women say taking the pill to manage painful periods had side effects they weren't expecting.",
+    "url": "https://www.abc.net.au/news/2026-07-12/young-women-talk-about-the-pill-and-their-mental-health-concerns/106846690",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/949dbb1e025ca520dc75e76c8a5ae387?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=102&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-07-12T05:49:02Z",
+    "content": "At 15, Georgia struggled to manage her periods.\r\n\"I was experiencing really bad cramps, constant period pain and wasn't able to stand most of the time,\" she says.\r\nHer doctor recommended that she sta… [+10047 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Trey Luerssen, Longhorns Wire",
+    "title": "SEC schools ranked academically by U.S. News for 2026-27",
+    "description": "Here is where each SEC university stands in the latest U.S. News academic rankings.",
+    "url": "https://longhornswire.usatoday.com/story/sports/college/longhorns/2026/07/11/texas-longhorns-sec-academic-rankings-nationally-us-news/90886118007/",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/dbf7743827c349c24fed905716dea3628705264fd2fd015ab45a90a8728643b6/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Flonghorns_wire_usa_today_articles_557%2Fcabf5bdae18e5c9efa6dc54dc066f811",
+    "publishedAt": "2026-07-11T16:05:39Z",
+    "content": "The SEC has never been stronger scholastically, with five universities ranked among the top 100 schools in the nation for the upcoming academic year. That's a welcome change for a conference that was… [+20242 chars]"
+  },
+  {
+    "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
@@ -63,70 +128,5 @@
     "urlToImage": "https://i.dailymail.com/1s/2026/07/10/23/109944923-0-image-m-18_1783723178507.jpg",
     "publishedAt": "2026-07-10T22:41:36Z",
     "content": "Warily answering the door of his Las Vegas hotel suite, the undercover agent expected to find himself face-to-face with a seasoned criminal. \r\nIt was April 2014 and the agent and his partner, who was… [+13409 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "esquire.com"
-    },
-    "author": "Charles P. Pierce",
-    "title": "Why Am I Not Surprised That There Are Republicans Who Would Support Resegregation?",
-    "description": "A leaked group chat shows what’s been bubbling not so far beneath the surface of the wing-nut Right. Let’s pray it doesn’t boil over.",
-    "url": "https://www.esquire.com/news-politics/politics/a71899923/segregation-schools-new-hampshire-kristin-noble/",
-    "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/460b3266-473f-4de3-9d8a-a9a4eaae8439.jpeg?crop=1xw:0.75xh;0xw,0.208xh&resize=1200:*",
-    "publishedAt": "2026-07-10T21:15:09Z",
-    "content": "(Permanent Musical Accompaniment to the Last Post of the Week from the Blog's Favourite Living Canadian)\r\nTo the surprise of absolutely nobody, the killing of Lorenzo Salgado by ICE agents in Houston… [+11125 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Daily Caller"
-    },
-    "author": "Rachel Wright",
-    "title": "It’s Time For Feds To Give Non-Violent Offenders A Second Chance",
-    "description": "A pathway to expungement is about much more than clearing a record.",
-    "url": "https://dailycaller.com/2026/07/10/opinion-feds-non-violent-offenders-second-chance/",
-    "urlToImage": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2025/12/GettyImages-2235231520-scaled-e1765396444359.jpg",
-    "publishedAt": "2026-07-10T20:59:35Z",
-    "content": "When President Donald Trump appointed Alice Marie Johnson as his pardon czar, he sent a clear message to the nation: Accountability and second chances are not mutually exclusive. Our Founders underst… [+4233 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "MOWW to Welcome Students from Across the Nation to D.C. for the 2026 National Youth Civics Summit",
-    "description": "WASHINGTON, July 10, 2026 /PRNewswire/ -- The Military Order of the World Wars (MOWW) will welcome 20 high school students representing Alabama, California, Colorado, Florida, Georgia, New Jersey, Pennsylvania, Puerto Rico, Texas, and Virginia to Washington, …",
-    "url": "https://www.prnewswire.com/news-releases/moww-to-welcome-students-from-across-the-nation-to-dc-for-the-2026-national-youth-civics-summit-302823055.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1794689/The-Military-Order-of-the-World-Wars-Logo.jpg?id=OA2759063&p=facebook",
-    "publishedAt": "2026-07-10T19:57:00Z",
-    "content": "WASHINGTON, July 10, 2026 /PRNewswire/ -- The Military Order of the World Wars (MOWW) will welcome 20 high school students representing Alabama, California, Colorado, Florida, Georgia, New Jersey, Pe… [+3131 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "New York Post"
-    },
-    "author": "Titus Wu",
-    "title": "School districts suspected of shielding sex predators revealed by feds — including 3 in California",
-    "description": "California’s inability to penalize sexually abusive teachers could cost the state’s schools some serious federal dough.",
-    "url": "https://nypost.com/2026/07/10/us-news/california-school-districts-suspected-of-shielding-sex-predators/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134015775.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-07-10T19:30:59Z",
-    "content": "A Southern California school district and another one in the Central Valley were sent letters by the Trump administration as part of a crackdown on districts that may have shielded teachers accused o… [+3881 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "BBC News"
-    },
-    "author": "Chris Kirwan - BBC Sport Wales",
-    "title": "The teen learning fast after early Scarlets chance",
-    "description": "Teenage Wales Under-20s fly-half Carwyn Leggatt-Jones is reaping the rewards of a surprise chance with the Scarlets.",
-    "url": "https://www.bbc.com/sport/rugby-union/articles/c9v247gn8r9o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yi1n5kl5lEQErV8quoee4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/6f6c4d3938dd9b994028588d243efdf9",
-    "publishedAt": "2026-07-10T16:30:11Z",
-    "content": "Teenage fly-half Carwyn Leggatt-Jones' learning has not been confined to the classrooms of Llandovery College this season after a surprise shot at the Scarlets.\r\nThe 18-year-old is currently with Wal… [+4233 chars]"
   }
 ]

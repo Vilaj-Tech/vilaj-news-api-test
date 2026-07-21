@@ -1,6 +1,97 @@
 [
   {
     "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Nicky Forster, Heather Hollingsworth, The Associated Press",
+    "title": "Student loan defaults hit record $233 billion with 1 in 5 borrowers over 9 months behind",
+    "description": "Many of the states with the highest concentrations of defaulted borrowers are in the South, an AP analysis found. Trump states lead the way.",
+    "url": "https://fortune.com/2026/07/20/student-loan-defaults-south-record-2026/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-1373728277-e1784552967165.jpg?resize=1200,600",
+    "publishedAt": "2026-07-20T13:09:44Z",
+    "content": "Defaults on student loans have surged across the United States, reaching record levels as borrowers struggle to keep up with payments.The numbers have spiked since payments came due again following a… [+4705 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Allstate, AFCA announce 2026 Good Works Team nominees recognized for leadership in community service",
+    "description": "162 college football student-athletes recognized for leadership in service, academics and athletics, including the Good Works Team's first female nominee Key Takeaways: Allstate and AFCA named 162 student-athletes as nominees for the 2026 Good Works Team, rec…",
+    "url": "https://www.prnewswire.com/news-releases/allstate-afca-announce-2026-good-works-team-nominees-recognized-for-leadership-in-community-service-302829564.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1885224/Allstate-AFCA.jpg?id=OA2769977&p=facebook",
+    "publishedAt": "2026-07-20T12:18:00Z",
+    "content": "162 college football student-athletes recognized for leadership in service, academics and athletics, including the Good Works Team's first female nominee \r\nKey Takeaways: \r\n<ul><li>Allstate and AFCA … [+21921 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Anoka County Expands Opioid Prevention Efforts with Continuing Education Modules",
+    "description": "Free online resource supports medical professional and community member education ANOKA, Minn., July 20, 2026 /PRNewswire/ -- Anoka County today released a continuing medical education resource on FacesOfHopeAnoka.org, a free online platform created to suppor…",
+    "url": "https://www.prnewswire.com/news-releases/anoka-county-expands-opioid-prevention-efforts-with-continuing-education-modules-302828723.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1884921/FOH_StackedLogo_Color_Dark.jpg?id=OA2769208&p=facebook",
+    "publishedAt": "2026-07-20T11:30:00Z",
+    "content": "Free online resource supports medical professional and community member education\r\nANOKA, Minn., July 20, 2026 /PRNewswire/ -- Anoka County today released a continuing medical education resource on F… [+2390 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Courier Post"
+    },
+    "author": "Tom Rimback and Tom McGurk, Cherry Hill Courier-Post",
+    "title": "Ranking South Jersey's Top 250 greatest athletes, see Nos. 150-101",
+    "description": "South Jersey has produced some of the greatest athletes the United States has ever seen. For the country's 250th anniversary we picked the 250 best",
+    "url": "https://www.courierpostonline.com/story/sports/high-school/2026/07/20/south-jerseys-250-greatest-athletes-150-101/89979928007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QbRp3zdIeg8pvmM2vMGXJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/courier-post/d6c18e3be9fe76fe5192a8e529492ddd",
+    "publishedAt": "2026-07-20T09:01:24Z",
+    "content": "In celebration of the 250th anniversary of the signing of the Declaration of Independence just across the river in Philadelphia, the Courier-Post sports staff has compiled an wide-ranging list of the… [+30793 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Inside Higher Ed"
+    },
+    "author": "Emma Whitford",
+    "title": "Inside the ‘Culture of Fear’ at One American-Chinese University",
+    "description": "Inside the ‘Culture of Fear’ at One American-Chinese University\n\n \n\n\n \nEmma Whitford\n\nMon, 07/20/2026 - 03:00 AM\n\nFaculty at Wenzhou-Kean have accused their employer of obfuscatory employment agreements, wrongful termination, discrimination, retaliation and l…",
+    "url": "https://www.insidehighered.com/news/faculty/contingent-faculty/2026/07/20/wenzhou-kean-faculty-say-leaders-keep-things-hidden",
+    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-07/Wenzhou-Kean_University_trio.jpg?itok=dV0U0qR7",
+    "publishedAt": "2026-07-20T07:00:00Z",
+    "content": "Robert Stark is on a mission. The assistant professor of English at Wenzhou-Kean University in China has made 19 public records requests to New Jerseybased Kean University, his universitys parent-sla… [+20980 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Page Six"
+    },
+    "author": "Antoinette Bueno",
+    "title": "Justin Bieber, Madonna, BTS and Shakira deliver flawless World Cup 2026 final halftime performance",
+    "description": "Justin Bieber, Madonna, BTS and Shakira deliver flawless World Cup 2026 final halftime performancepagesix.com",
+    "url": "https://pagesix.com/2026/07/19/entertainment/justin-bieber-madonna-bts-and-shakira-deliver-flawless-world-cup-2026-final-halftime-performance/",
+    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/134914715.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-07-19T20:43:35Z",
+    "content": "Justin Bieber, Madonna, BTS, and Shakira had everyone on their feet during the FIFA World Cup 2026 final halftime show.\r\nThe superstars co-headlined the halftime show Sunday at the MetLife Stadium in… [+4091 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Samantha Loren",
+    "title": "Trump-backed Senate hopeful's 'white nationalist' sympathizer son-in-law accused of spreading neo-Nazi ideology and wild Charlie Kirk assassination claim",
+    "description": "Donald Trump-backed Republican Senate candidate Mike Collins is facing scrutiny over the online activity of his son-in-law.",
+    "url": "https://www.dailymail.com/news/article-15982963/mike-collins-son-law-white-nationalist-charlie-kirk.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/07/17/17/110088103-0-image-m-37_1784305227932.jpg",
+    "publishedAt": "2026-07-19T15:30:05Z",
+    "content": "Donald Trump-backed Republican Senate candidate in Georgia Mike Collins is facing scrutiny over the online activity of his son-in-law. \r\nDavid Alan Scheer II, who has been married to Collins' daughte… [+7633 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Dailymail.com"
     },
@@ -37,96 +128,5 @@
     "urlToImage": "https://s.yimg.com/ny/api/res/1.2/aWx5M.djA8Bx7KfPh02oSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTY7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/651225e39245b0846816a586ecad322b",
     "publishedAt": "2026-07-18T17:59:01Z",
     "content": "The World Cup stage, on which Lionel Messi and other international stars have dazzled with their magic, may have offered the potential to stretch imaginations even further.\r\nFor example, imagine how … [+7414 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Skeptic.com"
-    },
-    "author": "Skeptic",
-    "title": "Pathologizing Men",
-    "description": "In many domains, the old moral vocabulary remains in place even as the social pattern has reversed, or at least become far more complicated. Women now outperform men across most of education, earn the majority of advanced degrees, and have made major gains in…",
-    "url": "https://www.skeptic.com/article/pathologizing-masculinity-mental-health/",
-    "urlToImage": "https://storage.ghost.io/c/36/db/36db2d53-b96a-4b7f-9ea6-1e48a1d7715e/content/images/size/w1200/2026/07/fractured-ideal-masculine-in-therapy.webp",
-    "publishedAt": "2026-07-18T14:44:07Z",
-    "content": "In many domains, the old moral vocabulary remains in place even as the social pattern has reversed, or at least become far more complicated. Women now outperform men across most of education, earn th… [+16854 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "New York Post"
-    },
-    "author": "Jared Downing",
-    "title": "Texas ‘furry’ learns fate after sexually abusing minor he brought to fetish-filled costume convention",
-    "description": "The 37-year-old furry bought sex toys and commissioned art showing his cartoon animal personal having sex with the victim.",
-    "url": "https://nypost.com/2026/07/17/us-news/texas-furry-sentenced-to-20-years-for-sexually-abusing-minor-he-brought-to-fetish-filled-costume-convention/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134725726.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-07-17T22:00:04Z",
-    "content": "A twisted Texas “furry” will spend two decades in the slammer for molesting a minor at a fetish-filled convention — and commissioning disturbing art of his animal persona having sex with the victim.\r… [+1990 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "WTVD-TV"
-    },
-    "author": "Michael Perchick",
-    "title": "World Rugby Nations Cup match brings international spotlight to Cary",
-    "description": "As temperatures continued to climb across the Triangle, players preparing for a World Rugby Nations Cup match in Cary spent Friday managing the heat.",
-    "url": "https://abc11.com/post/world-rugby-nations-cup-match-brings-international-spotlight-cary/19528134/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uvh1N5klAql1pj82N.23kg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/wtvd_articles_701/8a5013a0dabad675d0374d85c19bc8a2",
-    "publishedAt": "2026-07-17T21:35:10Z",
-    "content": "As temperatures continued to climb across the Triangle, players and organizers preparing for a World Rugby Nations Cup match in Cary spent Friday managing the heat ahead of the United States' matchup… [+3987 chars]"
-  },
-  {
-    "source": {
-      "id": "abc-news-au",
-      "name": "ABC News (AU)"
-    },
-    "author": "Inga Ting",
-    "title": "Something odd about couples has puzzled scientists for more than a century",
-    "description": "Once I saw it, I couldn't unsee it. Had I noticed something real or was it just the people around me? I set out to find out what the data had to say.",
-    "url": "https://www.abc.net.au/news/2026-07-18/data-reveals-trend-towards-couple-similarity-is-changing/106855928",
-    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/19a7b155c10fec02569c6a9491adc149?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-07-17T19:04:50Z",
-    "content": "Once I saw it, I couldn't unsee it.\r\nI noticed it among friends. Then within my family. It is rife among my colleagues.\r\nRomantic partners who are strikingly, in some cases, uncannily, similar to one… [+22630 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The New Republic"
-    },
-    "author": "Virginia Heffernan",
-    "title": "And Now, MAGA—and MTG, Even!—Have Joined the Anti–Data Center Movement",
-    "description": "The mass mobilization against data centers is\ncoming to a boil this week, and the tech aristocracy is turning paranoid. No\nwonder: The AI zealots of Silicon Valley have staked their souls on President\nTrump’s commitment to\nblitz-scaling these rural facilities…",
-    "url": "https://newrepublic.com/article/213202/anti-data-center-movement-maga-marjorie-taylor-greene",
-    "urlToImage": "https://images.newrepublic.com/8d24bc20c08b5f1ed7f5a58f1af1847a256cfa6a.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-    "publishedAt": "2026-07-17T15:50:24Z",
-    "content": "Cathy Latham, who also\r\nsigned the letter, is a former Georgia elector who was indicted in 2023 for\r\nsigning alternate ballots certifying Trump as president (Trump pardoned her.) Outside of\r\ndata cen… [+933 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Advocate.com"
-    },
-    "author": "Latonia Wilkins",
-    "title": "National HIV Prevention Day: Awareness is my superpower",
-    "description": "An HIV prevention advocate explains how not knowing about PrEP shaped her life and why expanding awareness\\, education\\, and access is critical to ending new HIV infections.",
-    "url": "https://www.advocate.com/opinion/prep-awareness-hiv-prevention",
-    "urlToImage": "https://www.advocate.com/media-library/a-healthcare-provider-shakes-hands-with-a-black-woman-during-a-medical-appointment.png?id=67493829&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
-    "publishedAt": "2026-07-17T12:00:02Z",
-    "content": "What if the greatest barrier to HIV prevention isn't willingness...but awareness?\r\nPeople say knowledge is power. Well then...\r\nAwareness is the superpower!\r\nBecause you can't advocate for options yo… [+7163 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Nextcity.org"
-    },
-    "author": "Eliana Perozo",
-    "title": "New York Is Blocking New Data Center Construction. Here’s What Other Communities Should Know.",
-    "description": "A data center is under construction in Ashburn in Loudoun County, Virginia, which is home to the world's largest concentration of data centers. (Photo by Ted Shaffrey / AP)\r\n\n\n \n\n\n\n\n\n\nThis story is part of In the Shadow of the Server, a Next City series on th…",
-    "url": "https://nextcity.org/urbanist-news/new-york-to-block-construction-new-data-centers-what-other-communities-know",
-    "urlToImage": "https://nextcity.org/images/daily/_resized/DataCenterLoudonVA_AP_TedShaffrey.jpg",
-    "publishedAt": "2026-07-17T10:00:00Z",
-    "content": "This story is part of In the Shadow of the Server, a Next City series on the fight over urban technology infrastructure who builds it, who benefits, and how local leaders can push back.\r\nWith data ce… [+8223 chars]"
   }
 ]

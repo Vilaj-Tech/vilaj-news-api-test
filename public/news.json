@@ -1,6 +1,110 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "New Aceable Research Reveals How the Road to a Driver's License Varies Across America",
+    "description": "2026 Driver's License Difficulty Index and Grading Driver's Ed survey show where earning a license takes the most work, and why many young drivers still don't feel fully prepared for the journey AUSTIN, Texas, July 21, 2026 /PRNewswire/ -- For many young Amer…",
+    "url": "https://www.prnewswire.com/news-releases/new-aceable-research-reveals-how-the-road-to-a-drivers-license-varies-across-america-302830400.html",
+    "urlToImage": null,
+    "publishedAt": "2026-07-21T13:00:00Z",
+    "content": "2026 Driver's License Difficulty Index and Grading Driver's Ed survey show where earning a license takes the most work, and why many young drivers still don't feel fully prepared for the journey\r\nAUS… [+6192 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "World Health Organization"
+    },
+    "author": "World Health Organization: WHO",
+    "title": "World No Tobacco Day 2018 awards - the winners",
+    "description": "<p>Every year, WHO recognizes individuals or organizations in each of the six WHO Regions for their accomplishments in the area of tobacco control. This recognition takes the form of WHO Director-General Special Recognition Award and World No Tobacco Day Awar…",
+    "url": "https://www.who.int/news/item/22-05-2018-world-no-tobacco-day-2018-awards---the-winners",
+    "urlToImage": "https://www.who.int/ResourcePackages/WHO/assets/whofallback.jpg",
+    "publishedAt": "2026-07-21T12:20:53Z",
+    "content": "Every year, WHO recognizes individuals or organizations in each of the six WHO Regions for their accomplishments in the area of tobacco control. This recognition takes the form of WHO Director-Genera… [+3684 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Frontofficesports.com"
+    },
+    "author": "Amanda Christovich",
+    "title": "New NCAA Eligibility Policy Hasn’t Slowed Lawsuits—It’s Triggered More",
+    "description": "The NCAA’s new eligibility policy sparked a fresh cascade of lawsuits.",
+    "url": "https://frontofficesports.com/new-ncaa-eligibility-policy-hasnt-slowed-lawsuits-its-triggered-more/",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/cac107c1c2dee49f168a7e4aaf5bfdd120ce5708c163b68aedc5ca36a4354e13/lightyear_networkapi/resizefill_w1024_h577;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffront_office_sports_190%2Fdc615e5faf4da05273ae653ed518276d",
+    "publishedAt": "2026-07-21T11:00:00Z",
+    "content": "Darren Heitner's inbox is overflowing.\r\nAs one of the most well-known attorneys in NIL (name, image, and likeness) deals and NCAA eligibility lawsuits. Heitner has become used to a deluge of emails t… [+6202 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Coolcatteacher.com"
+    },
+    "author": "coolcatteacher@gmail.com (Victoria A Davis, Cool Cat Teacher), Victoria A Davis, Cool Cat Teacher",
+    "title": "Building Apps with Students Using MAD-learn",
+    "description": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nCan elementary students build their own apps? Two elementary teachers share how they use MAD-learn for gold-sta…",
+    "url": "https://www.coolcatteacher.com/building-apps-with-students-mad-learn/",
+    "urlToImage": "https://www.coolcatteacher.com/wp-content/uploads/2026/07/951-blogpost-mad-learn.png",
+    "publishedAt": "2026-07-21T11:00:00Z",
+    "content": "Can elementary students really build their own apps? I've been building apps with my students for years I even led a global collaborative app project back in 2017 with classrooms around the world, an… [+20772 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Elastic.co"
+    },
+    "author": "Oksana Abramovych",
+    "title": "Higher education analytics for the ultra-intelligent university",
+    "description": "Learn how higher education analytics and a unified data platform help institutions break down silos and build a smarter, AI-ready university....",
+    "url": "https://www.elastic.co/blog/higher-education-analytics-ultra-intelligent-university",
+    "urlToImage": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltc448eb7346bbc68e/6a5e5a590133d4897be06b09/universities-unified-data-platform-blog_(1)_(1).png",
+    "publishedAt": "2026-07-21T00:00:00Z",
+    "content": "The rise of the intelligent institution\r\nFor modern universities, a seamless digital experience is an essential component to providing the resources and services that make an institution run. Followi… [+10893 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Reinvestment Fund Announces Frank Fernandez As New President & CEO",
+    "description": "Accomplished Community Leader Brings Strong Experience In Fundraising, Operations, Financial Services and Championing Communities Nationwide PHILADELPHIA, July 20, 2026 /PRNewswire/ -- Reinvestment Fund, a nationally-focused Community Development Financial In…",
+    "url": "https://www.prnewswire.com/news-releases/reinvestment-fund-announces-frank-fernandez-as-new-president--ceo-302829676.html",
+    "urlToImage": null,
+    "publishedAt": "2026-07-20T16:00:00Z",
+    "content": "Accomplished Community Leader Brings Strong Experience In Fundraising, Operations, Financial Services and Championing Communities Nationwide\r\nPHILADELPHIA, July 20, 2026 /PRNewswire/ -- Reinvestment … [+5425 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Ying-Ai Cui, Yuan Li, Liping Yang, Zheng-Ai Cui",
+    "title": "HPV vaccination intention and its association with vaccine hesitancy and health beliefs among unvaccinated Chinese medical college students: A cross-sectional study",
+    "description": "Background Human papillomavirus (HPV) infection poses a significant public health challenge, and HPV vaccination uptake among Chinese college students remains suboptimal. Therefore, it is essential to conduct ongoing, in-depth investigations into the psycholo…",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354119",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0354119.t005&size=inline",
+    "publishedAt": "2026-07-20T14:00:00Z",
+    "content": "Abstract\r\nBackground\r\nHuman papillomavirus (HPV) infection poses a significant public health challenge, and HPV vaccination uptake among Chinese college students remains suboptimal. Therefore, it is … [+42949 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KQED"
+    },
+    "author": "Steph Rodriguez",
+    "title": "How 2 Exiled Russian Journalists Took Refuge in the Bay Area",
+    "description": "A fellowship at Stanford University allowed them to continue their investigative reporting.",
+    "url": "https://www.kqed.org/news/12089920/how-two-exiled-russian-journalists-took-refuge-in-the-bay-area",
+    "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/07/260717-RUSSIANJOURNALISTSEXILE-05-BL-KQED.jpg",
+    "publishedAt": "2026-07-20T14:00:00Z",
+    "content": "Roman Badanin was at home in the Bay Area seven months ago when he heard a knock on his door. To the independent Russian journalists surprise, two FBI agents had come to see him in the middle of the … [+10502 chars]"
+  },
+  {
+    "source": {
       "id": "fortune",
       "name": "Fortune"
     },
@@ -24,109 +128,5 @@
     "urlToImage": "https://mmx.prnewswire.com/media/MS1885224/Allstate-AFCA.jpg?id=OA2769977&p=facebook",
     "publishedAt": "2026-07-20T12:18:00Z",
     "content": "162 college football student-athletes recognized for leadership in service, academics and athletics, including the Good Works Team's first female nominee \r\nKey Takeaways: \r\n<ul><li>Allstate and AFCA … [+21921 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Anoka County Expands Opioid Prevention Efforts with Continuing Education Modules",
-    "description": "Free online resource supports medical professional and community member education ANOKA, Minn., July 20, 2026 /PRNewswire/ -- Anoka County today released a continuing medical education resource on FacesOfHopeAnoka.org, a free online platform created to suppor…",
-    "url": "https://www.prnewswire.com/news-releases/anoka-county-expands-opioid-prevention-efforts-with-continuing-education-modules-302828723.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1884921/FOH_StackedLogo_Color_Dark.jpg?id=OA2769208&p=facebook",
-    "publishedAt": "2026-07-20T11:30:00Z",
-    "content": "Free online resource supports medical professional and community member education\r\nANOKA, Minn., July 20, 2026 /PRNewswire/ -- Anoka County today released a continuing medical education resource on F… [+2390 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Courier Post"
-    },
-    "author": "Tom Rimback and Tom McGurk, Cherry Hill Courier-Post",
-    "title": "Ranking South Jersey's Top 250 greatest athletes, see Nos. 150-101",
-    "description": "South Jersey has produced some of the greatest athletes the United States has ever seen. For the country's 250th anniversary we picked the 250 best",
-    "url": "https://www.courierpostonline.com/story/sports/high-school/2026/07/20/south-jerseys-250-greatest-athletes-150-101/89979928007/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QbRp3zdIeg8pvmM2vMGXJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/courier-post/d6c18e3be9fe76fe5192a8e529492ddd",
-    "publishedAt": "2026-07-20T09:01:24Z",
-    "content": "In celebration of the 250th anniversary of the signing of the Declaration of Independence just across the river in Philadelphia, the Courier-Post sports staff has compiled an wide-ranging list of the… [+30793 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Inside Higher Ed"
-    },
-    "author": "Emma Whitford",
-    "title": "Inside the ‘Culture of Fear’ at One American-Chinese University",
-    "description": "Inside the ‘Culture of Fear’ at One American-Chinese University\n\n \n\n\n \nEmma Whitford\n\nMon, 07/20/2026 - 03:00 AM\n\nFaculty at Wenzhou-Kean have accused their employer of obfuscatory employment agreements, wrongful termination, discrimination, retaliation and l…",
-    "url": "https://www.insidehighered.com/news/faculty/contingent-faculty/2026/07/20/wenzhou-kean-faculty-say-leaders-keep-things-hidden",
-    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-07/Wenzhou-Kean_University_trio.jpg?itok=dV0U0qR7",
-    "publishedAt": "2026-07-20T07:00:00Z",
-    "content": "Robert Stark is on a mission. The assistant professor of English at Wenzhou-Kean University in China has made 19 public records requests to New Jerseybased Kean University, his universitys parent-sla… [+20980 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Page Six"
-    },
-    "author": "Antoinette Bueno",
-    "title": "Justin Bieber, Madonna, BTS and Shakira deliver flawless World Cup 2026 final halftime performance",
-    "description": "Justin Bieber, Madonna, BTS and Shakira deliver flawless World Cup 2026 final halftime performancepagesix.com",
-    "url": "https://pagesix.com/2026/07/19/entertainment/justin-bieber-madonna-bts-and-shakira-deliver-flawless-world-cup-2026-final-halftime-performance/",
-    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/134914715.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-07-19T20:43:35Z",
-    "content": "Justin Bieber, Madonna, BTS, and Shakira had everyone on their feet during the FIFA World Cup 2026 final halftime show.\r\nThe superstars co-headlined the halftime show Sunday at the MetLife Stadium in… [+4091 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Samantha Loren",
-    "title": "Trump-backed Senate hopeful's 'white nationalist' sympathizer son-in-law accused of spreading neo-Nazi ideology and wild Charlie Kirk assassination claim",
-    "description": "Donald Trump-backed Republican Senate candidate Mike Collins is facing scrutiny over the online activity of his son-in-law.",
-    "url": "https://www.dailymail.com/news/article-15982963/mike-collins-son-law-white-nationalist-charlie-kirk.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/07/17/17/110088103-0-image-m-37_1784305227932.jpg",
-    "publishedAt": "2026-07-19T15:30:05Z",
-    "content": "Donald Trump-backed Republican Senate candidate in Georgia Mike Collins is facing scrutiny over the online activity of his son-in-law. \r\nDavid Alan Scheer II, who has been married to Collins' daughte… [+7633 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Ian Gallagher",
-    "title": "The 'screamingly nouveau riche' port in Montenegro where oligarchs and billionaires dock their superyachts - and where fraudster and Farage ally 'Posh' George Cottrell looks down from his fifth-floor penthouse",
-    "description": "If you happen to be a Kremlin-linked oligarch, say, or a Hollywood A-lister or even just a common-or-garden billionaire, then chances are you've docked your superyacht in Porto Montenegro.",
-    "url": "https://www.dailymail.com/news/article-15987593/screamingly-nouveau-riche-Montenegro-Farage-Cottrell.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/07/18/20/110105445-0-image-m-22_1784402525825.jpg",
-    "publishedAt": "2026-07-18T22:00:49Z",
-    "content": "If you happen to be a Kremlin-linked oligarch, say, or a Hollywood A-lister or even just a common-or-garden billionaire, then chances are you've docked your superyacht in the swanky resort of Porto M… [+13427 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Sporting News"
-    },
-    "author": "SN Archive",
-    "title": "The center of it all: UConn's Emeka Okafor (SN Archive — 2004)",
-    "description": "SN's Mike DeCourcy explains how Emeka Okafor's three-year commitment to making himself an offensive force pushed UConn to the national championship.",
-    "url": "https://www.sportingnews.com/us/archives/news/center-it-all-uconns-emeka-okafor-sn-archive-2004/d47eb08aca169e6184752831",
-    "urlToImage": "https://s.yimg.com/os/en/the_sporting_news_articles_584/24907f986884393fdd5d49b057435d61",
-    "publishedAt": "2026-07-18T20:43:16Z",
-    "content": "The center of it all: UConn's Emeka Okafor (SN Archive 2004) originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking here.\r\nThis article, \"The center of it a… [+12898 chars]"
-  },
-  {
-    "source": {
-      "id": "usa-today",
-      "name": "USA Today"
-    },
-    "author": "Josh Peter, USA TODAY",
-    "title": "World Cup misses 'huge opportunity' with powerful global stage",
-    "description": "The World Cup stage sparked hopes of increasing the visiblity of adaptive soccer for disabled athletes but those hopes failed to materialize.",
-    "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/18/world-cup-opportunity-global-stage-adaptive-soccer-athletes/90965203007/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/aWx5M.djA8Bx7KfPh02oSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTY7Y2Y9d2VicA--/https://media.zenfs.com/en/usa_today_sports_articles_558/651225e39245b0846816a586ecad322b",
-    "publishedAt": "2026-07-18T17:59:01Z",
-    "content": "The World Cup stage, on which Lionel Messi and other international stars have dazzled with their magic, may have offered the potential to stretch imaginations even further.\r\nFor example, imagine how … [+7414 chars]"
   }
 ]

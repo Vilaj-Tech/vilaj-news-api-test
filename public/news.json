@@ -2,6 +2,97 @@
   {
     "source": {
       "id": null,
+      "name": "CNBC"
+    },
+    "author": "Alex Harring",
+    "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
+    "description": "Moviegoers are traveling, lining up and paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.",
+    "url": "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108339516-1784838940183-gettyimages-2286083832-260718b6_odyssey_hllywd_gvs_b-gr_04.jpeg?v=1784930676&w=1920&h=1080",
+    "publishedAt": "2026-07-25T12:46:34Z",
+    "content": "General views of the TCL Chinese Theatre during opening weekend for the Christopher Nolan film, \"The Odyssey\" in Imax on July 18, 2026, in Hollywood, California.\r\nFor Mike Rohlfing to see \"The Odysse… [+8897 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Ms. Magazine"
+    },
+    "author": "Lillian Kollross",
+    "title": "‘La Operación’: The Hidden History and Forced Sterilization of Puerto Rican Women",
+    "description": "In 1937, the U.S. began one of the largest sterilization campaigns in modern history in its colony of Puerto Rico. By the 1970s, one-third of all Puerto Rican women of childbearing age had been sterilized, most without being properly informed that the procedu…",
+    "url": "https://msmagazine.com/2026/07/25/la-operacion-history-forced-sterilization-puerto-rico-women/",
+    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/07/La-Operacion-The-Forced-Sterilization-of-Puerto-Rican-Women.png",
+    "publishedAt": "2026-07-25T11:00:00Z",
+    "content": "In 1937, the U.S. began one of the largest sterilization campaigns in modern history in its colony of Puerto Rico. By the 1970s, one-third of all Puerto Rican women of childbearing age had been steri… [+8466 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Courtney Connley-Hampton, Forbes Staff, \n Courtney Connley-Hampton, Forbes Staff\n https://www.forbes.com/sites/courtney-connley-hampton/",
+    "title": "Why Engineering Is No Longer A Sure Thing College Major When It Comes To Jobs",
+    "description": "Exclusive LinkedIn data shows engineering majors have been hit hard in today’s weak, AI-affected job market. Here’s what specialties are hurting the most.",
+    "url": "https://www.forbes.com/sites/courtney-connley-hampton/2026/07/25/why-engineering-is-no-longer-a-sure-thing-college-major-when-it-comes-to-jobs/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a63adcb9aba068162f6e3ef/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
+    "publishedAt": "2026-07-25T10:30:00Z",
+    "content": "Growing up in Detroit, Ryon Baldwin-Williams built web pages as a hobby. As a computer science major at Michigan State Universitys School of Engineering, he got prized internships, working (among oth… [+9572 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hhhistory.com"
+    },
+    "author": "Jennifer Uhlarik",
+    "title": "The Women of the U.S. Postage Stamps—Part 6",
+    "description": "By Jennifer Uhlarik   Hello, readers! It’s time for the next installment of women who have been featured on our American postage stamps. In ...",
+    "url": "https://www.hhhistory.com/2026/07/the-women-of-us-postage-stampspart-6.html",
+    "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik_k284lEPaXszgmW9Zvr8E_5EDU3q_bJq2Rd0IOJGqU1w1cr8rrW5TbEzcjSODcADaFdBvayqJWMMFig3tTWFMoBYtRGYvpZUzZp5x7fWTlC_-RNhInVyahlxrz52_3gZec5lfLhgws5zjYLo9QK6TVL-Pv2NLCZPVAGVWZo5iRmqTVQpwDmABd97qHA/w1200-h630-p-k-no-nu/Jennifer%20Uhlarik%20Western%20Author%20Header%202.0.jpg",
+    "publishedAt": "2026-07-25T05:00:00Z",
+    "content": "By Jennifer Uhlarik\r\n Hello, readers! It’s time for the next installment of women who have been featured on our American postage stamps. In previous posts, we’ve explored nearly 90 years of U.S. Post… [+9050 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Emersoncollegepolling.com"
+    },
+    "author": "emerson polling",
+    "title": "POLL: 11 point midterm lead...",
+    "description": "Opposition to data centers growing; majority think US spending too much on Israel aid A…Full Release & Results",
+    "url": "https://emersoncollegepolling.com/july-2026-national-poll-democrats-with-11-point-generic-ballot-advantage/",
+    "urlToImage": "https://emersoncollegepolling.com/wp-content/uploads/2026/07/iStock-2175337617.jpg",
+    "publishedAt": "2026-07-24T18:00:19Z",
+    "content": "Opposition to data centers growing; majority think US spending too much on Israel aid\r\nA new Emerson College Polling survey of likely 2026 voters finds the Democrats with an 11-point advantage over t… [+5097 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Techdirt"
+    },
+    "author": "Tim Cushing",
+    "title": "Administration Accelerating Immigration Hearings To Ensure Migrants Miss New Court Dates",
+    "description": "No punishment is too vindictive. No cruelty is too small. The administration that is openly seeking to create a white Christian nationalist autocracy will do whatever it can to expel as many non-white people from this nation as possible. Trump and his cabinet…",
+    "url": "http://www.techdirt.com/2026/07/24/administration-accelerating-immigration-hearings-to-ensure-migrants-miss-new-court-dates/",
+    "urlToImage": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+    "publishedAt": "2026-07-24T16:25:23Z",
+    "content": "from the cruelty-is-all-they-have dept\r\nNo punishment is too vindictive. No cruelty is too small. The administration that is openly seeking to create a white Christian nationalist autocracy will do w… [+5293 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The New Republic"
+    },
+    "author": "Emma Janssen, The New Republic Staff",
+    "title": "ChatGPT’s Daring Escape Forces Dems to Pick a Path on AI Legislation",
+    "description": "Editor’s Note: Welcome to The TNR Blue Book. It’s our new daily newsletter that covers Congress and much more, but with a distinctly TNR twist: Our focus will be strictly on Democrats, liberal and progressive groups, and the fight to take back power and save …",
+    "url": "https://newrepublic.com/post/213500/chatgpt-lab-breach-democrats-ai-legislation",
+    "urlToImage": "https://images.newrepublic.com/8adb357e9f15e118852a3115453209bc3022e606.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+    "publishedAt": "2026-07-24T14:36:52Z",
+    "content": "Democratic lawmakers, many of whom were already concerned about AI, say that this weeks incident has lit a fire underneath them. Representative Lori Trahan, who proposed a new bipartisan AI regulatio… [+1103 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "Salon"
     },
     "author": "Brian Karem",
@@ -37,96 +128,5 @@
     "urlToImage": "https://s.yimg.com/lo/mysterio/api/8641ef0a84b743d8159a73294e6b065842f9a8e09bdd7543767939f5ea2be07d/lightyear_networkapi/resizefill_w685_h578;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F58357848212a143c74aaffeb1c2e0cbe",
     "publishedAt": "2026-07-24T09:44:34Z",
     "content": "The state that played as important of a role as any in the formation of the United States the home of the Boston Tea Party, Paul Revere's midnight ride, the Boston Massacre and the Battles of Lexingt… [+8340 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Fox News Poll: Significant support for both voter ID laws and mail-in ballots",
-    "description": "Poll finds 83% of registered voters favor requiring photo ID to register to vote, with support spanning Republicans, Democrats and independents.",
-    "url": "https://www.foxnews.com/politics/fox-news-poll-significant-support-both-voter-id-laws-mail-in-ballots",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/voter-id-2.jpg",
-    "publishedAt": "2026-07-23T22:00:02Z",
-    "content": "As Congress debates the SAVE America Act which would require photo identification to vote in federal elections the latest Fox News national survey shows broad support for that measure.\r\nIn a July 16 … [+4483 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Kvoe.com"
-    },
-    "author": "Chuck Samples",
-    "title": "DATA CENTER: Work on development agreement, marketing to start soon",
-    "description": "Following action by the Emporia City Commission on Wednesday, the Flint Hills Digital Campus data center proje...",
-    "url": "https://kvoe.com/2026/07/23/data-center-work-on-development-agreement-marketing-to-start-soon/",
-    "urlToImage": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2530/files/2026/06/flint-hills-digital-campus-approved-logo-screenshot-2026-06-07-094328.png",
-    "publishedAt": "2026-07-23T20:34:25Z",
-    "content": "Following action by the Emporia City Commission on Wednesday, the Flint Hills Digital Campus data center project is moving forward.\r\nProject spokesman and strategist Garrett Nordstrom says one part o… [+2762 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Common Dreams"
-    },
-    "author": "Julia Conley",
-    "title": "'Starvation Wages' at Giant US Corporations Force Workers to Seek Taxpayer-Funded Aid",
-    "description": "US Sen. Bernie Sanders recently commissioned a government analysis of federal aid programs and how much employees of some of the largest and most politically influential corporations in the country are relying on food and healthcare benefits due to the chroni…",
-    "url": "https://www.commondreams.org/news/walmart-workers-on-snap",
-    "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=67527805&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
-    "publishedAt": "2026-07-23T17:00:19Z",
-    "content": "US Sen. Bernie Sanders recently commissioned a government analysis of federal aid programs and how much employees of some of the largest and most politically influential corporations in the country a… [+5176 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "NBA Champion John Salley and United Wealth Education Join Forces",
-    "description": "\"Health and wellness starts with sound finances\" FARMINGTON HILLS, Mich., July 23, 2026 /PRNewswire/ -- Four-time NBA champion John Salley and United Wealth Education have joined forces to advance financial literacy and personal well-being. In addition to dev…",
-    "url": "https://www.prnewswire.com/news-releases/nba-champion-john-salley-and-united-wealth-education-join-forces-302833526.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1911905/Former-NBA-champion-John-Salley-named-as-UWE-spokesperson.jpg?id=OA2783356&p=facebook",
-    "publishedAt": "2026-07-23T16:57:00Z",
-    "content": "\"Health and wellness starts with sound finances\"\r\nFARMINGTON HILLS, Mich., July 23, 2026 /PRNewswire/ -- Four-time NBA champion John Salley and United Wealth Education have joined forces to advance f… [+5655 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Daily Hodl"
-    },
-    "author": "Daily Hodl Agent",
-    "title": "President Trump Highlights New Child Savings Accounts as Some Families Face Delays",
-    "description": "President Trump promotes a federal program providing $1,000 seed money for children's savings accounts, with over 7 million sign-ups reported, though some parents encounter processing waits of several weeks.\nThe post President Trump Highlights New Child Savin…",
-    "url": "https://dailyhodl.com/2026/07/23/president-trump-highlights-new-child-savings-accounts-as-some-families-face-delays/",
-    "urlToImage": "https://dailyhodl.com/wp-content/uploads/2023/05/Them-Is-Money-Printing.jpg?resize=1365,800",
-    "publishedAt": "2026-07-23T16:55:10Z",
-    "content": "President Trump is promoting a new federal initiative that provides $1,000 in seed funding for savings accounts aimed at American children.\r\nThe program launched on July 4th, 2026, reports Marshall I… [+2036 chars]"
-  },
-  {
-    "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
-    },
-    "author": "James LaForge",
-    "title": "Every state ranked by its math and reading test scores, from worst to best",
-    "description": "The National Assessment of Educational Progress measures student performance in math and reading. See how the 50 states shape up.",
-    "url": "https://www.businessinsider.com/states-ranked-math-reading-test-scores-2026-7",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/6d29e1941f8d27386c27b748fa15196f59345c7587e9fe47fd12d7d657061654/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fa881b76cf67fa7191446cd9bf8013b2e",
-    "publishedAt": "2026-07-23T15:16:01Z",
-    "content": "<ul><li>National Assessment of Educational Progress assessment data is released every two years.\r\n</li><li>Known as The Nation's Report Card, it shows how fourth- and eighth-grade students performed … [+13604 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Sun Life U.S. and DentaQuest present the 2026 Health Access Hero Awards",
-    "description": "Awards include nonprofit grants and recognitions of individuals offering community-based oral health and diabetes programs WELLESLEY, Mass., July 23, 2026 /PRNewswire/ -- Sun Life U.S. and DentaQuest, part of Sun Life U.S., have announced this year's recipien…",
-    "url": "https://www.prnewswire.com/news-releases/sun-life-us-and-dentaquest-present-the-2026-health-access-hero-awards-302833440.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1891366/PRSC-12045_Health-Access-Award-Winners_1200x628.mp4?id=OA2780457&p=thumbnail",
-    "publishedAt": "2026-07-23T14:55:00Z",
-    "content": "Awards include nonprofit grants and recognitions of individuals offering community-based oral health and diabetes programs\r\nWELLESLEY, Mass., July 23, 2026 /PRNewswire/ -- Sun Life U.S. and DentaQues… [+16456 chars]"
   }
 ]

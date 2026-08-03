@@ -1,6 +1,84 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "Vanguard"
+    },
+    "author": "efosataiwo@vanguardngr.com",
+    "title": "‘₦2.9m minimum wage’, Countries that can enter Finland without a visa",
+    "description": "Finland is widely regarded as one of Europe's best places to live, work and visit, with its high wages and visa-free entry policy for citizens of dozens of countries making it an attractive destination.\nThe post ‘₦2.9m minimum wage’, Countries that can enter …",
+    "url": "https://www.vanguardngr.com/2026/08/₦2-9m-minimum-wage-countries-that-can-enter-finland-without-a-visa/",
+    "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2025/04/Japa-1.jpg",
+    "publishedAt": "2026-08-02T14:29:14Z",
+    "content": "Finland is widely regarded as one of Europe’s best places to live, work and visit, with its high wages and visa-free entry policy for citizens of dozens of countries making it an attractive destinati… [+4350 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Root"
+    },
+    "author": "Angela Wilson",
+    "title": "Best HBCUs for Securing Top Jobs and High Salaries, Ranked",
+    "description": "Forbes just ranked the top 20 HBCUs that set their graduates up for success, historically educating the nation’s Black doctors, lawyers, engineers and teachers.Read more...",
+    "url": "https://www.theroot.com/best-hbcus-for-securing-top-jobs-and-high-salaries-ran-2000119144",
+    "urlToImage": null,
+    "publishedAt": "2026-08-02T11:28:04Z",
+    "content": "USA, Washington, D.C., Aerial photograph of Howard University campus (Photo: Getty Images) | Graduates of Morehouse College arrive for their graduation ceremony ahead of US President Joe Biden’s comm… [+10638 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Vanguard"
+    },
+    "author": "efosataiwo@vanguardngr.com",
+    "title": "Full list of countries affected by Trump’s new US visa bond rule",
+    "description": "The administration of US President Donald Trump has moved to permanently enforce a visa bond programme requiring certain visitor visa applicants from 50 countries, including Nigeria, to pay refundable bonds of up to $20,000 before travelling to the United Sta…",
+    "url": "https://www.vanguardngr.com/2026/08/full-list-of-countries-affected-by-trumps-new-us-visa-bond-rule/",
+    "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2026/06/AFP__20260629__2283901572__v1__MidRes__PresidentTrumpSignsExecutiveOrderInTheOvalOff.jpg",
+    "publishedAt": "2026-08-02T08:09:11Z",
+    "content": "WASHINGTON, DC – JUNE 29: U.S. President Donald Trump signs an executive order dealing with automobile repairs in the Oval Office at the White House on June 29, 2026 in Washington, DC. Trump followed… [+4094 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Us Weekly"
+    },
+    "author": "Justin Harp",
+    "title": "Nicki Minaj Mocks Dr. Anthony Fauci After Contentious Senate Hearing",
+    "description": "Nicki Minaj tore into Dr. Anthony Fauci for his handling of the COVID-19 pandemic following his tense appearance before a U.S. Senate committee last week. “Feeding tubes will be his portion,” Minaj, 43, tweeted on Thursday, July 30. “He will lose the ability …",
+    "url": "https://www.usmagazine.com/celebrity-news/news/nicki-minaj-mocks-anthony-fauci-after-tense-senate-hearing/",
+    "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2026/08/Nicki-Minaj-Mocks-Dr.-Anthony-Fauci-After-Contentious-Senate-Hearing-e1785637836897.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
+    "publishedAt": "2026-08-02T02:39:29Z",
+    "content": "Nicki Minaj tore into Dr. Anthony Fauci for his handling of the COVID-19 pandemic following his tense appearance before a U.S. Senate committee last week.\r\n“Feeding tubes will be his portion,” Minaj,… [+4334 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "Keane Bourke",
+    "title": "Labor's Secret Harbour by-election campaign walks fine line on pork barrelling",
+    "description": "Labor's funding announcements in the electorate of Secret Harbour ahead of its by-election prompt the question: where does pork barrelling begin and genuine campaigning end?",
+    "url": "https://www.abc.net.au/news/2026-08-02/secret-harbour-byelection-campaign-is-it-pork-barrelling/106984330",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a5d26559fd8511f1158f215dfd063b9b?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=100&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-08-02T00:16:17Z",
+    "content": "All might be fair in love and war, but politics is normally a more regulated affair.\r\nBut where exactly those lines should be drawn especially in the heat of a hotly-contested by-election is often mo… [+6933 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Educators warn AI debate has focused too much on cheating, not enough on student learning",
+    "description": "A Georgia Tech professor said some students are \"learning absolutely nothing\" as educators rethink assessments with handwritten exams in the AI era.",
+    "url": "https://www.foxnews.com/media/educators-warn-ai-debate-has-focused-too-much-cheating-not-enough-student-learning",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/college-students.jpg",
+    "publishedAt": "2026-08-01T14:00:42Z",
+    "content": "As the world scrambles to understand and use generative artificial intelligence in a variety of areas, the discourse about its implementation in higher education often centers around plagiarism and c… [+4932 chars]"
+  },
+  {
+    "source": {
       "id": "business-insider",
       "name": "Business Insider"
     },
@@ -50,83 +128,5 @@
     "urlToImage": null,
     "publishedAt": "2026-08-01T04:25:35Z",
     "content": "The albatross, a magnificent seabird with an immense wingspan, is steeped in myth and reality. Its story blends biological marvel, maritime folklore, and ecological challenge, revealing a creature bo… [+9675 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Americanthinker.com"
-    },
-    "author": null,
-    "title": "Through a Glass, Darkly",
-    "description": "Photo Credit:ChatGPT\n \n ChatGPTBy Charlton AllenAn elegy for Lamar and Ashton Allen, thirty years after TWA Flight 800.",
-    "url": "https://www.americanthinker.com/articles/2026/08/through-a-glass-darkly/",
-    "urlToImage": "https://images.americanthinker.com/vg/vgokrcl8ur2roi5kjohe_1200.jpg",
-    "publishedAt": "2026-08-01T04:00:00Z",
-    "content": "Thirty years is a long time—long enough for one generation to grow into adulthood and another to begin.\r\nWith time, great public tragedies pass into history. Dates remain. Photographs endure. The lan… [+9395 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Andrew Neil",
-    "title": "ANDREW NEIL: If you want to know why socialism is on the march in America, look at the medieval kleptocracy that is the First Family",
-    "description": "It was inevitable that, at some stage, America's populist Left would try to do to the Democratic Party what the populist Right has already done to the Republican Party: take it over.",
-    "url": "https://www.dailymail.com/debate/article-16020581/ANDREW-NEIL-graduate-jobs-AI-Americas-populist-Left-takeover-Democrats.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/07/31/18/110373973-0-image-m-85_1785520011163.jpg",
-    "publishedAt": "2026-08-01T00:01:05Z",
-    "content": "It was inevitable that, at some stage, Americas populist Left would try to do to the Democratic Party what the populist Right has already done to the Republican Party: take it over.\r\nMaybe now is the… [+8540 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "RHA HEALTH SERVICES RECOGNIZES DISABILITY PRIDE MONTH",
-    "description": "ASHEVILLE, N.C., July 31, 2026 /PRNewswire/ -- RHA Health Services, a provider of high-quality disability care, is proud to recognize Disability Pride Month. Observed each July, Disability Pride Month commemorates the signing of the Americans with Disabilitie…",
-    "url": "https://www.prnewswire.com/news-releases/rha-health-services-recognizes-disability-pride-month-302840216.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1649305/RHA-Health-Services-Logo.jpg?id=OA2819761&p=facebook",
-    "publishedAt": "2026-07-31T17:04:00Z",
-    "content": "ASHEVILLE, N.C., July 31, 2026 /PRNewswire/ -- RHA Health Services, a provider of high-quality disability care, is proud to recognize Disability Pride Month. Observed each July, Disability Pride Mont… [+2530 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "WickWick",
-    "title": "WickWick Launches Fourth Book in Its War and Peace Picture Book Series for Children",
-    "description": "From a true Winter War story to a Syrian refugee camp in Jordan — Tuula Pere's \"diplomacy of the heart\" From a true Winter War story to a Syrian refugee camp in Jordan — Tuula Pere's \"diplomacy of the heart\"",
-    "url": "https://www.globenewswire.com/news-release/2026/07/31/3336979/0/en/WickWick-Launches-Fourth-Book-in-Its-War-and-Peace-Picture-Book-Series-for-Children.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/13ac8fdc-05a9-4feb-a4f6-540c6aa5751f",
-    "publishedAt": "2026-07-31T16:55:00Z",
-    "content": "Helsinki, Finland, July 31, 2026 (GLOBE NEWSWIRE) -- As conflicts around the world push record numbers of families from their homes, a Finnish publisher's War and Peace picture book series offers chi… [+7855 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Georgia Power, Department of Energy and elected officials celebrate the future of energy production at Plant Bowen",
-    "description": "Northwest Georgia power plant has served customers since 1971; Investments in efficiency and technology include advanced air emissions controls and beneficial reuse of coal ash; Company building new natural gas units totaling nearly 1,500 MW and 500 MW of bat…",
-    "url": "https://www.prnewswire.com/news-releases/georgia-power-department-of-energy-and-elected-officials-celebrate-the-future-of-energy-production-at-plant-bowen-302840183.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1962149/Southern-Company-and-Georgia-Power.jpg?id=OA2819947&p=facebook",
-    "publishedAt": "2026-07-31T16:21:00Z",
-    "content": "Northwest Georgia power plant has served customers since 1971;Investments in efficiency and technology include advanced air emissions controls and beneficial reuse of coal ash;Company building new na… [+7673 chars]"
-  },
-  {
-    "source": {
-      "id": "fortune",
-      "name": "Fortune"
-    },
-    "author": "Janice Mak, The Conversation",
-    "title": "The post-pandemic classroom is quietly ditching the laptop-for-every-kid model",
-    "description": "When the COVID-19 pandemic forced in-person classroom instruction to go virtual, students suddenly needed to have their own laptops or tablets in order to interact with teachers and complete assignments. Most states used federal pandemic funding to address th…",
-    "url": "https://fortune.com/2026/07/31/utah-school-laptop-ban-classroom-screens/",
-    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-103009905-e1785514732434.jpg?resize=1200,600",
-    "publishedAt": "2026-07-31T16:19:34Z",
-    "content": "While most schools resumed in-person classes by 2021, many of them continued to rely heavily on online platforms and apps to help their students do their work.Today, however, more and more schools ar… [+5991 chars]"
   }
 ]

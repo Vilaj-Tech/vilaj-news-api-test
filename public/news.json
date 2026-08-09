@@ -1,6 +1,71 @@
 [
   {
     "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Noah Sheidlower",
+    "title": "We were finally empty nesters. Then we got custody of our granddaughter and had to go back to work to raise her.",
+    "description": "Michael and Connie Frost are raising their granddaughter Kinsley in Georgia, balancing their retirement and her education needs.",
+    "url": "https://www.businessinsider.com/grandparents-raising-grandchildren-retirement-return-to-work-social-security-2026-8#article",
+    "urlToImage": "https://i.insider.com/6a74eb0f0c0bf4e8be5225f6?width=1200&format=jpeg",
+    "publishedAt": "2026-08-08T09:47:01Z",
+    "content": "Connie and Michael Frost have been raising their teenage granddaughter, Kinsley.Connie Frost\r\n<ul><li>Michael and Connie Frost, in Georgia, are raising their 13-year-old granddaughter, Kinsley, full-… [+7229 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Researchbuzz.me"
+    },
+    "author": "Tara Calishain",
+    "title": "Bot False Flags, Flock Camera Misinformation, Data Center Protests, More: ResearchBuzz AI Update, August 7, 2026",
+    "description": "AI PROBLEMS TechSpot: Amazon is blocking some users from seeing reviews after mistaking them for AI bots. “WTF?! Amazon is restricting access to customer reviews for some shoppers after mistakenly identifying them […]",
+    "url": "https://researchbuzz.me/2026/08/07/bot-false-flags-flock-camera-misinformation-data-center-protests-more-researchbuzz-ai-update-august-7-2026/",
+    "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
+    "publishedAt": "2026-08-07T23:12:03Z",
+    "content": "AI PROBLEMS \r\nTechSpot: Amazon is blocking some users from seeing reviews after mistaking them for AI bots. “WTF?! Amazon is restricting access to customer reviews for some shoppers after mistakenly … [+7482 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "HealthConnect One Leadership to Join 2026 Black Maternal Health Conference & Training Institute, Reinforcing Commitment to Maternal Health Equity",
+    "description": "Dr. Twylla Dillion, President & CEO, will lead a team of HealthConnect One subject matter experts — including National Advocacy Manager Tiwani Oseni and Research Liaison Dr. Breana Turner to BMHC26, the leading national gathering on Black maternal health. ATL…",
+    "url": "https://www.prnewswire.com/news-releases/healthconnect-one-leadership-to-join-2026-black-maternal-health-conference--training-institute-reinforcing-commitment-to-maternal-health-equity-302846361.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1875189/HealthConnect-One-Logo.jpg?id=OA2840180&p=facebook",
+    "publishedAt": "2026-08-07T20:30:00Z",
+    "content": "Dr. Twylla Dillion, President &amp; CEO, will lead a team of HealthConnect One subject matter experts including National Advocacy Manager Tiwani Oseni and Research Liaison Dr. Breana Turner to BMHC26… [+4180 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Amazon.com"
+    },
+    "author": "Vitaly Omelchenko",
+    "title": "How TReNDS automates root-cause analysis with Amazon Bedrock",
+    "description": "TReNDS, a research center at Georgia State University, built an agentic AI pipeline on Amazon Bedrock and the open-source Strands Agents SDK that automatically investigates production errors in real time, reducing root-cause analysis from 15 to 30 minutes of …",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-trends-automates-root-cause-analysis-with-amazon-bedrock/",
+    "urlToImage": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/07/ml-21106.png",
+    "publishedAt": "2026-08-07T16:22:50Z",
+    "content": "This is a guest post co-written with Vitaly Omelchenko from the TReNDS Center at Georgia State University.\r\nAt the Center for Translational Research in Neuroimaging and Data Science (TReNDS), a joint… [+18797 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Atlanta Chiropractor Explains Why the Source of Pain Isn't Always Where You Feel It",
+    "description": "Dr. Bradley Hochman of Georgia Spinal Health & Wellness explains why identifying the underlying cause of back pain, neck pain, headaches, sciatica, and nerve compression is often the key to lasting relief. ATLANTA, Aug. 7, 2026 /PRNewswire/ -- Many people ass…",
+    "url": "https://www.prnewswire.com/news-releases/atlanta-chiropractor-explains-why-the-source-of-pain-isnt-always-where-you-feel-it-302845558.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1882378/Georgia-Spinal-Health-and-Wellness.jpg?id=OA2833843&p=facebook",
+    "publishedAt": "2026-08-07T13:02:00Z",
+    "content": "Dr. Bradley Hochman of Georgia Spinal Health &amp; Wellness explains why identifying the underlying cause of back pain, neck pain, headaches, sciatica, and nerve compression is often the key to lasti… [+4753 chars]"
+  },
+  {
+    "source": {
       "id": "abc-news-au",
       "name": "ABC News (AU)"
     },
@@ -63,70 +128,5 @@
     "urlToImage": "https://mmx.prnewswire.com/media/MS198028/MM39832LOGO-Logo.jpg?id=OA2828883&p=facebook",
     "publishedAt": "2026-08-06T12:01:00Z",
     "content": "New contract model has Equinix cover full costs of transmission and power infrastructure, backed by a 20-year take-or-pay agreement for the Hampton, Ga. project\r\nREDWOOD CITY, Calif., Aug. 6, 2026 /P… [+6125 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Phoebe Spotlights 340B Program in First-of-its-Kind Rural Health Report",
-    "description": "Series will examine healthcare issues unique to rural areas through a Phoebe lens. ALBANY, Ga., Aug. 6, 2026 /PRNewswire/ -- Phoebe Putney Health System today announced the launch of the Rural Health Report, a new public information series spotlighting health…",
-    "url": "https://www.prnewswire.com/news-releases/phoebe-spotlights-340b-program-in-first-of-its-kind-rural-health-report-302844147.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1964583/PHoebe-logo.jpg?id=OA2826638&p=facebook",
-    "publishedAt": "2026-08-06T12:00:00Z",
-    "content": "Series will examine healthcare issues unique to rural areas through a Phoebe lens. \r\nALBANY, Ga., Aug. 6, 2026 /PRNewswire/ -- Phoebe Putney Health System today announced the launch of the Rural Heal… [+4076 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "BusinessLine"
-    },
-    "author": "Team BL, KS Badri Narayanan",
-    "title": "Sensex today | Stock Market Highlights: Sensex climbs 374 pts; Nifty ends above 24,600 on RBI, crude oil cues",
-    "description": "Sensex Today, Nifty 50 | Stock Market Highlights August 6: Indian benchmark indices ended higher on Thursday after a volatile, range-bound session, supported by easing crude oil prices, the Reserve Bank of India's steady policy stance and selective buying in …",
-    "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-6-august-2026/article71309748.ece",
-    "urlToImage": "https://bl-i.thgim.com/public/incoming/sofp0r/article71309763.ece/alternates/LANDSCAPE_1200/stock%20market-1.jpg",
-    "publishedAt": "2026-08-06T11:09:51Z",
-    "content": "<li></li>\r\nAugust 6, 2026 16:10Kerala braces for renewed monsoon fury as IMD warns of heavy downpour\r\nIMD issues heavy rain alert for Kerala and Karnataka as Bay low may strengthen monsoon\r\nIMD forec… [+76336 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Edsurge.com"
-    },
-    "author": "David Weldon",
-    "title": "Me, Myself, and AI: Student Artists Wrestle with AI’s Promise and Peril",
-    "description": "Four student artists imagined what artificial intelligence means for their communities today — and 50 years from now.",
-    "url": "https://edsurge.com/news/me-myself-and-ai-student-artists-wrestle-with-ais-promise-and-peril",
-    "urlToImage": null,
-    "publishedAt": "2026-08-06T00:00:00Z",
-    "content": "The college graduating class of 2026 is the first to have full exposure to robust artificial intelligence (AI). But even at the high school level, U.S. students generally have considerable experience… [+6375 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Georgia Forestry Foundation Presents $85,000 to Brantley County Family Connection for Wildfire Recovery",
-    "description": "FORSYTH, Ga., Aug. 5, 2026 /PRNewswire/ -- The Georgia Forestry Foundation (GFF) presented an $85,000 grant to Brantley County Family Connection to help more than 30 families recovering from the historic Highway 82 Fire repair and replace wells, septic system…",
-    "url": "https://www.prnewswire.com/news-releases/georgia-forestry-foundation-presents-85-000-to-brantley-county-family-connection-for-wildfire-recovery-302843942.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1964562/export_Brantley-Family-Connection_ZC_07-30-2026_web-04710.jpg?id=OA2826490&p=facebook",
-    "publishedAt": "2026-08-05T17:45:00Z",
-    "content": "FORSYTH, Ga., Aug. 5, 2026 /PRNewswire/ -- The Georgia Forestry Foundation (GFF) presented an $85,000 grant to Brantley County Family Connection to help more than 30 families recovering from the hist… [+3175 chars]"
-  },
-  {
-    "source": {
-      "id": "the-verge",
-      "name": "The Verge"
-    },
-    "author": "Nilay Patel",
-    "title": "The left and right agree on one thing: no data centers",
-    "description": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.  Gaby recently reported a fantastic piece about Hernando County, Florida, where last month the county commission unanimously appro…",
-    "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-    "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_DCD_0730.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "publishedAt": "2026-08-05T17:04:04Z",
-    "content": "<ul><li></li><li></li><li></li></ul>\r\nData center bans in states like Florida reveal how the anti-AI movement is channeling bipartisan backlash.\r\nby\r\nNilay PatelClose\r\nPosts from this author will be … [+32621 chars]"
   }
 ]

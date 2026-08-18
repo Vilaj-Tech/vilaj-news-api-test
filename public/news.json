@@ -1,6 +1,84 @@
 [
   {
     "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Andrew Jones, KFF Health News",
+    "title": "Hospitals say they found a tool to help reduce childbirth risks: wristbands",
+    "description": "Hospitals across the U.S. are trying to reduce maternal deaths and complications after pregnancies using one small tool: a silicone wristband stamped with th...",
+    "url": "https://www.cnn.com/2026/08/17/health/childbirth-wristbands-hospitals",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/e6bd9addbbd6534ab7cb892e6810bd1702d08462d2749b96832728ff543adb3e/lightyear_networkapi/resizefill_w960_h540%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fd50fa81fb532bfa41ef9fde47fb6ddae.jpg",
+    "publishedAt": "2026-08-17T11:00:29Z",
+    "content": "Hospitals across the U.S. are trying to reduce maternal deaths and complications after pregnancies using one small tool: a silicone wristband stamped with the declaration \"I Gave Birth.\"\r\nThe wristba… [+9424 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Celebree School Celebrates Opening of 50th Franchise Location, Marking Major Growth Milestone",
+    "description": "This Significant Achievement Underscores Growing Demand for High-Quality Early Childhood Education BALTIMORE, Aug. 17, 2026 /PRNewswire/ -- Celebree School, a top early childhood education franchise brand, has reached a significant milestone with the opening …",
+    "url": "https://www.prnewswire.com/news-releases/celebree-school-celebrates-opening-of-50th-franchise-location-marking-major-growth-milestone-302852233.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1365211/Celebree-Logo.jpg?id=OA2888031&p=facebook",
+    "publishedAt": "2026-08-17T10:55:00Z",
+    "content": "This Significant Achievement Underscores Growing Demand for High-Quality Early Childhood Education\r\nBALTIMORE, Aug. 17, 2026 /PRNewswire/ -- Celebree School, a top early childhood education franchise… [+6292 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lithub.com"
+    },
+    "author": "Lit Hub Excerpts",
+    "title": "Unprecedented Times",
+    "description": "Listen: I am not ungrateful. I have always known I am the luckiest girl on earth. I was born in America, for starters, in the belly of the empire instead of its jaws—and I was even born at all. Right",
+    "url": "https://lithub.com/unprecedented-times/",
+    "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2026/07/9781250420787.jpg",
+    "publishedAt": "2026-08-17T08:30:22Z",
+    "content": "Listen: I am not ungrateful. I have always known I am the luckiest girl on earth. I was born in America, for starters, in the belly of the empire instead of its jawsand I was even born at all. Right … [+39701 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Insurance Journal"
+    },
+    "author": "admin",
+    "title": "People",
+    "description": "National The Automobile Insurance Plans Service Office (AIPSO) appointed Executive Vice President Les Willis as president and CEO. Willis succeeds President and CEO Charles Kwolek, who is retiring after a 32-year career with the organization. Prior to joining…",
+    "url": "https://www.insurancejournal.com/magazines/mag-people/2026/08/17/881412.htm",
+    "urlToImage": "https://www.insurancejournal.com/img/social/opengraph/ij-social-default-1200x630.png",
+    "publishedAt": "2026-08-17T00:00:00Z",
+    "content": "National\r\nThe Automobile Insurance Plans Service Office (AIPSO) appointed Executive Vice President Les Willis as president and CEO. Willis succeeds President and CEO Charles Kwolek, who is retiring a… [+9353 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "X",
+    "title": "Democrat crime stories from just the past week",
+    "description": "Democrat crime stories from just the past week - NM House Leader Sheryl Williams Stapleton convicted for diverting public education funds to her friend and gettinf kickbacks - MA Mayor Brian DePena charged for stealing covid relief funds - NJ Councilwoman Gin…",
+    "url": "https://freerepublic.com/focus/f-chat/4392011/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-08-16T14:54:13Z",
+    "content": "Skip to comments.\r\nDemocrat crime stories from just the past weekX ^\r\n | 08/15/2026\r\n | Libs of Tik Tok\r\nPosted on 08/16/2026 7:54:13 AM PDT by SmokingJoe\r\nDemocrat crime stories from just the past w… [+1359 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Daily Signal"
+    },
+    "author": "Fred Lucas",
+    "title": "Ballot Language Wars Reshape Major Referendums Before a Single Vote Is Cast",
+    "description": "Democrat state officials across the country have altered referendum language, which critics allege is aimed at manipulating the outcome of ballot measures this fall. After California Attorney General Rob Bonta altered the language of California’s voter ID mea…",
+    "url": "https://www.dailysignal.com/2026/08/16/ballot-language-wars-reshape-major-referendums-before-a-single-vote-is-cast/",
+    "urlToImage": "https://static.dailysignalmedia.org/BallotLanguage.gif",
+    "publishedAt": "2026-08-16T14:00:00Z",
+    "content": "Democrat state officials across the country have altered referendum language, which critics allege is aimed at manipulating the outcome of ballot measures this fall.\r\nAfter California Attorney Genera… [+6297 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Whyevolutionistrue.com"
     },
@@ -50,83 +128,5 @@
     "urlToImage": "https://robbreport.com/wp-content/uploads/2026/08/RR_Caviar_August_2.jpg?w=681&h=383&crop=1",
     "publishedAt": "2026-08-15T19:00:00Z",
     "content": "For most diners, caviar appears at the end of its journey. It arrives chilled and carefully presented, often with a sense of ceremony that can make it feel more like a trophy than something to eat. B… [+4549 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Champaign/Urbana News-Gazette"
-    },
-    "author": "Matt Daniels, The News-Gazette, Champaign-Urbana, Ill.",
-    "title": "The daily pitch from Sports Editor : Aug. 15, 2026",
-    "description": "Aug. 15—➜ . The Gibson City-Melvin-Sibley senior pitcher verbally committed to the Illinois baseball program after a superb junior season at GCMS and a strong summer. ➜ . The 29-year-old Monticello resident placed second this week at the 77th Illinois Open in…",
-    "url": "https://www.news-gazette.com/sports/the-daily-pitch-from-sports-editor-matt-daniels-aug-15-2026/article_b0242721-094a-4b89-8f5c-d8bd66bf0461.html",
-    "urlToImage": null,
-    "publishedAt": "2026-08-15T14:47:00Z",
-    "content": "Aug. 15 . The Gibson City-Melvin-Sibley senior pitcher verbally committed to the Illinois baseball program after a superb junior season at GCMS and a strong summer.\r\n . The 29-year-old Monticello res… [+1557 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Sanjay Sharma",
-    "title": "She replaced Gandhi’s charkha with the Ashoka Chakra on India’s national flag: The story of Surayya Tyabji, the artist behind the tricolour",
-    "description": "Surayya Tyabji, an artist from Hyderabad’s influential Tyabji family, played a significant role in shaping India’s national symbols. Historical accounts and family records credit her with illustrating the replacement of the Congress-era charkha with the 24-sp…",
-    "url": "https://timesofindia.indiatimes.com/education/news/she-replaced-gandhis-charkha-with-the-ashoka-chakra-on-indias-national-flag-the-story-of-surayya-tyabji-the-artist-behind-the-tricolour/articleshow/133259084.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-133259181,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-08-15T11:28:32Z",
-    "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>She replaced Gandhis charkha with the Ashoka Chakra on Indias national flag: The story of Surayya Tyabji, the artist behind the tricolou… [+2213 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Lily Jobson",
-    "title": "How 'queen of kiss and tells' Alicia Douvall got her happily ever after as model ties the knot after battling eating disorders, body dysmorphia and MANY disgruntled exes",
-    "description": "Alicia Douvall dubbed the 'queen of kiss and tells' has spilled the tea on her many romances with high-profile male celebrities over the years.",
-    "url": "https://www.dailymail.com/tvshowbiz/article-16050035/Alicia-Douvall-eating-disorder-body-dysmorphia-exes.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/08/13/15/110615565-0-image-m-180_1786630596095.jpg",
-    "publishedAt": "2026-08-15T10:37:55Z",
-    "content": "Alicia Douvall was dubbed the 'queen of kiss and tells' after spilling the tea on her many romances with high-profile male celebrities over the years.\r\nThe Nineties glamour model, now 47, was known f… [+8876 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Punch"
-    },
-    "author": "Punch Newspapers",
-    "title": "My ancestry search ended in Lagos royal family — US-born Nigerian, Olomo",
-    "description": "Olomo, a US-born Nigerian, shares her journey of tracing her ancestry, which led her to the Senlu Royal House of Imota in Lagos State. Discover her inspiri\n\nRead More: https://punchng.com/my-ancestry-search-ended-in-lagos-royal-family-us-born-nigerian-olomo/",
-    "url": "https://punchng.com/my-ancestry-search-ended-in-lagos-royal-family-us-born-nigerian-olomo/",
-    "urlToImage": "https://punchng.com/wp-content/uploads/2026/08/Olomo_1786734932-567x630.webp",
-    "publishedAt": "2026-08-15T00:06:49Z",
-    "content": "Can you take us through your professional journey?\r\nI was born and raised in the United States, and much of my professional life began in entrepreneurship, marketing, and business development.\r\nOver … [+14366 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Tribstar.com"
-    },
-    "author": "David Hughes , The Tribune-Star, Terre Haute, Ind.",
-    "title": "DAVID HUGHES: Only 34, Terre Haute North grad Chris O'Leary already an NFL D-coordinator",
-    "description": "Like a lot of Terre Haute youngsters growing up in the early 2000s, Chris O'Leary spent plenty of hot summer days trying to get Peyton Manning's autograph during the Indianapolis Colts' preseason training camps at Rose-Hulman. Those took place here for 11 con…",
-    "url": "https://www.tribstar.com/sports/david-hughes-only-34-terre-haute-north-grad-chris-oleary-already-an-nfl-d-coordinator/article_b0c9bdce-3baa-4c91-8832-011bb61f8cf1.html",
-    "urlToImage": null,
-    "publishedAt": "2026-08-14T23:17:00Z",
-    "content": "Like a lot of Terre Haute youngsters growing up in the early 2000s, Chris O'Leary spent plenty of hot summer days trying to get Peyton Manning's autograph during the Indianapolis Colts' preseason tra… [+6308 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Deadline"
-    },
-    "author": "Dessi Gomez",
-    "title": "Netflix Assembles YA Stars Past, Present & Future For End Of Summer Bash Event To Reassert Presence In The Genre",
-    "description": "At a smaller, more exclusive and intimate event hosted at LAYA Restaurant Thursday evening, Netflix took the opportunity to remind viewers of its roots in the YA genre by gathering talent from projects past, present and future that have become hits in the spa…",
-    "url": "http://deadline.com/2026/08/netflix-ya-slate-end-of-summer-bash-crossover-prime-video-1237040780/",
-    "urlToImage": "https://deadline.com/wp-content/uploads/2026/08/Netflix-End-of-Summer-Bash.jpg?w=1024",
-    "publishedAt": "2026-08-14T22:20:43Z",
-    "content": "At a smaller, more exclusive and intimate event hosted at LAYA Restaurant Thursday evening, Netflix took the opportunity to remind viewers of its roots in the YA genre by gathering talent from projec… [+10212 chars]"
   }
 ]

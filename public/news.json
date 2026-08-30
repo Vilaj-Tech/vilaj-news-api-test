@@ -1,6 +1,97 @@
 [
   {
     "source": {
+      "id": "new-york-magazine",
+      "name": "New York Magazine"
+    },
+    "author": "Ed Kilgore",
+    "title": "Plenty of States Have Flipped. Texas Could Too.",
+    "description": "Democrats have an almost superstitious fear of hoping for a win in Texas. But James Talarico could break the spell in his Senate race against Ken Paxton. Plenty of other states have flipped unexpectedly and Texas could too.",
+    "url": "http://nymag.com/intelligencer/article/plenty-of-states-have-flipped-texas-could-too.html",
+    "urlToImage": "https://pyxis.nymag.com/v1/imgs/a5f/23c/3b8872c73b7172e26ba13f25df53f4ea28-talarico-blue.1x.rsocial.w1200.jpg",
+    "publishedAt": "2026-08-29T10:00:52Z",
+    "content": "For a data-driven number cruncher of the highest order, Nate Silver is refreshingly honest in admitting his skepticism about the Senate candidacy of Texas Democrat James Talarico is a gut hunch that … [+4122 chars]"
+  },
+  {
+    "source": {
+      "id": "the-irish-times",
+      "name": "The Irish Times"
+    },
+    "author": "Nathan Johns",
+    "title": "Who is Neff Giwa? From Cashel rugby origins to ‘future NFL first-round pick’",
+    "description": "As an Irish non-kicking American football prospect who has never played a down before heading stateside, Giwa is a rare phenomenon",
+    "url": "https://www.irishtimes.com/sport/2026/08/29/who-is-neff-giwa-from-cashel-rugby-origins-to-future-nfl-first-round-pick/",
+    "urlToImage": "https://www.irishtimes.com/resizer/v2/BMWFRUCMSRFS5P6AUMLOPB3ZU4.jpg?smart=true&auth=5b012bdcfe521a51c8266d5f26c6ebf9d07b5e059ac96b6c29dcbf05c218936e&width=1200&height=630",
+    "publishedAt": "2026-08-29T05:00:00Z",
+    "content": "At one point as a teenager, Neff Giwa had to train with the senior team at Cashel RFC because his peers couldnt lift him at the lineout.\r\nLooking at his dimensions, its not difficult to see why. Acco… [+5671 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Americanthinker.com"
+    },
+    "author": null,
+    "title": "The Big Secret about Teen Takeovers",
+    "description": "Photo Credit:Free image, Pixabay license.\n \n PixabayBy Jeffrey FolksThere’s something big the mainstream media don’t want to tell you about these disruptive and dangeorus events.",
+    "url": "https://www.americanthinker.com/articles/2026/08/the-big-secret-about-teen-takeovers/",
+    "urlToImage": "https://images.americanthinker.com/q8/q8p12xwa9f6xeqycgd1s_1200.jpg",
+    "publishedAt": "2026-08-29T04:00:00Z",
+    "content": "Soon it will a long, hot Labor Day weekend, and police in many cities are bracing for multiple teen takeovers.\r\nThese takeovers, usually of crowded downtown areas, are organized on social media and e… [+6408 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PCMag.com"
+    },
+    "author": "Chloe Albanesius",
+    "title": "Sorry, No Pornhub Access in 25 States and 3 Countries. How to Watch Anyway",
+    "description": "Aylo sites like Pornhub are blocked in half the country and overseas, in protest of age-verification laws. Here's how we got here, and how VPNs can help you connect.\nKids get into all sorts of things on the internet, but no parent wants young children perusin…",
+    "url": "https://uk.pcmag.com/vpn/165971/no-pornhub-access-25-states-3-countries-how-to-watch-anyway-vpn",
+    "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/s/sorry-no-p/sorry-no-pornhub-access-in-25-states-and-3-countries-how-to_bkey.1200.jpg",
+    "publishedAt": "2026-08-28T21:11:36Z",
+    "content": "Kids get into all sorts of things on the internet, but no parent wants young children perusing adult websites, so now, half of the US and several other countries have implemented age-verification law… [+14559 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Us Weekly"
+    },
+    "author": "Justin Harp",
+    "title": "Kim Zolciak's Son KJ Is 'Doing the Best He Can' in Detention Center",
+    "description": "Kim Zolciak and Kroy Biermann’s 15-year-old son, Kroy “KJ” Biermann Jr., is following a heavily structured routine at an Atlanta youth detention center following his recent arrest for alleged sodomy and sexual assault, Us has learned. KJ is currently being he…",
+    "url": "https://www.usmagazine.com/celebrity-news/news/kim-zolciaks-son-kjs-structured-routine-at-detention-center/",
+    "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2026/08/Kim-Zolciak-and-Kroy-Biermanns-Son-KJs-Structured-Routine-at-Youth-Detention-Center-Revealed-e1787856145268.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
+    "publishedAt": "2026-08-28T20:09:11Z",
+    "content": "Kim Zolciak and Kroy Biermann’s 15-year-old son, Kroy “KJ” Biermann Jr., is following a heavily structured routine at an Atlanta youth detention center following his recent arrest for alleged sodomy … [+5533 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Ms. Magazine"
+    },
+    "author": "Peng Gao",
+    "title": "Too Soft, Too Tough, Never Just Right: The Impossible Standard for Women Leaders",
+    "description": "Weekend Reading on Women’s Representation is a compilation of stories about women’s representation in politics, on boards, in sports and entertainment, in judicial offices and in the private sector in the U.S. and around the world—with a little gardening and …",
+    "url": "https://msmagazine.com/2026/08/28/too-soft-too-tough-impossible-standard-women-leaders/",
+    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/08/Too-Soft-Too-Tough-Never-Just-Right-The-Impossible-Standard-for-Women-Leaders.png",
+    "publishedAt": "2026-08-28T19:58:20Z",
+    "content": "Weekend Reading on Womens Representation is a compilation of stories about womens representation in politics, on boards, in sports and entertainment, in judicial offices and in the private sector in … [+36449 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "esquire.com"
+    },
+    "author": "Paul Pabst",
+    "title": "Remedial Tailgating",
+    "description": "Squeezed by rising costs and middle-aged malaise, parents are steering their kids to big, affordable colleges down south where they can party. The kids can party too, if they want.",
+    "url": "https://www.esquire.com/lifestyle/a73537262/college-party-schools-middle-age/",
+    "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/ebc53a10-fb70-4fa1-ae6b-346fd69a8084.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+    "publishedAt": "2026-08-28T16:34:03Z",
+    "content": "Oh, Im in it. Im deep into the college-search process with my two high school daughters. College fairs. Arcane admissions data. Mailboxes stuffed with brochures from schools youve never heard of. We,… [+4664 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "The New Republic"
     },
@@ -37,96 +128,5 @@
     "urlToImage": "https://www.dallasobserver.com/wp-content/uploads/sites/3/2025/10/Football_School_HighSchool_AdobeStock-e1761924436620.jpeg",
     "publishedAt": "2026-08-28T13:00:00Z",
     "content": "Last week, we posted the top North Texas high school football players to watch this fall. Since then, two on that list have transferred out of state.\r\nThe exodus started on Aug. 18 when Byron Nelson … [+4482 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Conversation Africa"
-    },
-    "author": "Katayoun Shahandeh, Lecturer in Museum Studies, SOAS, University of London, Cassia Hayward-Fitch, Associate Tutor, Faculty of Arts and Humanities, University of East Anglia, Colin Tyler, Professor of Social and Political Thought, University of Hull, Emily Zobel Marshall, Reader in Postcolonial Literature, Leeds Beckett University, Fareda Banda, Professor of Law, SOAS, University of London, Jade King, Teaching Fellow in Creative Writing, University of Lincoln, Lyn Jehu, Lecturer in Community Football Development, University of South Wales, Sarah Richmond, Honorary Associate Professor of Philosophy, UCL, Simon Hinde, Programme Director, Journalism and Publishing, University of the Arts London, Yi Wang, PhD Candidate in Education, University of Cambridge",
-    "title": "The memoir that changed my mind – 11 experts share a perspective‑shifting read",
-    "description": "‘Instead of seeing limitations, I began to see possibilities.’",
-    "url": "https://theconversation.com/the-memoir-that-changed-my-mind-11-experts-share-a-perspective-shifting-read-277880",
-    "urlToImage": "https://images.theconversation.com/files/755747/original/file-20260824-50-t6hij6.jpg?ixlib=rb-4.1.1&rect=0%2C923%2C3104%2C1552&q=45&auto=format&w=1356&h=668&fit=crop",
-    "publishedAt": "2026-08-28T10:49:04Z",
-    "content": "Virinaflora/Shutterstock\r\nOur beliefs aren’t fixed. They’re shaped, stretched and sometimes overturned by the ideas we encounter as we move through life. For many of us, memoirs are the moments where… [+13534 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Salon"
-    },
-    "author": "Ashlie D. Stevens",
-    "title": "Why the right is so afraid of the Girl Scouts",
-    "description": "Behind the cookies and badges is a quietly radical idea: Girls should be curious about the world",
-    "url": "https://www.salon.com/2026/08/28/why-the-right-is-so-afraid-of-the-girl-scouts/",
-    "urlToImage": "https://www.salon.com/app/uploads/2026/08/Girl-Scout.png",
-    "publishedAt": "2026-08-28T10:30:40Z",
-    "content": "The American culture war has always had a bit of a sweet tooth.\r\nThere were the Oreos that became boycott fodder after the brand released an ad centered on a young man coming out to his family. There… [+7926 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Daytona Beach News-Journal"
-    },
-    "author": "Dan Rorabaugh, USA TODAY NETWORK - Florida",
-    "title": "What channel is NASCAR O'Reilly Series at Daytona on today? Time, TV schedule",
-    "description": "The Winn-Dixie 250 runs today as part of the NASCAR O'Reilly Auto Parts Series ahead of the 2026 Coke Zero 400 at Daytona International Speedway.",
-    "url": "https://www.news-journalonline.com/story/sports/nascar/2026/08/28/nascar-xfinity-race-daytona-today-oreilly-series-time-tv-schedule/91425505007/",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/1a2313a794eeff83282f5330a211faa7e8833ed44405f92b5fcae0ca04608123/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaytona-beach-news-journal%2Ff6bffd8b46fc0f87458031aa4254be4e.jpg",
-    "publishedAt": "2026-08-28T09:07:33Z",
-    "content": "The stars of racing have been out and around Daytona Beach throughout the week. And today, NASCAR returns in full force to Daytona International Speedway to prepare for the Coke Zero Sugar 400.The ma… [+8526 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Inside Higher Ed"
-    },
-    "author": "Johanna Alonso",
-    "title": "The Ivies Brought Back Test Scores, but 90% of Colleges Still Don’t Require Them",
-    "description": "The Ivies Brought Back Test Scores, but 90% of Colleges Still Don’t Require Them\n\n \n\n\n \nJohanna Alonso\n\nFri, 08/28/2026 - 03:00 AM\n\nNew data from FairTest shows that standardized tests are a condition of admission at just a few colleges, and even among the hi…",
-    "url": "https://www.insidehighered.com/news/admissions/traditional-age/2026/08/28/90-colleges-dont-require-test-scores-2026-27",
-    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-01/Smart_Glasses_SAT_Ban.jpg?itok=X1BJr15o",
-    "publishedAt": "2026-08-28T07:00:00Z",
-    "content": "In the six years since most colleges and universities suspended admissions testing requirements amid the COVID-19 pandemic, many have reinstated the requirement or announced plans to do so, including… [+5472 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Abcnews.com"
-    },
-    "author": "MATTHEW PERRONE AP health writer",
-    "title": "US officials tie cyclospora outbreak involving iceberg lettuce to 3 more states",
-    "description": "U.S. officials have confirmed cases of a parasitic illness tied to lettuce in three more states",
-    "url": "https://abcnews.com/Health/wireStory/us-officials-tie-cyclospora-outbreak-involving-iceberg-lettuce-136016101",
-    "urlToImage": "https://i.abcnewsfe.com/a/98cd0817-d1ad-4867-bf90-7a95bb97bb0b/wirestory_19899950075127fb664282dd73cccfc9_16x9.jpg?w=1600",
-    "publishedAt": "2026-08-28T06:19:37Z",
-    "content": "WASHINGTON -- Parasitic illness cases linked to recalled iceberg lettuce have now been confirmed in 20 states, federal health officials said Thursday, expanding the scope of the largest outbreak of i… [+1810 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "pymnts.com"
-    },
-    "author": "PYMNTS",
-    "title": "Universities Are Cloning Their Professors With AI",
-    "description": "At first glance, Harvard Business School senior lecturer Jeff Bussgang looks ordinary on a video call, smiling, ready to hear a founder’s pitch. He isn’t there. The student is talking to an artificial intelligence avatar built from Bussgang’s likeness, one of…",
-    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/universities-are-cloning-their-professors-with-ai/",
-    "urlToImage": "https://www.pymnts.com/wp-content/uploads/2026/08/AI-professors-1.jpg",
-    "publishedAt": "2026-08-28T01:29:37Z",
-    "content": "At first glance, Harvard Business School senior lecturer Jeff Bussgang looks ordinary on a video call, smiling, ready to hear a founders pitch. He isnt there. The student is talking to an artificial … [+4171 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ncspin.com"
-    },
-    "author": "by John Hood",
-    "title": "Wobbly claims abound in political debates",
-    "description": "As human beings, it is in our nature to interpret information in the context of what we already know — or think we know.",
-    "url": "https://www.ncspin.com/wobbly-claims-abound-in-political-debates",
-    "urlToImage": "https://www.ncspin.com/content/images/1200x628/5cb8b177c1595.jpg",
-    "publishedAt": "2026-08-28T00:47:00Z",
-    "content": "“You are entitled to your opinion,” the late Sen. Daniel Patrick Moynihan famously said. “But you are not entitled to your own facts.”\r\nAlthough I agree with his underlying sentiment, distinguishing … [+4114 chars]"
   }
 ]

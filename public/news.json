@@ -1,6 +1,71 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "Legalinsurrection.com"
+    },
+    "author": "Stacey Matthews",
+    "title": "The New Hampshire Senate Race Has Become One to Watch",
+    "description": "\"... but if anyone can win a Senate race in New Hampshire in a Democratic-favorable year, it’s someone with the last name Sununu.\"\nThe post The New Hampshire Senate Race Has Become One to Watch first appeared on Le·gal In·sur·rec·tion.",
+    "url": "https://legalinsurrection.com/2026/09/the-new-hampshire-senate-race-has-become-one-to-watch/",
+    "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2026/09/JohnESununu1.png",
+    "publishedAt": "2026-09-06T14:00:17Z",
+    "content": "There’s been so much focus nationally on the battleground Senate races in states like Michigan and Georgia that little attention has been paid to the one currently taking place in New Hampshire.\r\nThe… [+3887 chars]"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Mohammed Haddad",
+    "title": "Can you guess the real size of each country on the new world map?",
+    "description": "Pick which country is bigger, then watch it morph from Mercator to Equal Earth projection to see how close you were.",
+    "url": "https://www.aljazeera.com/news/2026/9/6/can-you-guess-the-real-size-of-each-country-on-the-new-world-map",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/INTERACTIVE-map-of-africa-game-1788686390.gif?resize=1200%2C675",
+    "publishedAt": "2026-09-06T11:15:09Z",
+    "content": "The map of Africa is much larger than most people think. However, most classroom maps and atlases still understate it a distortion embedded in the Mercator projection that has shaped world maps for m… [+2878 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ET Online",
+    "title": "UN-backed world map must depict J&K, Ladakh as per India's official map, says MEA",
+    "description": "India demands the United Nations depict Jammu and Kashmir and Ladakh accurately.  Any inaccurate or misleading map representations are considered unacceptable by New Delhi.  This assertion follows India's vote for a UN resolution on map accuracy.  The resolut…",
+    "url": "https://economictimes.indiatimes.com/news/india/un-backed-world-map-must-depict-jk-ladakh-as-per-indias-official-map-says-mea/articleshow/133829816.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-133829955,width-1200,height-630,imgsize-54948,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-06T07:43:00Z",
+    "content": "India on Sunday said a United Nations-initiated proposed world map must depict the Union Territories of Jammu and Kashmir and Ladakh in accordance with the country's official map, and that any \"inacc… [+3805 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Researchbuzz.me"
+    },
+    "author": "Tara Calishain",
+    "title": "Railroad Near-Misses, Graffiti-ed Billboards, Montana Data Centers , More: ResearchBuzz AI Update, September 5, 2026",
+    "description": "AI PROBLEMS Spokesman-Review: AI almost sent hazmat train barreling toward ‘catastrophe’ in Eastern WA. “A 146-car train carrying ‘hazardous materials’ was at risk of colliding with a roadway maintenance worker in Connell, […]",
+    "url": "https://researchbuzz.me/2026/09/05/railroad-near-misses-graffiti-ed-billboards-montana-data-centers-more-researchbuzz-ai-update-september-5-2026/",
+    "urlToImage": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJSZXNlYXJjaEJ1enoiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6NDMyODc1Nn0.BjdcPIDlw4ZG0Ki13B-quwxnrzAxn9iB5rJXagRMNlcMQ",
+    "publishedAt": "2026-09-06T01:22:26Z",
+    "content": "AI PROBLEMS \r\nSpokesman-Review: AI almost sent hazmat train barreling toward catastrophe in Eastern WA. “A 146-car train carrying ‘hazardous materials’ was at risk of colliding with a roadway mainten… [+7305 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Cameron Roy",
+    "title": "United Nations adopt new world map that shows Africa much bigger and cuts size of UK and US",
+    "description": "It is the culmination of a recent campaign led by African countries and advocacy groups to reject 'cartographic colonialism'.",
+    "url": "https://www.dailymail.com/news/article-16107743/United-Nations-adopt-new-world-map.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/09/05/18/111071811-0-image-a-12_1788630972289.jpg",
+    "publishedAt": "2026-09-05T18:17:11Z",
+    "content": "The United Nations has voted to replace the predominant world map with one that vastly increases the size of Africa while shrinking the UK and US.\r\nIt is the culmination of a recent campaign led by A… [+5800 chars]"
+  },
+  {
+    "source": {
       "id": "fortune",
       "name": "Fortune"
     },
@@ -63,70 +128,5 @@
     "urlToImage": "https://i.abcnewsfe.com/a/5e378f4d-501c-4442-be5d-6e8211a96a85/wirestory_b138fe9f76d7ff54cc7d5c9b1ddfa983_16x9.jpg?w=1600",
     "publishedAt": "2026-09-05T00:19:30Z",
     "content": "The United Nations General Assembly on Friday endorsed a new world map that represents Africa more accurately in its larger size, a culmination of a recent campaign led by African countries and advoc… [+2284 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Houston Chronicle"
-    },
-    "author": "Joseph Duarte",
-    "title": "A barbershop visit sparked Amare Thomas' football journey. Now he's UH's top receiving target",
-    "description": "His father wanted him to become an engineer or baseball player. Then a barbershop visit sent Amare Thomas toward a standout UH career.",
-    "url": "https://www.houstonchronicle.com/sports/college/cougars/article/amare-thomas-uh-football-journey-22415011.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/aab0ec3286f84ece2cc8a17fb4ce2bf5d194d8e823edfac03440e7e43ca0596d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhouston_chronicle_hearst_715%2Fce6d030ee2a0e9d79368e917da0afa46.jpg",
-    "publishedAt": "2026-09-04T21:07:10Z",
-    "content": "Wayne Thomas had a vision of what his son could be in life - and football wasn't part of it.\r\nPerhaps an engineer. Maybe a baseball player. Wayne knew that football wasn't the path he wanted for his … [+7013 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Page Six"
-    },
-    "author": "Nate Grant",
-    "title": "KJ Biermann’s strict prison visitation rules revealed — including restrictions for Kim Zolciak",
-    "description": "KJ, 15, is being held at Atlanta’s Metro Regional Youth Detention Center -- where he is awaiting a court hearing on sodomy and sexual battery charges.",
-    "url": "https://pagesix.com/2026/09/04/celebrity-news/kj-biermanns-strict-prison-visitation-rules-revealed/",
-    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/09/139604576.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-09-04T21:01:49Z",
-    "content": "Kim Zolciak and Kroy Biermann must adhere to strict rules involving dress code and time restrictions when visiting their son KJ Biermann at Atlantas Metro Regional Youth Detention Center — where he i… [+5611 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "ASU a partner in new national Foundry School announced by White House",
-    "description": "WASHINGTON, Sept. 4, 2026 /PRNewswire/ -- Arizona State University is among eight universities selected to lead a national initiative focused on preparing the next generation of workers to advance American manufacturing. The Foundry School, a U.S. Department …",
-    "url": "https://www.prnewswire.com/news-releases/asu-a-partner-in-new-national-foundry-school-announced-by-white-house-302870455.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1664299/asu-Logo.jpg?id=OA2886631&p=facebook",
-    "publishedAt": "2026-09-04T20:52:00Z",
-    "content": "WASHINGTON, Sept. 4, 2026 /PRNewswire/ -- Arizona State University is among eight universities selected to lead a national initiative focused on preparing the next generation of workers to advance Am… [+5185 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Reason"
-    },
-    "author": "ryan-curtis",
-    "title": "Texas Labeling Islamic Group a Terrorist Organization Infringes on Campus Free Speech",
-    "description": "By labeling this group a terrorist organization, the state is chilling more than Muslims' freedom of expression.",
-    "url": "https://reason.com/2026/09/04/texas-terrorism-law-chills-speech-for-muslim-group/",
-    "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/09/CAIR_SMU_Abbott-1024x576.jpg",
-    "publishedAt": "2026-09-04T20:25:05Z",
-    "content": "Texas Republican Gov. Greg Abbott believes that \"civics and leadership education\" are necessary to preserve Texas as \"the greatest state in the greatest country.\" However, the governor's own policies… [+4975 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Alex Raskin",
-    "title": "Georgia football's deadly problem: Endless cash, fast cars and strip club nights ending in tragedy... as insiders reveal their greatest fears",
-    "description": "Georgia Football has been blamed for 30 driving-related incidents while accumulating dozens of arrests since early 2023. Now, insiders are raising the alarm.",
-    "url": "https://www.dailymail.com/sport/college-football/article-16028385/georgia-football-driving-arrests-athens.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/09/04/17/110617609-0-image-m-13_1788537644046.jpg",
-    "publishedAt": "2026-09-04T17:07:14Z",
-    "content": "It was a cloudy February night along the Route 10 Loop encircling Athens, Georgia, when county police witnessed not one, but two late-model Mercedes GLEs speeding at 105mph in a 65-mph zone.\r\nValued … [+17666 chars]"
   }
 ]

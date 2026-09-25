@@ -1,29 +1,29 @@
 [
   {
     "source": {
-      "id": "new-york-magazine",
-      "name": "New York Magazine"
+      "id": null,
+      "name": "KPBS"
     },
-    "author": "Zak Cheney-Rice",
-    "title": "No One Can Fix School Segregation Alone",
-    "description": "Integration efforts of the 1950s were part of a movement. Today, Black parents are left with an unequal system and an uncoordinated push to change it.",
-    "url": "http://nymag.com/intelligencer/article/school-segregation-hannah-jones-essay-education-reform.html",
-    "urlToImage": "https://pyxis.nymag.com/v1/imgs/36f/2f4/5883fe6559dbed185d344ae5c143738655-PS-307.1x.rsocial.w1200.jpg",
-    "publishedAt": "2026-09-23T14:49:04Z",
-    "content": "On Sunday, Nikole Hannah-Jones published an essay in The New York Times Magazine about her most difficult parenting decision. The Pulitzer Prizewinning journalist and her husband both of whom are Bla… [+7539 chars]"
+    "author": "Heather Hollingsworth and Nicky Forster",
+    "title": "As the coding boom fades, computer science grads focus on AI skills in choppy job market",
+    "description": "It's a difficult job market for new graduates, especially in fields like software development where artificial intelligence is shouldering more of the work.",
+    "url": "https://www.kpbs.org/news/education/2026/09/24/as-the-coding-boom-fades-computer-science-grads-focus-on-ai-skills-in-choppy-job-market",
+    "urlToImage": "https://cdn.kpbs.org/dims4/default/7898ddf/2147483647/strip/true/crop/4200x2205+0+298/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2F14%2F4e%2Ffb2464434ad2aa4d093c0c86ed97%2Fap26246123235450.jpg",
+    "publishedAt": "2026-09-24T16:18:30Z",
+    "content": "Computer science student Jack Zemke was getting nowhere despite sending out hundreds of job applications that mostly disappeared into the void ignored.\r\nWith his graduation from Tulane University jus… [+6533 chars]"
   },
   {
     "source": {
-      "id": "financial-post",
-      "name": "Financial Post"
+      "id": null,
+      "name": "Coolcatteacher.com"
     },
-    "author": "Business Wire",
-    "title": "Datavault AI Announces Rights Offering to Shareholders",
-    "description": "Rights offering to include both Common Unit and Preferred Unit subscription rights Moody Capital Solutions, Inc. to act as dealer manager of a rights offering open to all shareholders of the company PHILADELPHIA — Datavault AI Inc. (Nasdaq: DVLT) (“Datavault …",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/datavault-ai-announces-rights-offering-to-shareholders",
-    "urlToImage": null,
-    "publishedAt": "2026-09-23T12:17:12Z",
-    "content": "The rights offering will be made pursuant to the Companys effective shelf registration statement on Form S-3, filed with the SEC on March 20, 2026 and declared effective on March 25, 2026, and a pros… [+6830 chars]"
+    "author": "coolcatteacher@gmail.com (Victoria A Davis, Cool Cat Teacher), Victoria A Davis, Cool Cat Teacher",
+    "title": "How to Become a Better Teacher Every Day",
+    "description": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nThree educators on what changed their teaching — attention and cognitive load, why a grade stops feedback, and …",
+    "url": "https://www.coolcatteacher.com/bettereveryday/",
+    "urlToImage": "https://www.coolcatteacher.com/wp-content/uploads/2026/09/S8E1-Become-a-better-teacher-every-day.png",
+    "publishedAt": "2026-09-24T15:24:00Z",
+    "content": "My first year of teaching, I came from the business world and did pretty well in school. So, the first thing I did was make some powerpoints and write a test. Yes, a 200+ question test. I thought the… [+21852 chars]"
   },
   {
     "source": {
@@ -31,102 +31,102 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "Edsby Forms & Workflows Brings Purpose-Built Digital Approvals to K‑12",
-    "description": "New system digitizes even the most complex K‑12 paperwork, including multi-level field trip workflows RICHMOND HILL, ON, Sept. 23, 2026 /PRNewswire/ -- Edsby®, a multi-award-winning, next-generation K‑12 digital learning platform, today introduced Edsby Forms…",
-    "url": "https://www.prnewswire.com/news-releases/edsby-forms--workflows-brings-purpose-built-digital-approvals-to-k12-302886761.html",
-    "urlToImage": null,
-    "publishedAt": "2026-09-23T10:00:00Z",
-    "content": "New system digitizes even the most complex K12 paperwork, including multi-level field trip workflows\r\nRICHMOND HILL, ON, Sept. 23, 2026 /PRNewswire/ -- Edsby®, a multi-award-winning, next-generation … [+3268 chars]"
+    "title": "GeoComm Partners with SCENA to Scale Indoor Mapping for Large and Complex Facilities",
+    "description": "Partnership pairs SCENA's national reality-capture capacity with GeoComm's public safety grade location intelligence to support multi-site and high-complexity indoor mapping programs. ST. CLOUD, Minn. and MARIETTA, Ga., Sept. 24, 2026 /PRNewswire/ -- GeoComm,…",
+    "url": "https://www.prnewswire.com/news-releases/geocomm-partners-with-scena-to-scale-indoor-mapping-for-large-and-complex-facilities-302889216.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1995901/Scena.jpg?id=OA2969531&p=facebook",
+    "publishedAt": "2026-09-24T14:50:00Z",
+    "content": "Partnership pairs SCENA's national reality-capture capacity with GeoComm's public safety grade location intelligence to support multi-site and high-complexity indoor mapping programs.\r\nST. CLOUD, Min… [+5644 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "KQED"
+      "name": "Crypto Briefing"
     },
-    "author": "Jen Chien",
-    "title": "We Need a Wrecking Ball",
-    "description": "How Nancy Pelosi seized power in Congress, Baltimore Style",
-    "url": "https://www.kqed.org/news/12101099/we-need-a-wrecking-ball",
-    "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/09/TheSpeaker_Horizontal_Episode-2-14-2000x1125.jpg",
-    "publishedAt": "2026-09-23T10:00:00Z",
-    "content": "View the full episode transcript\r\nLong before she became Madam Speaker, Nancy Pelosi was Little Nancy DAlesandro. Raised in Little Italy in Baltimore, Maryland, she learned the lessons of power from … [+36002 chars]"
+    "author": "Editorial Team",
+    "title": "Tether signs MoU with Pave Bank and GFTN for fintech scholars program linking Georgia and Singapore",
+    "description": "The MoU fosters educational exchange, enhancing fintech expertise and strengthening cross-border ties, potentially influencing global fintech collaboration.\nThe post Tether signs MoU with Pave Bank and GFTN for fintech scholars program linking Georgia and Sin…",
+    "url": "https://cryptobriefing.com/tether-pave-bank-gftn-fintech-scholars-program/",
+    "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24084152/library-tether-signs-mou-with-pave-bank-and-gftn-for-fintech-sch-800x450.png",
+    "publishedAt": "2026-09-24T12:41:55Z",
+    "content": "The five-year scholarship program will send Georgian undergraduates to Singapore for a semester of fintech immersion starting January 2027 Tether, Pave Bank, and the Global Finance &amp; Technology N… [+3078 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "TOI World Desk",
+    "title": "In 2023, a Georgia homeowner went on vacation and returned to a pile of rubble after a demolition crew tore down her family house at the wrong address",
+    "description": "Upon returning from a much-anticipated vacation, a homeowner in Atlanta faced an unbelievable shock: her residence had been mistakenly torn down by a construction crew, who confused her address with that of another property. The incident violated city regulat…",
+    "url": "https://timesofindia.indiatimes.com/world/us/in-2023-a-georgia-homeowner-went-on-vacation-and-returned-to-a-pile-of-rubble-after-a-demolition-crew-tore-down-her-family-house-at-the-wrong-address/articleshow/134459609.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-134459665,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-09-24T12:25:47Z",
+    "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>US News</li>\r\n<li>In 2023, a Georgia homeowner went on vacation and returned to a pile of rubble after a demolition crew tore down her family house at the … [+2333 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Vulture"
+      "name": "Knoxville News Sentinel"
     },
-    "author": "Lane Brown",
-    "title": "Ari Emanuel Is Finally Getting Around to Watching Entourage",
-    "description": "A candid interview with Ari Emanuel about torching his enemies in ‘Roll the Calls,’ betting on a post-work utopia, and finally watching ‘Entourage.’",
-    "url": "http://www.vulture.com/article/ari-emanuel-interview-memoir-entourage.html",
-    "urlToImage": "https://pyxis.nymag.com/v1/imgs/127/568/61b10f21c9fc90badb7864408e93459b92-ariemanuel_lede.1x.rsocial.w1200.jpg",
-    "publishedAt": "2026-09-23T09:00:15Z",
-    "content": "You know this is the longest Ive ever been on one call, right? says Ari Emanuel, only about an hour into our conversation. Over the past 40 years, the agent turned mogul has built an empire with much… [+49639 chars]"
-  },
-  {
-    "source": {
-      "id": "nbc-news",
-      "name": "NBC News"
-    },
-    "author": "Julie Tsirkin, Owen Hayes",
-    "title": "New campaign aims to help millions at risk of losing Medicaid coverage under work requirements",
-    "description": "On Jan. 1, new federal work and reporting requirements kick in for Medicaid, leaving millions at risk of losing healthcare coverage as states scramble to prepare for the most substantial change to the program in decades.",
-    "url": "https://www.nbcnews.com/politics/politics-news/new-campaign-help-millions-risk-losing-medicaid-work-requirements-rcna598149",
-    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250512-medicaid-protest-vl-1048a-b8a714.jpg",
-    "publishedAt": "2026-09-23T09:00:00Z",
-    "content": "Mechanicsville, VIRGINIA In 100 days, on Jan. 1, new federal work and reporting requirements kick in for Medicaid recipients, leaving roughly 10 million Americans at risk of losing healthcare coverag… [+4793 chars]"
+    "author": "John Adams, Knoxville News Sentinel",
+    "title": "One reader attacks my character. Another predicts 'Texas massacre' | Adams",
+    "description": "Ed rips my attempt at \"cuteness\" writing columns. Jimmy sees hope for Tennessee football in 2027, not against Texas. Best from my literary contributors.",
+    "url": "https://www.knoxnews.com/story/sports/columnists/university-of-tennessee/john-adams/2026/09/24/tennessee-texas-football-picks-faizon-brandon-arch-manning/91873054007/",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/803e788c8ece8e06fd8993f3d5244c52cd0a57e88f8e0f0dc78311f38dcc0f2e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_tennessean_natl_articles_921%2F7b3b830528579ed2ab970158000f45ad.jpg",
+    "publishedAt": "2026-09-24T09:09:03Z",
+    "content": "Column writing isn't just business to me. It's personal.\r\nSince it is personal, I don't have a problem with literary contributors attacking me as both a columnist and as a human being.\r\nTake it away,… [+4547 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Inside Higher Ed"
+      "name": "Legalinsurrection.com"
     },
-    "author": "Emma Whitford",
-    "title": "From AI Use to Funding Cuts: How Provosts Are Navigating 2026",
-    "description": "From AI Use to Funding Cuts: How Provosts Are Navigating 2026\n\n \n\n\n \nEmma Whitford\n\nWed, 09/23/2026 - 03:00 AM\n\nInside Higher Ed’s annual CAO survey reveals a fractured landscape, where academic leaders rely on personal AI tools amid broader technological and…",
-    "url": "https://www.insidehighered.com/news/governance/executive-leadership/2026/09/23/ai-use-funding-cuts-how-provosts-navigate-2026",
-    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-09/Provost_survey_2026.jpg?itok=elnVllOm",
-    "publishedAt": "2026-09-23T07:00:00Z",
-    "content": "As artificial intelligence continues to disrupt college campuses, chief academic officers are embracing AI tools. Roughly seven in 10 provosts use AI in their own day-to-day work at least once per we… [+14197 chars]"
+    "author": "Mary Chastain",
+    "title": "Milei: UN a ‘Useless Organization’ Filled With ‘Fatally Arrogant Parasites’",
+    "description": "\"The alleged defenders of human rights have sheltered bloodthirsty dictatorships and regimes that stone women in the streets.\"\nThe post Milei: UN a ‘Useless Organization’ Filled With ‘Fatally Arrogant Parasites’ first appeared on Le·gal In·sur·rec·tion.",
+    "url": "https://legalinsurrection.com/2026/09/milei-un-a-useless-organization-filled-with-fatally-arrogant-parasites/",
+    "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2026/09/Javier-Milei.jpg",
+    "publishedAt": "2026-09-23T23:03:06Z",
+    "content": "Argentine President Javier Milei brought the fire to the United Nations today.\r\nMilei also tells it like it is. Sure, President Donald Trump can do that, but there’s just something about the way Mile… [+11120 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Abcnews.com"
-    },
-    "author": "GLENN GAMBOA AP business writer",
-    "title": "Bill Clinton calls on leaders to fill gaps left by 'retreating governments'",
-    "description": "Former President Bill Clinton opened this year’s Clinton Global Initiative conference, calling on attendees to promise to “step into the void created by retreating governments” following cuts by the United States and other nations to foreign assistance",
-    "url": "https://abcnews.com/Business/wireStory/bill-clinton-calls-leaders-fill-gaps-left-retreating-136670500",
-    "urlToImage": "https://i.abcnewsfe.com/a/070a0dc9-3bb2-4c0c-afb7-10bf8cf097ce/wirestory_897455f16ceed678e4a43e31f5be3456_16x9.jpg?w=1600",
-    "publishedAt": "2026-09-23T03:13:48Z",
-    "content": "NEW YORK -- Former President Bill Clinton opened this years Clinton Global Initiative conference Tuesday in New York, calling on attendees to promise to step into the void created by retreating gover… [+4828 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
     },
     "author": null,
-    "title": "CMIT Solutions Celebrates 30 Years and Honors Top Franchise Owners at Connect Live! 2026",
-    "description": "Annual managed IT services franchise convention in Indianapolis brought the CMIT community together for business education, peer collaboration, networking and an awards celebration at Union Station INDIANAPOLIS, Sept. 22, 2026 /PRNewswire/ -- CMIT Solutions, …",
-    "url": "https://www.prnewswire.com/news-releases/cmit-solutions-celebrates-30-years-and-honors-top-franchise-owners-at-connect-live-2026-302885375.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1138639/CMIT-Logo.jpg?id=OA2961158&p=facebook",
-    "publishedAt": "2026-09-22T18:00:00Z",
-    "content": "Annual managed IT services franchise convention in Indianapolis brought the CMIT community together for business education, peer collaboration, networking and an awards celebration at Union Station\r\n… [+5475 chars]"
+    "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
+    "description": "Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.",
+    "url": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6ab424d00d977-1790190800.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-09-23T21:05:36Z",
+    "content": "Tehran, Iran Travel is becoming increasingly difficult for Iranian civilians as United States sanctions shut domestic airlines out of much of the worlds airspace and international carriers continue t… [+7472 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Javier Milei shreds ‘useless’ UN to its face in fiery speech to 'fatally arrogant parasites'",
+    "description": "Javier Milei called the United Nations a \"useless\" body of \"fatally arrogant parasites\" in a fiery speech before the General Assembly in New York.",
+    "url": "https://www.foxnews.com/politics/javier-milei-shreds-useless-un-fiery-speech-fatally-arrogant-parasites",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/javier-milei-at-un-speech.png",
+    "publishedAt": "2026-09-23T20:11:04Z",
+    "content": "Argentinas libertarian President Javier Milei struck again, this time in a fiery speech to the United Nations General Assembly in New York, in which he called the body \"useless\" and made up of \"fatal… [+3942 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "PRNewswire"
+      "name": "Harvard School of Engineering and Applied Sciences"
     },
-    "author": null,
-    "title": "SENATOR RICHARD BLUMENTHAL (D-CT) AND REPRESENTATIVE PAUL TONKO (D-NY) TO JOIN KICK-OFF OF TRUTH AND INTEGRITY: THE MOVEMENT FOR GAMBLING REFORM",
-    "description": "Lawmakers will join the Public Health Advocacy Institute (PHAI) and Families and Friends of Gamblers (FFOG) in Washington, D.C., on September 23, 2026, at event launching a national movement to bring accountability and comprehensive federal and state regulati…",
-    "url": "https://www.prnewswire.com/news-releases/senator-richard-blumenthal-d-ct-and-representative-paul-tonko-d-ny-to-join-kick-off-of-truth-and-integrity-the-movement-for-gambling-reform-302886514.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1994128/FFOG.jpg?id=OA2964397&p=facebook",
-    "publishedAt": "2026-09-22T17:05:00Z",
-    "content": "Lawmakers will join the Public Health Advocacy Institute (PHAI) and Families and Friends of Gamblers (FFOG) in Washington, D.C., on September 23, 2026, at event launching a national movement to bring… [+4625 chars]"
+    "author": "mjorgensen",
+    "title": "HGSE Community Celebrates 2026 Honors",
+    "description": "HGSE Community Celebrates 2026 Honors\nmjorgensen\nWed, 09/23/2026 - 14:11\n\n HGSE community\n Honors and Awards\nNews editor\n \n \n \n \n \n \n \n \n \n \n \n \n\n \r\n\n\n\n\n\n \r\n\n \n\n \n \n \n \n \n\n\n\n\n\n \r\n\n \n\n September 23, 2026\n\n \n\n\n\n\n \n \n \n \n \n\n\n\n\n\n \r\n\n \r\n\n\r\n\n \n\r\n\n\n\n News\r\n\n \r\n\n\n Th…",
+    "url": "https://www.gse.harvard.edu/ideas/news/26/09/hgse-community-celebrates-2026-honors",
+    "urlToImage": "https://www.gse.harvard.edu/sites/default/files/styles/social_share_cropped/public/2026-09/illustration-stock-trophy.jpg?h=fa00ebc2&itok=WNqBjRvO",
+    "publishedAt": "2026-09-23T18:11:56Z",
+    "content": "Below is a look at a small portion of the prestigious honors awarded to members of the HGSE community:\r\nFACULTY AND RESEARCH\r\n<ul><li>Associate Professor Bianca Baldridge delivered the AERA Wallace F… [+4548 chars]"
   }
 ]

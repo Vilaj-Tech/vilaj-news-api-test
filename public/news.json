@@ -2,6 +2,123 @@
   {
     "source": {
       "id": null,
+      "name": "Ms. Magazine"
+    },
+    "author": "Cynthia Richie Terrell",
+    "title": "A Historic U.N. Choice, a Surge of Black Women Candidates and the Fight for Representation",
+    "description": "Weekend Reading on Women’s Representation is a compilation of stories about women’s representation in politics, on boards, in sports and entertainment, in judicial offices and in the private sector in the U.S. and around the world—with a little gardening and …",
+    "url": "https://msmagazine.com/2026/09/26/un-woman-secretary-general-womens-leadership-2026/",
+    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/09/GettyImages-2265389585.jpg",
+    "publishedAt": "2026-09-26T15:32:09Z",
+    "content": "Weekend Reading on Womens Representation is a compilation of stories about womens representation in politics, on boards, in sports and entertainment, in judicial offices and in the private sector in … [+22160 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Kevin Williams",
+    "title": "The blue-collar AI job market is booming. Will data center backlash make it go bust?",
+    "description": "The public has soured on AI data centers and states are slowing development, but for HVAC, plumbing, welding, and electrical workers, it's been a jobs boom.",
+    "url": "https://www.cnbc.com/2026/09/26/blue-collar-jobs-ai-data-center-backlash.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108358051-1788380247070-gettyimages-2289739893-AFP_C4JC7YV.jpeg?v=1788380269&w=1920&h=1080",
+    "publishedAt": "2026-09-26T13:43:42Z",
+    "content": "Construction workers build a new data center in Stone Ridge, Virginia on August 12, 2026. \r\nWhen most people think of AI and jobs, the conversation often pivots to which occupations are most likely t… [+13757 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Put down those textbooks and turn off the screens. Here is a great way for kids to learn",
+    "description": "Charlotte Mason's \"living books\" philosophy offers a powerful alternative to bland textbooks, transforming how children learn through great literature.",
+    "url": "https://www.foxnews.com/opinion/put-down-textbooks-turn-off-screens-great-way-kids-learn",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/best-books.jpg",
+    "publishedAt": "2026-09-26T11:00:53Z",
+    "content": "Its late September. Kids are firmly back in school; routines are established and reading lists set. But what exactly is on the menu? The usual textbooks, which, if theyre in a government school, are … [+6153 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Jack Gaughan",
+    "title": "England CAN beat Spain on style - the Under-21s did it twice to claim two European crowns and Thomas Tuchel must unlock that DNA, writes JACK GAUGHAN",
+    "description": "JACK GAUGHAN: The world champions are at Wembley on Saturday. Had things been different in an American summer, it could have been the hosts. But it is Spain who arrive draped in gold.",
+    "url": "https://www.dailymail.com/sport/football/article-16158821/england-spain-thomas-tuchel.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/09/25/13/111468731-0-image-m-15_1790340749583.jpg",
+    "publishedAt": "2026-09-26T11:00:46Z",
+    "content": "The world champions are at Wembley on Saturday. Had things been different in an American summer, it could have been the hosts. But it is Spain who arrive draped in gold, the standard bearers for team… [+7831 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Sputnikglobe.com"
+    },
+    "author": "Sputnik International",
+    "title": "Director Fry Calls Russia’s Cultural Education System One of Best in World",
+    "description": "German-Russian stage director and adviser to the Bolshoi Theatre’s CEO Hans-Joachim Fry called Russia’s cultural education system one of the best in the world, saying attempts to “cancel” Russian culture should end.",
+    "url": "https://sputnikglobe.com/20260926/director-fry-calls-russias-cultural-education-system-one-of-best-in-world-1124795058.html",
+    "urlToImage": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124795058.jpg?10787165661790419042",
+    "publishedAt": "2026-09-26T10:37:21Z",
+    "content": "The latest news and stories from Russia. Stay tuned for updates and breaking news on defense, politics, economy and more.\r\nhttps://sputnikglobe.com/20260926/director-fry-calls-russias-cultural-educat… [+2677 chars]"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Freddie Clayton",
+    "title": "Iran says choice on reopening Hormuz ‘rests with the United States’ after deal offer",
+    "description": "The choice to reopen the Strait of Hormuz “rests with the United States,” Iranian Foreign Minister Abbas Araghchi said Friday, indicating shipping through the critical waterway could resume within days once a deal is reached.",
+    "url": "https://www.nbcnews.com/world/iran/iran-says-choice-reopening-hormuz-rests-united-states-offer-rcna599956",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260926-iran-nd-8c729f.jpg",
+    "publishedAt": "2026-09-26T09:35:55Z",
+    "content": "The choice to reopen the Strait of Hormuz rests with the United States, Iranian Foreign Minister Abbas Araghchi said Friday, indicating shipping through the critical waterway could resume within days… [+4172 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "Can you legally own a hedgehog in the US?",
+    "description": "Can You Legally Own a Hedgehog in the US?: Unveiling the Prickly Truth The legality of hedgehog ownership in the US is a complex issue with varying state and local regulations. It’s crucial to understand that while owning a hedgehog is legal in many parts of …",
+    "url": "https://www.lifesciencesworld.com/can-you-legally-own-a-hedgehog-in-the-us/",
+    "urlToImage": null,
+    "publishedAt": "2026-09-26T05:51:59Z",
+    "content": "Can You Legally Own a Hedgehog in the US?: Unveiling the Prickly Truth\r\nThe legality of hedgehog ownership in the US is a complex issue with varying state and local regulations. It’s crucial to under… [+9648 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "The Hill",
+    "title": "Ole Miss students found dead near ‘packaged kratom’ identified",
+    "description": "OXFORD, Miss. (NewsNation) — The University of Mississippi on Thursday identified the two students who died Monday as freshman Aidan Hamilton and junior Robert Strang. The university said the families gave permission to release the names and asked for privacy…",
+    "url": "https://freerepublic.com/focus/f-chat/4396887/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-09-25T18:09:52Z",
+    "content": "Skip to comments.\r\nOle Miss students found dead near packaged kratom identifiedThe Hill ^\r\n | September 25, 2026\r\n | Henry Amor and Brian Entin\r\nPosted on 09/25/2026 11:09:52 AM PDT by Red Badger\r\nOX… [+6868 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "Joseph Otterson",
+    "title": "Peter Sarsgaard Joins Kenneth Branagh in Paramount+ Series ‘Laird’",
+    "description": "Peter Sarsgaard has joined the upcoming Paramount+ drama series “Laird,” Variety has learned. Sarsgaard will join previously announced lead Kenneth Branagh in the show, which was announced with a series order back in July. The logline for “Laird” states that …",
+    "url": "https://variety.com/2026/tv/news/peter-sarsgaard-kenneth-branagh-paramount-series-laird-1236875653/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2026/09/Peter-Sarsgaard_-Credit-Maria-Maratti-e1790349854268.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2026-09-25T16:00:00Z",
+    "content": "Peter Sarsgaard has joined the upcoming Paramount+ drama series “Laird,” Variety has learned. \r\nSarsgaard will join previously announced lead Kenneth Branagh in the show, which was announced with a s… [+1820 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "DW (English)"
     },
     "author": "Elizabeth Grenier",
@@ -11,122 +128,5 @@
     "urlToImage": "https://static.dw.com/image/79377997_6.jpg",
     "publishedAt": "2026-09-25T15:06:00Z",
     "content": "\"I personally don't feel safe as a citizen in my country and as a person who has worked for independent media for a long time,\" Georgian media expert and advocate for press freedom Nino Robakidze tol… [+7253 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The New Republic"
-    },
-    "author": "Emma Janssen, The New Republic Staff",
-    "title": "The FDA’s Overton Window Problem",
-    "description": "You’re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.Inside Washington The FDA’s Overton window problemOn Thursday, Republican Senator Susan Collins, a …",
-    "url": "https://newrepublic.com/post/215869/fda-overton-mifepristone-vaccines",
-    "urlToImage": "https://images.newrepublic.com/4842bbb64fd104ee1ac22baf3609ccce6518bbd9.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-    "publishedAt": "2026-09-25T14:48:45Z",
-    "content": "Youre reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.\r\nInside Washington\r\nHow do you stop ele… [+12207 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The New Republic"
-    },
-    "author": "Hafiz Rashid",
-    "title": "Trump’s Justice Department Gives Up on Desegregation",
-    "description": "President Trump’s Department of Justice doesn’t think desegregation is worth the effort. The DOJ on Thursday announced it has dropped more than 50 school desegregation cases. As The New York Times reports, that brings the total to 57 dropped cases since Trump…",
-    "url": "https://newrepublic.com/post/215867/trump-justice-department-gives-desegregation",
-    "urlToImage": "https://images.newrepublic.com/b966840796a399ea18ef1ac93c99154064d475de.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-    "publishedAt": "2026-09-25T14:47:51Z",
-    "content": "On Thursday morning, the three outlets were also barred from covering Xis arrival to the White House in defiance of the order, and they immediately notified the court. In response to U.S. District Ju… [+850 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Big Dan's Car Wash Named Official Car Wash of the Tampa Bay Buccaneers",
-    "description": "Partnership brings two community-focused organizations together as Big Dan's continues its expansion across Florida TAMPA, Fla., Sept. 25, 2026 /PRNewswire/ -- Big Dan's Car Wash, a rapidly growing express car wash company with locations throughout Florida an…",
-    "url": "https://www.prnewswire.com/news-releases/big-dans-car-wash-named-official-car-wash-of-the-tampa-bay-buccaneers-302889180.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1984851/Big-Dans-CW-Thumbs-Up-v3_HORIZ.jpg?id=OA2969393&p=facebook",
-    "publishedAt": "2026-09-25T14:00:00Z",
-    "content": "Partnership brings two community-focused organizations together as Big Dan's continues its expansion across Florida\r\nTAMPA, Fla., Sept. 25, 2026 /PRNewswire/ -- Big Dan's Car Wash, a rapidly growing … [+4073 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Plos.org"
-    },
-    "author": "Amy C. Dupper, Charles D. Mackenzie, Timothy G. Geary, Deborah L. Elder, Wided Najahi-Missaoui, Christopher A. Cleveland, Ellen K. Haynes, Michael J. Yabsley, Guilherme Gomes Verocai, Macon Overcast, John A. Bryan II, Fernando Torres-Velez, Métinou Koumétio Sidouin, Bongo Nare Richard Ngandolo, Philip Tchindebet Oaukou, Adam J. Weiss, Rebecca Garabed",
-    "title": "Flubendazole reduces emerging Dracunculus medinensis in dogs in Chad: Results from a two-year study",
-    "description": "Author summary Annual cases of Guinea worm disease (GWD) in humans have been greatly reduced globally through public health interventions such as improving access to clean water, expanding surveillance, treating bodies of water suspected to contain GW larvae …",
-    "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014763",
-    "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014763.g007&size=inline",
-    "publishedAt": "2026-09-25T14:00:00Z",
-    "content": "Abstract\r\nSince being targeted for eradication in the 1980s, global human cases of dracunculiasis (Guinea worm disease; GWD) have been reduced by over 99.9% through interventions aimed at interruptin… [+55735 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "13 Press Releases You Need to See This Week",
-    "description": "Including 2027's best colleges, a partnership for Royal Caribbean and Sandals Resorts, and ALDI's first-ever ready-made meals. NEW YORK, Sept. 25, 2026 /PRNewswire/ -- With thousands of press releases published each week, it can be difficult to keep up with e…",
-    "url": "https://www.prnewswire.com/news-releases/13-press-releases-you-need-to-see-this-week-302889835.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1996274/PR-Newswire-Weekly-Press-Release-Roundup.jpg?id=OA2970585&p=facebook",
-    "publishedAt": "2026-09-25T10:02:00Z",
-    "content": "Including 2027's best colleges, a partnership for Royal Caribbean and Sandals Resorts, and ALDI's first-ever ready-made meals.\r\nNEW YORK, Sept. 25, 2026 /PRNewswire/ -- With thousands of press releas… [+8094 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "G. Aad et al. (ATLAS Collaboration†[\"id\", \"col1\"], CMS Collaboration)",
-    "title": "Combination of ATLAS and CMS Searches for Higgs Boson Pair Production at $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$",
-    "description": "Author(s): G. Aad et al. (ATLAS Collaboration†[\"id\", \"col1\"], CMS Collaboration)First combination of searches for Higgs boson pair production from two CERN collaborations on this important standard model process provides information about the crucial Higgs se…",
-    "url": "https://link.aps.org/doi/10.1103/27s7-2frt",
-    "urlToImage": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/27s7-2frt.png",
-    "publishedAt": "2026-09-25T10:00:00Z",
-    "content": "M. Aboelela45, A. Aboulhorma36e, H. Abramowicz156, B.S. Acharya69a,69b,c, A. Ackermann63a, C. Adam Bourdarios4, L. Adamczyk86a, S.V. Addepalli148, M.J. Addison102, J. Adelman118, A. Adiguzel22c, T. A… [+130629 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Www.gov.uk"
-    },
-    "author": "Department for Education",
-    "title": "Biggest ever overhaul of SEND teacher training begins",
-    "description": "First-of-their-kind training materials published in first step towards every teacher being supported to teach children and young people with SEND",
-    "url": "https://www.gov.uk/government/news/biggest-ever-overhaul-of-send-teacher-training-begins",
-    "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-    "publishedAt": "2026-09-25T09:33:26Z",
-    "content": "Every single teacher in England will be empowered to better support children and young people with SEND, as government kickstarts the most comprehensive teacher training offer in a generation.\r\nDevel… [+4852 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Thefutoncritic.com"
-    },
-    "author": null,
-    "title": "Volpi Cup Winner and Emmy & Golden Globe Nominee Peter Sarsgaard Joins Scottish Highland Drama \"Laird\" for Paramount+",
-    "description": "Sarsgaard will star as Peter Bergstrom, a ruthless, self-made tech titan and land magnate whose influence spans continents.",
-    "url": "http://www.thefutoncritic.com/news/2026/09/25/volpi-cup-winner-and-emmy-and-golden-globe-nominee-peter-sarsgaard-joins-scottish-highland-drama-laird-for-paramountplus-230314/20260925paramount01/",
-    "urlToImage": null,
-    "publishedAt": "2026-09-25T09:19:00Z",
-    "content": "VOLPI CUP WINNER AND EMMY (R) &amp; GOLDEN GLOBE (R) NOMINEE PETER SARSGAARD JOINS SCOTTISH HIGHLAND DRAMA \"LAIRD\" FOR PARAMOUNT+\r\nFrom Jez Butterworth, John-Henry Butterworth and Georgia Lee, Laird … [+2868 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "AP",
-    "title": "As the coding boom fades, computer science grads focus on AI skills in choppy job market",
-    "description": "The elevated jobless rate in the field - at around 7.1% for recent computer science and computer engineering graduates, according to an Associated Press analysis - reflects in part the huge numbers of students who enrolled during the coding boom.",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/as-the-coding-boom-fades-computer-science-grads-focus-on-ai-skills-in-choppy-job-market/articleshow/134474428.cms",
-    "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-4323966,resizemode-75,msid-134474428/tech/artificial-intelligence/as-the-coding-boom-fades-computer-science-grads-focus-on-ai-skills-in-choppy-job-market.jpg",
-    "publishedAt": "2026-09-25T03:40:56Z",
-    "content": "Computer science student Jack Zemke was getting nowhere despite sending out hundreds of job applications that mostly disappeared into the void - ignored.With his graduation from Tulane University jus… [+6386 chars]"
   }
 ]

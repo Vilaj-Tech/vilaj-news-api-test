@@ -2,6 +2,84 @@
   {
     "source": {
       "id": null,
+      "name": "Ms. Magazine"
+    },
+    "author": "Cynthia Richie Terrell",
+    "title": "Weekend Reading on Women’s Representation: Arizona Congress Candidate Speaks Out About Her Rape, ‘It’s OK to Talk About It’: Will Alexandria Ocasio-Cortez Run for President?",
+    "description": "Weekend Reading on Women’s Representation is a compilation of stories about women’s representation in politics, on boards, in sports and entertainment, in judicial offices and in the private sector in the U.S. and around the world—with a little gardening and …",
+    "url": "https://msmagazine.com/2026/10/10/weekend-reading-women-politics-alexandria-ocasio-cortez-arizona-rape-congress-elections-bernadette-greene-placentia/",
+    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/10/CNN-and-Instagram.png",
+    "publishedAt": "2026-10-10T17:01:29Z",
+    "content": "Weekend Reading on Womens Representation is a compilation of stories about womens representation in politics, on boards, in sports and entertainment, in judicial offices and in the private sector in … [+36192 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Who is Sally Yates? Cornell rape-review pick was fired by Trump after refusing to defend travel ban",
+    "description": "Sally Yates, fired by Trump as acting attorney general in 2017, will now lead Cornell University's independent review of sexual assault policies.",
+    "url": "https://www.foxnews.com/politics/who-sally-yates-cornell-rape-review-pick-fired-trump-refusing-defend-travel-ban",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/sally-yates.jpg",
+    "publishedAt": "2026-10-10T16:22:16Z",
+    "content": "Cornell University has tapped Sally Yates, a former Obama administration deputy attorney general fired by President Donald Trump during his first term, to lead an independent review of the Ivy League… [+5998 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Bossip"
+    },
+    "author": "Keenan Higgins",
+    "title": "Nolan Wells Has A Haunting Connection To MLK Family Legacy",
+    "description": "The mysterious death of Nolan Wells hit a new level of shock after Bernice King shared a chilling connection to her uncle's unsolved drowning.\nThe post Nolan Wells Has A Haunting Connection To MLK Family Legacy appeared first on Bossip.",
+    "url": "https://bossip.com/4642802/nolan-wells-ad-king-bernice-mlk-unsolved-drowning/",
+    "urlToImage": "https://blackamericaweb.com/wp-content/uploads/sites/10/2026/10/image-collage-4.jpg?quality=80&strip=all&w=1680&crop=0,0,100,960px",
+    "publishedAt": "2026-10-10T15:15:25Z",
+    "content": "Universal History Archive / Scott Olson / Getty\r\nIt’s still hard to wrap our heads around the mysterious circumstances in the death of 18-year-old Nolan Wells, even more so with it officially being r… [+3447 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Sanfordherald.com"
+    },
+    "author": "The Sanford Herald, N.C.",
+    "title": "Campbell names Corey Jenkins athletics director",
+    "description": "BUIES CREEK — Campbell University has named Corey Jenkins its new director of athletics, bringing in a veteran college athletics administrator with nearly two decades of experience at South Dakota, Wake Forest and other institutions. Campbell President Willia…",
+    "url": "https://www.sanfordherald.com/archives/campbell-names-corey-jenkins-athletics-director/article_ca6b535c-005b-5ceb-897e-ab702fdfe30c.html",
+    "urlToImage": null,
+    "publishedAt": "2026-10-10T11:05:00Z",
+    "content": "BUIES CREEK Campbell University has named Corey Jenkins its new director of athletics, bringing in a veteran college athletics administrator with nearly two decades of experience at South Dakota, Wak… [+6068 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Americanthinker.com"
+    },
+    "author": null,
+    "title": "Can Today’s Youth Violence Be Traced To A Pill?",
+    "description": "Photo Credit:\n \n AI for American ThinkerBy James ZumwaltA revolution that transformed the American family may well have contributed to the erosion of parental discipline and the rise of youth violence.",
+    "url": "https://www.americanthinker.com/articles/2026/10/can-today-s-youth-violence-be-traced-to-a-pill/",
+    "urlToImage": "https://images.americanthinker.com/rg/rgkytftnsbqikrayzkm1_1200.jpg",
+    "publishedAt": "2026-10-10T04:00:00Z",
+    "content": "Unbelievably, a California city initiated the ban. In 1956, Santa Cruz officials banned rock ’n’ roll music at public gatherings, fearing it might corrupt young people. The music was just getting sta… [+7310 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Andscape.com"
+    },
+    "author": "Justin Tinsley, \nJustin Tinsley\nhttps://andscape.com/contributors/justin-tinsley/",
+    "title": "Georgia vs. Alabama defines college football’s midterm moment",
+    "description": "Two-minute offenses are often the thin line between ecstasy and anguish. In football and politics.  The most important of both will run through Tuscaloosa, Alabama, on Saturday. Yet neither No. 2 Georgia nor No. 6 Alabama (7:30 p.m. ET, ABC) will call the pla…",
+    "url": "https://andscape.com/features/college-football-political-ads-georgia-alabama-midterms-donald-trump-pcsa/",
+    "urlToImage": "https://andscape.com/wp-content/uploads/2026/10/GettyImages-2237794746-e1791571013970.jpg",
+    "publishedAt": "2026-10-09T22:50:53Z",
+    "content": "Two-minute offenses are often the thin line between ecstasy and anguish. In football and politics. \r\nThe most important of both will run through Tuscaloosa, Alabama, on Saturday. Yet neither No. 2 Ge… [+8233 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "PRNewswire"
     },
     "author": null,
@@ -50,83 +128,5 @@
     "urlToImage": "https://www.ncspin.com/assets/images/og-myspin-1200x628.jpg",
     "publishedAt": "2026-10-09T01:25:00Z",
     "content": "That’s correct. The tax dollars you pay to North Carolina are being used to pay tuition costs for students to attend private schools.\r\n$705 million of the current year’s state’s budget has been alloc… [+4610 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Medical Daily"
-    },
-    "author": "Cole Mercer",
-    "title": "Charlotte-Area State Workers Caught in Copay Fight as Treasurer Warns Atrium Program Could Bankrupt State Health Plan",
-    "description": "NC Treasurer Brad Briner says Atrium Health's copay cuts could bankrupt the State Health Plan. What 750,000 members should weigh before enrolling.",
-    "url": "https://www.medicaldaily.com/atrium-health-copay-program-nc-state-health-plan-bankrupt-warning-479726",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487068/rod-lamkey-jr-afp-via-getty-images.jpg",
-    "publishedAt": "2026-10-08T23:01:53Z",
-    "content": "North Carolina's state treasurer moved that a new Atrium Health program for state employees could push the State Health Plan toward insolvency. The dispute comes as nearly 750,000 teachers, state wor… [+5957 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Raw Story"
-    },
-    "author": "Ben Sessoms, Tennessee Lookout",
-    "title": "Trump country rocked as neglected districts lean blue: 'Ground is shifting under our feet'",
-    "description": "Democratic candidates in much of the Volunteer State, especially in its rural areas, face a steep hill to climb. Perhaps that is most true in East Tennessee, a region that has voted reliably red for decades.Hamilton County, the urban anchor of Southeast Tenne…",
-    "url": "https://www.rawstory.com/trump-midterms-2678063375/",
-    "urlToImage": "https://www.rawstory.com/media-library/u-s-president-donald-trump-arrives-at-gastonia-municipal-airport-to-deliver-remarks-during-a-campaign-rally-in-support-of-repub.jpg?id=68383826&width=1200&height=600&coordinates=0%2C167%2C0%2C167",
-    "publishedAt": "2026-10-08T22:43:55Z",
-    "content": "Democratic candidates in much of the Volunteer State, especially in its rural areas, face a steep hill to climb. Perhaps that is most true in East Tennessee, a region that has voted reliably red for … [+14984 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Mental Floss"
-    },
-    "author": "Logan DeLoye",
-    "title": "The Safest and Least Safe States in America, Ranked",
-    "description": "Do you live in one of the safest, or most dangerous states in the U.S.?",
-    "url": "https://www.mentalfloss.com/geography/states/safest-least-safe-states-america-ranked",
-    "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_5,y_0,w_1364,h_767/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01m4eeh19gme9wpcqdtk.png",
-    "publishedAt": "2026-10-08T21:40:09Z",
-    "content": "You could spend your entire life feeling secure in the \"least safe\" state in America, or find yourself apprehensive in one of the safest. Several factors affect the safety of a street, neighborhood, … [+2876 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ncspin.com"
-    },
-    "author": "by John Hood",
-    "title": "Pay for performance, not for politics",
-    "description": "Even with the recent pay increase from the budget, North Carolina should re-examine and pay teachers based on performance.",
-    "url": "https://www.ncspin.com/pay-for-performance-not-for-politics",
-    "urlToImage": "https://www.ncspin.com/content/images/1200x628/5cb8b177c1595.jpg",
-    "publishedAt": "2026-10-08T21:12:00Z",
-    "content": "The North Carolina General Assembly approved substantial pay increases for public school teachers earlier this year. If a bipartisan commission has its way, teacher compensation will soar over the ne… [+4318 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Yahoo Entertainment"
-    },
-    "author": "Liz Goodwin, (c) 2026 , The Washington Post",
-    "title": "Obama marvels at Democrats' Senate chances",
-    "description": "Former president Barack Obama expressed surprise at Democrats' expanding midterm map at a private fundraiser Wednesday night, but warned donors not to get complacent about the party's chances, according to excerpts provided to The Washington Post.\"There are s…",
-    "url": "https://www.yahoo.com/news/politics/articles/obama-marvels-democrats-senate-chances-205716340.html",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/ac0e47ff4c853fa2c6ee7cfff03262965ba745626b4b06b31b72d04abb95093d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F2336efce-f1a2-457f-9e4e-97d18a3e40c5",
-    "publishedAt": "2026-10-08T20:57:16Z",
-    "content": "Former president Barack Obama expressed surprise at Democrats' expanding midterm map at a private fundraiser Wednesday night, but warned donors not to get complacent about the party's chances, accord… [+4523 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "BroBible"
-    },
-    "author": "Grayson Weir",
-    "title": "Florida High School Football Powerhouse Kicked Out Of Playoffs For Stomping On Opponent During Ugly Brawl",
-    "description": "Miami Carol City was kicked out of the high school football playoffs in Florida after an ugly brawl. The Chiefs are expected to submit an appeal and/or take their case to the courts if they are not reinstated. However, as things currently stand, one of the to…",
-    "url": "https://brobible.com/sports/article/florida-high-school-football-brawl-miami-carol-city-grayson-playoff-ban-suspended/",
-    "urlToImage": "https://brobible.com/wp-content/uploads/2026/10/florida-high-school-football-brawl-miami-carol-city-grayson-playoff-ban-suspended.jpg",
-    "publishedAt": "2026-10-08T16:03:37Z",
-    "content": "The Chiefs were backed up closer to midfield and tried to get in the end zone. They failed to score on the final play of the game.Thats the game. Grayson holds off Carol City 10-9. pic.twitter.com/en… [+2444 chars]"
   }
 ]

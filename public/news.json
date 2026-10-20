@@ -1,6 +1,58 @@
 [
   {
     "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "SCOTT WALKER: Just three votes on one ballot helped decide Wisconsin’s future",
+    "description": "Tyler August won his Wisconsin State Assembly primary by just three votes in a recount, launching one of the state's most consequential careers.",
+    "url": "https://www.foxnews.com/opinion/scott-walker-three-votes-one-ballot-helped-decide-wisconsins-future",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/nyc-early-voting-oct-25.jpg",
+    "publishedAt": "2026-10-19T11:00:04Z",
+    "content": "Three votes.\r\nThat is the margin that helped launch one of the most consequential political careers in modern Wisconsin state government.\r\nIn September 2010, Tyler August was a 27-year-old candidate … [+6391 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Andrea Palladino",
+    "title": "Picturesque college town in the Rockies is one of America’s most dangerous: study",
+    "description": "Students at the University of Colorado are in for some rocky news.",
+    "url": "https://nypost.com/2026/10/18/lifestyle/boulder-colorado-rated-one-of-americas-least-safe-college-towns/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/145583657.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-10-18T21:29:07Z",
+    "content": "Students at the University of Colorado are in for some rocky news.\r\nBoulder, the beautiful college town the CU calls home, is one of the most dangerous in America, according to a new study. \r\nOne the… [+4708 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Ryan Hooper",
+    "title": "Parents say Labour failed their children by allowing paedophile Vincent Chan to stay at nursery",
+    "description": "Vincent Chan is in prison for abusing children at the nursery where he worked. But families affected by his depravity say Labour failed to protect children.",
+    "url": "https://www.dailymail.com/news/article-16218495/families-Vincent-Chan-nursery-paedophile-Labour.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/10/18/14/111935301-0-image-m-12_1792328490080.jpg",
+    "publishedAt": "2026-10-18T21:00:49Z",
+    "content": "Families affected by one of Britain's worst paedophiles have accused Labour of failing to protect children 'then and now' over its role in the investigation of the predator years before he was caught… [+4081 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "Gareth Hutchens",
+    "title": "Wages can't rise until productivity does. But what if it already has?",
+    "description": "Experts say a key economic measure in Australia isn't really doing its job and it has implications for wages and interest rates.",
+    "url": "https://www.abc.net.au/news/2026-10-19/how-do-you-measure-productivity/107164704",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/dad5868d5c2816baea9e814176006ff7?impolicy=wcms_watermark_news&cropH=1400&cropW=2486&xPos=14&yPos=200&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-10-18T20:01:08Z",
+    "content": "Workers have been tarred as lazy or inefficient and warned that wages will not rise until there is a lift in Australia's low productivity rate.\r\nBut an increasing body of research suggests our shift … [+7508 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Lewrockwell.com"
     },
@@ -41,6 +93,19 @@
   {
     "source": {
       "id": null,
+      "name": "The Atlantic"
+    },
+    "author": "David Brooks",
+    "title": "What Role Should Politics Play In Your Life?",
+    "description": "Long careers spent covering politicians have taught David Brooks and Jeffrey Goldberg the importance of putting politics in its place.",
+    "url": "https://www.theatlantic.com/podcasts/2026/10/what-role-should-politics-play-in-your-life/689011/?utm_source=feed",
+    "urlToImage": null,
+    "publishedAt": "2026-10-18T13:00:00Z",
+    "content": "Subscribe here:  Apple Podcasts | Spotify | YouTubeOne of the paradoxes of our moment is that the excesses of Donald Trump’s presidency seem to demand our obsessive attention, while Trump himself obv… [+39577 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "Arkansas Online"
     },
     "author": "Henry Oldman Special To The Democrat-gazette",
@@ -63,70 +128,5 @@
     "urlToImage": "https://i.dailymail.com/1s/2026/10/17/06/111832389-0-image-m-32_1792215894316.jpg",
     "publishedAt": "2026-10-17T19:00:22Z",
     "content": "Days after a horrific freak accident on a roller coaster killed a man at Six Flags Over Georgia, an ominous atmosphere hangs over the popular theme park.\r\nKnown as one of the most exciting hubs for t… [+8666 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Rajeev Mani",
-    "title": "Basic education dept sets Nov 7 deadline for teacher promotions",
-    "description": "Basic Education Dept sets Nov 7 deadline for council school teacher promotions in UP, based on seniority, eligibility and mandatory TET qualifications.",
-    "url": "https://timesofindia.indiatimes.com/city/allahabad/basic-education-dept-sets-nov-7-deadline-for-teacher-promotions/articleshow/135018322.cms",
-    "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-10-17T17:32:10Z",
-    "content": "Follow Us On Social Media\r\nSippiyan Sitaare Trailer : Aarvinder Kaaur and Inder Jeet Starrer Sippiyan Sitaare Official Trailer'DEMENTIA WALK': Secret Service SCRAMBLES Over Trump's WEIRD Stage Exit I… [+1493 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Capitalbnews.org"
-    },
-    "author": "Aallyah Wright",
-    "title": "Organizers Are Pushing to Reach “Forgotten” Black Voters Ahead of the Midterms",
-    "description": "The efforts target college students, first-time voters, and the formerly incarcerated, particularly in the South.",
-    "url": "https://capitalbnews.org/black-voters-voting-rights-outreach-south/",
-    "urlToImage": "https://truthout.org/app/uploads/2026/10/GettyImages-2168355719-scaled.jpg",
-    "publishedAt": "2026-10-17T17:14:10Z",
-    "content": "Truthout is a vital news source and a living history of political struggle. If you think our work is valuable, support us with a donation of any size.\r\nOriginally published by Capital B.\r\nKamora Greg… [+9769 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Nick Allen",
-    "title": "James Talarico's faith was meant to help Democrats win in Texas. Now undercover video from his home church exposes a Christian divide that has horrified megachurch pastors",
-    "description": "James Talarico has not just alienated but infuriated many evangelical Christians, and it could be his undoing.",
-    "url": "https://www.dailymail.com/news/article-16197301/James-Talarico-Trump-midterms-texas-paxton.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/10/15/23/111893179-0-image-m-65_1792104019834.jpg",
-    "publishedAt": "2026-10-16T21:35:19Z",
-    "content": "Is James Talarico a heretic? A demon in human form? The False Prophet from Revelation? Even the Antichrist himself?\r\nThese would seem rather extreme labels to put on a soft-spoken, meek-looking semin… [+16164 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Wattsupwiththat.com"
-    },
-    "author": "Guest Blogger",
-    "title": "Peak Oil By Any Other Name",
-    "description": "Human flourishing has come not from technocratic control over consumption but from the freedom to produce, innovate, invest and exchange in voluntary contracts with other individuals.\nThe post Peak Oil By Any Other Name appeared first on Watts Up With That?.",
-    "url": "https://wattsupwiththat.com/2026/10/16/peak-oil-by-any-other-name/",
-    "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/10/American-Crude-Oil-Production-Forecast.webp?fit=1024%2C512&quality=75&ssl=1",
-    "publishedAt": "2026-10-16T18:00:00Z",
-    "content": "From Tilak’s Substack\r\nTilak Doshi\r\nThe Economist, March 5th, 2013 https://www.economist.com/search?q=charts+peak+oil+usa&amp;nav_source=masthead\r\nRichard Lyons The Energy Trap is a short book with l… [+21890 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Andscape.com"
-    },
-    "author": "Branson Wright, \nBranson Wright\nhttps://andscape.com/contributors/branson-wright/",
-    "title": "Tampa Bay Rays outfielder Chandler Simpson is a modern baseball outlier",
-    "description": "CLEVELAND — Call Tampa Bay Rays outfielder Chandler Simpson a throwback. In a game obsessed with launch angles, exit velocity and home runs, Simpson is making his mark by putting the ball in play, hitting for average and using elite speed to create havoc on t…",
-    "url": "https://andscape.com/features/chandler-simpson-rays-outfielder-speed-black-baseball-atlanta-baserunning/",
-    "urlToImage": "https://andscape.com/wp-content/uploads/2026/10/2300086305_150620251-e1792154468277.jpg?w=6227",
-    "publishedAt": "2026-10-16T16:10:45Z",
-    "content": "CLEVELAND Call Tampa Bay Rays outfielder Chandler Simpson a throwback.\r\nIn a game obsessed with launch angles, exit velocity and home runs, Simpson is making his mark by putting the ball in play, hit… [+6523 chars]"
   }
 ]

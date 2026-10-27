@@ -1,6 +1,123 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "AnOther Magazine"
+    },
+    "author": "Rose Dodd",
+    "title": "Highlights from Art Basel Paris",
+    "description": "With standout works by Salman Toor, Louise Bourgeois and Chantal Joffe and satellite fairs across the city – here are the highlights from Art Basel Paris, before it was cancelled",
+    "url": "https://www.anothermag.com/art-photography/17603/highlights-from-art-basel-paris-2026",
+    "urlToImage": "https://images-prod.anothermag.com/1200/311-250-1496-997/azure/another-prod/470/9/479860.jpg",
+    "publishedAt": "2026-10-26T17:11:00Z",
+    "content": "October 26, 2026They looted the wine shop, one woman says to her fur-coated comrade. Theyre standing in front of a cubist painting which, the gallerist interrupts to tell them, is priced at £950,000.… [+8562 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Blogger.com"
+    },
+    "author": "Randy Seaver",
+    "title": "The Life of the Charles Auble (1849-1916) Family of Chicago in 1903",
+    "description": null,
+    "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/26204193/8866912195430902954",
+    "urlToImage": null,
+    "publishedAt": "2026-10-26T15:40:00Z",
+    "content": "I asked my AI Assistant Anthropic Claude to provide information about my ancestral family's life in 1903 in Chicago, Illnois.  My great-grandparents Charles and Georgianna \"Georgia\" (Kemp) Auble marr… [+16137 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Jack Toledo",
+    "title": "Six Flags Over Georgia says it's adding seat belts to Goliath rollercoaster after man fell to his death... as park expert warns safety measure will lead to slower lines",
+    "description": "John Reilly, the CEO of Six Flags Entertainment Corporation, announced Friday that seatbelts will be added to several rides following the death of Hassan Kariem.",
+    "url": "https://www.dailymail.com/news/article-16239281/six-flags-georgia-goliath-seatbelts-death.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/10/26/14/111832389-0-image-m-3_1793023233474.jpg",
+    "publishedAt": "2026-10-26T14:25:16Z",
+    "content": "Six Flags plans to add seatbelts to a roller coaster in Georgia after a man was ejected from the ride to his death, a move that may lead to slower lines, according to an expert.\r\nHassan Kariem, 42, w… [+3971 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TechSpot"
+    },
+    "author": "Zo Ahmed",
+    "title": "Denmark gives up on replacing Microsoft Office, for now",
+    "description": "Early reports had the whole ministry ditching Microsoft Office by the end of 2025, but what launched on June 19 was a lot more modest – a pilot with 38 volunteers from the department. Those testers swapped Word for Collabora, an open-source office suite built…",
+    "url": "https://www.techspot.com/news/114327-denmark-gives-up-replacing-microsoft-office-now.html",
+    "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-25-image-11.jpg",
+    "publishedAt": "2026-10-26T12:03:00Z",
+    "content": "Winners &amp; losers: When Denmark's digitalization minister announced last summer that her own staff would start ditching Microsoft Office, the news traveled far beyond Danish media. Her ministry wa… [+2598 chars]"
+  },
+  {
+    "source": {
+      "id": "the-irish-times",
+      "name": "The Irish Times"
+    },
+    "author": "Keith Duggan",
+    "title": "‘Turnout has sort of drained’: Democrats battle to mobilise Georgia’s black voters",
+    "description": "Rev Al Sharpton warns of an epidemic of ‘amnesia’ over the struggles of the civil rights generation",
+    "url": "https://www.irishtimes.com/world/us/2026/10/26/turnout-has-sort-of-drained-democrats-battle-to-mobilise-georgias-black-voters/",
+    "urlToImage": "https://www.irishtimes.com/resizer/v2/W7L6MGSH5ZGCLCGSOJPGZW2UII.JPG?smart=true&auth=812f73a9ac80e8d8e589fb0d779ce71d48235ae8bb45dc48e45347df48b39a89&width=1200&height=630",
+    "publishedAt": "2026-10-26T09:23:45Z",
+    "content": "Big Bethel African Methodist Episcopal Church, grey-stoned and imposing, has been a fixture on Sweet Auburn Avenue since the 1880s, and its historical range of speakers has encompassed everyone from … [+8443 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Good Men Project"
+    },
+    "author": "The 19th",
+    "title": "Ahead of the Midterms, Meta Has Paid at Least 29 Anti-LGBTQ Accounts for Their Posts",
+    "description": "The company’s invite-only program for content creators has accounts promoting white supremacy, neo-Nazi ideologies and histories of anti-LGBTQ rhetoric.\nThe post Ahead of the Midterms, Meta Has Paid at Least 29 Anti-LGBTQ Accounts for Their Posts appeared fir…",
+    "url": "https://goodmenproject.com/featured-content/ahead-of-the-midterms-meta-has-paid-at-least-29-anti-lgbtq-accounts-for-their-posts/",
+    "urlToImage": "https://goodmenproject.com/wp-content/uploads/2026/10/anton-be-qBi594aKD5s-unsplash.jpg",
+    "publishedAt": "2026-10-26T03:30:02Z",
+    "content": "By Hope Pisoni, Uncloseted Media, The 19th, This story was originally published by The 19th\r\nThis story was reported in partnership with Uncloseted Media, an LGBTQ-focused investigative news outlet.\r… [+15717 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "David Tangipa",
+    "title": "Fresno keeps the California dream alive — it’s the state’s future",
+    "description": "I understand why young families are choosing Fresno. It's one of the last places in California where you can still plant roots and buy into a community.",
+    "url": "https://nypost.com/2026/10/25/opinion/fresno-keeps-the-california-dream-alive-its-our-future/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/COMP-2-15.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-10-26T02:56:16Z",
+    "content": "Three thousand dollars or five hundred. \r\nThat was the first choice that I had to make as an adult. \r\nI grew up in a low-income family. My mom immigrated from the island of Tonga. My dad was a disabl… [+4315 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "HuffPost"
+    },
+    "author": "HuffPost",
+    "title": "The Right Hates Indian Americans. It Might Cost Republicans Texas.",
+    "description": "Growing anti-Indian rhetoric within the GOP is pushing some lifelong conservative Indian American voters to reconsider their allegiance to the Republican Party.",
+    "url": "https://www.huffpost.com/entry/gop-indian-americans-republicans-texas_n_6ada651be4b02def986bb290",
+    "urlToImage": "https://img.huffingtonpost.com/asset/6adbb2ab1800005b1525098c.jpg?cache=p3AjjeWsLI&ops=1200_630",
+    "publishedAt": "2026-10-25T22:30:00Z",
+    "content": "SUGAR LAND, Texas The responses to Vasant Bhatts post proved his point.\r\nBhatt, the son of an Indian immigrant and a 21-year-old student at the University of Houston, has about as long a history in c… [+10115 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Soumitra.Nandi",
+    "title": "CM meets Chorbagan stampede victim’s kin in Ramnagar, hands over Rs 25 lakh",
+    "description": "CM Suvendu Adhikari visits Ramnagar stampede victim’s family, gives Rs 25 lakh compensation, promises SIT report in 3 months, education aid and job option.",
+    "url": "https://timesofindia.indiatimes.com/city/kolkata/cm-meets-chorbagan-stampede-victims-kin-in-ramnagar-hands-over-rs-25-lakh/articleshow/135196494.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-135196493,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-25T18:16:07Z",
+    "content": "Follow Us On Social Media\r\nBand of Brothers - Official TeaserFrance Rocked By Another Wave Of Anti-Macron Violent Protests, Shock VisualsCANADA IS NO ENEMY!: Obama Torches Trumps Trade War, Warns Ove… [+1411 chars]"
+  },
+  {
+    "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
@@ -11,122 +128,5 @@
     "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
     "publishedAt": "2026-10-25T17:53:34Z",
     "content": "Follow Us On Social Media\r\nBand of Brothers - Official TeaserFrance Rocked By Another Wave Of Anti-Macron Violent Protests, Shock VisualsCANADA IS NO ENEMY!: Obama Torches Trumps Trade War, Warns Ove… [+1411 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Adwitiya Deb",
-    "title": "Show-cause notices over slow lab construction in Bihar schools",
-    "description": "Bihar school lab construction lags: only 351 of 2,199 completed. Education dept issues show-cause notices to RailTel and TCIL, sets Nov 30 deadline.",
-    "url": "https://timesofindia.indiatimes.com/city/patna/show-cause-notices-over-slow-lab-construction-in-bihar-schools/articleshow/135195819.cms",
-    "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-10-25T17:37:50Z",
-    "content": "Follow Us On Social Media\r\nSpring - Official TrailerRadical, Communist, Jihadist: Obamas Revenge Attack On Trump, Defends El-Sayed In Michigan Speech'NARCISSIST': Internet Goes Off As Trump's Radar B… [+1433 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Vaishali Pitliya",
-    "title": "RU replaces cross-disciplinary HoDs in four out of five departments",
-    "description": "Rajasthan University replaces cross-disciplinary HoDs in 4 departments after review; VC Saraswat vows to resolve Physical Education head appointment issue soon.",
-    "url": "https://timesofindia.indiatimes.com/city/jaipur/ru-replaces-cross-disciplinary-hods-in-four-out-of-five-departments/articleshow/135195736.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135195732,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-25T17:33:11Z",
-    "content": "Follow Us On Social Media\r\n'NARCISSIST': Internet Goes Off As Trump's Radar Bombshell Stokes Row, Elon Musk's X Calls Out POTUSAbdul El-Sayed HUMILIATES Trump At Obama Rally; He Dragged Us Into Iran … [+1491 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Tanmayee Tyagi",
-    "title": "Vintage vehicles roll down streets of Doon during annual rally",
-    "description": "Vintage cars and bikes cruised Dehradun in the annual Virasat festival rally, featuring 51 two-wheelers and 28 cars, including a 1928 Ford.",
-    "url": "https://timesofindia.indiatimes.com/city/dehradun/vintage-vehicles-roll-down-streets-of-doon-during-annual-rally/articleshow/135195410.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135195402,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-25T17:18:50Z",
-    "content": "Follow Us On Social Media\r\nAbdul El-Sayed HUMILIATES Trump At Obama Rally; He Dragged Us Into Iran War, Barack Avoided It!Trump Loves Saudi, UAE Dictators: Bernie Sanders Exposes POTUS' Billion Dolla… [+2895 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Times News Network",
-    "title": "Damaged curd packet: Bengaluru woman loses Rs 98k in fake refund scam",
-    "description": "Bengaluru woman loses Rs 98,000 in fake Blinkit refund scam after calling a number found online and sharing details via a WhatsApp link.",
-    "url": "https://timesofindia.indiatimes.com/city/bengaluru/damaged-curd-packet-bengaluru-woman-loses-rs-98k-in-fake-refund-scam/articleshow/135195350.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135195349,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-25T17:14:49Z",
-    "content": "Follow Us On Social Media\r\nAbdul El-Sayed HUMILIATES Trump At Obama Rally; He Dragged Us Into Iran War, Barack Avoided It!Trump Loves Saudi, UAE Dictators: Bernie Sanders Exposes POTUS' Billion Dolla… [+2895 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "TNN",
-    "title": "DCPCR seeks action-taken report on schoolgirl’s suicide",
-    "description": "DCPCR issues notices to Delhi education dept, school principal and police, seeking action-taken report on Class XII girl’s suicide by self-immolation on campus.",
-    "url": "https://timesofindia.indiatimes.com/city/delhi/dcpcr-seeks-action-taken-report-on-schoolgirls-suicide/articleshow/135190560.cms",
-    "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-10-25T17:14:11Z",
-    "content": "Follow Us On Social Media\r\nAbdul El-Sayed HUMILIATES Trump At Obama Rally; He Dragged Us Into Iran War, Barack Avoided It!Trump Loves Saudi, UAE Dictators: Bernie Sanders Exposes POTUS' Billion Dolla… [+2895 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Sanjay Sahay",
-    "title": "BJP to intensify campaign against govt ‘failures’; Congress hits back",
-    "description": "BJP Jharkhand to intensify campaigns and protests over govt “failures” on jobs, law and order, corruption; Congress rejects charges, counters NDA allegations.",
-    "url": "https://timesofindia.indiatimes.com/city/ranchi/bjp-to-intensify-campaign-against-govt-failures-congress-hits-back/articleshow/135195269.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135195268,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-25T17:09:54Z",
-    "content": "Follow Us On Social Media\r\nAbdul El-Sayed HUMILIATES Trump At Obama Rally; He Dragged Us Into Iran War, Barack Avoided It!Trump Loves Saudi, UAE Dictators: Bernie Sanders Exposes POTUS' Billion Dolla… [+2895 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Niranjan Kaggere",
-    "title": "Amid concerns over water and power supply, state may discourage summer crops",
-    "description": "Karnataka drought: Govt may discourage water-intensive summer crops like paddy and cotton in 2027 to save water and curb power demand; backs fruits, veggies.",
-    "url": "https://timesofindia.indiatimes.com/city/bengaluru/amid-concerns-over-water-and-power-supply-state-may-discourage-summer-crops/articleshow/135195264.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135195263,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-25T17:08:14Z",
-    "content": "Follow Us On Social Media\r\nAbdul El-Sayed HUMILIATES Trump At Obama Rally; He Dragged Us Into Iran War, Barack Avoided It!Trump Loves Saudi, UAE Dictators: Bernie Sanders Exposes POTUS' Billion Dolla… [+2895 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Meenakshi Sharma",
-    "title": "Paradise lost? Water crisis threatens Madhya Pradesh’s Holland",
-    "description": "In Dhar, Madhya Pradesh, farmers face dire crop loss prospects amid an escalating water crisis. This monsoon’s rainfall has fallen short, disrupting irrigation systems vital for strawberries and floriculture. As a result, nearly 50% of farmers in Rupakheda ha…",
-    "url": "https://timesofindia.indiatimes.com/city/bhopal/paradise-lost-water-crisis-threatens-madhya-pradeshs-holland/articleshow/135195125.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135195244,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-25T17:07:51Z",
-    "content": "Follow Us On Social Media\r\nAbdul El-Sayed HUMILIATES Trump At Obama Rally; He Dragged Us Into Iran War, Barack Avoided It!Trump Loves Saudi, UAE Dictators: Bernie Sanders Exposes POTUS' Billion Dolla… [+2895 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "TNN",
-    "title": "300 roadside shops cleared in HDMC clearance drive",
-    "description": "HDMC cleared 300+ roadside shops in Dharwad during an anti-encroachment drive, citing traffic and waste; vendors protested over lack of alternate sites.",
-    "url": "https://timesofindia.indiatimes.com/city/hubballi/300-roadside-shops-cleared-in-hdmc-clearance-drive/articleshow/135195255.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135195253,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-25T17:07:01Z",
-    "content": "Follow Us On Social Media\r\nAbdul El-Sayed HUMILIATES Trump At Obama Rally; He Dragged Us Into Iran War, Barack Avoided It!Trump Loves Saudi, UAE Dictators: Bernie Sanders Exposes POTUS' Billion Dolla… [+2895 chars]"
   }
 ]

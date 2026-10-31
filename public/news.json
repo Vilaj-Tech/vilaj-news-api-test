@@ -1,107 +1,120 @@
 [
   {
     "source": {
-      "id": "fox-news",
-      "name": "Fox News"
+      "id": null,
+      "name": "The Root"
     },
-    "author": null,
-    "title": "GIANNO CALDWELL: Bottoms ran Atlanta into the ground. We can’t let her do it to Georgia",
-    "description": "Atlanta's homicide surge under former Atlanta Mayor Keisha Lance Bottoms looms large as Republican nominee Rick Jackson pitches his public safety agenda.",
-    "url": "https://www.foxnews.com/opinion/gianno-caldwell-bottoms-ran-atlanta-ground-cant-let-her-do-it-georgia",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/keisha-lance-bottoms-speaking.png",
-    "publishedAt": "2026-10-29T13:00:38Z",
-    "content": "In 2020, Atlanta police investigated 157 homicides, up from 99 the year before. That was the most the city had seen in more than two decades, according to The Atlanta Journal-Constitution. The next y… [+4279 chars]"
+    "author": "Phenix S Halley",
+    "title": "15 Black Politicians Who Have Served Looks and Leadership",
+    "description": "From Randall Woodfin's viral swag to Barack Obama's presidential polish, these Black political figures have served history, leadership and looks.Read more...",
+    "url": "https://www.theroot.com/15-black-politicians-who-have-served-looks-and-leadersh-2000133242",
+    "urlToImage": null,
+    "publishedAt": "2026-10-30T16:33:25Z",
+    "content": "Atlanta Mayor Andre Dickens (Photo by Paras Griffin/Getty Images), Michigan Rep. John Conyers Jr. (Getty Images), Birmingham Mayor Randall Woodfin (Photo by Paras Griffin/Getty Images)If the internet… [+8780 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Glenn Erby , Eagles Wire",
+    "title": "Michael Carter II wins NFLPA award after helping 40 Philadelphia moms",
+    "description": "Eagles cornerback Michael Carter II earned Week 8 NFLPA Community MVP honors for helping 40 mothers, securing a $10,000 donation to his foundation",
+    "url": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2026/10/30/eagles-michael-carter-ii-week-8-nflpa-community-mvp-award/92515368007/",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/78496e80cdd7dbcabba5c52ff3b12a1c97ab898addf36046e5e6b87dcba5a4ae/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fphiladelphia_eagles_wire_usa_today_sports_articles_352%2Fb894f3eb3ea212a02bd85f0d6038285c.jpg",
+    "publishedAt": "2026-10-30T16:09:58Z",
+    "content": "Philadelphia Eagles defensive back Michael Carter II has been named the Week 8 NFLPA Community MVP for his work supporting maternal and infant health through his foundation's Baby Shower on the Block… [+2999 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "TheWrap"
+      "name": "Dailymail.com"
     },
-    "author": "TheWrap Staff",
-    "title": "The Top 50 Film Schools of 2026",
-    "description": "TheWrap magazine: We teamed up with Screen Engine/ASI to implement a data-driven ranking system of the best places to study moviemaking\nThe post The Top 50 Film Schools of 2026 appeared first on TheWrap.",
-    "url": "https://www.thewrap.com/creative-content/movies/top-50-film-schools-2026/",
-    "urlToImage": "http://www.thewrap.com/wp-content/uploads/2026/10/Top-50-Film-Schools-of-2026.png",
-    "publishedAt": "2026-10-29T13:00:00Z",
-    "content": "TheWraps 11th annual ranking of the best U.S. film schools marks our third partnership with the research company Screen Engine/ASI, which implemented a data-driven system. Kevin Goetzs company create… [+52376 chars]"
+    "author": "Charlie Spiering",
+    "title": "Cackling Kamala Harris makes awkward verbal gaffe as she stumps for hunky Georgia Democrat",
+    "description": "Former Vice President Kamala Harris drew chuckles from Democrats in Georgia on Thursday after she started introducing Senator Jon Ossoff as the 'next' Senator of Georgia.",
+    "url": "https://www.dailymail.com/news/article-16252523/kamala-harris-jon-ossoff-georgia.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/10/30/13/112194573-0-image-m-6_1793367415950.jpg",
+    "publishedAt": "2026-10-30T14:23:03Z",
+    "content": "Former Vice President Kamala Harris drew chuckles from Democrats in Georgia on Thursday after she started introducing Senator Jon Ossoff as the next Senator of Georgia.\r\nHarris described Ossoff on th… [+2733 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Conversation Africa"
+      "name": "Salon"
     },
-    "author": "Teri Finneman, Professor of Journalism, University of Kansas, Pamela E. Walck, Associate Professor of Journalism, Duquesne University",
-    "title": "Faculty and students show how reporting is done when a university partners with local news",
-    "description": "Some universities are developing innovative arrangements with universities where students help report and faculty provide guidance.",
-    "url": "https://theconversation.com/faculty-and-students-show-how-reporting-is-done-when-a-university-partners-with-local-news-292102",
-    "urlToImage": "https://images.theconversation.com/files/768941/original/file-20261028-52-sa4d3n.jpg?ixlib=rb-4.1.1&rect=0%2C251%2C2015%2C1007&q=45&auto=format&w=1356&h=668&fit=crop",
-    "publishedAt": "2026-10-29T12:24:19Z",
-    "content": "Some local papers that were on the verge of extinction, like the Solon Economist in Iowa, have teamed up with universities as a way to get staffing and support. Photo from Teri Finneman, CC BY\r\nCathe… [+10270 chars]"
+    "author": "Brian Karem",
+    "title": "After Trump’s looming midterm loss, how ugly will it get?",
+    "description": "His crowds are shrinking and his influence is fading. He may try anything to cling to power",
+    "url": "https://www.salon.com/2026/10/30/after-trumps-looming-midterm-loss-how-ugly-will-it-get/",
+    "urlToImage": "https://www.salon.com/app/uploads/2026/10/GrumpTrump-Oct30-2302566480.jpg",
+    "publishedAt": "2026-10-30T13:00:01Z",
+    "content": "Happy Halloween and welcome back to the future.\r\nMy neighbor showed me his kids Halloween costumes today; a vampire, a zombie and a clown. Theyre going as Stephen Miller, Robert F. Kennedy Jr. and Pe… [+12925 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "NPR"
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
     },
-    "author": "Brittney Melton",
-    "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
-    "description": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged.",
-    "url": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
-    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3094+0+287/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb9%2Fdc%2F478f89b74510b7a8d7c5988e1613%2Fgettyimages-2301918064.jpg",
-    "publishedAt": "2026-10-29T11:34:30Z",
-    "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+7122 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The American Prospect"
-    },
-    "author": "James Baratta",
-    "title": "Cait Conley Rocks Rockland County at ‘End Citizens United’ Town Hall",
-    "description": "With just days to go until Election Day, the Democratic candidate challenging incumbent Rep. Mike Lawler (R-NY) laid out her plans to get dark money out of politics. She said Congress can start by imposing term limits on Supreme Court justices.\nThe post Cait …",
-    "url": "https://prospect.org/2026/10/29/cait-conley-rocks-rockland-county-at-end-citizens-united-town-hall/",
-    "urlToImage": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/10/Baratta-NY-Conley-102926.png?fit=2000%2C1333&ssl=1",
-    "publishedAt": "2026-10-29T09:00:00Z",
-    "content": "NANUET, NEW YORK Im heading east on NY Route 59, trying to keep it below 40 miles per hour. That isnt much of a challenge, as the person driving the pickup truck in front of me cant seem to stay in t… [+9987 chars]"
+    "author": "Barbara Angopa",
+    "title": "Georgia midterm elections: Why this is a key US battleground",
+    "description": "Obama and Trump campaign in key battleground state ahead of next week's midterm elections.",
+    "url": "https://www.aljazeera.com/news/2026/10/30/georgia-midterm-elections-why-this-is-a-key-us-battleground",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae2e521-1793254689.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-10-30T12:09:03Z",
+    "content": "Georgia is among a number of key swing or battleground states being fought for hardest in the run-up to the United States midterm elections next week.\r\nThe southern state has been so competitive in r… [+5126 chars]"
   },
   {
     "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "Prakshali Tiwari",
-    "title": "India’s quantum leap is underway. CEP, IIT Delhi’s Certification is how working professionals get ahead of it.",
-    "description": "Master the future of tech with the CEP, IIT Delhi Certification in Quantum Computing and Machine Learning. Designed for working professionals, this 6-month programme bridges theory and real-world application to future-proof your career.",
-    "url": "https://timesofindia.indiatimes.com/education/indias-quantum-leap-is-underway-cep-iit-delhis-certification-is-how-working-professionals-get-ahead-of-it-/articleshow/135297358.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135297436,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-29T08:35:01Z",
-    "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>Indias quantum leap is underway. CEP, IIT Delhis Certification is how working professionals get ahead of it.</li></ul>\r\nFollow Us On Social Media\r\nNeta… [+3424 chars]"
+    "author": "Deepak Karthik",
+    "title": "I-T dept conducts outreach programme for PACCS",
+    "description": "Income Tax Dept held an outreach programme in Trichy for PACCS, covering I-T compliance, audits, timely returns for deductions, and e-filing notices.",
+    "url": "https://timesofindia.indiatimes.com/city/trichy/i-t-dept-conducts-outreach-programme-for-paccs/articleshow/135358259.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-135358256,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-30T11:12:11Z",
+    "content": "Follow Us On Social Media\r\n'Stop Attacking Russia, And I Won't Blame Putin': NATO Leader Unleashes On Allies Over Ship AttackTeam India Fans Go Crazy In Auckland, Vaibhav Sooryavanshi Steals The Spot… [+3233 chars]"
   },
   {
     "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "IANS",
-    "title": "NEET-UG 2026 paper leak: Rouse Avenue court fixes November 18 for order on framing of charges",
-    "description": "A specially designated Fast Track Court at the Rouse Avenue Courts Complex in Delhi on Thursday reserved its order on framing of charges against the accused in the NEET-UG 2026 question paper leak case.",
-    "url": "https://timesofindia.indiatimes.com/education/news/neet-ug-2026-paper-leak-rouse-avenue-court-fixes-nov-18-for-order-on-framing-of-charges/articleshow/135297480.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135297479,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-29T08:31:38Z",
-    "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>NEET-UG 2026 paper leak: Rouse Avenue court fixes November 18 for order on framing of charges</li></ul>\r\nFollow Us On Social Media\r\n'NO … [+3531 chars]"
+    "author": "Venkadesan S",
+    "title": "Retired IAS officer S Natarajan appointed Tamil Nadu state chief information commissioner",
+    "description": "CHENNAI: The Tamil Nadu govt has appointed retired IAS officer Dr S Natarajan as the state chief information commissioner, along with four state",
+    "url": "https://timesofindia.indiatimes.com/city/chennai/retired-ias-officer-s-natarajan-appointed-tamil-nadu-state-chief-information-commissioner/articleshow/135358085.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-135358169,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-30T11:09:07Z",
+    "content": "Follow Us On Social Media\r\n'Stop Attacking Russia, And I Won't Blame Putin': NATO Leader Unleashes On Allies Over Ship AttackTeam India Fans Go Crazy In Auckland, Vaibhav Sooryavanshi Steals The Spot… [+3233 chars]"
   },
   {
     "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "SPOTLIGHT",
-    "title": "Beyond coding: How KLH CSE and AI programmes build problem-solving minds",
-    "description": "A few years ago, writing working code was the clearest sign of an engineer's skill.",
-    "url": "https://timesofindia.indiatimes.com/education/beyond-coding-how-klh-cse-and-ai-programmes-build-problem-solving-minds/articleshow/135297040.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135297075,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-29T08:21:49Z",
-    "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>Beyond coding: How KLH CSE and AI programmes build problem-solving minds</li></ul>\r\nFollow Us On Social Media\r\n'NO DOVE HERE, ALL HAWKS': Major Gaurav … [+3495 chars]"
+    "author": "Vishvendu Jaipuriar",
+    "title": "Shots fired at Hazaribag hotel, cops probe gangster’s social media post claiming responsibility",
+    "description": "Shots were fired at AK International Hotel in Hazaribag’s Matwari area; police probe a social media post by gangster Rahul Dubey claiming responsibility.",
+    "url": "https://timesofindia.indiatimes.com/city/ranchi/shots-fired-at-hazaribag-hotel-cops-probe-gangsters-social-media-post-claiming-responsibility/articleshow/135358071.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-135358069,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-30T11:05:59Z",
+    "content": "Follow Us On Social Media\r\n'Stop Attacking Russia, And I Won't Blame Putin': NATO Leader Unleashes On Allies Over Ship AttackTeam India Fans Go Crazy In Auckland, Vaibhav Sooryavanshi Steals The Spot… [+3233 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Saurabh Thakur",
+    "title": "Can a preventive detention order be quashed if a man is not told how to challenge it? J&K high court explains",
+    "description": "The Jammu and Kashmir high court quashed a detention order under the Public Safety Act against a man. The decision followed the court's finding that he was not informed about his right to appeal the order. His brother had filed a habeas corpus petition challe…",
+    "url": "https://timesofindia.indiatimes.com/legal/news/can-a-preventive-detention-order-be-quashed-if-a-man-is-not-told-how-to-challenge-it-jk-high-court-explains/articleshow/135357668.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-135357842,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-30T11:01:46Z",
+    "content": "<ul><li>News</li>\r\n<li>Legal News</li>\r\n<li>Can a preventive detention order be quashed if a man is not told how to challenge it? J&amp;K high court explains</li></ul>\r\nFollow Us On Social Media\r\n'St… [+3402 chars]"
   },
   {
     "source": {
@@ -109,24 +122,11 @@
       "name": "The Times of India"
     },
     "author": "TOI Education",
-    "title": "ICAI CA Foundation September result 2026: Will scorecards be released today? Here's what we know",
-    "description": "The Institute of Chartered Accountants of India will likely announce the CA Foundation September 2026 results soon. Candidates are advised to verify their results on the official ICAI website after the announcement. They will require their registration number…",
-    "url": "https://timesofindia.indiatimes.com/education/news/icai-ca-foundation-september-result-2026-will-scorecards-be-released-today-heres-what-we-know/articleshow/135297045.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135297182,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-29T08:18:36Z",
-    "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>ICAI CA Foundation September result 2026: Will scorecards be released today? Here's what we know</li></ul>\r\nFollow Us On Social Media\r\n'… [+3534 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "ET Online",
-    "title": "US midterm elections 2026: What's at stake for Trump, his opponents and 2028 White House race",
-    "description": "On November 3, the midterm elections will play a crucial role in determining the future of Trump's presidency. All 435 House seats and 35 Senate seats are up for grabs, with control of Congress in the balance. Democrats hope to gain the upper hand, countering…",
-    "url": "https://economictimes.indiatimes.com/news/international/world-news/us-midterm-elections-2026-whats-at-stake-for-trump-his-opponents-and-2028-white-house-race/articleshow/135294147.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-135294370,width-1200,height-900,imgsize-263774,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-29T06:54:58Z",
-    "content": "The November 3 US midterm elections will determine whether Donald Trump continues to rule the US a Congress largely aligned with his agenda, or faces two years of heated resistance from an opposition… [+11564 chars]"
+    "title": "Saraswati Vidya Niketan Model Schools: Education department mandates 75% attendance, special classes for failed Class 9 students",
+    "description": "The state education department has issued six directives to improve the functioning of Saraswati Vidya Niketan Model Schools. The instructions cover mandatory 75% student attendance, staff deployment, restrictions on police accommodation and examination centr…",
+    "url": "https://timesofindia.indiatimes.com/education/news/saraswati-vidya-niketan-model-schools-education-department-mandates-75-attendance-special-classes-for-failed-class-9-students/articleshow/135354577.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-135357355,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-30T10:54:53Z",
+    "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>Saraswati Vidya Niketan Model Schools: Education department mandates 75% attendance, special classes for failed Class 9 students</li></u… [+3437 chars]"
   }
 ]

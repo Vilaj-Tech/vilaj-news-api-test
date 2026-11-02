@@ -1,6 +1,58 @@
 [
   {
     "source": {
+      "id": "new-york-magazine",
+      "name": "New York Magazine"
+    },
+    "author": "Ed Kilgore",
+    "title": "Policy at the Polls: A Look at 2026 Ballot Initiatives",
+    "description": "From pro- and anti-tax measures to voting, abortion, and trans rights, voters have a lot of ballot initiatives to weigh in on this year. Here’s a guide to the most important ones.",
+    "url": "http://nymag.com/intelligencer/article/2026-midterms-preview-guide-to-ballot-initiatives.html",
+    "urlToImage": "https://pyxis.nymag.com/v1/imgs/b26/412/acaf70c15d3d27dad69a2899ffad4f9388-billionaire-tax.1x.rsocial.w1200.jpg",
+    "publishedAt": "2026-11-01T11:00:43Z",
+    "content": "In addition to the vast number of elections for positions ranging from the U.S. Senate to local city councils, U.S. midterm voters in 39 states will vote on 145 ballot initiatives. Some are minor tec… [+8368 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "TOI Education",
+    "title": "WBCHSE semester system under review: Will West Bengal bring back annual Class 11 and 12 exams?",
+    "description": "The West Bengal Council of Higher Secondary Education (WBCHSE) is reviewing concerns surrounding the four-semester examination system for Classes 11 and 12. Teachers and school heads have flagged limited classroom time, syllabus completion challenges and incr…",
+    "url": "https://timesofindia.indiatimes.com/education/news/wbchse-semester-system-under-review-will-west-bengal-bring-back-annual-class-11-and-12-exams/articleshow/135417504.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-135417770,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-11-01T04:32:51Z",
+    "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>WBCHSE semester system under review: Will West Bengal bring back annual Class 11 and 12 exams?</li></ul>\r\nFollow Us On Social Media\r\nHei… [+2177 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Thefinancialexpress.com.bd"
+    },
+    "author": "Fe Education Desk",
+    "title": "British-Bangladeshi doctors team up with Startup Bangladesh on health tech",
+    "description": "A network of British-Bangladeshi doctors plans to send its first health-tech projects to Startup Bangladesh in December, under a new collaboration to turn doctors' ideas into working products with help from Bangladesh's technology sector.\r\nThe initiative was …",
+    "url": "https://thefinancialexpress.com.bd/education/article/british-bangladeshi-doctors-team-up-with-startup-bangladesh-on-health-tech",
+    "urlToImage": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/179772/british-bangladesh.jpg",
+    "publishedAt": "2026-11-01T04:06:07Z",
+    "content": "A network of British-Bangladeshi doctors plans to send its first health-tech projects to Startup Bangladesh in December, under a new collaboration to turn doctors' ideas into working products with he… [+4439 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Rolling Out"
+    },
+    "author": "Sophie Lloyd",
+    "title": "Tinashe Kajese-Bolden on the dark legacy at the heart of ‘Like Father’",
+    "description": "Tinashe Kajese-Bolden has spent her career on both sides of the curtain. She is a director and actor whose screen credits include The Suicide Squad and Marvel’s Hawkeye. She is also the Jennings Hertz Artistic Director of Atlanta’s Alliance Theatre, a 2019 Pr…",
+    "url": "https://rollingout.com/2026/10/31/tinashe-kajese-bolden-like-father/",
+    "urlToImage": "https://rollingout.com/wp-content/uploads/2026/10/image-1000x1000-3.png",
+    "publishedAt": "2026-10-31T23:27:17Z",
+    "content": "Tinashe Kajese-Bolden has spent her career on both sides of the curtain. She is a director and actor whose screen credits include The Suicide Squad and Marvels Hawkeye. She is also the Jennings Hertz… [+7315 chars]"
+  },
+  {
+    "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
@@ -76,57 +128,5 @@
     "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
     "publishedAt": "2026-10-31T10:46:54Z",
     "content": "Follow Us On Social Media\r\nFaculty crunch hits Kumaon medical colleges, 320 posts vacantA Georgia shopper won $975,000 over a fall at Walmart in 2020, but her lawyer compared pain damages with an exp… [+2043 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Rajeev Singh",
-    "title": "'It’s done bro': J&K CM Omar Abdullah-Nidhi Razdan share photo of their 'new journey'",
-    "description": "NEW DELHI: Jammu and Kashmir chief minister Omar Abdullah and journalist Nidhi Razdan made their relationship formal on Saturday by sharing photos of a",
-    "url": "https://timesofindia.indiatimes.com/india/its-done-bro-jk-cm-omar-abdullah-nidhi-razdan-share-photo-of-their-new-journey/articleshow/135398123.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135398377,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-31T10:44:35Z",
-    "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>'Its done bro': J&amp;K CM Omar Abdullah, Nidhi Razdan share photos of their 'new journey'</li></ul>\r\nFollow Us On Social Media\r\nFaculty crunch hits Kumaon… [+2189 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "BusinessLine"
-    },
-    "author": "PTI",
-    "title": "MBBS abroad: NMC’s conflicting replies raise concerns over consultants misleading students",
-    "description": "Conflicting regulatory responses and Georgia’s licensing provisions have left aspiring Indian medical students uncertain about their eligibility to practise medicine.",
-    "url": "https://www.thehindubusinessline.com/news/education/mbbs-abroad-nmcs-conflicting-replies-raise-concerns-over-consultants-misleading-students/article71648925.ece",
-    "urlToImage": "https://bl-i.thgim.com/public/news/uxknwp/article66796559.ece/alternates/LANDSCAPE_1200/BL0105_Pulse_Lead02.jpg",
-    "publishedAt": "2026-10-31T10:18:46Z",
-    "content": "The National Medical Commission (NMC), the countrys medical education regulator, has given ambiguous responses to aspiring doctors who asked identical questions about the validity of foreign MBBS deg… [+4139 chars]"
-  },
-  {
-    "source": {
-      "id": "new-york-magazine",
-      "name": "New York Magazine"
-    },
-    "author": "Ed Kilgore",
-    "title": "The 13 Governor’s Races Worth Watching on Election Night",
-    "description": "Of the 13 competitive governor’s races around the country, 6 favor Democrats, 3 favor Republicans, and 4 are real toss-ups. Ed Kilgore offers a helpful guide.",
-    "url": "http://nymag.com/intelligencer/article/2026-midterms-preview-the-13-governors-races-worth-watching.html",
-    "urlToImage": "https://pyxis.nymag.com/v1/imgs/c30/55d/01bbe11444df39b6ea870fa238939f7eea-kansas-debate.1x.rsocial.w1200.jpg",
-    "publishedAt": "2026-10-31T10:00:25Z",
-    "content": "While the battle for control of Congress has received the lions share of national media midterms attention, theres obviously a lot going on down-ballot too particularly across the governors races.\r\nT… [+13899 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "HuffPost"
-    },
-    "author": "HuffPost",
-    "title": "‘World-Historic Levels Of Strategic Buffoonery:’ 285 Acts Of Idiocy Trump’s Cronies Hope You’ve Forgotten",
-    "description": "♫ Send in the clowns ♫",
-    "url": "https://www.huffpost.com/entry/dumb-things-trump-has-done-so-far-second-term_n_6ab57494e4b0bad9a646389e",
-    "urlToImage": "https://img.huffingtonpost.com/asset/6ae4cfec14000071fce01bcb.jpg?cache=vMIrVbB6Mk&ops=1200_630",
-    "publishedAt": "2026-10-31T10:00:17Z",
-    "content": "Its easy to swat a mosquito. Its much harder to swat a cave full of them. Every day. Day after day after day after day.\r\nCovering the Trump administration is a lot like the latter. Theres so much cha… [+33527 chars]"
   }
 ]

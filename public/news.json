@@ -1,6 +1,84 @@
 [
   {
     "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "Hayden Smith",
+    "title": "Roaming cats 'split' town as concerns grow for native wildlife",
+    "description": "A feeding station found near a national park sparked \"outrage\" and calls for stricter pet cat containment laws.",
+    "url": "https://www.abc.net.au/news/2026-11-09/feral-cats-trowunna-wildlife-sanctuary-conservation/107264208",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/06ec96548f1bf13e8855f503df993a38?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-11-08T18:35:59Z",
+    "content": "Androo Kelly has spent most of his life building a haven for Tasmania's renowned native wildlife.\r\nPotoroos, bettongs, quolls and bandicoots inhabit Trowunna Wildlife Sanctuary, a 30-hectare property… [+6284 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Commercial Observer"
+    },
+    "author": "Mgross170",
+    "title": "Sunday Summary: Tsunami Time for Real Estate?",
+    "description": "If last week was the time you finally booked that trip to Micronesia and decided to truly unplug — no phone, no TV, no newspapers, no laptops, no salt stomping Instagram videos — we have news for you: There was an election. And you could have saved yourself a…",
+    "url": "http://commercialobserver.com/2026/11/sunday-summary-tsunami-time-for-real-estate/",
+    "urlToImage": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/11/Fla-amendment-3-GettyImages-2302987503-WEB.jpg?quality=80&crop=0px%2C230px%2C2000px%2C1051px&resize=1200%2C630&strip",
+    "publishedAt": "2026-11-08T14:00:25Z",
+    "content": "If last week was the time you finally booked that trip to Micronesia and decided to truly unplug no phone, no TV, no newspapers, no laptops, no salt stomping Instagram videos we have news for you:\r\nT… [+7628 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Emily Stewart",
+    "title": "America is Zohranomics-curious",
+    "description": "Americans think life is too expensive. Democrats finally figured out how to talk about it — and they sound a lot like NYC Mayor Zohran Mamdani.",
+    "url": "https://www.businessinsider.com/zohran-mamdani-affordability-message-2026-midterms-2026-11#article",
+    "urlToImage": "https://i.insider.com/6aee16cb8f37e8e0b5baacb3?width=1200&format=jpeg",
+    "publishedAt": "2026-11-08T09:47:01Z",
+    "content": "Zohran Mamdani wasn't on the ballot on Tuesday, but the message behind his political rise was: Life has become untenably expensive, the people in charge seem deeply disconnected from it, and the gove… [+7580 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TheWrap"
+    },
+    "author": "Booth Moore",
+    "title": "Star Power and Staying Power Shine at the CFDA Fashion Awards",
+    "description": "Plus: Hollywood celebrated women’s power and the election's blue wave at Max Mara’s Face of the Future party\nThe post Star Power and Staying Power Shine at the CFDA Fashion Awards appeared first on TheWrap.",
+    "url": "https://www.thewrap.com/culture-lifestyle/culture/star-power-and-staying-power-shine-at-the-cfda-fashion-awards/",
+    "urlToImage": "https://www.thewrap.com/wp-content/uploads/2026/11/CFDA-Fashion-Awards-2026.jpg",
+    "publishedAt": "2026-11-07T21:17:29Z",
+    "content": "American fashion showed its staying power at the CFDA Awards in New York, where Rachel Scott and Ralph Lauren took top honors and the stars turned out in force. In Los Angeles, Scotts Proenza Schoule… [+16668 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Ms. Magazine"
+    },
+    "author": "Kathy Spillar",
+    "title": "Women Voters Brought the Blue Wave",
+    "description": "Tuesday night was record-breaking. \nNext year, record numbers of women will serve in the House (at least 136) and as governors across the U.S. (at least 17). Both House and Senate majorities have flipped to Democratic control. \nWe have women voters to thank f…",
+    "url": "https://msmagazine.com/2026/11/07/women-voters-blue-wave-gender-gap-democrats/",
+    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/11/GettyImages-2303685866.jpg",
+    "publishedAt": "2026-11-07T20:59:19Z",
+    "content": "Stephanie Gomez reacts as the Texas Senate race is called for James Talarico at the Texas Democrats Watch Party at the Hyatt Recency in Austin, Texas, on Nov. 3, 2026. (Sara Diggins / The Austin Amer… [+5442 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biffpapsen.no"
+    },
+    "author": "Biffpapsen",
+    "title": "Ketogenic diet and low carb: sources and resources",
+    "description": "121 sources about ketogenic diet and low carb in the Biffpapsen archive: studies, videos, podcasts and articles, grouped by type.",
+    "url": "https://biffpapsen.no/en/topics/ketogenic-diet",
+    "urlToImage": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_52ahjftefw8k3a24e33a3htfzj/0a85efd254890f420e78331bf2e45da0_1793774672978.png",
+    "publishedAt": "2026-11-07T18:05:40Z",
+    "content": "Also known as:keto, low carb, ketosis, carb restricted\r\nThese are the sources in the archive about the ketogenic diet and low carb eating. They are grouped by type, and each can be opened for more de… [+13883 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Ewtnnews.com"
     },
@@ -50,83 +128,5 @@
     "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/10/29/a891c418-8834-40d1-9c59-fd68a6e32f73/thumbnail/1200x675/ea37c23c93ab623a5753da4eccc7f8ff/tayven-jackson-north-texas-mean-green-imagn-images.jpg",
     "publishedAt": "2026-11-06T19:19:40Z",
     "content": "DENTON, Texas The conversation always seemed to go the same way: \"You're a great player, but we have a guy already.\"\r\nTayven Jackson heard it again and again in the transfer portal last winter. Schoo… [+8376 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Mit.edu"
-    },
-    "author": "Nancy Wolfe Kotary | Kelley Travers | Stephanie Martinovich | MIT Haystack Observatory | MIT Energy Initiative | Department of Civil and Environmental Engineering",
-    "title": "MIT affiliates elected 2026 American Geophysical Union Fellows",
-    "description": "MIT&#039;s Anthea Coster, Carolyn Ruppel, César Terrer, and eight additional MIT alumni were elected 2026 AGU Fellows for their exceptional contributions to the geosciences.",
-    "url": "https://news.mit.edu/2026/mit-affiliates-elected-agu-fellows-1106",
-    "urlToImage": "https://news.mit.edu/sites/default/files/images/202611/mit-agu-fellows-26_1.png",
-    "publishedAt": "2026-11-06T16:15:00Z",
-    "content": "Three MIT affiliates Anthea Coster of MIT Haystack Observatory, Carolyn Ruppel 86, SM 86, PhD 92 of the MIT Energy Initiative, and César Terrer of the Department of Civil and Environmental Engineerin… [+6950 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Robb Report"
-    },
-    "author": "Dsimms29",
-    "title": "A Georgia O’Keeffe Painting Found in a Closet Could Fetch $3 Million at Auction",
-    "description": "Goergia O'Keeffe's painting titled Near Abiquiu, New Mexico I (1930) could fetch $3 million at Christie's auction after going nearly 40 years unseen.",
-    "url": "http://robbreport.com/shelter/art-collectibles/georgia-okeeffe-painting-christies-auction-1238820829/",
-    "urlToImage": "https://robbreport.com/wp-content/uploads/2026/11/GOKeeffe_NearAbiquiu_NM2.jpg?w=681&h=383&crop=1",
-    "publishedAt": "2026-11-06T16:00:00Z",
-    "content": "When Christie’s holds its 20th Century Evening Sale in two weeks, one painting will hit the block with a curious story. The Georgia O’Keeffe painting Near Abiquiu, New Mexico I (1930) only recently r… [+2104 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Chicago Reader"
-    },
-    "author": "Shawn Mulcahy",
-    "title": "Now that Democrats can do something, will they?",
-    "description": "In a repudiation of President Donald Trump’s fascist agenda, Democrats trounced Republicans in midterm races across the country Tuesday night. From maintaining party strongholds such as Illinois to gaining ground up and down the ballot in the unlikeliest of p…",
-    "url": "https://chicagoreader.com/news/now-that-democrats-can-do-something-will-they/",
-    "urlToImage": "https://i0.wp.com/chicagoreader.com/wp-content/uploads/2026/11/26_11_03_Juliana-Stratton_SB13888-1-scaled.jpg?fit=2560%2C1708&ssl=1",
-    "publishedAt": "2026-11-06T16:00:00Z",
-    "content": "In a repudiation of President Donald Trumps fascist agenda, Democrats trounced Republicans in midterm races across the country Tuesday night. From maintaining party strongholds such as Illinois to ga… [+9504 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Blue wave battered GOP strongholds across America, but one red state held the line",
-    "description": "South Dakota's GOP held firm as Dan Ahler's moderate Democrat strategy fell flat, even as similar campaigns slashed Republican margins elsewhere.",
-    "url": "https://www.foxnews.com/politics/blue-wave-battered-gop-strongholds-across-america-one-red-state-held-line",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/south-dakota-gov-larry-rhoden.jpg",
-    "publishedAt": "2026-11-06T15:31:02Z",
-    "content": "On a night when Democrats made major gains across the country, South Dakota emerged as one of the few Republican strongholds where the GOP largely held its ground even as Democrats made inroads aroun… [+4698 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The New Republic"
-    },
-    "author": "Emma Janssen, The New Republic Staff",
-    "title": "Dems Campaigned on Affordability. But Can They Deliver?",
-    "description": "You’re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.Inside Washington “We campaigned as affordability Democrats. That was the message of every single c…",
-    "url": "https://newrepublic.com/post/217678/make-life-more-affordable-democrats",
-    "urlToImage": "https://images.newrepublic.com/346b12e7d6ed713d8b368c856a75bed713d306e0.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-    "publishedAt": "2026-11-06T14:44:16Z",
-    "content": "Youre reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.\r\nInside Washington \r\nAs votes roll in t… [+10263 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "CNBC"
-    },
-    "author": "Contessa Brewer",
-    "title": "'The whole landscape changed': Gaming CEOs see new opportunities post-midterms",
-    "description": "Midterm results opened new gambling opportunities in Texas and other states while raising scrutiny of prediction-market operators.",
-    "url": "https://www.cnbc.com/2026/11/06/midterm-gambling-prediction-markets.html",
-    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108298652-1777405284903-gettyimages-2273019357-RESORTS_WORLD_NYC.jpeg?v=1777405439&w=1920&h=1080",
-    "publishedAt": "2026-11-06T13:20:41Z",
-    "content": "Guests play slot machines at the Resorts World New York City (RWNYC) casino in the Queens borough of New York, US, on Tuesday, April 28, 2026. \r\nMidterm election results have created new openings for… [+8752 chars]"
   }
 ]

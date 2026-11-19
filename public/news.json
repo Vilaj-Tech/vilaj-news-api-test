@@ -2,6 +2,123 @@
   {
     "source": {
       "id": null,
+      "name": "ARTnews"
+    },
+    "author": "Emily Watlington",
+    "title": "Mary Miss’s Long Fight to Keep Public Art Alive",
+    "description": "The artist made headlines for a lawsuit over the dismantling of Greenwood Pond, but it's hardly the only obstacle she has overcome.",
+    "url": "https://www.artnews.com/art-in-america/features/mary-misss-fight-public-art-lawsuit-greenwood-pond-1234806328/",
+    "urlToImage": "https://www.artnews.com/wp-content/uploads/2026/11/0020-260629_Mary-Miss-Art-in-America-Icons.jpg",
+    "publishedAt": "2026-11-18T18:10:09Z",
+    "content": "In the early decades of postwar America, public art tended to be seen as the pallid stepchild of architecture and design. Steel, bronze, or stone abstractions sited in front of modernist buildings we… [+20580 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The New Republic"
+    },
+    "author": "Emma Janssen",
+    "title": "What Would Democrats Look Like Under Van Hollen’s Leadership?",
+    "description": "You’re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.Inside Washington Yesterday, this newsletter covered the likely vote counts for the Senate majority…",
+    "url": "https://newrepublic.com/post/218138/van-hollen-schumer-iran-israel",
+    "urlToImage": "https://images.newrepublic.com/846f85c18d0019bf59769e1614136442082f083c.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+    "publishedAt": "2026-11-18T16:26:20Z",
+    "content": "Youre reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.\r\nInside Washington \r\nSenators were skit… [+9386 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pew Research Center"
+    },
+    "author": "Janakee Chavda",
+    "title": "Methodology",
+    "description": "This section details how Pew Research Center used data on age, fertility, mortality, migration and religious switching from 201 countries and territories around the world to make estimates of global religious populations in 2020, and to project how those popu…",
+    "url": "https://www.pewresearch.org/religion/2026/11/18/methodology-future-of-world-religions/",
+    "urlToImage": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/11/pr_2026.11.18_religious-projections_feature.png",
+    "publishedAt": "2026-11-18T14:20:45Z",
+    "content": "This section details how Pew Research Center used data on age, fertility, mortality, migration and religious switching from 201 countries and territories around the world to make estimates of global … [+55053 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Kristine Villarroel",
+    "title": "States where people spend the most on college education, ranked",
+    "description": "Higher education costs vary. In some states, such as New York and Rhode Island, people are spending large portions of their salaries on college.",
+    "url": "https://www.businessinsider.com/states-college-education-costs-ranked",
+    "urlToImage": "https://i.insider.com/6afb254c5aab055bb644223f?width=1200&format=jpeg",
+    "publishedAt": "2026-11-18T13:47:01Z",
+    "content": "The cost of higher education is rising across the board, but in some states, getting a college degree is more expensive than in others.\r\nA recent WalletHub study examined how the cost of an in-state … [+11160 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dazed"
+    },
+    "author": "Peter Yeung",
+    "title": "In Kazakhstan, queer communities dance in the face of oppression",
+    "description": "We went to a drag club in Almaty to find out how Kazakhstan’s queer scene is responding to a recent wave of anti-LGBTQ legislation",
+    "url": "https://www.dazeddigital.com/life-culture/article/71365/1/in-kazakhstan-queer-communities-dance-in-the-face-of-oppression-almaty",
+    "urlToImage": "https://images-prod.dazeddigital.com/1200/azure/dazed-prod/1450/9/1459582.JPG",
+    "publishedAt": "2026-11-18T12:51:00Z",
+    "content": "Its about 2am on Friday night and Blush Bar, Kazakhstans most popular LGBTQ club, is an ecstatic blur of liberated bodies. Inside the long, narrow, black-panelled club, lit by powerful strobes and th… [+8673 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": null,
+    "title": "California Democrat for Life Top 40",
+    "description": "Where the world of Music meets the Truth and Life of Pregnancy When the Pregnancy reaches about 9 weeks medical science calls the preborn human baby a fetus. The word fetus is derived from the Latin and is defined as \"a small child\", and \"young one\". Througho…",
+    "url": "https://freerepublic.com/focus/f-chat/4403467/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-11-18T10:55:02Z",
+    "content": "Skip to comments.\r\nCalifornia Democrat for Life Top 40\r\nNovember 18th, 2026\r\n | Pacific\r\nPosted on 11/18/2026 2:55:02 AM PST by Pacific\r\nWhere the world of Music meets the Truth and Life of Pregnancy… [+47241 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Root"
+    },
+    "author": "Shanelle Genai",
+    "title": "The Root 100 Class of 2026: Meet the Storytellers",
+    "description": "Within the Storytellers category, this year’s honorees span film, television, journalism, literature, radio, and creator tech—each reshaping how Black stories are told, owned, and experienced: Read more...",
+    "url": "https://www.theroot.com/the-root-100-class-of-2026-meet-the-storytellers-2000135796",
+    "urlToImage": null,
+    "publishedAt": "2026-11-18T10:31:07Z",
+    "content": "Photo by Frazer Harrison/Getty Images;Arnold Turner/Getty Images for EBONY Media GroupIn a year defined by seismic cultural and political shifts, The Root 100 Class of 2026honors the voices proving t… [+16265 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Utexas.edu"
+    },
+    "author": "zavalaba",
+    "title": "Donors",
+    "description": "In Recognition of Donors We are grateful to our donors, whether it is their first or 100th time giving to the Jackson School of Geosciences....",
+    "url": "https://www.jsg.utexas.edu/news/2026/11/donors-2026/",
+    "urlToImage": "https://www.jsg.utexas.edu/news/files/img-5925-nabeeha-italy.jpg",
+    "publishedAt": "2026-11-18T02:47:59Z",
+    "content": "We are grateful to our donors, whether it is their first or 100th time giving to the Jackson School of Geosciences. We would like to recognize all donors who have designated the Jackson School in the… [+30248 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Coolcatteacher.com"
+    },
+    "author": "coolcatteacher@gmail.com (Victoria A Davis, Cool Cat Teacher), Victoria A Davis, Cool Cat Teacher",
+    "title": "Cell Phone Ban in Schools and AI Cheating: New Research",
+    "description": "From the Cool Cat Teacher Blog by Vicki Davis Subscribe to the 10 Minute Teacher Podcast and Cool Cat Teacher Talk anywhere you listen to podcasts.\nYour school locked up the phones. So why are one in three students still on social media every day? Brian Fitzp…",
+    "url": "https://www.coolcatteacher.com/e1032/",
+    "urlToImage": "https://www.coolcatteacher.com/wp-content/uploads/2026/11/cell-phone-ban-in-schools-featured-1032.jpg",
+    "publishedAt": "2026-11-18T02:33:27Z",
+    "content": "Cell phone bans: how you implement them matters. It matters much more than you might think with some kids saying that the best way to improve schools is to limit technology use and leave cell phones … [+31787 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "Dailymail.com"
     },
     "author": "Nick Allen",
@@ -11,122 +128,5 @@
     "urlToImage": "https://i.dailymail.com/1s/2026/11/17/19/112566643-0-image-a-13_1794942031458.jpg",
     "publishedAt": "2026-11-17T19:32:08Z",
     "content": "At the secretive headquarters of the National Security Agency, nestled in dense woodland just outside Washington DC, they had a problem on Tuesday - the highly classified communications system used t… [+9014 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Nina Joudeh",
-    "title": "Teacher shaved disabled 14-year-old boy's pubic hair without consent, mom says... but school insists she was providing 'health and sanitary services'",
-    "description": "The teenager, who is nonverbal and has special needs, had been attending Mercer Middle School in Savannah when the alleged incident occurred.",
-    "url": "https://www.dailymail.com/news/article-16300177/Teacher-shaved-boy-pubic-hair-savannah-georgia.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/11/17/18/112566067-0-image-m-49_1794938745990.jpg",
-    "publishedAt": "2026-11-17T18:13:16Z",
-    "content": "A Georgia mother has accused a teacher of shaving her disabled 14-year-old son's pubic hair without consent, but school officials insist the educator was providing sanitary services.\r\nThe teenager, w… [+2896 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The New Republic"
-    },
-    "author": "Monica Potts",
-    "title": "Here’s Where the Schumer-Van Hollen Race Could Get Really Interesting",
-    "description": "You’re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.Inside Washington So where do things stand in the race for Senate majority leader? The Blue Book go…",
-    "url": "https://newrepublic.com/post/218076/schumer-van-hollen-how-many-votes",
-    "urlToImage": "https://images.newrepublic.com/bd9f0bffc9256fec6e41c27df3f09ba02dfc132e.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-    "publishedAt": "2026-11-17T17:30:48Z",
-    "content": "Youre reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.\r\nInside Washington \r\nWe campaigned as a… [+9413 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Blog.google"
-    },
-    "author": "Lisa GevelberFounder Grow with Google",
-    "title": "10 states team up with Google on free AI training",
-    "description": "Free Google AI training and career certificates are now available across 10 states through local libraries and colleges.",
-    "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/",
-    "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Statewide_NationalRoundup_Hero.width-1300.png",
-    "publishedAt": "2026-11-17T17:00:00Z",
-    "content": "Today, seven in 10 managers believe an AI-trained workforce is critical to their organizations success, yet they arent offering the practical training that would help. We want to make it easy for eve… [+2778 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Abcnews.com"
-    },
-    "author": "ALBERT STUMM Associated Press",
-    "title": "Is it OK to have AI text your boyfriend? When using chatbots crosses a line",
-    "description": "As more people turn to chatbots to write emails or handle mundane tasks, it raises the question: Does using them for personal messages cross a line",
-    "url": "https://abcnews.com/Technology/wireStory/ai-text-boyfriend-chatbot-personal-messages-crosses-line-138204370",
-    "urlToImage": "https://i.abcnewsfe.com/a/5ef87bc7-2f5a-4d65-b6eb-ed96b2a02e6b/wirestory_24f8c50de85e6e55b0edab71681870d0_16x9.jpg?w=1600",
-    "publishedAt": "2026-11-17T11:15:29Z",
-    "content": "A purple box set up on a folding table in San Franciscos Alamo Square could have been mistaken for a tissue box. Instead, it held dozens of secrets.\r\nOliva Tai was nearby, watching as passersby puzzl… [+3335 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": null,
-    "title": "Were 1950s families achieving a modern lifestyle via type of discount? How many hours needed a person work to purchase essentials compared to today? How many goods and services were provided as forms of welfare in 1960 versus today?",
-    "description": "In the 1950s, American families were not buying today’s standard of living at a discount. They were buying a single-bathroom home under 1,000 square feet that cost just twice their annual salary. When economists and social historians point out that 1950s fami…",
-    "url": "https://freerepublic.com/focus/f-chat/4403301/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-11-17T00:09:55Z",
-    "content": "Skip to comments.\r\nWere 1950s families achieving a modern lifestyle via type of discount? How many hours needed a person work to purchase essentials compared to today? How many goods and services wer… [+34604 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Observer"
-    },
-    "author": "Jasmine Lobe",
-    "title": "At New York’s Rainbow Room, the Art Students League Toasted Louise Bourgeois, Deborah Kass and Christine Mack",
-    "description": "Jason Bard Yarmosky, Patricia Cronin, Sharon Sprung and Katie Holmes were among the notable guests at this glamorous evening of live art-making and heartfelt tributes to two artists who challenged the art world’s treatment of women and a patron who opened her…",
-    "url": "https://observer.com/2026/11/artists-photos-art-students-league-gala-katie-holmes-jason-bard-yarmosky-philanthropy/",
-    "urlToImage": "https://observer.com/wp-content/uploads/sites/2/2026/11/BFA_56766_8340463.jpg?quality=80",
-    "publishedAt": "2026-11-16T22:24:26Z",
-    "content": "Jason Bard Yarmosky, Katie Holmes, Michael Hall and James Little. Ryan Northrop/BFA.com\r\nLast week, the Art Students League of New York held its annual gala at the iconic Rainbow Room atop Rockefelle… [+10685 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Luke Andrews",
-    "title": "Alzheimer's explosion sweeping America: Alarming map exposes states worst hit in notorious 'dementia belt'… as experts reveal what's really fueling surge that has nothing to do with age",
-    "description": "While an ageing population helps explain why dementia is becoming increasingly common, it doesn't tell the whole story. with cases expected to double over the next 25 years..",
-    "url": "https://www.dailymail.com/health/article-16263207/america-alzheimers-dementia-state-map.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/11/16/18/112538673-0-image-m-12_1794853154924.jpg",
-    "publishedAt": "2026-11-16T18:20:23Z",
-    "content": "America is facing a dementia crisis on a staggering scale. More than seven million people are already living with Alzheimer's disease, the most common form of dementia.\r\nAnd over the next quarter-cen… [+12288 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "After the blue wave, what happens to education policy and parental rights protections in flipped states?",
-    "description": "Democratic governors in previously red states look to target school vouchers and change education policies as they come to power next year.",
-    "url": "https://www.foxnews.com/media/after-blue-wave-what-happens-education-policy-parental-rights-protections-flipped-states",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ginojosa-at-campaign-event.jpg",
-    "publishedAt": "2026-11-16T16:20:29Z",
-    "content": "Democrats' sweeping midterm victories in several key governor's races could usher in a new era for education policy, raising urgent questions about the future of the parental rights laws Republicans … [+8406 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Biztoc.com"
-    },
-    "author": "businessinsider.com",
-    "title": "We retired on a budget to Georgia. A nearby nudist resort came with some surprising perks",
-    "description": "\"So, how's retirement?\"\nEveryone asks the same question, expecting stories about leisurely mornings, coffee on the porch, pickleball, and sunset cocktails. I smile and say, \"It's been an education.\"\nMy husband and I retired on a limited budget at the youthful…",
-    "url": "https://biztoc.com/x/5589b492682b8f7e",
-    "urlToImage": "https://biztoc.com/cdn/5589b492682b8f7e_s.webp",
-    "publishedAt": "2026-11-16T14:52:47Z",
-    "content": "\"So, how's retirement?\"Everyone asks the same question, expecting stories about leisurely mornings, coffee on the porch, pickleball, and sunset cocktails. I smile and say, \"It's been an education.\"My… [+156 chars]"
   }
 ]

@@ -1,6 +1,97 @@
 [
   {
     "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Anneta Konstantinides,Samantha Grindell Pettyjohn,Amanda Krause",
+    "title": "Meet the 116 women competing to be Miss Universe 2026",
+    "description": "The 75th Miss Universe pageant will take place in Puerto Rico on November 24. This year, 116 women from around the world will compete for the crown.",
+    "url": "https://www.businessinsider.com/miss-universe-pageant-contestants-photos-2026-11",
+    "urlToImage": "https://i.insider.com/6afcc05268dc6b6660b83e95?width=1200&format=jpeg",
+    "publishedAt": "2026-11-22T22:23:30Z",
+    "content": "Miss Universe 2025 was filled with drama from the start. There was a heated confrontation that went viral, judges dropping out, rigging allegations, and a contestant falling off the stage  all within… [+43069 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "TOI World Desk",
+    "title": "Goldie Hawn joined more than 1,700 people at an Atlanta charity luncheon on November 19; the event raised $1,086,250 for programmes supporting women and girls, including a $500,000 corporate matching gift",
+    "description": "The 30th annual Numbers Too Big To Ignore Luncheon in Atlanta successfully raised over $1 million, benefitting various community programs. Goldie Hawn shared her insights on parenting, kindness, and children's mental health, highlighting how adults significan…",
+    "url": "https://timesofindia.indiatimes.com/world/us/goldie-hawn-joined-more-than-1700-people-at-an-atlanta-charity-luncheon-on-november-19-the-event-raised-1086250-for-programmes-supporting-women-and-girls-including-a-500000-corporate-matching-gift/articleshow/136052258.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136052400/136052400.jpg",
+    "publishedAt": "2026-11-22T18:17:25Z",
+    "content": "A charity luncheon celebrating women and girls brought together Hollywood actor Goldie Hawn and more than 1,700 attendees in Atlanta, raising over $1 million for community programmes. The 30th annual… [+4543 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Sophia Baum",
+    "title": "Illegal immigrant who ran over and killed grandma in grocery store parking lot won't face charges",
+    "description": "80-year-old Debora Murphy was crushed under the tires of an SUV that began reversing over her and didn't stop. Yet he driver Carlos-Suarez-Contreras will not face any time behind bars.",
+    "url": "https://www.dailymail.com/news/article-16313339/Illegal-immigrant-ran-killed-grandma-wont-face-charges.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/11/22/16/110265289-0-image-m-20_1795366504123.jpg",
+    "publishedAt": "2026-11-22T17:32:57Z",
+    "content": "An illegal immigrant accused of mowing down an 82-year-old grandmother with his SUV in a grocery store parking lot will not see jail time, after prosecutors dropped the criminal case.\r\nCarlos Suarez-… [+6367 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Good Men Project"
+    },
+    "author": "The 19th",
+    "title": "The Masculinity Midterms",
+    "description": "Voters rejected Republicans’ efforts to make the election a referendum on manliness — and ousted several men accused of misconduct toward women.\nThe post The Masculinity Midterms appeared first on The Good Men Project.",
+    "url": "https://goodmenproject.com/featured-content/the-masculinity-midterms/",
+    "urlToImage": "https://goodmenproject.com/wp-content/uploads/2026/11/joseph-chan-Q-730ajUcQ-unsplash.jpg",
+    "publishedAt": "2026-11-22T14:00:49Z",
+    "content": "By Grace Panetta, The 19th, This story was originally published by The 19th\r\nThis story was originally reported by Grace Panetta of The 19th. Meet Grace and read more of their reporting on gender, po… [+17441 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Ronald Brownstein",
+    "title": "White evangelicals stuck with Republicans, but trouble lies ahead",
+    "description": "White evangelical Christians stuck with Republicans more loyally than any other major demographic group in this month’s election. But that unshakeable alliance could present as much of a threat as an opportunity for the GOP as it charts a path toward recovery…",
+    "url": "https://www.cnn.com/2026/11/22/politics/white-evangelical-christians-republicans-midterms",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/250120-wnl-politics-donaldtrump47inauguration-01202025-wl2-0910-copy.jpg?c=original",
+    "publishedAt": "2026-11-22T11:00:15Z",
+    "content": "White evangelical Christians stuck with Republicans more loyally than any other major demographic group in this month’s election. But that unshakeable alliance could present as much of a threat as an… [+14551 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Bleeding Cool News"
+    },
+    "author": "Gavin Sheehan",
+    "title": "Awesome Games Done Quick 2027 Reveals Its Full Schedule",
+    "description": "Organizers for Games Done Quick have revealed their schedule for the first event of the new year, so we have an idea of what to expect at Awesome Games Done Quick 2027. The event heads to Atlanta, Georgia, this year, taking place from January 3-10 at the Hilt…",
+    "url": "https://bleedingcool.com/games/awesome-games-done-quick-2027-reveals-its-full-schedule/",
+    "urlToImage": "https://bleedingcool.com/wp-content/uploads/2022/11/Awesome-Games-Done-Quick-Blue-Purple-Art-1200x675.jpg",
+    "publishedAt": "2026-11-22T00:53:10Z",
+    "content": "Posted in: Games, Retro Games, Video Games | Tagged: Awesome Games Done Quick, games done quick, Prevent Cancer Foundation\r\nThe full schedule for Awesome Games Done Quick 2027 has been revealed, as t… [+2967 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Raw Story"
+    },
+    "author": "Bennito L. Kelty",
+    "title": "Trump Education Dept embarrassed with bizarre self-defeating post about GTA VI",
+    "description": "The Trump administration turned to an unlikely source to push one of MAGA's favorite talking points, even though it made a glaring mistake.On Saturday, the Department of Education posted on X that the video game \"Grand Theft Auto VI,\" which has become a cultu…",
+    "url": "https://www.rawstory.com/trump-department-of-education-2678485065/",
+    "urlToImage": "https://www.rawstory.com/media-library/us-president-donald-trump-gestures-as-he-speaks-during-a-press-conference-after-returning-from-asia-flanked-by-us-vice-presiden.jpg?id=68741689&width=1200&height=1200&coordinates=832%2C0%2C833%2C0",
+    "publishedAt": "2026-11-21T20:42:18Z",
+    "content": "The Trump administration turned to an unlikely source to push one of MAGA's favorite talking points, even though it made a glaring mistake.\r\nOn Saturday, the Department of Education posted on X that … [+1828 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Dailymail.com"
     },
@@ -37,96 +128,5 @@
     "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2026/11/IMG_2219-scaled.jpeg",
     "publishedAt": "2026-11-21T12:00:00Z",
     "content": "This is the grave of P.B.S. Pinchback.\r\nBorn in 1837 in Macon, Georgia, Pinckney Benton Stewart was born free. His mother was a former slave and his father a white planter by the name of Pinchback. H… [+6737 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Variety"
-    },
-    "author": "Naman Ramachandran",
-    "title": "‘The Tree’ Director Julie Bertuccelli Tells IFFI Masterclass a Canadian Producer Stole Her ‘Italian Shoes’ Adaptation, Readies India-Set Feature",
-    "description": "French filmmaker Julie Bertuccelli, whose “The Tree” closed the Cannes Film Festival in 2010, said her planned adaptation of Henning Mankell’s novel “Italian Shoes” fell apart after a Canadian producer “stole the film” from her, and that she plans to shoot he…",
-    "url": "https://variety.com/2026/film/festivals/julie-bertuccelli-italian-shoes-film-stolen-iffi-1236954904/",
-    "urlToImage": "https://variety.com/wp-content/uploads/2026/11/Julie-Bertuccelli.jpg",
-    "publishedAt": "2026-11-21T11:55:26Z",
-    "content": "French filmmaker Julie Bertuccelli, whose “The Tree” closed the Cannes Film Festival in 2010, said her planned adaptation of Henning Mankell’s novel “Italian Shoes” fell apart after a Canadian produc… [+4425 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Sporting News"
-    },
-    "author": "Daniel Yanofsky",
-    "title": "Muhammad Ali Boxing Revival Act, explained: Biggest proposed changes to boxing law and what’s next",
-    "description": "Here’s a breakdown of the Muhammad Ali Boxing Revival Act including what it means for both boxers and fans.",
-    "url": "https://www.sportingnews.com/us/boxing/news/muhammad-ali-boxing-revival-act-explained-proposed-changes-whats-next/54e013d5c9d2a7d49b812112",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/59acc8fac5d1b72a317df975bee3fa8cd738c0e2579f8758b5076a66a82b6121/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F178bf432cf246b6bcca55dcd56eea57e",
-    "publishedAt": "2026-11-20T22:33:04Z",
-    "content": "Muhammad Ali Boxing Revival Act, explained: Biggest proposed changes to boxing law and what's next originally appeared on The Sporting News. Add The Sporting News as a Preferred Source by clicking he… [+5918 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ms. Magazine"
-    },
-    "author": "Cynthia Richie Terrell",
-    "title": "Weekend Reading on Women’s Representation: Mary Peltola’s Senate Victory Is One of Many Historic Wins for Native Americans; After Decades of Organizing, Black Women Are Now Leading Georgia",
-    "description": "Weekend Reading on Women’s Representation is a compilation of stories about women’s representation in politics, on boards, in sports and entertainment, in judicial offices and in the private sector in the U.S. and around the world—with a little gardening and …",
-    "url": "https://msmagazine.com/2026/11/20/weekend-reading-womens-representation-mary-peltola-native-americans-black-women-georgia/",
-    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/11/GettyImages-2303655217.jpg",
-    "publishedAt": "2026-11-20T20:35:02Z",
-    "content": "Weekend Reading on Womens Representation is a compilation of stories about womens representation in politics, on boards, in sports and entertainment, in judicial offices and in the private sector in … [+41191 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Futurity: Research News"
-    },
-    "author": "Emily Boynton-Rochester",
-    "title": "Survey: 1 in 4 young adults overestimate their financial knowledge",
-    "description": "\"Feeling knowledgeable doesn't necessarily translate into making well-informed financial decisions.\"",
-    "url": "https://www.futurity.org/money-knowledge-3353782-2/",
-    "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2026/11/financial-literacy-young-adults-1600.jpg",
-    "publishedAt": "2026-11-20T17:50:51Z",
-    "content": "New research finds that about 1 in 4 young adults surveyed overestimated their financial understanding, a disconnect that could help educators rethink how financial literacy is taught.\r\nHow much do y… [+3587 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The New Republic"
-    },
-    "author": "Greg Sargent",
-    "title": "Did Obama Just Tell Dems That Obamacare Isn’t Nearly Good Enough?",
-    "description": "You’re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.Inside Washington Barack Obama issued a private directive to House Democrats on Wednesday: Go big o…",
-    "url": "https://newrepublic.com/post/218243/obama-health-care-single-payer",
-    "urlToImage": "https://images.newrepublic.com/7cbe791bf10dd6d0417a14baaddc7ca8bbf09fc0.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
-    "publishedAt": "2026-11-20T16:08:06Z",
-    "content": "Youre reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.\r\nInside Washington \r\nDemocrats won in N… [+9961 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Abcnews.com"
-    },
-    "author": "BILL BARROW Associated Press",
-    "title": "Stacey Abrams plans to refocus her Fair Fight voting rights group on threats to democracy",
-    "description": "Georgia Democrat Stacey Abrams is retooling the Fair Fight organization that she started to advocate for voter protection and ballot access after she lost the governor's race in 2018",
-    "url": "https://abcnews.com/Politics/wireStory/stacey-abrams-plans-refocus-fair-fight-voting-rights-138316451",
-    "urlToImage": "https://i.abcnewsfe.com/a/553bbefc-e83c-4c2c-8224-0c080f011524/wirestory_c32a43c284ad6b1454a2aa55a1940694_16x9.jpg?w=1600",
-    "publishedAt": "2026-11-20T13:45:18Z",
-    "content": "ATLANTA -- After she lost the Georgia governors race in 2018, Stacey Abrams used her national profile and fundraising prowess to start an organization to confront problems with ballot access and vote… [+5865 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Alabamanow.com"
-    },
-    "author": null,
-    "title": "The Cigna Group Deepens Community Impact Strategy, Adds New Commitment Supporting People with Complex Health Conditions",
-    "description": "The Cigna Group Deepens Community Impact Strategy, Adds New Commitment Supporting People with Complex Health Conditionsalabamanow.com",
-    "url": "https://smb.alabamanow.com/article/The-Cigna-Group-Deepens-Community-Impact-Strategy-Adds-New-Commitment-Supporting-People-with-Complex-Health-Conditions/6aff4cbabde2404dafe21683",
-    "urlToImage": "https://www.alabamanow.com/wp-content/uploads/sites/4/2019/10/facebook-alabamanow.png",
-    "publishedAt": "2026-11-20T12:50:03Z",
-    "content": "<ul><li>New three-year strategy includes support for youth mental health, veteran well-being and people living with complex health conditions and pairs grant funding with employee volunteerism to dee… [+8217 chars]"
   }
 ]
